@@ -1,0 +1,15 @@
+= Introduction =
+
+This page explains the basic concepts of Citation-Reference Matching and discusses on the different types of citations present in the various papers. We first explain the meaning of the two terms Citation and Reference, so that there is no confusion later on over their meaning. 
+
+  * *Reference* : A reference appears in a list of works at the end of a document, and provides full bibliographic information about a cited work.
+  * *Citation* : A citation is a mention of a work in the body of the text, and includes enough information to uniquely identify the work in the list of references.
+
+
+
+= Details =
+
+== Types of Citations ==
+  # _Formal Citations_ : Formal citations are constructions used to explicitly identify a citation. Formal citations may be subdivided into : 
+    # _Textual citations_ : They use an author–year pair to uniquely identify an entry in the reference list
+    # _Indexed citations_ : They use numbers or other abbreviations to refer to an entry in the reference list.
