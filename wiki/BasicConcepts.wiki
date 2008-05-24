@@ -1,3 +1,4 @@
+#This page explains the basic concepts of Citation-Reference Matching and discusses on the different types of citations present in the various papers.
 = Introduction =
 
 This page explains the basic concepts of Citation-Reference Matching and discusses on the different types of citations present in the various papers. We first explain the meaning of the two terms Citation and Reference, so that there is no confusion later on over their meaning. 
