@@ -10,6 +10,9 @@ This page explains the basic concepts of Citation-Reference Matching and discuss
 = Details =
 
 == Types of Citations ==
-  # _Formal Citations_ : Formal citations are constructions used to explicitly identify a citation. Formal citations may be subdivided into : 
-    # _Textual citations_ : They use an author–year pair to uniquely identify an entry in the reference list
+  # *Formal Citations* : Formal citations are constructions used to explicitly identify a citation. Formal citations may be subdivided into : 
+    # _Textual citations_ : They use an author–year pair to uniquely identify an entry in the reference list. They can be further subdivided as : 
+       # A _syntactic_ citation which forms a syntactic part of the sentence which contains it; removing the citation from the sentence will damage the syntax of the sentence.
+       # A _parenthetical_ citation which places the author name and year inside parentheses (or brackets or some other delimiters), and can be removed from the sentence without damaging the syntax of the sentence.
     # _Indexed citations_ : They use numbers or other abbreviations to refer to an entry in the reference list.
+  # *Informal citations* : Informal citations are sentence constructions which refer to a citation without using a formal construction. 
