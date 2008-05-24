@@ -22,27 +22,19 @@ A _syntactic_ citation which forms a syntactic part of the sentence which contai
 
 Example 
 
-(1) Levin (1993) provides a classification of over 3000 verbs according to their participation in alternations involving NP and PP constituents.
-
-(2) Grosz and Sidner (1986), in their tripartite model of discourse structure, classify cue phrases
-based on the changes they signal to the attentional and intentional states.
-
-(3) A more mixed view on the matter is taken by Marcus et al. (1993). 
-
-(4) It is important to point out that Levin’s (1993) classification is not intended as an exhaustive
-description of English verbs, their meanings, and their likelihood.
-
-(5) Allowing for a definition of ‘realizes’ that makes the CB behave more like Sidner’s Discourse
-Focus (1979) leads to a very significant reduction in the number of violations of Constraint 1.
-
-(6) Our NLP component is implemented using a CDGparser (Harper and Helzerman, 1995;Maruyama, 1990a; Maruyama, 1990b) because of its power and flexibility.
+  # Levin (1993) provides a classification of over 3000 verbs according to their participation in alternations involving NP and PP constituents.
+  # Grosz and Sidner (1986), in their tripartite model of discourse structure, classify cue phrases based on the changes they signal to the attentional and intentional states.
+  # A more mixed view on the matter is taken by Marcus et al. (1993). 
+  # It is important to point out that Levin’s (1993) classification is not intended as an exhaustive description of English verbs, their meanings, and their likelihood.
+  # Allowing for a definition of ‘realizes’ that makes the CB behave more like Sidner’s Discourse Focus (1979) leads to a very significant reduction in the number of violations of Constraint 1.
+  # Our NLP component is implemented using a CDGparser (Harper and Helzerman, 1995;Maruyama, 1990a; Maruyama, 1990b) because of its power and flexibility.
 
 ===== (ii) Parenthetical citation =====
 A _parenthetical_ citation which places the author name and year inside parentheses (or brackets or some other delimiters), and can be removed from the sentence without damaging the syntax of the sentence.
 
 Example
 
-Two current approaches to English verb classifications are WordNet (Miller et al., 1990) and Levin classes (Levin, 1993).
+  # Two current approaches to English verb classifications are WordNet (Miller et al., 1990) and Levin classes (Levin, 1993).
 
 
 ===== (iii) Micro Citation =====
@@ -50,22 +42,17 @@ _Micro Citation_ : As the name suggests, this format is found in older texts. In
 
 Citations
 
-Fonscol. Ann. Soc. Ent. Fr. iv. 41 (1846)
-
-Nyl. Form. Fr. et d'Alger. 60. 13
-
-Mayr. Ungar. Ameis. 7. 8.
+  # Fonscol. Ann. Soc. Ent. Fr. iv. 41 (1846)
+  # Nyl. Form. Fr. et d'Alger. 60. 13
+  # Mayr. Ungar. Ameis. 7. 8.
 
 Which refer to
 
-Fonscolombe, E. L. J. H. Boyer de 1846. Notes sur huit espčces nouvelles
-d'Hyménoptčres et de Névroptčres, trouvées aux environs d'Aix. Annales de la
+  # Fonscolombe, E. L. J. H. Boyer de 1846. Notes sur huit espčces nouvelles d'Hyménoptčres et de Névroptčres, trouvées aux environs d'Aix. Annales de la
 Société Entomologique de France (2)4: 39-51.
-
-Nylander, W.  1856. Synopsis des formicides de France et d'Algérie. Annales
+  # Nylander, W.  1856. Synopsis des formicides de France et d'Algérie. Annales
 des Sciences Naturelles (Zoologie) (4)5: 51-109.
-
-Mayr, G.1857 Ungarn's Ameisen (Programm der Städtischen Oberrealschule in
+  # Mayr, G.1857 Ungarn's Ameisen (Programm der Städtischen Oberrealschule in
 Pesth 3,5-26
 
 
@@ -73,16 +60,12 @@ Pesth 3,5-26
 ==== (b) Indexed citations ====
 _Indexed citations_ : They use numbers or other abbreviations to refer to an entry in the reference list.
 
-(1) With the discovery of the quantum Hawking radiation [2], it became clear that the analogy is in fact an identity.
-
-(2) The framework of attribute grammars has been utilized for the development of compiler construction [ASU86, Far84, RM89, KHZ82], editing environments [Rep84, HT85] and program
+  # With the discovery of the quantum Hawking radiation [2], it became clear that the analogy is in fact an identity.
+  # The framework of attribute grammars has been utilized for the development of compiler construction [ASU86, Far84, RM89, KHZ82], editing environments [Rep84, HT85] and program
 transformation[Joh87, CDPR99].
-
-(3) Hawking [11] has argued that under certain conditions in this set K when extended in the past direction.
-
-(4) Attribute grammars were introduced by Knuth [Knu68, Knu71] as a way of describing semantics of context-free languages.
-
-(5) The bitonic sorting network is discussed in the algorithms collection of [Knu73] and several textbooks.
+  # Hawking [11] has argued that under certain conditions in this set K when extended in the past direction.
+  # Attribute grammars were introduced by Knuth [Knu68, Knu71] as a way of describing semantics of context-free languages.
+  # The bitonic sorting network is discussed in the algorithms collection of [Knu73] and several textbooks.
 
 
 === 2.1.2 Informal citations ===
@@ -90,6 +73,5 @@ transformation[Joh87, CDPR99].
 
 Examples
 
-(1) Levin groups verbs based on an analysis of their syntactic properties, especially their ability to be expressed in diathesis alternations.
-
-(2) Her approach reflects the assumption that the syntactic behavior of a verb is determined in large part by its meaning.
+  # Levin groups verbs based on an analysis of their syntactic properties, especially their ability to be expressed in diathesis alternations.
+  # Her approach reflects the assumption that the syntactic behavior of a verb is determined in large part by its meaning.
