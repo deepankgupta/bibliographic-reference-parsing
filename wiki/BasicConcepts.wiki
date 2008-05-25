@@ -72,3 +72,5 @@ Examples
 
   # Levin groups verbs based on an analysis of their syntactic properties, especially their ability to be expressed in diathesis alternations.
   # Her approach reflects the assumption that the syntactic behavior of a verb is determined in large part by its meaning.
+
+_One example of Informal citation related to this was cited by Bob, when he told that once a genus has been mentioned, it will often be mentioned by a pronoun and not the full name._
