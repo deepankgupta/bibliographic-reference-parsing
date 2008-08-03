@@ -5,26 +5,13 @@ using System.Linq;
 using System.Text;
 using System.IO;
 using System.Text.RegularExpressions;
+using System.Diagnostics;
 
 namespace Parser
 {
     class Program
     {
-
-
         #region Variables
-        static int stat = 0;
-        static int statYear = 0;
-        static int statAuthor = 0;
-        static int statPublication = 0;
-        static int statTitle = 0;
-        static int statParsed = 0;
-
-        static double avgPublicationLength = 0.0;
-        static double avgReferenceLength = 0.0;
-        static double avgPublicationStart = 0.0;
-        static double avgPublicationEnd = 0.0;
-
         /// <summary>
         /// It is used to store the publications string array from the publication text file. 
         /// </summary>
@@ -43,7 +30,7 @@ namespace Parser
             news = news.Replace(")", "\\)");
             news = s.Replace("]", "\\]");
             /*if (news != s)
-                Console.WriteLine("Escape characters : " + news);            */
+                Common.sw.WriteLine("Escape characters : " + news);            */
             return news;
         }
 
@@ -54,11 +41,11 @@ namespace Parser
         /// <param name="reference">Reference String</param>
         /// <param name="author">Author String which will be filled by this function</param>
         /// <returns>Returns the year from the reference</returns>
-        static int FindYearAndAuthor(ref Reference r)
+        static bool FindYearAndAuthor(ref Reference r)
         {
             //Contains all unicode characters followed by 4 digit numbers
-            //then again any characters can be present. 
-            string pattern = @"([\p{L}\p{N}\p{M}\p{P}\p{Z}\p{S}]*)(\p{Nd}\p{Nd}\p{Nd}\p{Nd})(.*)";
+            //then again any characters can be present.             
+            string pattern = @"(\p{Nd}\p{Nd}\p{Nd}\p{Nd})";
             MatchCollection mc;
 
             //Flag is set to true for all the wrong numbers caught and thought of as an year. 
@@ -72,29 +59,40 @@ namespace Parser
             {
                 mc = Regex.Matches(r.ReferenceText, pattern);
                 if (mc.Count == 0)
-                    return 0;
+                {
+                    Common.sw.WriteLine("FAILED : " + r.ReferenceText);
+                    return false;
+                }
                 GroupCollection gc = mc[0].Groups;
-                string q = gc[2].Value;
+                string q = gc[1].Value; 
+                
 
                 year = Convert.ToInt32(q);
                 //Valid set of years is between 1800 and 2008
                 if (year < 1800 || year > 2008)
-                {
-                    r.ReferenceText = gc[3].Value;
+                {                    
+                    r.ReferenceText = r.ReferenceText.Substring(gc[1].Index + gc[1].Length);
                     flag = true;
                     year = 0;
                 }
                 else
                 {
                     flag = false;
-                    r.Authors = (string)gc[1].Value;
-                    //Console.WriteLine(r.Authors);
-                    //Console.WriteLine("\nYEAR : " + year.ToString());
-                    statYear = statYear + 1;
-                    statAuthor = statAuthor + 1;
+                    r.Authors = r.ReferenceText.Substring(0, gc[1].Index);
+                    r.yearEnd = gc[1].Index + gc[1].Length;
+                    //Common.sw.WriteLine(r.Authors);
+                    //Common.sw.WriteLine("\nYEAR : " + year.ToString());
+                    Statistics.UpdateYearAuthor();                    
                 }
             }
-            return year;
+            r.year = year;
+            if (year != 0)
+                return true;
+            else
+            {
+                Common.sw.WriteLine("FAILED : " + r.ReferenceText);
+                return false;
+            }
         }
         #endregion
 
@@ -126,7 +124,7 @@ namespace Parser
                 }
             }
             return ans;
-            //Console.WriteLine("Character : " + sepChar);
+            //Common.sw.WriteLine("Character : " + sepChar);
         }
 
 
@@ -154,36 +152,26 @@ namespace Parser
                 }
             }
             return min;
-            //Console.WriteLine("Character : " + sepChar);
+            //Common.sw.WriteLine("Character : " + sepChar);
         }
         #endregion
 
-        #region ReferenceParser
+        #region FindPublication
         /// <summary>
-        /// This function is used to parse a reference into Author, Year, Title, Publication fields. 
+        /// This function is used to get the publication from the reference. 
         /// </summary>
-        /// <param name="reference">Reference String</param>
-        /// <returns>True or false based on the success/failure of the process. </returns>
-        static Reference ParseReference(string reference)
+        /// <param name="r">The reference object is passed by reference as parameter. </param>
+        static void FindPublication(ref Reference r)
         {
-            //String used to store the author name. 
-            Reference r = new Reference(reference);
-            r.year = FindYearAndAuthor(ref r);
-            //Could not find Year/Author
-            if (r.year == 0)
-            {
-                Console.WriteLine("FAILED : " + reference);
-                return r;
-            }
             //empty pattern2
             string pattern2 = "";
             MatchCollection mc2;
-            string[] referenceWords = reference.Split(Common.seperators);
+            string[] referenceWords = r.ReferenceText.Substring(r.yearEnd).Split(Common.seperators);
             int max = 0;
             string matchedPublication = "";
             r.seperatorAfterPublication = -1;
             r.seperatorBeforePublication = -1;
-            //Console.WriteLine(r.Reference);
+            //Common.sw.WriteLine(r.Reference);
             //For each string s in publication string, we do the following. 
             foreach (string s in publicationData)
             {
@@ -237,14 +225,14 @@ namespace Parser
                 if (count >= max)
                 {
                     r.Publication = "";
-                    //Console.WriteLine("Match with " + count + " words.");
+                    //Common.sw.WriteLine("Match with " + count + " words.");
                     max = count;
                     matchedPublication = s;
                     string[] ref_matched_pub_words =
                         referencePublicationArrayList.ToArray(typeof(string)) as string[];
                     foreach (string st in ref_matched_pub_words)
                     {
-                        //Console.WriteLine(st);
+                        //Common.sw.WriteLine(st);
                         r.Publication += " " + st;
                     }
                     if (ref_matched_pub_words.Length != 0)
@@ -254,43 +242,87 @@ namespace Parser
                         r.seperatorBeforePublication = FindSeperatorBeforePublication(r.ReferenceText,
                             ref_matched_pub_words[0]);
                     }
-                    //Console.WriteLine(publication);
-                    //Console.WriteLine(matched_pub + " matches " + max.ToString() + " words");
+                    //Common.sw.WriteLine(publication);
+                    //Common.sw.WriteLine(matched_pub + " matches " + max.ToString() + " words");
                 }
             }
-
-            if (r.seperatorBeforePublication != -1)
+            if (r.Publication.Length < (r.seperatorAfterPublication - r.seperatorBeforePublication))
             {
-                //    Console.WriteLine("Seperator Character before publication : "
-                //        + reference[r.seperatorBeforePublication]);
+                r.Publication = r.ReferenceText.Substring(r.seperatorBeforePublication,
+                    r.seperatorAfterPublication - r.seperatorBeforePublication);
             }
-            if (r.seperatorAfterPublication != -1)
-            {
-                //    Console.WriteLine("Seperator Character after publication : "
-                //        + reference[r.seperatorAfterPublication]);
-            }
-
             //Check for a valid publication match. More than 1 word matched
             //Check if the one word match is the only word in the matched publication. Then also 
             //it is a valid publication. 
             if (max >= 2 || (max == 1 && matchedPublication.IndexOf(" ") == -1))
             {
-                statPublication = statPublication + 1;
-                if (r.Publication.Length < (r.seperatorAfterPublication - r.seperatorBeforePublication))
-                {
-                    r.Publication = reference.Substring(r.seperatorBeforePublication,
-                        r.seperatorAfterPublication - r.seperatorBeforePublication);
-                }
+                Statistics.UpdatePublication();                
+            }
+
+        }
+        private static void PredictPublication(ref Reference parsedReference)
+        {
+            int[] arrSeperators = FindSeperatorsInReference(parsedReference.ReferenceText, parsedReference.yearEnd);
+            double difference1 = parsedReference.ReferenceText.Length;
+            double difference2 = parsedReference.ReferenceText.Length;
+            double temp;
+            int seperatorStart = -1;
+            int seperatorEnd = -1;
+            double thisPublicationStart = Statistics.avgPublicationStart / Statistics.avgReferenceLength
+                * parsedReference.ReferenceText.Length;
+            double thisPublicationEnd = Statistics.avgPublicationEnd / Statistics.avgReferenceLength
+                * parsedReference.ReferenceText.Length;
+            if (arrSeperators.Length < 4)
+            {
+                //SPECIAL CASE : This means that there is no publication and only title and we will 
+                //make title as the previously predicted publication. 
+                parsedReference.Title = parsedReference.Publication;
+                parsedReference.Publication = "";
+                return;
             }
             else
             {
-                //TODO:Try to find publication by looking for the major and minor seperators. 
-                //Also take into account the average publication length for estimating a publication 
-                //Apart from this take the average publication starting character and ending 
-                //character into account. 
-
+                foreach (int position in arrSeperators)
+                {
+                    temp = thisPublicationStart - position;
+                    if (temp < 0)
+                        temp = -temp;
+                    if (temp < difference1)
+                    {
+                        difference1 = temp;
+                        seperatorStart = position;
+                        continue;
+                    }
+                    temp = thisPublicationEnd - position;
+                    if (temp < 0)
+                        temp = -temp;
+                    if (temp < difference2)
+                    {
+                        difference2 = temp;
+                        seperatorEnd = position;
+                    }
+                }
             }
+            Common.sw.WriteLine("Pridicted Publication Start Value : " + seperatorStart);
+            Common.sw.WriteLine("Predicted Publication End Value : " + seperatorEnd);
+            if (seperatorStart > seperatorEnd)
+                return;
+            if (seperatorEnd > parsedReference.ReferenceText.Length)
+                return;
+            parsedReference.Publication = parsedReference.ReferenceText.Substring(seperatorStart,
+                seperatorEnd - seperatorStart);
+            parsedReference.Title = parsedReference.ReferenceText.Substring(parsedReference.yearEnd,
+                seperatorStart - parsedReference.yearEnd);
+        }
+        #endregion
 
+        #region FindTitle
+        /// <summary>
+        /// This function is used to find the title of the reference. 
+        /// </summary>
+        /// <param name="r">The reference object is passed by reference. </param>
+        static void FindTitle(ref Reference r)
+        {
             ArrayList ref_title = new ArrayList();
             int t1 = r.ReferenceText.IndexOf(r.year.ToString()) + r.year.ToString().Length;
             int t2 = 0;
@@ -302,130 +334,52 @@ namespace Parser
             r.Title = "";
             if (t2 < t1 || r.Publication.Length < 2)
             {
-                //    Console.WriteLine("Erroneous Decoding");
+                //    Common.sw.WriteLine("Erroneous Decoding");
             }
             else
             {
                 r.Title = r.ReferenceText.Substring(t1, t2 - t1);
-                statTitle = statTitle + 1;
+                Statistics.UpdateTitle();
             }
-            //Console.WriteLine("Publication : " + r.publication);
-            //Console.WriteLine(matchedPublication + " matches " + max.ToString() + " words");
-            //Console.WriteLine("TITLE : " + r.Title);
-            ////Console.WriteLine(r.Reference);
-            //Console.ReadKey();
-            if (r.IsValid())
-            {
-                r.Display();
-            }
-            return r;
+
         }
         #endregion
 
-        static void Main(string[] args)
+        #region FindPageNumbers
+        /// <summary>
+        /// This function is used to find the page numbers in a reference. 
+        /// </summary>
+        /// <param name="r">The reference object is passed as a parameter by reference. </param>
+        private static void FindPageNumbers(ref Reference r)
         {
-            StreamReader fs = new StreamReader(@"..\data\references.txt");
-            //It specifies whether we need to read the new string or not. 
-            bool flag = true;
-            //Takes in the current value of the reference from the file. 
-            string reference = "";
-            Reference parsedReference;
-            //Store the publications from the Publication file into the string array. 
-            StreamReader pubFile = new StreamReader(@"..\data\publications.txt");
-            ArrayList arr = new ArrayList();
-            while (pubFile.Peek() != -1)
+            string input = r.ReferenceText.Substring(r.yearEnd);
+            string pattern = @"\p{Nd}+-\p{Nd}+";
+            Regex re = new Regex(pattern);
+            MatchCollection mc = re.Matches(input);
+            if (mc.Count > 0)
             {
-                arr.Add(pubFile.ReadLine());
-            }
-            publicationData = (string[])arr.ToArray(typeof(string));
-
-
-            //Main loop for reading the references. 
-            while (fs.Peek() != -1)
-            {
-                if (flag)
-                {
-                    reference = fs.ReadLine();
-                    stat = stat + 1;
-                }
-                else
-                {
-                    flag = true;
-                }
-                parsedReference = ParseReference(reference);
-                if (parsedReference.IsValid())
-                {
-                    //Collect statistics
-                    statParsed = statParsed + 1;
-                    avgReferenceLength = ((avgReferenceLength * (statParsed - 1)) +
-                        parsedReference.ReferenceText.Length) / statParsed;
-                    avgPublicationLength = ((avgPublicationLength * (statParsed - 1)) +
-                        parsedReference.Publication.Length) / statParsed;
-                    avgPublicationStart = ((avgPublicationStart * (statParsed - 1)) +
-                        parsedReference.seperatorBeforePublication) / statParsed;
-                    avgPublicationEnd = ((avgPublicationEnd * (statParsed - 1)) +
-                        parsedReference.seperatorAfterPublication) / statParsed;
-                }
-                else
-                {
-                    //TODO: Use Statistics to predict publication and then title. 
-                    //Check if author and year are there. If they are not present
-                    //then it is hopeless to do so. 
-                    if (parsedReference.year == -1 || parsedReference.Authors == String.Empty)
-                    {
-                        Console.WriteLine("Cannot Predict for this reference");
-                    }
-                    else
-                    {
-                        PredictPublication(ref parsedReference);
-                        parsedReference.Display();                   
-                    }
-                }
-            }
-
-            DisplayStatistics();
-        }
-
-        private static void PredictPublication(ref Reference parsedReference)
-        {
-            int[] arrSeperators = FindSeperatorsInReference(parsedReference.ReferenceText);
-            double difference1 = parsedReference.ReferenceText.Length;
-            double difference2 = parsedReference.ReferenceText.Length;
-            double temp;
-            int seperatorStart = -1;
-            int seperatorEnd = -1; 
-            foreach (int position in arrSeperators)
-            {
-                temp = avgPublicationStart - position;
-                if (temp < 0)
-                    temp = -temp;
-                if (temp < difference1)
-                {
-                    difference1 = temp;
-                    seperatorStart = position;
-                }
-                temp = avgPublicationEnd - position;
-                if (temp < 0)
-                    temp = -temp;
-                if (temp < difference2)
-                {
-                    difference2 = temp;
-                    seperatorEnd = position;
-                }
-            }
-            Console.WriteLine("Pridicted Publication Start Value : " + seperatorStart);
-            Console.WriteLine("Predicted Publication End Vale : " + seperatorEnd);
-            if (seperatorStart > seperatorEnd)
+                Match pageNo = mc[mc.Count - 1];
+                r.PageNos = pageNo.Value;
                 return;
-            if (seperatorEnd > parsedReference.ReferenceText.Length)
+            }
+            pattern = @"\bpp.\b|\bp.\b|\bpg.\b|\bpp\b|\bp\b|\bpg\b";
+            Regex re2 = new Regex(pattern);
+            mc = re2.Matches(input);
+            if (mc.Count > 0)
+            {
+                Match pageNo = mc[mc.Count - 1];
+                int index = pageNo.Index;
+                //TODO:Refine this furthur
+                r.PageNos = r.ReferenceText.Substring(index);
                 return;
-            parsedReference.Publication = parsedReference.ReferenceText.Substring(seperatorStart, seperatorEnd - seperatorStart);
+            }
         }
+        #endregion
 
-        private static int[] FindSeperatorsInReference(string p)
+        private static int[] FindSeperatorsInReference(string p, int index)
         {
             ArrayList arr = new ArrayList();
-            for (int i = 0; i < p.Length; i++)
+            for (int i = index; i < p.Length; i++)
             {
                 for (int j = 1; j < Common.seperators.Length; j++)
                 {
@@ -438,19 +392,92 @@ namespace Parser
             return arr.ToArray(typeof(int)) as int[];
         }
 
-        private static void DisplayStatistics()
+        #region ReferenceParser
+        /// <summary>
+        /// This function is used to parse a reference into Author, Year, Title, Publication fields. 
+        /// </summary>
+        /// <param name="reference">Reference String</param>
+        /// <returns>True or false based on the success/failure of the process. </returns>
+        static Reference ParseReference(string reference)
         {
-            Console.WriteLine("STATISTICS");
-            Console.WriteLine("Total : " + stat);
-            Console.WriteLine("Author : " + statAuthor);
-            Console.WriteLine("Year : " + statYear);
-            Console.WriteLine("Title : " + statTitle);
-            Console.WriteLine("Publication : " + statPublication);
-            Console.WriteLine("Avg Reference Length : " + avgReferenceLength);
-            Console.WriteLine("Avg Publication Length : " + avgPublicationLength);
-            Console.WriteLine("Avg Publication start : " + avgPublicationStart);
-            Console.WriteLine("Avg Publication end : " + avgPublicationEnd);
-            Console.ReadKey();
+            //String used to store the author name. 
+            Reference r = new Reference(reference);
+            r.ReferenceText = reference;
+            if (!FindYearAndAuthor(ref r))
+            {
+                //TODO:Maybe it is not a reference. Do something with this informaiton in the Reference
+                //identification block code. 
+            }                        
+            FindPageNumbers(ref r);
+            FindPublication(ref r);
+            FindTitle(ref r);
+            if (r.IsValid())
+            {
+                r.Display();
+            }
+            return r;
         }
+
+        
+        #endregion
+        
+        /// <summary>
+        /// Store the publications from the Publication file into the string array. 
+        /// </summary>
+        static private void GetPublicationData()
+        {
+            StreamReader pubFile = new StreamReader(@"..\data\publications.txt");
+            ArrayList arr = new ArrayList();
+            while (pubFile.Peek() != -1)
+            {
+                arr.Add(pubFile.ReadLine());
+            }
+            publicationData = (string[])arr.ToArray(typeof(string));
+        }
+
+        static void Main(string[] args)
+        {
+            Common.Init();
+            StreamReader fs = new StreamReader(@"..\data\references.txt", Encoding.Unicode);
+            //It specifies whether we need to read the new string or not. 
+            //Takes in the current value of the reference from the file. 
+            string reference = "";
+            Reference parsedReference;
+
+            GetPublicationData();
+
+            //Main loop for reading the references. 
+            while (fs.Peek() != -1)
+            {
+                reference = fs.ReadLine();
+                Statistics.UpdateReference();
+                parsedReference = ParseReference(reference);
+                Statistics.UpdateStatistics(parsedReference);
+                if(!parsedReference.IsValid())
+                {
+                    //Use Statistics to predict publication and then title. 
+                    //Check if author and year are there. If they are not present
+                    //then it is hopeless to do so. 
+                    if (parsedReference.year == -1 || parsedReference.Authors == String.Empty)
+                    {
+                        Common.sw.WriteLine("Cannot Predict for this reference");
+                    }
+                    else
+                    {
+                        PredictPublication(ref parsedReference);
+                        parsedReference.Display();                   
+                    }
+                }
+            }
+
+            Statistics.DisplayStatistics();
+            Common.sw.Close();
+            Process p = new Process();
+            ProcessStartInfo pInfo = new ProcessStartInfo(@"c:\windows\System32\notepad.exe", "output.txt");
+            p.StartInfo = pInfo;
+            p.Start();
+        }
+
+        
     }
 }

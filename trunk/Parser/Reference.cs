@@ -7,13 +7,20 @@ namespace Parser
 {
     class Reference
     {
+        #region Variables
         private string referenceText;
         private string authors;
-        public int year;
         private string title;
         private string publication;
+        private string pageNos;
+        public int year;
         public int seperatorBeforePublication;
         public int seperatorAfterPublication;
+        public int yearEnd;
+        
+        #endregion
+        
+        #region Constructor
         public Reference(string reference)
         {
             this.referenceText = reference;
@@ -23,7 +30,12 @@ namespace Parser
             this.title = "";
             this.year = -1;
             this.authors = "";
+            this.yearEnd = -1;
+            this.pageNos = "";
         }
+        #endregion
+
+        #region GetAndSetMethods
 
         public string ReferenceText
         {
@@ -77,7 +89,21 @@ namespace Parser
             }
         }
 
-        
+        public string PageNos
+        {
+            get
+            {
+                return pageNos;
+            }
+            set
+            {
+                pageNos = value;
+                pageNos = Strip(pageNos);
+            }
+        }
+        #endregion
+
+        #region PrivateMethods
 
         private string Strip(string input)
         {
@@ -96,29 +122,28 @@ namespace Parser
             string output = input.Remove(0, i);
             return output;
         }
+        #endregion
 
         public void Display()
         {
-            Console.WriteLine("REFERENCE : " + referenceText);
-            Console.WriteLine("AUTHORS : " + authors);
-            Console.WriteLine("YEAR : " + year);
-            Console.WriteLine("TITLE : " + title);
-            if (this.seperatorBeforePublication != -1)
+            Common.sw.WriteLine("REFERENCE : " + referenceText);
+            Common.sw.WriteLine("AUTHORS : " + authors);
+            Common.sw.WriteLine("YEAR : " + year);
+            Common.sw.WriteLine("TITLE : " + title);
+            if (this.seperatorBeforePublication != -1 && this.seperatorBeforePublication < referenceText.Length)
             {
-                Console.WriteLine("SEPERATOR BEFORE PUBLICATION : "
+                Common.sw.WriteLine("SEPERATOR BEFORE PUBLICATION : "
                     + referenceText[seperatorBeforePublication]);
             }
-            Console.WriteLine("PUBLICATION : " + publication);
-            if (this.seperatorAfterPublication != -1)
+            Common.sw.WriteLine("PUBLICATION : " + publication);
+            if (this.seperatorAfterPublication != -1 && this.seperatorAfterPublication < referenceText.Length)
             {
-                Console.WriteLine("SEPERATOR AFTER PUBLICATION : " +
+                Common.sw.WriteLine("SEPERATOR AFTER PUBLICATION : " +
                     referenceText[seperatorAfterPublication]);
             }
-            Console.WriteLine("\n\n");
-            //Console.ReadKey();
+            Common.sw.WriteLine("PAGE NUMBERS : " + PageNos);
+            Common.sw.WriteLine("\n\n");            
         }
-
-
 
         public bool IsValid()
         {
