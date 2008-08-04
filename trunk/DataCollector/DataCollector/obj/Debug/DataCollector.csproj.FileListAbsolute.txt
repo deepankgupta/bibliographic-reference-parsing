@@ -1,0 +1,5 @@
+C:\Users\Deepank\AppData\Local\Temporary Projects\DataCollector\bin\Debug\DataCollector.exe
+C:\Users\Deepank\AppData\Local\Temporary Projects\DataCollector\bin\Debug\DataCollector.pdb
+C:\Users\Deepank\AppData\Local\Temporary Projects\DataCollector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Deepank\AppData\Local\Temporary Projects\DataCollector\obj\Debug\DataCollector.exe
+C:\Users\Deepank\AppData\Local\Temporary Projects\DataCollector\obj\Debug\DataCollector.pdb
