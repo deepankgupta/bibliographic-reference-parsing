@@ -49,7 +49,11 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Reference.cs" />
+    <Compile Include="ReferenceExtractor.cs" />
     <Compile Include="Statistics.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="paper.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

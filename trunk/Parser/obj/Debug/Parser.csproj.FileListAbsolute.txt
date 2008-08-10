@@ -22,3 +22,6 @@ C:\Users\Deepank\Documents\Visual Studio 2008\Projects\Parser\Parser\bin\Debug\P
 C:\Users\Deepank\Documents\Visual Studio 2008\Projects\Parser\Parser\obj\Debug\ResolveAssemblyReference.cache
 C:\Repo\Parser\obj\Debug\Parser.exe
 C:\Repo\Parser\obj\Debug\Parser.pdb
+C:\Repo\Parser\obj\Debug\ResolveAssemblyReference.cache
+C:\Repo\Parser\bin\Debug\Parser.exe
+C:\Repo\Parser\bin\Debug\Parser.pdb
