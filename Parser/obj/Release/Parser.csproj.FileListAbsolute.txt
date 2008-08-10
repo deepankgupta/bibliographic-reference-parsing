@@ -8,3 +8,8 @@ C:\Users\Deepank\Documents\Visual Studio 2008\Projects\Parser\Parser\obj\Release
 C:\Users\Deepank\Documents\Visual Studio 2008\Projects\Parser\Parser\obj\Release\Parser.pdb
 C:\Users\Deepank\Documents\Visual Studio 2008\Projects\Parser\Parser\bin\Release\Parser.exe
 C:\Users\Deepank\Documents\Visual Studio 2008\Projects\Parser\Parser\bin\Release\Parser.pdb
+C:\Repo\Parser\obj\Release\ResolveAssemblyReference.cache
+C:\Repo\Parser\obj\Release\Parser.exe
+C:\Repo\Parser\bin\Release\Parser.exe
+C:\Repo\Parser\bin\Release\Parser.pdb
+C:\Repo\Parser\obj\Release\Parser.pdb

@@ -438,7 +438,11 @@ namespace Parser
         static void Main(string[] args)
         {
             Common.Init();
-            StreamReader fs = new StreamReader(@"..\data\references.txt", Encoding.Unicode);
+            string filePath = @"..\data\paper.xml";
+            string referenceFilePath = @"..\data\references.txt";
+            ReferenceExtractor refExt = new ReferenceExtractor(filePath, referenceFilePath);
+            refExt.Main();
+            StreamReader fs = new StreamReader(referenceFilePath, Encoding.Unicode);
             //It specifies whether we need to read the new string or not. 
             //Takes in the current value of the reference from the file. 
             string reference = "";

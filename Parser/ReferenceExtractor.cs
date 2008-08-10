@@ -1,0 +1,315 @@
+﻿#region Using
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.IO;
+using System.Xml;
+using System.Xml.XPath;
+using System.Text.RegularExpressions;
+using System.Collections;
+#endregion
+
+namespace Parser
+{
+    class ReferenceExtractor
+    {
+        #region Constants
+        int MaxAuthorLength = 100;
+        int MaxReferenceLength = 400;
+        double YearFound = 0.2;
+        double AuthorFound = 0.2;
+        double AuthorMightFound = 0.1;
+        double EachPreviousReference = 0.1;
+        double MaxPreviousReference = 0.2;
+        double KeywordPresent = 0.2;
+        double SuccessorFound = 0.1;
+        double ReferenceLengthLess = 0.1;
+        #endregion
+
+        #region Variables
+        private string filePath;
+        private string referenceFilePath;
+        private StreamReader fs;        
+        private XmlTextReader reader;
+        private string[] paragraphs;
+        private string[] references;
+        private int noPreviousParagraphReference;
+        #endregion
+
+        #region Constructor
+        /// <summary>
+        /// Public Constructor
+        /// </summary>
+        /// <param name="path">FilePath of the file from which references are to be extracted</param>
+        public ReferenceExtractor(string path, string outputPath)
+        {
+            filePath = path;
+            referenceFilePath = outputPath;
+            noPreviousParagraphReference = -1;
+        }
+        #endregion
+
+        /// <summary>
+        /// This function will define the streamreader from the filePath
+        /// This will also define an XmlReader which will facilitate the reading of the file. 
+        /// </summary>
+        private void Init()
+        {
+            //Get objects
+            reader = new XmlTextReader(filePath);
+            GetParagraphs();
+        }
+
+        /// <summary>
+        /// This function is used to get the string of all values related to a particular node. 
+        /// </summary>
+        /// <param name="p">The path to the node</param>
+        /// <returns>The string array of all the values of all nodes with path p</returns>
+        private string[] GetNodeValues(string p, XmlNamespaceManager nm)
+        {
+            XPathDocument doc = new XPathDocument(filePath);
+            XPathNavigator nav = doc.CreateNavigator();
+            XPathExpression _configExpr = nav.Compile("tax:taxonx");
+            _configExpr.SetContext(nm);
+            XPathNodeIterator itr = nav.Select(_configExpr);            
+            string[] ret = new string[itr.Count];
+            int i = 0;
+            while (itr.MoveNext())
+            {
+                ret[i] = itr.Current.Value;
+                i = i + 1;
+            }
+            if (itr.Count == 0)
+                return null;
+            else
+                return ret;
+        }
+        
+        /// <summary>
+        /// This function will get all the paragraphs from the streamreader which match as 
+        /// tax:taxonxBody/tax:p
+        /// </summary>
+        private void GetParagraphs()
+        {
+            ArrayList strList = new ArrayList();           
+            while (reader.Read())
+            {
+                if (reader.Name == "tax:p")
+                {
+                    reader.Read();
+                    strList.Add(reader.Value);
+                }
+            }
+            paragraphs = strList.ToArray(typeof(string)) as string[];            
+        }
+
+        /// <summary>
+        /// This function is used to check if the current paragraph contains an year in it or not. 
+        /// </summary>
+        /// <param name="paragraph">The strong specifying the paragraph</param>
+        /// <returns>True or False</returns>
+        private int CheckForYear(string paragraph)
+        {
+            //Contains all unicode characters followed by 4 digit numbers
+            //then again any characters can be present.             
+            string pattern = @"(\p{Nd}\p{Nd}\p{Nd}\p{Nd})";
+            MatchCollection mc;
+            //Year stored in an integer value. 
+            int year = 0;
+            mc = Regex.Matches(paragraph, pattern);
+            if (mc.Count == 0)
+            {                
+                return -1;
+            }
+            for (int i = 0; i < mc.Count; i++)
+            {
+                string q = mc[i].Value;
+                year = Convert.ToInt32(q);
+                //Valid set of years is between 1800 and 2008
+                if (year > 1800 && year < 2008)
+                {                    
+                    return mc[i].Index;
+                }
+            }
+            return -1;            
+        }
+
+        /// <summary>
+        /// Checks for Year and Author presence and gives the probablitiy associated with it. 
+        /// </summary>
+        /// <param name="paragraph">String specifying the paragrpah to be checked. </param>
+        /// <returns>Probablity</returns>
+        private double CheckForYearAndAuthor(string paragraph)
+        {
+            double prob = 0.0;
+            int index = CheckForYear(paragraph);
+            if (index == -1)
+            {
+                noPreviousParagraphReference = -1;
+                return prob;
+            }
+            else
+            {
+                prob += YearFound;
+            }
+            //This if statement is a very prelimnary check on the fact that an author name can never extend to be 
+            //more than 100 characters. It is not foolproof and very prelimnary thing to rule out more than 90%
+            //cases. 
+            if (index > MaxAuthorLength)
+            {
+                //Check if there are single character words. If there are no single character words, it is unlikely
+                //to be an author. If they are there and all are capitals, it might just be an author. 
+                string predictedAuthor = paragraph.Substring(0, index);
+                string[] predictedAuthorWords = predictedAuthor.Split(Common.seperators,
+                    StringSplitOptions.RemoveEmptyEntries);
+                bool singleCharacterWords = false;
+                bool areTheyCapitalized = false;
+                foreach (string word in predictedAuthorWords)
+                {
+                    if (word.Length == 1 && (word.ToUpper() == word))
+                    {
+                        singleCharacterWords = true;
+                        areTheyCapitalized = true;
+                    }
+                    else if (word.Length == 1)
+                    {
+                        singleCharacterWords = true;
+                        areTheyCapitalized = false;
+                    }
+                }
+                if (!singleCharacterWords || !areTheyCapitalized)
+                {
+                    noPreviousParagraphReference = -1;
+                    return prob;
+                }
+                else
+                {
+                    //else given a second chance. 
+                    prob += AuthorMightFound;
+                }
+            }
+            else
+            {
+                prob += AuthorFound;
+            }
+            return prob;
+        }
+
+        /// <summary>
+        /// This function will predict whether a given paragraph is a potential reference or not. 
+        /// </summary>
+        /// <returns>True in case it is a potential reference
+        /// False in case it is not. </returns>
+        private bool PredictPotentialReference(int i)
+        {
+            double probability = 0.0;
+            string paragraph = paragraphs[i];
+
+            //0. Check for the presence of a keyword. 
+            if (CheckForKeyword(paragraph))
+            {
+                noPreviousParagraphReference = 0;
+                return false;
+            }
+            
+            //1. Check for an author name or an year name,  --> Most Probability. If not found, it is not a reference. 
+            probability += CheckForYearAndAuthor(paragraph);
+            
+            //2. Is it preceded by a keyword or a reference. --> Given weightage, 
+            if (noPreviousParagraphReference >= 0)
+            {
+                probability += KeywordPresent;
+                double max = (MaxPreviousReference < (noPreviousParagraphReference * EachPreviousReference)) ? MaxPreviousReference : (noPreviousParagraphReference * EachPreviousReference);
+                probability += max;
+            }
+            else
+            {
+                //TODO: It might be that the previous line might be a keyword which we might have missed. 
+
+            }
+
+            //3. Length of the paragraph --> Prelimnary check which checks with the maximum length of the reference.             
+            if (paragraph.Length < MaxReferenceLength)
+            {
+                probability += ReferenceLengthLess;
+            }
+
+            //4. Check for the paragraph suceeding it prelimnary as well as author name check. If that is also a reference
+            // then it is high probability to be a reference.
+            probability += (SuccessorFound * (CheckForYearAndAuthor(paragraphs[i + 1])/(YearFound + AuthorFound)));
+            if (probability > 0.7)
+            {
+                noPreviousParagraphReference++;
+                return true;
+            }
+            else
+            {
+                noPreviousParagraphReference = -1;
+                return false;
+            }
+        }
+
+        private bool CheckForKeyword(string paragraph)
+        {
+            throw new NotImplementedException();
+        }
+
+        /// <summary>
+        /// This function is used to remove the starting noise from a reference ie. 1,2,3 or 1a, 2a, etc. 
+        /// This can also be in the form of roman numbers like [i] or alphabetical like [A] 
+        /// This will always be a number, character or roman numeral followed by a seperator. 
+        /// </summary>
+        private string CleanUpReference(string input)
+        {
+            //TODO: Implement CleanUp
+            string output = input;
+            return output;
+        }
+
+        /// <summary>
+        /// This function is used to define a write stream which will store all the references in a references.txt file. 
+        /// </summary>
+        private void StoreReferences()
+        {
+            StreamWriter sw = new StreamWriter(referenceFilePath);
+            //Write all references in it. 
+            foreach (string reference in references)
+            {
+                sw.WriteLine(reference);
+            }
+            sw.Close();
+        }
+
+        /// <summary>
+        /// Release resources. 
+        /// </summary>
+        private void Exit()
+        {
+            //Close the XmlReader  
+            reader.Close();
+        }
+
+        /// <summary>
+        /// The starting point of the class and the place where all the work is done. 
+        /// </summary>
+        public void Main()
+        {
+            Init();
+            ArrayList referenceList = new ArrayList();
+            int i = 0;
+            foreach (string paragraph in paragraphs)
+            {
+                // all paragraphs are examined.
+                if (PredictPotentialReference(i))
+                {
+                    referenceList.Add(CleanUpReference(paragraph));
+                }
+                i = i + 1;
+            }
+            references = referenceList.ToArray(typeof(string)) as string[];
+            StoreReferences();
+            Exit();
+        }
+    }
+}
