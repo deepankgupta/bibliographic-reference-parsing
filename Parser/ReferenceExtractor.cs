@@ -25,12 +25,12 @@ namespace Parser
         double KeywordPresent = 0.2;
         double SuccessorFound = 0.1;
         double ReferenceLengthLess = 0.1;
+        string keywordFilePath = @"..\data\keywords.txt";
         #endregion
 
         #region Variables
         private string filePath;
         private string referenceFilePath;
-        private StreamReader fs;        
         private XmlTextReader reader;
         private string[] paragraphs;
         private string[] references;
@@ -97,8 +97,19 @@ namespace Parser
             {
                 if (reader.Name == "tax:p")
                 {
-                    reader.Read();
-                    strList.Add(reader.Value);
+                    StringBuilder b = new StringBuilder();
+                    do
+                    {
+                        do
+                        {
+                            reader.Read();
+                            if (reader.Value != String.Empty)
+                            {
+                                b.Append(reader.Value);
+                            }
+                        } while (reader.Name == String.Empty);
+                    } while (reader.Name != "tax:p");
+                    strList.Add(b.ToString());
                 }
             }
             paragraphs = strList.ToArray(typeof(string)) as string[];            
@@ -204,8 +215,11 @@ namespace Parser
         private bool PredictPotentialReference(int i)
         {
             double probability = 0.0;
-            string paragraph = paragraphs[i];
-
+            string paragraph = CleanUpReference(paragraphs[i]);
+            if (paragraph == String.Empty)
+            {
+                return false;
+            }
             //0. Check for the presence of a keyword. 
             if (CheckForKeyword(paragraph))
             {
@@ -237,7 +251,10 @@ namespace Parser
 
             //4. Check for the paragraph suceeding it prelimnary as well as author name check. If that is also a reference
             // then it is high probability to be a reference.
-            probability += (SuccessorFound * (CheckForYearAndAuthor(paragraphs[i + 1])/(YearFound + AuthorFound)));
+            if (i != paragraphs.Length - 1)
+            {
+                probability += (SuccessorFound * (CheckForYearAndAuthor(paragraphs[i + 1]) / (YearFound + AuthorFound)));
+            }
             if (probability > 0.7)
             {
                 noPreviousParagraphReference++;
@@ -252,7 +269,34 @@ namespace Parser
 
         private bool CheckForKeyword(string paragraph)
         {
-            throw new NotImplementedException();
+            StreamReader keywordReader = new StreamReader(keywordFilePath);
+            ArrayList keywordList = new ArrayList();
+            while(keywordReader.Peek()!= -1)
+            {
+                keywordList.Add(keywordReader.ReadLine());
+            }
+            string[] keywordArray = keywordList.ToArray(typeof(string)) as string[];
+            string[] paragraphWords = paragraph.Split(Common.seperators, StringSplitOptions.RemoveEmptyEntries);
+            int minimum = Int32.MaxValue;
+            foreach (string keyword in keywordArray)
+            {
+                string[] keywordParts = keyword.Split(Common.seperators, StringSplitOptions.RemoveEmptyEntries);
+                if (keywordParts.Length < minimum)
+                    minimum = keywordParts.Length;
+                if (keywordParts.Length != paragraphWords.Length)
+                    continue;
+                int i;
+                for(i = 0; i < keywordParts.Length;i++)
+                {
+                    if (!keywordParts[i].Equals(paragraphWords[i], StringComparison.CurrentCultureIgnoreCase))
+                        break;
+                }
+                if (i == keywordParts.Length)
+                {
+                    return true;
+                }
+            }
+            return false;
         }
 
         /// <summary>
@@ -263,7 +307,24 @@ namespace Parser
         private string CleanUpReference(string input)
         {
             //TODO: Implement CleanUp
-            string output = input;
+            int i;
+            bool flag = false;
+            string output = "";
+            for (i = 0; i < input.Length; i++)
+            {
+                flag = false;
+                foreach (char ch in Common.seperators)
+                {
+                    if (ch == input[i])
+                    {
+                        flag = true;
+                        break;
+                    }
+                }
+                if (!flag)
+                    break;
+            }
+            output = input.Substring(i);
             return output;
         }
 
