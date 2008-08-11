@@ -325,6 +325,8 @@ namespace Parser
                     break;
             }
             output = input.Substring(i);
+            output = output.Replace("\r", "");
+            output = output.Replace("\n", "");
             return output;
         }
 
@@ -333,7 +335,8 @@ namespace Parser
         /// </summary>
         private void StoreReferences()
         {
-            StreamWriter sw = new StreamWriter(referenceFilePath);
+            FileStream fw = new FileStream(referenceFilePath, FileMode.Create, FileAccess.Write);
+            StreamWriter sw = new StreamWriter(fw, Encoding.Unicode);
             //Write all references in it. 
             foreach (string reference in references)
             {

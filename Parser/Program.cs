@@ -309,6 +309,8 @@ namespace Parser
                 return;
             if (seperatorEnd > parsedReference.ReferenceText.Length)
                 return;
+            if (seperatorEnd == -1 || seperatorStart == -1)
+                return;
             parsedReference.Publication = parsedReference.ReferenceText.Substring(seperatorStart,
                 seperatorEnd - seperatorStart);
             parsedReference.Title = parsedReference.ReferenceText.Substring(parsedReference.yearEnd,
@@ -327,6 +329,11 @@ namespace Parser
             int t1 = r.ReferenceText.IndexOf(r.year.ToString()) + r.year.ToString().Length;
             int t2 = 0;
             string[] pub_words = r.Publication.Split(Common.seperators, StringSplitOptions.RemoveEmptyEntries);
+            if (pub_words.Length == 0)
+            {
+                r.Title = r.ReferenceText.Substring(r.yearEnd);
+                return;
+            }
             if (pub_words[0].Length >= 2)
                 t2 = r.ReferenceText.IndexOf(pub_words[0]);
             else if (pub_words.Length > 2)
