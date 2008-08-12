@@ -25,3 +25,5 @@ C:\Repo\Parser\obj\Debug\Parser.pdb
 C:\Repo\Parser\obj\Debug\ResolveAssemblyReference.cache
 C:\Repo\Parser\bin\Debug\Parser.exe
 C:\Repo\Parser\bin\Debug\Parser.pdb
+C:\Repo\Parser\obj\Debug\Parser.InputForm.resources
+C:\Repo\Parser\obj\Debug\Parser.csproj.GenerateResource.Cache

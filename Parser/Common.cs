@@ -13,10 +13,12 @@ namespace Parser
                                        '{', '}', '[', ']', '+', '\n', '\r' };
         private static FileStream fw;
         public static StreamWriter sw;
-        
+        public static string inputFilePath = @"..\data\paper.xml";
+        public static string referenceFilePath = @"..\data\references.txt";
+        public static string outputFilePath = @"..\data\output.txt";
         internal static void Init()
         {
-            fw = new FileStream("output.txt", FileMode.Create, FileAccess.Write);
+            fw = new FileStream(outputFilePath, FileMode.Create, FileAccess.Write);
             sw = new StreamWriter(fw, Encoding.Unicode);
         }
     }

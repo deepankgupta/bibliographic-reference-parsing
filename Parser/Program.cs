@@ -6,6 +6,7 @@ using System.Text;
 using System.IO;
 using System.Text.RegularExpressions;
 using System.Diagnostics;
+using System.Windows.Forms;
 
 namespace Parser
 {
@@ -442,15 +443,12 @@ namespace Parser
             publicationData = (string[])arr.ToArray(typeof(string));
         }
 
-        static void Main(string[] args)
+        internal static void Start()
         {
-            Common.Init();
-            string filePath = @"..\data\paper.xml";
-            string referenceFilePath = @"..\data\references.txt";
-            ReferenceExtractor refExt = new ReferenceExtractor(filePath, referenceFilePath);
+            ReferenceExtractor refExt = new ReferenceExtractor(Common.inputFilePath, Common.referenceFilePath);
             refExt.Main();
-            StreamReader fs = new StreamReader(referenceFilePath, Encoding.Unicode);
-            //It specifies whether we need to read the new string or not. 
+            StreamReader fs = new StreamReader(Common.referenceFilePath, Encoding.Unicode);
+            //It specifies wheth.er we need to read the new string or not. 
             //Takes in the current value of the reference from the file. 
             string reference = "";
             Reference parsedReference;
@@ -484,11 +482,20 @@ namespace Parser
             Statistics.DisplayStatistics();
             Common.sw.Close();
             Process p = new Process();
-            ProcessStartInfo pInfo = new ProcessStartInfo(@"c:\windows\System32\notepad.exe", "output.txt");
+            ProcessStartInfo pInfo = new ProcessStartInfo(@"c:\windows\System32\notepad.exe", Common.outputFilePath);
             p.StartInfo = pInfo;
             p.Start();
         }
 
-        
+        /// <summary>
+        /// The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);            
+            Application.Run(new InputForm());
+        }
     }
 }
