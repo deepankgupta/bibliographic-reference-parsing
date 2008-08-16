@@ -17,6 +17,7 @@ namespace Parser
         /// It is used to store the publications string array from the publication text file. 
         /// </summary>
         static string[] publicationData;
+        static Reference[] references;
         #endregion
 
         private static string AddEscapeChars(string s)
@@ -443,8 +444,56 @@ namespace Parser
             publicationData = (string[])arr.ToArray(typeof(string));
         }
 
+        static private void ExtractCitation(string paragraph)
+        {
+            string[] stopwords = { "in", "since", "during", "until", "before" };
+            if (paragraph == null || paragraph == String.Empty)
+                return;
+            int index = Common.CheckForYear(paragraph);
+            if (index == -1)
+                return;
+            int newIndex = index;
+            string subString = paragraph.Substring(0, index);
+            string[] strs = subString.Split(Common.seperators, StringSplitOptions.RemoveEmptyEntries);
+            //Check for stopword
+            foreach (string stopword in stopwords)
+            {
+                if (stopword.Equals(strs[strs.Length - 1], StringComparison.CurrentCultureIgnoreCase))
+                {
+                    ExtractCitation(paragraph.Substring(index));
+                }
+            }
+            int i;
+            //Check for Author. 
+            for (i = strs.Length-1; i > 0; i--)
+            {
+                string stringToCheck = strs[i];
+                //Check for Genetive, if present remove it and check. 
+                if (stringToCheck.Length > 2 && stringToCheck[stringToCheck.Length - 1] == 's' &&
+                    stringToCheck[stringToCheck.Length - 2] == '\'')
+                {
+                    stringToCheck = stringToCheck.Substring(0, stringToCheck.Length - 2);
+                }
+                bool flag = false;
+                //TODO: Check for Author Names with or without 's 
+                foreach (Reference reference in references)
+                {
+                    if (reference.Authors.IndexOf(stringToCheck, StringComparison.CurrentCultureIgnoreCase) != -1)
+                    {
+                        flag = true;
+                    }
+                }
+                if (flag == false)
+                    break;
+            }
+            //Put the citation in
+            int temp = paragraph.IndexOf(strs[i]);
+            Common.sw.WriteLine("Citation : " + paragraph.Substring(temp, index - temp));
+        }
+
         internal static void Start()
         {
+            ArrayList referenceList = new ArrayList();
             ReferenceExtractor refExt = new ReferenceExtractor(Common.inputFilePath, Common.referenceFilePath);
             refExt.Main();
             StreamReader fs = new StreamReader(Common.referenceFilePath, Encoding.Unicode);
@@ -477,10 +526,17 @@ namespace Parser
                         parsedReference.Display();                   
                     }
                 }
+                referenceList.Add(parsedReference);
             }
-
+            references = referenceList.ToArray(typeof(Reference)) as Reference[];
             Statistics.DisplayStatistics();
+            foreach (string paragraph in Common.paragraphs)
+            {
+                ExtractCitation(paragraph);
+            }
+            
             Common.sw.Close();
+            
             Process p = new Process();
             ProcessStartInfo pInfo = new ProcessStartInfo(@"c:\windows\System32\notepad.exe", Common.outputFilePath);
             p.StartInfo = pInfo;
