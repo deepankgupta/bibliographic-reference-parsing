@@ -32,7 +32,6 @@ namespace Parser
         private string filePath;
         private string referenceFilePath;
         private XmlTextReader reader;
-        private string[] paragraphs;
         private string[] references;
         private int noPreviousParagraphReference;
         #endregion
@@ -112,40 +111,10 @@ namespace Parser
                     strList.Add(b.ToString());
                 }
             }
-            paragraphs = strList.ToArray(typeof(string)) as string[];            
+            Common.paragraphs = strList.ToArray(typeof(string)) as string[];            
         }
 
-        /// <summary>
-        /// This function is used to check if the current paragraph contains an year in it or not. 
-        /// </summary>
-        /// <param name="paragraph">The strong specifying the paragraph</param>
-        /// <returns>True or False</returns>
-        private int CheckForYear(string paragraph)
-        {
-            //Contains all unicode characters followed by 4 digit numbers
-            //then again any characters can be present.             
-            string pattern = @"(\p{Nd}\p{Nd}\p{Nd}\p{Nd})";
-            MatchCollection mc;
-            //Year stored in an integer value. 
-            int year = 0;
-            mc = Regex.Matches(paragraph, pattern);
-            if (mc.Count == 0)
-            {                
-                return -1;
-            }
-            for (int i = 0; i < mc.Count; i++)
-            {
-                string q = mc[i].Value;
-                year = Convert.ToInt32(q);
-                //Valid set of years is between 1800 and 2008
-                if (year > 1800 && year < 2008)
-                {                    
-                    return mc[i].Index;
-                }
-            }
-            return -1;            
-        }
-
+        
         /// <summary>
         /// Checks for Year and Author presence and gives the probablitiy associated with it. 
         /// </summary>
@@ -154,7 +123,7 @@ namespace Parser
         private double CheckForYearAndAuthor(string paragraph)
         {
             double prob = 0.0;
-            int index = CheckForYear(paragraph);
+            int index = Common.CheckForYear(paragraph);
             if (index == -1)
             {
                 noPreviousParagraphReference = -1;
@@ -215,7 +184,7 @@ namespace Parser
         private bool PredictPotentialReference(int i)
         {
             double probability = 0.0;
-            string paragraph = CleanUpReference(paragraphs[i]);
+            string paragraph = CleanUpReference(Common.paragraphs[i]);
             if (paragraph == String.Empty)
             {
                 return false;
@@ -251,9 +220,9 @@ namespace Parser
 
             //4. Check for the paragraph suceeding it prelimnary as well as author name check. If that is also a reference
             // then it is high probability to be a reference.
-            if (i != paragraphs.Length - 1)
+            if (i != Common.paragraphs.Length - 1)
             {
-                probability += (SuccessorFound * (CheckForYearAndAuthor(paragraphs[i + 1]) / (YearFound + AuthorFound)));
+                probability += (SuccessorFound * (CheckForYearAndAuthor(Common.paragraphs[i + 1]) / (YearFound + AuthorFound)));
             }
             if (probability > 0.7)
             {
@@ -345,6 +314,7 @@ namespace Parser
             sw.Close();
         }
 
+
         /// <summary>
         /// Release resources. 
         /// </summary>
@@ -362,7 +332,7 @@ namespace Parser
             Init();
             ArrayList referenceList = new ArrayList();
             int i = 0;
-            foreach (string paragraph in paragraphs)
+            foreach (string paragraph in Common.paragraphs)
             {
                 // all paragraphs are examined.
                 if (PredictPotentialReference(i))
