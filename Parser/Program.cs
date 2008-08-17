@@ -8,6 +8,14 @@ using System.Text.RegularExpressions;
 using System.Diagnostics;
 using System.Windows.Forms;
 
+//SOME TODOS
+//1. If a reference has no title, publication and page nos, it is not a reference. 
+//2. If a reference has a publication and no title, swap the two things. 
+//3. In case of Levi and Levi in Extract Citation, find a better way... 
+//4. Add other keywords in the keyword.txt file. 
+//5. Make a GUI to add keywords, to add correct publications or not... think about it. 
+
+
 namespace Parser
 {
     class Program
@@ -487,7 +495,11 @@ namespace Parser
                     break;
             }
             //Put the citation in
-            int temp = paragraph.IndexOf(strs[i]);
+            if (i == strs.Length - 1)
+                return;
+            if (i != 0)
+                i = i + 1;
+            int temp = subString.LastIndexOf(strs[i]);
             Common.sw.WriteLine("Citation : " + paragraph.Substring(temp, index - temp));
         }
 
@@ -497,7 +509,7 @@ namespace Parser
             ReferenceExtractor refExt = new ReferenceExtractor(Common.inputFilePath, Common.referenceFilePath);
             refExt.Main();
             StreamReader fs = new StreamReader(Common.referenceFilePath, Encoding.Unicode);
-            //It specifies wheth.er we need to read the new string or not. 
+            //It specifies whether we need to read the new string or not. 
             //Takes in the current value of the reference from the file. 
             string reference = "";
             Reference parsedReference;
@@ -513,22 +525,44 @@ namespace Parser
                 Statistics.UpdateStatistics(parsedReference);
                 if(!parsedReference.IsValid())
                 {
+                    parsedReference.toBePredicted = true;                    
+                }
+                referenceList.Add(parsedReference);
+            }
+            references = referenceList.ToArray(typeof(Reference)) as Reference[];
+            for(int i = 0; i<references.Length;i++)
+            {
+                if (references[i].toBePredicted)
+                {
                     //Use Statistics to predict publication and then title. 
                     //Check if author and year are there. If they are not present
                     //then it is hopeless to do so. 
-                    if (parsedReference.year == -1 || parsedReference.Authors == String.Empty)
+                    if (references[i].year == -1 || references[i].Authors == String.Empty)
                     {
                         Common.sw.WriteLine("Cannot Predict for this reference");
                     }
                     else
                     {
-                        PredictPublication(ref parsedReference);
-                        parsedReference.Display();                   
+                        PredictPublication(ref references[i]);
+                        if (references[i].Title == String.Empty && references[i].Publication != String.Empty)
+                        {
+                            references[i].Title = references[i].Publication;
+                            references[i].Publication = String.Empty;
+                        }
+                        if ((references[i].Title == String.Empty && references[i].Publication == String.Empty) ||
+                            (references[i].Authors == String.Empty && references[i].year == -1))
+                        {
+                            /*ArrayList newarr = references.ToList();
+                            newarr.RemoveAt(i);
+                            references = newarr.ToArray(typeof(Reference)) as Reference[];*/
+                        }
+                        else
+                        {
+                            references[i].Display();
+                        }                            
                     }
                 }
-                referenceList.Add(parsedReference);
-            }
-            references = referenceList.ToArray(typeof(Reference)) as Reference[];
+            }            
             Statistics.DisplayStatistics();
             foreach (string paragraph in Common.paragraphs)
             {
