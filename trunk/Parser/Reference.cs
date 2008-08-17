@@ -17,7 +17,7 @@ namespace Parser
         public int seperatorBeforePublication;
         public int seperatorAfterPublication;
         public int yearEnd;
-        
+        public bool toBePredicted;
         #endregion
         
         #region Constructor
