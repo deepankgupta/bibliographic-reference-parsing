@@ -24,7 +24,7 @@ namespace Parser
         double MaxPreviousReference = 0.2;
         double KeywordPresent = 0.2;
         double SuccessorFound = 0.1;
-        double ReferenceLengthLess = 0.1;
+        double ReferenceLengthLess = 0.1;        
         string keywordFilePath = @"..\data\keywords.txt";
         #endregion
 
@@ -113,7 +113,6 @@ namespace Parser
             }
             Common.paragraphs = strList.ToArray(typeof(string)) as string[];            
         }
-
         
         /// <summary>
         /// Checks for Year and Author presence and gives the probablitiy associated with it. 
@@ -126,7 +125,10 @@ namespace Parser
             int index = Common.CheckForYear(paragraph);
             if (index == -1)
             {
-                noPreviousParagraphReference = -1;
+                if (noPreviousParagraphReference >= 0)
+                    noPreviousParagraphReference = 0;
+                else
+                    noPreviousParagraphReference = -1;
                 return prob;
             }
             else
@@ -224,18 +226,26 @@ namespace Parser
             {
                 probability += (SuccessorFound * (CheckForYearAndAuthor(Common.paragraphs[i + 1]) / (YearFound + AuthorFound)));
             }
-            if (probability > 0.7)
+            if (probability >= 0.7)
             {
                 noPreviousParagraphReference++;
                 return true;
             }
             else
             {
-                noPreviousParagraphReference = -1;
+                if (noPreviousParagraphReference >= 0)
+                    noPreviousParagraphReference = 0;
+                else
+                    noPreviousParagraphReference = -1;
                 return false;
             }
         }
 
+        /// <summary>
+        /// This function is used to check whether the paragraph is a keyword starting the block of references or not. 
+        /// </summary>
+        /// <param name="paragraph">Paragraph input string</param>
+        /// <returns>True or False</returns>
         private bool CheckForKeyword(string paragraph)
         {
             StreamReader keywordReader = new StreamReader(keywordFilePath);
@@ -314,7 +324,6 @@ namespace Parser
             sw.Close();
         }
 
-
         /// <summary>
         /// Release resources. 
         /// </summary>
@@ -338,6 +347,8 @@ namespace Parser
                 if (PredictPotentialReference(i))
                 {
                     referenceList.Add(CleanUpReference(paragraph));
+                    //Delete it from paragraph list
+                    Common.paragraphs[i] = "";
                 }
                 i = i + 1;
             }

@@ -31,7 +31,7 @@ namespace Parser
         /// </summary>
         /// <param name="paragraph">The strong specifying the paragraph</param>
         /// <returns>True or False</returns>
-        public static int CheckForYear(string paragraph)
+        internal static int CheckForYear(string paragraph)
         {
             //Contains all unicode characters followed by 4 digit numbers
             //then again any characters can be present.             
@@ -57,5 +57,44 @@ namespace Parser
             return -1;
         }
 
+
+        /// <summary>
+        /// Strips seperators from the beginning and end of the string. 
+        /// </summary>
+        /// <param name="input">Input String</param>
+        /// <returns>Output stripped string</returns>
+        internal static string Strip(string input)
+        {
+            int i;
+            //Remove seperatos in front
+            for (i = 0; i < input.Length; i++)
+            {
+                bool flag = false;
+                foreach (char ch in Common.seperators)
+                {
+                    if (input[i] == ch)
+                        flag = true;
+                }
+                if (!flag)
+                    break;
+            }
+            string temp = input.Remove(0, i);
+            if (temp == String.Empty)
+                return String.Empty;
+            //Remove seperators at back
+            for (i = temp.Length - 1; i > 0; i--)
+            {
+                bool flag = false;
+                foreach (char ch in Common.seperators)
+                {
+                    if (temp[i] == ch)
+                        flag = true;
+                }
+                if (!flag)
+                    break;
+            }
+            string output = temp.Remove(i + 1, temp.Length - i - 1);
+            return output;
+        }
     }
 }

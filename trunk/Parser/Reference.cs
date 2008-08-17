@@ -46,7 +46,7 @@ namespace Parser
             set
             {
                 referenceText = value;
-                referenceText = Strip(referenceText);
+                referenceText = Common.Strip(referenceText);
             }
         }
 
@@ -59,7 +59,7 @@ namespace Parser
             set
             {
                 authors = value;
-                authors = Strip(authors);
+                authors = Common.Strip(authors);
             }
         }
 
@@ -72,7 +72,7 @@ namespace Parser
             set
             {
                 title = value;
-                title = Strip(title);
+                title = Common.Strip(title);
             }
         }
 
@@ -85,7 +85,7 @@ namespace Parser
             set
             {
                 publication = value;
-                publication = Strip(publication);
+                publication = Common.Strip(publication);
             }
         }
 
@@ -98,29 +98,8 @@ namespace Parser
             set
             {
                 pageNos = value;
-                pageNos = Strip(pageNos);
+                pageNos = Common.Strip(pageNos);
             }
-        }
-        #endregion
-
-        #region PrivateMethods
-
-        private string Strip(string input)
-        {
-            int i;
-            for (i = 0; i < input.Length; i++)
-            {
-                bool flag = false;
-                foreach (char ch in Common.seperators)
-                {
-                    if (input[i] == ch)
-                        flag = true;
-                }
-                if (!flag)
-                    break;
-            }
-            string output = input.Remove(0, i);
-            return output;
         }
         #endregion
 
@@ -145,12 +124,19 @@ namespace Parser
             Common.sw.WriteLine("\n\n");            
         }
 
-        public bool IsValid()
+        public bool IsPredictionNeeded()
         {
             if (authors == String.Empty || publication == string.Empty || title == string.Empty)
                 return false;
             else
                 return true;
+        }
+
+        public void InterchangeTitlePublication()
+        {
+            Title = Publication;
+            int index = ReferenceText.IndexOf(Title) + Title.Length;
+            Publication = ReferenceText.Substring(index,ReferenceText.Length - index);
         }
     }
 }
