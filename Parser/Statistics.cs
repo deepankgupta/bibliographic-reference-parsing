@@ -37,7 +37,7 @@ namespace Parser
 
         public static void UpdateStatistics(Reference parsedReference)
         {
-            if (parsedReference.IsValid())
+            if (parsedReference.IsPredictionNeeded())
             {
                 //Collect statistics
                 statParsed = statParsed + 1;

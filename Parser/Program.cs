@@ -9,12 +9,9 @@ using System.Diagnostics;
 using System.Windows.Forms;
 
 //SOME TODOS
-//1. If a reference has no title, publication and page nos, it is not a reference. 
-//2. If a reference has a publication and no title, swap the two things. 
 //3. In case of Levi and Levi in Extract Citation, find a better way... 
 //4. Add other keywords in the keyword.txt file. 
-//5. Make a GUI to add keywords, to add correct publications or not... think about it. 
-
+//5. To make a GUI to add keywords, to add correct publications or not... think about it. 
 
 namespace Parser
 {
@@ -200,9 +197,9 @@ namespace Parser
                         {
                             //TODO:We need to take in the redundant words from the file. 
                             if (word.Equals("the", StringComparison.InvariantCultureIgnoreCase) ||
-                                                            word.Equals("from", StringComparison.InvariantCultureIgnoreCase) ||
-                                                            word.Equals("for", StringComparison.InvariantCultureIgnoreCase) ||
-                                                            word.Equals("and", StringComparison.InvariantCultureIgnoreCase))
+                                word.Equals("from", StringComparison.InvariantCultureIgnoreCase) ||
+                                word.Equals("for", StringComparison.InvariantCultureIgnoreCase) ||
+                                word.Equals("and", StringComparison.InvariantCultureIgnoreCase))
                             {
                             }
                             else
@@ -286,8 +283,7 @@ namespace Parser
             {
                 //SPECIAL CASE : This means that there is no publication and only title and we will 
                 //make title as the previously predicted publication. 
-                parsedReference.Title = parsedReference.Publication;
-                parsedReference.Publication = "";
+                parsedReference.InterchangeTitlePublication();         
                 return;
             }
             else
@@ -311,7 +307,7 @@ namespace Parser
                         difference2 = temp;
                         seperatorEnd = position;
                     }
-                }
+                }                
             }
             Common.sw.WriteLine("Pridicted Publication Start Value : " + seperatorStart);
             Common.sw.WriteLine("Predicted Publication End Value : " + seperatorEnd);
@@ -428,7 +424,7 @@ namespace Parser
             FindPageNumbers(ref r);
             FindPublication(ref r);
             FindTitle(ref r);
-            if (r.IsValid())
+            if (r.IsPredictionNeeded())
             {
                 r.Display();
             }
@@ -463,6 +459,8 @@ namespace Parser
             int newIndex = index;
             string subString = paragraph.Substring(0, index);
             string[] strs = subString.Split(Common.seperators, StringSplitOptions.RemoveEmptyEntries);
+            if (strs.Length == 0)
+                return;
             //Check for stopword
             foreach (string stopword in stopwords)
             {
@@ -500,7 +498,9 @@ namespace Parser
             if (i != 0)
                 i = i + 1;
             int temp = subString.LastIndexOf(strs[i]);
-            Common.sw.WriteLine("Citation : " + paragraph.Substring(temp, index - temp));
+            string citation = paragraph.Substring(temp, index - temp);
+            citation = Common.Strip(citation);
+            Common.sw.WriteLine("Citation : " + citation);
         }
 
         internal static void Start()
@@ -523,7 +523,7 @@ namespace Parser
                 Statistics.UpdateReference();
                 parsedReference = ParseReference(reference);
                 Statistics.UpdateStatistics(parsedReference);
-                if(!parsedReference.IsValid())
+                if(!parsedReference.IsPredictionNeeded())
                 {
                     parsedReference.toBePredicted = true;                    
                 }
@@ -532,6 +532,10 @@ namespace Parser
             references = referenceList.ToArray(typeof(Reference)) as Reference[];
             for(int i = 0; i<references.Length;i++)
             {
+                if (i == 53)
+                {
+                    Common.sw.WriteLine("");
+                }
                 if (references[i].toBePredicted)
                 {
                     //Use Statistics to predict publication and then title. 
@@ -546,8 +550,7 @@ namespace Parser
                         PredictPublication(ref references[i]);
                         if (references[i].Title == String.Empty && references[i].Publication != String.Empty)
                         {
-                            references[i].Title = references[i].Publication;
-                            references[i].Publication = String.Empty;
+                            references[i].InterchangeTitlePublication();
                         }
                         if ((references[i].Title == String.Empty && references[i].Publication == String.Empty) ||
                             (references[i].Authors == String.Empty && references[i].year == -1))
