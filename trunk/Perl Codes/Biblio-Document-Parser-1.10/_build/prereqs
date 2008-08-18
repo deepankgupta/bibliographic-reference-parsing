@@ -1,0 +1,10 @@
+{
+          'build_requires' => {},
+          'conflicts' => {},
+          'requires' => {
+                          'LWP::UserAgent' => 0,
+                          'File::Temp' => 0,
+                          'HTML::HeadParser' => 0
+                        },
+          'recommends' => {}
+        }

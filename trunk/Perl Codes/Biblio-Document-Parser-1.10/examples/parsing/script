@@ -1,0 +1,6 @@
+cd /home/deepank/Desktop/Biblio-Document-Parser-1.10
+perl Build.PL
+./Build
+sudo ./Build install
+cd examples/parsing
+perl docparser.pl 21387.txt

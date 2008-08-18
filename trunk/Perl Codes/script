@@ -1,0 +1,44 @@
+#!/bin/bash
+DIR=$(pwd)
+echo $DIR
+cd $DIR/Text-Unidecode-0.04
+perl Makefile.PL
+sudo make
+sudo make test
+sudo make install
+cd $DIR/libwww-perl-5.813
+perl Makefile.PL
+make
+make test
+make install
+cd $DIR/HTML-Tagset-3.20
+perl Makefile.PL
+make
+make test
+make install
+cd $DIR/HTML-Rainbow-0.05
+perl Makefile.PL
+make
+make test
+make install
+cd $DIR/URI-1.37
+perl Makefile.PL
+make
+make test
+make install
+cd $DIR/MIME-Base64-3.07
+perl Makefile.PL
+make
+make test
+make install
+cd $DIR/Biblio-Citation-Parser-1.10
+perl Build.PL
+./Build
+sudo ./Build install
+cd $DIR/Biblio-Document-Parser-1.10
+perl Build.PL
+./Build
+sudo ./Build install
+cd ./Biblio-Document-Parser-1.10
+cd examples/parsing
+perl docparser.pl $1

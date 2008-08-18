@@ -1,0 +1,11 @@
+Changes
+MANIFEST
+MANIFEST.SKIP
+Makefile.PL
+README
+Rainbow.pm
+eg/html-parse
+eg/rainbow.pl
+t/00-basic.t
+t/01-method.t
+META.yml                                 Module meta-data (added by MakeMaker)
