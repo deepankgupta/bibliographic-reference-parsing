@@ -1,0 +1,12 @@
+{
+          'build_requires' => {},
+          'conflicts' => {},
+          'requires' => {
+                          'URI' => 0,
+                          'Text::Unidecode' => 0
+                        },
+          'recommends' => {
+                            'SOAP::Lite' => 0,
+                            'URI::OpenURL' => 0
+                          }
+        }

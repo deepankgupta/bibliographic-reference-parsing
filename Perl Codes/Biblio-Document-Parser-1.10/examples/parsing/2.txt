@@ -1,0 +1,304 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+	"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=WINDOWS-1252">
+<meta name="generator" content="ABBYY FineReader 9.0">
+<meta name="author" content="">
+<meta name="description" content="">
+<meta name="keywords" content="">
+
+<title></title>
+</head>
+
+<body>
+<p>Beitr. naturk. Forsch. SüdwDtl,   Band 37   S. 143-147    5 Abb.        Karlsruhe, 1. 12. 1978</p>
+<p>Spinnen aus Brasilien IV.<br>Zwei neue blinde Bodenspinnen aus Amazonien<br>(Arachnida, Araneae)</p>
+<p>von Paolo Marcello Brignoli<br>Kurzfassung</p>
+<p>Aus Brasilien, Amazonas, Umgebung von Manaus werden Monoblemma becki n. sp. ([[male]], [[female]] unbekannt)<br>und Xyccarph myops n. gen. n. sp. ([[male]], [[female]] unbekannt) beschrieben. Monoblemma becki ist nach Genital-<br>und Allgemeinmorphologie von allen bekannten Tetrablemmidae verschieden. Die neue Gattung Xyc-<br>carph (Generotypus: X myops n. sp.) ist nahe verwandt mit Stenoonops Simon, 1891 und kann von dieser<br>nach der Genitalmorphologie unterschieden werden; zu dieser Gattung gehört wahrscheinlich auch X. te-<br>nuis (Vellard, 1924) comb. nov. (beschrieben aus Brasilien als Stenoonops); X. tenuis kann von X.<br>myops durch die gut entwickelten Augen und die Genitalia unterschieden werden.</p>
+<p>Summary</p>
+<p>From Brazil, Amazonas, Surroundings of manaus) are described Monoblemma becki n.sp. ([[male]], [[female]] un-<br>known) and Xyccarph myops n. gen. n. sp. ([[male]], [[female]] unknown). The first species can be distinguished by the<br>genitalia and the general morphology from the othern known Tetrablemmidae. Xyccarph n. gen. (Gene-<br>rotype: X myops n. sp.) is near to Stenoonops Simon, 1891, from whichit can be distinguished by the geni-<br>talia; to this genus belongs probably alsoX. tenuis (Vellard, 1924) comb. nov. (described asStenoonops<br>from Brazil); X. tenuis can be distinguished from X myops by the genitalia and the well developed eyes.</p>
+<p>Unter dem mir schon seit längerer Zeit freundlicherweise von Prof. Dr. L. BECK (Karlsruhe)<br>anvertrauten Material befanden sich die hier beschriebenen, recht bemerkenswerten Arten,<br>die die recht bescheidene Anzahl der bisher bekannten blinden Bodenspinnen bereichern.<br>Die erste Art gehört zu den noch wenig bekannten Tetrablemmidae, die zweite zu der großen<br>Familie Oonopidae; aus beiden Gruppen waren schon blinde Arten bekannt.<br>Das Material ist zum Teil in den Landessammlungen für Naturkunde Karlsruhe (LNK) und<br>zum Teil in meiner Sammlung (CBL) verwahrt.</p>
+<p>Die Fundorte sind bei Beck (1971) genauer beschrieben. Meine Frau Micha hat mir bei der<br>Anfertigung der Abbildungen geholfen.</p>
+<p>Fam. Tetrablemmidae<br>Monoblemma becki n. sp.</p>
+<p>Fundort und Material: Brasilien - Amazonas, Umgebung von Manaus, Reserva Ducke, 21. XII. 65<br>(A 5), 14. IV. 66 (A 1), L. Beck leg., 2 [[male]][[male]] (Holotypus, LNK; Paratypus, CBL).</p>
+<p>Beschreibung cf (5 unbekannt): orangenes Prosoma (Abb. 4-5), relativ erhöht, aber nicht<br>wie bei Matta hambletoni Crosby, mit wenigen Haaren, glatt, außer am Rand, ohne Spur von<br>Augen; Labium breiter als lang; Sternum gelblich, herzförmig, unbehaart, sehr fein bekörnt.</p>
+<p>143</p>
+
+<hr>
+
+<p>Chelizeren (Abb. 2) unspezialisiert; Pedipalpus (Abb. 3) mit äußerst einfachem Bulbus; gelb-</p>
+<p>liche, unbewehrte Beine. Vollig gepanzertes orangenes Opisthosoma.</p>
+<p>MaBe (in mm): Prosoma 0,38 lang, 0,34 breit; Opisthosoma 0,48 lang. Totallánge: 0,86.</p>
+<table frame="box" rules="all" border="1">
+<tr>
+<td>
+<p>Beine</p>
+</td>
+<td>
+<p>Femur</p>
+</td>
+<td>
+<p>Patella</p>
+</td>
+<td>
+<p>Tibia</p>
+</td>
+<td>
+<p>Metatarsus</p>
+</td>
+<td>
+<p>Tarsus</p>
+</td>
+<td>
+<p>Total</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>I</p>
+</td>
+<td>
+<p>0,26</p>
+</td>
+<td>
+<p>0,10</p>
+</td>
+<td>
+<p>0,20</p>
+</td>
+<td>
+<p>0,12</p>
+</td>
+<td>
+<p>0,17</p>
+</td>
+<td>
+<p>0,85</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>II</p>
+</td>
+<td>
+<p>0,21</p>
+</td>
+<td>
+<p>0,10</p>
+</td>
+<td>
+<p>0,17</p>
+</td>
+<td>
+<p>0,12</p>
+</td>
+<td>
+<p>0,15</p>
+</td>
+<td>
+<p>0,75</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III</p>
+</td>
+<td>
+<p>0,17</p>
+</td>
+<td>
+<p>0,09</p>
+</td>
+<td>
+<p>0,15</p>
+</td>
+<td>
+<p>0,12</p>
+</td>
+<td>
+<p>0,15</p>
+</td>
+<td>
+<p>0,68</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IV</p>
+</td>
+<td>
+<p>0,30</p>
+</td>
+<td>
+<p>0,10</p>
+</td>
+<td>
+<p>0,25</p>
+</td>
+<td>
+<p>0,17</p>
+</td>
+<td>
+<p>0,17</p>
+</td>
+<td>
+<p>0,99</p>
+</td>
+</tr>
+</table>
+<p>Derivatio nominis: Ich widme diese Art ihrem Sammler, Herrn Prof. Dr. L. Beck.</p>
+<p>Beziehungen: Aus Nord- und Südamerika sind bis jetzt nur 4 Tetrablemmidae bekannt<br>und zwar„Tetrablemma&quot; cambridgei Bryant 1940 (Cuba und Mexiko, vgl. auch Blandin,<br>1977), „T.&quot; sbordonii brignoli, 1972 (Mexiko), Matta hambletoni Crosby, 1934 (Brasi-<br>lien) und Monoblemma unicum Gertsch, 1941 (Panama).</p>
+<p>Matta hambletoni (aus Minas Gerais) hat eine sehr erhöhte Kopfpartie des Prosoma, einen<br>kleinen vorderen Zahn auf den Chelizeren, die Tibia des Pedipalpus ist verdickt und der Bul-<br>bus hat einen kleinen Konduktor; nach all diesen Charakteren scheint mir die neue Art nicht<br>mit M. hambletoni verwandt zu sein.</p>
+<p>Monoblemma unicum (sowohl Monoblemma wie Matta waren bis jetzt monotypisch) ähnelt<br>sehr der neuen Art nach Prosoma und Pedipalpus; der Embolus ist aber nicht so gerade und<br>ein einziges Auge ist vorhanden.</p>
+<p>Von den beiden,,Tetrablemma&quot; (die offenbar nicht zu dieser Gattung gehören) könnte nach<br>dem Prosoma und dem Bulbus cambridgei zur Gattung Monoblemma gehören, sbordonii hin-<br>gegen wahrscheinlich nicht (wegen des Konduktors).</p>
+<p>Farn. Oonopidae<br>Xyccarph n. gen.</p>
+<p>Beschreibung: Eine Gattung der,,Oonopidae molles&quot; mit länglichem, niedrigem Proso-<br>ma; großes, breit abgestutztes Sternum; unspezialisierte Chelizeren; Endpartie der Gnatho-<br>coxae spezialisiert (s. Abb. 1); relativ einfacher Pedipalpus (s. Abb. 1); Bulbus vom Tarsus<br>ungetrennt; einfacher Embolus; unbewehrte Beine.<br>Generotypus: Xyccarph myops n. sp.</p>
+<p>Beziehungen: Jeder, der sich eingehend mit den Oonopidae beschäftigt hat, wird sicher<br>bemerkt haben, daß die wenigen Gattungen in ihrer Genitalmorphologie nicht einheitlich<br>sind. Wie ich schon anderswo angemerkt habe, ist das System von simon für diese Familie äu-<br>ßerst unbefriedigend. Die recht einheitliche allgemeine Morphologie hat die Anzahl der Gat-<br>tungen relativ bescheiden gelassen; da aber die meisten Gattungen unklar abgegrenzt sind, ist<br>dies nicht besonders erfreulich.</p>
+<p>Die wichtigsten Charaktere sind die unterschiedliche Sklerotisierung des Abdomens (keine<br>Scuta; ein Scutum; zwei Scuta), die Bewehrung der Beine (bewehrt; unbewehrt), die Lage der<br>Augen (in einem Ring; in drei Gruppen). Auf diesen unterschiedlich kombinierten Charakte-<br>ren gründen sich fast alle Gattungen.</p>
+<p>Die wenigen „kleinen&quot; Gattungen sind meist monotypisch und auf irgendwie — für den Be-<br>schreiber - „sonderbare&quot; Arten begründet.</p>
+<p>144</p>
+
+<hr>
+
+ <p>Abb. 1: Xyccarph myops n. gen. n. sp. - Pedipalpus und Gnathocoxa.</p>
+<p>Abb. 2-5: Monoblemma becki n. sp. — 2: Pedipalpus; 3: Chelizere; 4-5: Prosoma von der Seite und von<br>oben. Maßstäbe in mm.</p>
+<p>Die Gattungen - oder genauer, die Namen - von Simon werden sicher zum Großteil erhalten<br>werden; zu den wichtigen Charakteren muß aber auch die Genitalmorphologie gerechnet<br>werden; dieser letzte Charakter wird wahrscheinlich in Zukunft das System erheblich verän-<br>dern. Die allgemeine Morphologie wird sicher nützlich bleiben, besonders bei den genital-<br>morphologisch einfachen Arten. Der Wert der Sklerotisierung und der Bewehrung der Beine<br>ist sicher überschätzt worden; wir kennen aber noch zu wenige Arten, um dies zu entscheiden.<br>Nach der Bewehrung der Beine (bzw. des Palpus) kann man Xyccarph von Aprusia, Blanioo-<br>nops, Calculus, Heteroonops, Oonops, Telchius, Wanops unterscheiden; nach der völlig ver-<br>schiedenen Genitalmorphologie (vom Tarsus gut abgetrennter Bulbus) von Oonopinus,<br>Oonops, Orchestina, Salsula, Tapinesthis, Oonopoides, Subantarctia, Ascuta, Pounamua, Ka-<br>pitia, Caecoonops, Termitoonops und Anophthalmoonops; wegen der verschiedenen Form<br>des Prosoma oder der Beine von Hypnoonops, Zyngoonops und Tasmanoonops.</p>
+<p>145</p>
+
+<hr>
+
+<p>Von verschiedenen dieser Gattungen sind leider nur die [[female]] [[female]] bekannt; genitalmorphologisch<br>ähnlich ist nur Wanops; Oonopoides hat spezialisierte Gnathocoxae, aber nicht wie die von<br>Xyccarph.</p>
+<p>Nach dem Bulbus erinnern an Xyccarph nur Australoonops Hewitt, 1915 (einzige bekannte<br>Art, A. granulatus Hewitt, 1915 aus dem Capland) und Stenoonops Simon, 1891 (Generoty-<br>pus: S. scabriculus Simon, 1891 von der Insel St. Vincent); A. granulatus hat scheinbar nor-<br>male Gnathocoxae und ein seltsames, spezialisiertes Labium und sollte mit Xyccarph nicht be-<br>sonders nah verwandt sein. Stenoonops ist von Chickering (1969) revidiert worden; meiner<br>Meinung nach hat der vor kurzem verstorbene amerikanische Autor diese Gattung zu weit ge-<br>faßt: wenn man zu Stenoonops nur die dem Generotypus nahen Formen stellt, würden ihr au-<br>ßer scabriculus nur S. hoffi Chickering, 1969, S. lucradus Chickering, 1969 und vielleicht<br>S. cletus Chickering, 1969 gehören. Die Arten mit gut abgetrenntem Bulbus gehören für<br>mich anderswo hin. Stenoonops stricto sensu könnte mit Xyccarph verwandt sein; der Bulbus<br>von Stenoonops ist aber rundlich, kurz und mit sehr kurzem Embolus (die Gnathocoxae schei-<br>nen normal zu sein). Die Beziehungen zwischen Xyccarph und Stenoonops können an die zwi-<br>schen Parachtes und Harpactocrates (Dysderidae) erinnern.</p>
+<p>Xyccarph myops n. sp. (Abb. 1)</p>
+<p>Fundort und Material: Brasilien-Amazonas, Umgebung von Manaus, Reserva Ducke, 15. IV. 1966<br>(A 3), L. Beck leg., 1 [[male]] (Holotypus, LNK).</p>
+<p>Beschreibung [[male]] ( [[female]] unbekannt): niedriges, längliches, glattes, gelbliches Prosoma, im Um-<br>riß unregelmäßig sechseckig (laterale Seiten länger als die anderen), etwas erhöht im hinteren<br>(Thorax) Teil; sehr niedriger Clypeus; undeutliche Spuren von zwei völlig depigmentierten<br>Augen (Stellung etwa wie in Diblemma); Labium ohne Besonderheiten; Sternum schildför-<br>mig, gelblich, glatt, breit abgestutzt (die IV Coxae um weniger als ihren Durchmesser tren-<br>nend). Chelizeren ohne Besonderheiten, ohne Zähne; Gnathocoxae und Pedipalpus (siehe<br>Abb. 1); gelbliche, behaarte aber unbewehrte Beine, Femora IV etwas verdickt. Opisthosoma<br>weiß behaart, länglich.</p>
+<p>Maße (in mm): Prosoma 0,56 lang, 0,40 breit; Opisthosoma 0,54 lang. Totallänge: 1,10.</p>
+<table frame="box" rules="all" border="1">
+<tr>
+<td>
+<p>Beine</p>
+</td>
+<td>
+<p>Femur         Patella</p>
+</td>
+<td>
+<p>Tibia</p>
+</td>
+<td>
+<p>Metatarsus</p>
+</td>
+<td>
+<p>Tarsus</p>
+</td>
+<td>
+<p>Total</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>I</p>
+</td>
+<td>
+<p>0,40             0,26</p>
+</td>
+<td>
+<p>0,32</p>
+</td>
+<td>
+<p>0,27</p>
+</td>
+<td>
+<p>0,15</p>
+</td>
+<td>
+<p>1,40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>II</p>
+</td>
+<td>
+<p>fehlen beiderseits</p>
+</td>
+<td>
+&nbsp;
+</td>
+<td>
+&nbsp;
+</td>
+<td>
+&nbsp;
+</td>
+<td>
+&nbsp;
+</td>
+</tr>
+<tr>
+<td>
+<p>III</p>
+</td>
+<td>
+<p>0,32             0,15</p>
+</td>
+<td>
+<p>0,20</p>
+</td>
+<td>
+<p>0,18</p>
+</td>
+<td>
+<p>0,15</p>
+</td>
+<td>
+<p>1,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IV</p>
+</td>
+<td>
+<p>0,46             0,24</p>
+</td>
+<td>
+<p>0,34</p>
+</td>
+<td>
+<p>0,32</p>
+</td>
+<td>
+<p>0,16</p>
+</td>
+<td>
+<p>1,52</p>
+</td>
+</tr>
+</table>
+<p>Derivatio nominis: ,,myops&quot; heißt „kurzsichtig&quot;; der Gattungsname ,,Xyccarph&quot; (neutrum)<br>ist der eines imaginären Landes in einem Roman von Clark Ashton Smith.<br>B eziehungen: Von den schon bekannnten südamerikanischen Oonopidae gehörtX. tenuis<br>(Vellard, 1924) comb. nov. (beschrieben als Stenoonops) aus Brasilien (Niteroi) wahr-<br>scheinlich zu Xyccarph. Diese Art ist völlig pigmentiert und hat 6 normale Augen in drei<br>Gruppen; der Pedipalpus (nach Vellard, 1.924: 128) hat „patelle courte, tibia plus court que<br>la patelle (d'un quart), tarse formant avec le bulbe une masse ovoide termine à la partie sup.<br>par 1 grosse pointe mousse dirigée en dehors&quot;.</p>
+<p>Schlußbemerkungen</p>
+<p>Die Anzahl der blinden oder mikrophthalmen Spinnen ist jetzt relativ hoch (vgl. auch Brig-<br>noli, 1973), die meisten bekannten Arten sind aber troglobiont oder termitophil. Nur wenige</p>
+<p>146</p>
+
+<hr>
+
+<p>der sehr vielen bekannten detritikolen Spinnen haben erheblich reduzierte Augen (meistens<br>verschwinden die VMA bei den achtäugigen Arten); wie bei den Käfern gibt es keine befriedi-<br>gende Erklärung für eine Reduzierung der Augen bei den detritikolen oder termitophilen Ar-<br>ten.</p>
+<p>Zwei blinde Tetrablemmidae waren schon bekannt, aus Höhlen in Mexiko („Tetrablemma&quot;<br>sbordonii) und Sumatra (Abiemma baso); die meisten Arten der Familie haben wenig entwik-<br>kelte Augen. Viele blinde Oonopidae sind schon bekannt, meist aus Höhlen. Zu denen von<br>mir (1973) schon erwähnten muß man noch verschiedene, in letzter Zeit entdeckte termi-<br>tophile Arten hinzufügen.</p>
+<p>Literatur</p>
+<p>Beck, L. (1971): Bodenzoologische Gliederung und Charakterisierung des amazonischen Regenwaldes.</p>
+<p>- Amazoniana, 3, (1): 69—132; Kiel.<br>Bland in, P. (1977): Note sur la presence de Tetrablemma cambridgei Bryant au Mexique. - Rev. Arach-</p>
+<p>nol., 1 (3): 85-88.</p>
+<p>Brignoli, P. M. (1972): Some cavernicolous spiders from Mexico. - Quad. Acc. Naz. Lincei, 171:<br>129-155.</p>
+<p>Brignoli, P. M. (1973): II popolamento di ragni nelle grotte tropicali. Int. J. Speleol., 5: 325-336.<br>Bryant, E. B. (1940): Cuban spiders in the Museum of Comparative Zoology. Bull. Mus. Comp. Zool.</p>
+<p>Harvard, 86 (7): 249-532; Harvard.<br>Chickering, A. M. (1969): The genus Stenoonops in Panama and the West Indies.-Breviora, 339: 1-35.<br>Crosby, C. R. (1934): An interesting two-eyed spider from Brazil. Bull. Brooklyn Ent. Soc, 29: 19-23;</p>
+<p>New York.</p>
+<p>Gertsch, W. J. (1941): Report on some Arachnids from Barro Colorado Island, Canal Zone. Amer.</p>
+<p>Mus. Novit., 1146: 1-14.<br>Hewitt, J. (1915): Descriptions of new South African Arachnida. Ree. Albany Mus., 3: 70-106.<br>Simon, E. (1891): On the spiders of the island of St. Vincent. Part 1. Proc. Zool. Soc. London (1891):</p>
+<p>549-575; London.</p>
+<p>Vellard, J. (1924): Etudes de Zoologie. Arch. Inst. V. Brazil 2: 121-170.</p>
+<p>Anschrift des Verfassers: Dr. Paolo Marcello Brignoli, Istituto di Zoologia dell'Universitä, Piazza<br>Regina Margherita, 7, 1-67100 L'Aquila (Italia)</p>
+<p>147</p>
+</body>
+</html>
+
