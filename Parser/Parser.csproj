@@ -75,6 +75,7 @@
     <Compile Include="Reference.cs" />
     <Compile Include="ReferenceExtractor.cs" />
     <Compile Include="Statistics.cs" />
+    <Compile Include="XmlCreator.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="paper.xml" />

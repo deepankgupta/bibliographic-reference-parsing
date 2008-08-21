@@ -31,14 +31,14 @@ namespace Parser
         /// </summary>
         /// <param name="paragraph">The strong specifying the paragraph</param>
         /// <returns>True or False</returns>
-        internal static int CheckForYear(string paragraph)
+        internal static int CheckForYear(string paragraph, ref int year)
         {
             //Contains all unicode characters followed by 4 digit numbers
             //then again any characters can be present.             
-            string pattern = @"(\p{Nd}\p{Nd}\p{Nd}\p{Nd})";
+            string pattern = @"(\p{Nd}\p{Nd}\p{Nd}\p{Nd}[^\p{Nd}])";
             MatchCollection mc;
             //Year stored in an integer value. 
-            int year = 0;
+            year = 0;
             mc = Regex.Matches(paragraph, pattern);
             if (mc.Count == 0)
             {
@@ -47,6 +47,7 @@ namespace Parser
             for (int i = 0; i < mc.Count; i++)
             {
                 string q = mc[i].Value;
+                q = q.Substring(0, q.Length - 1);
                 year = Convert.ToInt32(q);
                 //Valid set of years is between 1800 and 2008
                 if (year > 1800 && year < 2008)

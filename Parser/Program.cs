@@ -23,6 +23,7 @@ namespace Parser
         /// </summary>
         static string[] publicationData;
         static Reference[] references;
+        static XmlCreator referenceXml;
         #endregion
 
         private static string AddEscapeChars(string s)
@@ -52,7 +53,7 @@ namespace Parser
         {
             //Contains all unicode characters followed by 4 digit numbers
             //then again any characters can be present.             
-            string pattern = @"(\p{Nd}\p{Nd}\p{Nd}\p{Nd})";
+            string pattern = @"(\p{Nd}\p{Nd}\p{Nd}\p{Nd}[^\p{Nd}])";
             MatchCollection mc;
 
             //Flag is set to true for all the wrong numbers caught and thought of as an year. 
@@ -71,8 +72,8 @@ namespace Parser
                     return false;
                 }
                 GroupCollection gc = mc[0].Groups;
-                string q = gc[1].Value; 
-                
+                string q = gc[1].Value;
+                q = q.Substring(0, q.Length - 1);
 
                 year = Convert.ToInt32(q);
                 //Valid set of years is between 1800 and 2008
@@ -170,6 +171,8 @@ namespace Parser
         /// <param name="r">The reference object is passed by reference as parameter. </param>
         static void FindPublication(ref Reference r)
         {
+            if (r.ReferenceText == String.Empty)
+                return;
             //empty pattern2
             string pattern2 = "";
             MatchCollection mc2;
@@ -331,6 +334,8 @@ namespace Parser
         /// <param name="r">The reference object is passed by reference. </param>
         static void FindTitle(ref Reference r)
         {
+            if (r.ReferenceText == string.Empty)
+                return;
             ArrayList ref_title = new ArrayList();
             int t1 = r.ReferenceText.IndexOf(r.year.ToString()) + r.year.ToString().Length;
             int t2 = 0;
@@ -365,6 +370,8 @@ namespace Parser
         /// <param name="r">The reference object is passed as a parameter by reference. </param>
         private static void FindPageNumbers(ref Reference r)
         {
+            if (r.ReferenceText == String.Empty)
+                return;            
             string input = r.ReferenceText.Substring(r.yearEnd);
             string pattern = @"\p{Nd}+-\p{Nd}+";
             Regex re = new Regex(pattern);
@@ -426,7 +433,7 @@ namespace Parser
             FindTitle(ref r);
             if (r.IsPredictionNeeded())
             {
-                r.Display();
+                r.Display(referenceXml);
             }
             return r;
         }
@@ -453,7 +460,8 @@ namespace Parser
             string[] stopwords = { "in", "since", "during", "until", "before" };
             if (paragraph == null || paragraph == String.Empty)
                 return;
-            int index = Common.CheckForYear(paragraph);
+            int year = -1;
+            int index = Common.CheckForYear(paragraph, ref year);
             if (index == -1)
                 return;
             int newIndex = index;
@@ -500,11 +508,12 @@ namespace Parser
             int temp = subString.LastIndexOf(strs[i]);
             string citation = paragraph.Substring(temp, index - temp);
             citation = Common.Strip(citation);
-            Common.sw.WriteLine("Citation : " + citation);
+            Common.sw.WriteLine("Citation : " + citation + " " + year.ToString());
         }
 
         internal static void Start()
         {
+            referenceXml = new XmlCreator("reference.xml");
             ArrayList referenceList = new ArrayList();
             ReferenceExtractor refExt = new ReferenceExtractor(Common.inputFilePath, Common.referenceFilePath);
             refExt.Main();
@@ -531,11 +540,7 @@ namespace Parser
             }
             references = referenceList.ToArray(typeof(Reference)) as Reference[];
             for(int i = 0; i<references.Length;i++)
-            {
-                if (i == 53)
-                {
-                    Common.sw.WriteLine("");
-                }
+            {               
                 if (references[i].toBePredicted)
                 {
                     //Use Statistics to predict publication and then title. 
@@ -561,7 +566,7 @@ namespace Parser
                         }
                         else
                         {
-                            references[i].Display();
+                            references[i].Display(referenceXml);
                         }                            
                     }
                 }
