@@ -122,7 +122,8 @@ namespace Parser
         private double CheckForYearAndAuthor(string paragraph)
         {
             double prob = 0.0;
-            int index = Common.CheckForYear(paragraph);
+            int year = -1;
+            int index = Common.CheckForYear(paragraph, ref year);
             if (index == -1)
             {
                 if (noPreviousParagraphReference >= 0)

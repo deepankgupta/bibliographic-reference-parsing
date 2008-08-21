@@ -103,23 +103,31 @@ namespace Parser
         }
         #endregion
 
-        public void Display()
+        public void Display(XmlCreator file)
         {
+            file.AddReferenceTag();
+            file.AddReferenceField("Text", referenceText);
+
             Common.sw.WriteLine("REFERENCE : " + referenceText);
+            file.AddReferenceField("Authors", authors);
             Common.sw.WriteLine("AUTHORS : " + authors);
+            file.AddReferenceField("Year", year.ToString());
             Common.sw.WriteLine("YEAR : " + year);
+            file.AddReferenceField("Title", title);
             Common.sw.WriteLine("TITLE : " + title);
             if (this.seperatorBeforePublication != -1 && this.seperatorBeforePublication < referenceText.Length)
-            {
+            {                
                 Common.sw.WriteLine("SEPERATOR BEFORE PUBLICATION : "
                     + referenceText[seperatorBeforePublication]);
             }
+            file.AddReferenceField("Publication", publication);
             Common.sw.WriteLine("PUBLICATION : " + publication);
             if (this.seperatorAfterPublication != -1 && this.seperatorAfterPublication < referenceText.Length)
             {
                 Common.sw.WriteLine("SEPERATOR AFTER PUBLICATION : " +
                     referenceText[seperatorAfterPublication]);
             }
+            file.AddReferenceField("PageNumbers", PageNos);
             Common.sw.WriteLine("PAGE NUMBERS : " + PageNos);
             Common.sw.WriteLine("\n\n");            
         }
