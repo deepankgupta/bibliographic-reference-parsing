@@ -14,25 +14,41 @@ namespace Parser
         public static int statPublication = 0;
         public static int statTitle = 0;
         public static int statParsed = 0;
+        public static int statPredictedPublication = 0;
 
         public static double avgPublicationLength = 0.0;
         public static double avgReferenceLength = 0.0;
         public static double avgPublicationStart = 0.0;
         public static double avgPublicationEnd = 0.0;
+
         #endregion
 
-        public static void DisplayStatistics()
+        public static void DisplayStatistics(XmlCreator statisticsXml)
         {
             Common.sw.WriteLine("STATISTICS");
             Common.sw.WriteLine("Total : " + stat);
-            Common.sw.WriteLine("Author : " + statAuthor);
-            Common.sw.WriteLine("Year : " + statYear);
-            Common.sw.WriteLine("Title : " + statTitle);
-            Common.sw.WriteLine("Publication : " + statPublication);
+            statisticsXml.AddFirstLevelTag("Reference", "");
+            statisticsXml.AddSecondLevelTag("Total", stat.ToString());
             Common.sw.WriteLine("Avg Reference Length : " + avgReferenceLength);
+            statisticsXml.AddSecondLevelTag("Length", avgReferenceLength.ToString());
+            Common.sw.WriteLine("Author : " + statAuthor);
+            statisticsXml.AddFirstLevelTag("Author", statAuthor.ToString());
+            Common.sw.WriteLine("Year : " + statYear);
+            statisticsXml.AddFirstLevelTag("Year", statYear.ToString());
+            Common.sw.WriteLine("Title : " + statTitle);
+            statisticsXml.AddFirstLevelTag("Titles", statTitle.ToString());
+            Common.sw.WriteLine("Publication : " + statPublication);
+            Common.sw.WriteLine("Predicted Publication : " + statPredictedPublication);
+            statisticsXml.AddFirstLevelTag("Publications", "");
+            statisticsXml.AddSecondLevelTag("DomainBased", statPublication.ToString());
+            statisticsXml.AddSecondLevelTag("Predicted", statPredictedPublication.ToString());
             Common.sw.WriteLine("Avg Publication Length : " + avgPublicationLength);
+            statisticsXml.AddSecondLevelTag("Length", statTitle.ToString());
             Common.sw.WriteLine("Avg Publication start : " + avgPublicationStart);
+            statisticsXml.AddSecondLevelTag("StartIndex", avgPublicationStart.ToString());
             Common.sw.WriteLine("Avg Publication end : " + avgPublicationEnd);
+            statisticsXml.AddSecondLevelTag("EndIndex", avgPublicationEnd.ToString());
+            
         }
 
         public static void UpdateStatistics(Reference parsedReference)
@@ -61,6 +77,11 @@ namespace Parser
         internal static void UpdatePublication()
         {
             statPublication = statPublication + 1;
+        }
+
+        internal static void UpdatePredictedPublication()
+        {
+            statPredictedPublication = statPredictedPublication + 1;
         }
 
         internal static void UpdateTitle()

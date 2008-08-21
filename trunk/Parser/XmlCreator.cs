@@ -36,7 +36,7 @@ namespace Parser
         /// </summary>
         /// <param name="name">String specifying the tag name. </param>
         /// <param name="text">String specifying the inner text. </param>
-        internal void AddReferenceField(string tag, string value)
+        internal void AddSecondLevelTag(string tag, string value)
         {
             if (tag == String.Empty || tag == null)
                 return;
@@ -47,9 +47,9 @@ namespace Parser
         /// <summary>
         /// A function to add a Reference tag
         /// </summary>
-        internal void AddReferenceTag()
+        internal void AddFirstLevelTag(string tag, string value)
         {
-            XmlElement xmlelem = Create("Reference", "");
+            XmlElement xmlelem = Create(tag, value);
             xmldoc.ChildNodes.Item(1).AppendChild(xmlelem);
         }
 

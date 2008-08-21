@@ -105,29 +105,29 @@ namespace Parser
 
         public void Display(XmlCreator file)
         {
-            file.AddReferenceTag();
-            file.AddReferenceField("Text", referenceText);
+            file.AddFirstLevelTag("Reference", "");
+            file.AddSecondLevelTag("Text", referenceText);
 
             Common.sw.WriteLine("REFERENCE : " + referenceText);
-            file.AddReferenceField("Authors", authors);
+            file.AddSecondLevelTag("Authors", authors);
             Common.sw.WriteLine("AUTHORS : " + authors);
-            file.AddReferenceField("Year", year.ToString());
+            file.AddSecondLevelTag("Year", year.ToString());
             Common.sw.WriteLine("YEAR : " + year);
-            file.AddReferenceField("Title", title);
+            file.AddSecondLevelTag("Title", title);
             Common.sw.WriteLine("TITLE : " + title);
             if (this.seperatorBeforePublication != -1 && this.seperatorBeforePublication < referenceText.Length)
             {                
                 Common.sw.WriteLine("SEPERATOR BEFORE PUBLICATION : "
                     + referenceText[seperatorBeforePublication]);
             }
-            file.AddReferenceField("Publication", publication);
+            file.AddSecondLevelTag("Publication", publication);
             Common.sw.WriteLine("PUBLICATION : " + publication);
             if (this.seperatorAfterPublication != -1 && this.seperatorAfterPublication < referenceText.Length)
             {
                 Common.sw.WriteLine("SEPERATOR AFTER PUBLICATION : " +
                     referenceText[seperatorAfterPublication]);
             }
-            file.AddReferenceField("PageNumbers", PageNos);
+            file.AddSecondLevelTag("PageNumbers", PageNos);
             Common.sw.WriteLine("PAGE NUMBERS : " + PageNos);
             Common.sw.WriteLine("\n\n");            
         }

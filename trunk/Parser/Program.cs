@@ -24,6 +24,8 @@ namespace Parser
         static string[] publicationData;
         static Reference[] references;
         static XmlCreator referenceXml;
+        static XmlCreator statisticsXml;
+        static XmlCreator citationXml;
         #endregion
 
         private static string AddEscapeChars(string s)
@@ -312,7 +314,7 @@ namespace Parser
                     }
                 }                
             }
-            Common.sw.WriteLine("Pridicted Publication Start Value : " + seperatorStart);
+            Common.sw.WriteLine("Predicted Publication Start Value : " + seperatorStart);
             Common.sw.WriteLine("Predicted Publication End Value : " + seperatorEnd);
             if (seperatorStart > seperatorEnd)
                 return;
@@ -320,6 +322,7 @@ namespace Parser
                 return;
             if (seperatorEnd == -1 || seperatorStart == -1)
                 return;
+            Statistics.UpdatePredictedPublication();
             parsedReference.Publication = parsedReference.ReferenceText.Substring(seperatorStart,
                 seperatorEnd - seperatorStart);
             parsedReference.Title = parsedReference.ReferenceText.Substring(parsedReference.yearEnd,
@@ -455,20 +458,20 @@ namespace Parser
             publicationData = (string[])arr.ToArray(typeof(string));
         }
 
-        static private void ExtractCitation(string paragraph)
+        static private Citation ExtractCitation(string paragraph)
         {
             string[] stopwords = { "in", "since", "during", "until", "before" };
             if (paragraph == null || paragraph == String.Empty)
-                return;
+                return null;
             int year = -1;
             int index = Common.CheckForYear(paragraph, ref year);
             if (index == -1)
-                return;
+                return null;
             int newIndex = index;
             string subString = paragraph.Substring(0, index);
             string[] strs = subString.Split(Common.seperators, StringSplitOptions.RemoveEmptyEntries);
             if (strs.Length == 0)
-                return;
+                return null;
             //Check for stopword
             foreach (string stopword in stopwords)
             {
@@ -502,18 +505,22 @@ namespace Parser
             }
             //Put the citation in
             if (i == strs.Length - 1)
-                return;
+                return null;
             if (i != 0)
                 i = i + 1;
             int temp = subString.LastIndexOf(strs[i]);
-            string citation = paragraph.Substring(temp, index - temp);
-            citation = Common.Strip(citation);
-            Common.sw.WriteLine("Citation : " + citation + " " + year.ToString());
+            Citation citation = new Citation();
+            citation.Name = paragraph.Substring(temp, index - temp);
+            citation.Year = year;
+            Common.sw.WriteLine("Citation : " + citation.Name + " " + citation.Year.ToString());
+            return citation;
         }
 
         internal static void Start()
         {
-            referenceXml = new XmlCreator("reference.xml");
+            referenceXml = new XmlCreator("reference.xml", "References");
+            statisticsXml = new XmlCreator("statistics.xml", "Statistics");
+            citationXml = new XmlCreator("citations.xml", "Citations");
             ArrayList referenceList = new ArrayList();
             ReferenceExtractor refExt = new ReferenceExtractor(Common.inputFilePath, Common.referenceFilePath);
             refExt.Main();
@@ -570,15 +577,23 @@ namespace Parser
                         }                            
                     }
                 }
-            }            
-            Statistics.DisplayStatistics();
+            }
+            Statistics.DisplayStatistics(statisticsXml);
+            ArrayList citationArr = new ArrayList();
             foreach (string paragraph in Common.paragraphs)
             {
-                ExtractCitation(paragraph);
+                Citation citation = ExtractCitation(paragraph);
+                if (citation != null)
+                {
+                    citationArr.Add(citation);
+                }
             }
-            
+            Citation[] citations = citationArr.ToArray(typeof(Citation)) as Citation[];
             Common.sw.Close();
-            
+            foreach (Citation citation in citations)
+            {
+                citation.Display(citationXml);
+            }
             Process p = new Process();
             ProcessStartInfo pInfo = new ProcessStartInfo(@"c:\windows\System32\notepad.exe", Common.outputFilePath);
             p.StartInfo = pInfo;
