@@ -1,0 +1,1246 @@
+﻿<tax:taxonx xmlns:dc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.taxonx.org/schema/v1 http://www.taxonx.org/schema/v1/taxonx1.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-1.xsd http://digir.net/schema/conceptual/darwin/2003/1.0 http://digir.net/schema/conceptual/darwin/2003/1.0/darwin2.xsd">
+<tax:taxonxHeader>
+<mods:mods>
+<mods:titleInfo>
+<mods:title>
+A new species, 
+<taxonomicName genus="Dicheirinia" rank="species" species="panamensis">Dicheirinia panamensis</taxonomicName>
+, and new records of rust fungi from Panama.
+</mods:title>
+</mods:titleInfo>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Hernández, J. R.</mods:namePart>
+</mods:name>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Piepenbring, M.</mods:namePart>
+</mods:name>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Rios, M. B. V.</mods:namePart>
+</mods:name>
+<mods:typeOfResource>text</mods:typeOfResource>
+<mods:relatedItem type="host">
+<mods:titleInfo>
+<mods:title>Mycol Progress</mods:title>
+</mods:titleInfo>
+<mods:part>
+<mods:detail type="volume">
+<mods:number>6</mods:number>
+</mods:detail>
+<mods:extent unit="page">
+<mods:start>81</mods:start>
+<mods:end>91</mods:end>
+</mods:extent>
+<mods:date>2007</mods:date>
+</mods:part>
+</mods:relatedItem>
+<mods:identifier type="HNS-PUB">21381</mods:identifier>
+<mods:location>
+<mods:url>http://hdl.handle.net/10199/15436</mods:url>
+</mods:location>
+</mods:mods>
+</tax:taxonxHeader>
+<tax:taxonxBody>
+<tax:p>
+A 
+new species
+, 
+<tax:name>Dicheirinia panamensis</tax:name>
+, and new records of rust fungi from Panama
+</tax:p>
+<tax:p>Jose R. Hernandez • Meike Piepenbring • Maritza Betzaida Vega Rios</tax:p>
+<tax:p>Received: 13 July 2006/Revised: 15 November 2006/Accepted: 19 January 2007/Published online: 11 April 2007 © German Mycological Society and Springer-Verlag 2007</tax:p>
+<tax:p>
+Abstract Based on a recent fieldwork in Panama, 25 species of rust fungi and several new hosts are reported for the first time from this country. Among the new records is one 
+new species
+, 
+<tax:name>Dicheirinia panamensis</tax:name>
+on 
+<tax:name>Cojoba rufescens</tax:name>
+(Fabaceae). It differs from known species in the genus 
+<tax:name>Dicheirinia</tax:name>
+by the presence of uredinia and telia without paraphyses, irregularly tuberculate urediniospores with two germ pores on the flattened sides, and tuberculate teliospores formed by three probasidial cells, subtended by a pedicel with three hyaline, apical cells.
+</tax:p>
+<tax:p>Introduction</tax:p>
+<tax:p>Among the first fungi reported from Panama were rusts collected by N.G. Lagerheim (Dietel 1894). Since then, data on rust fungi (Uredinales, Basidiomycota) from Panama have been published by numerous authors: Arthur (1918),</tax:p>
+<tax:p>Jackson (1926), Standley (1927), Kern and Chardon (1927), Kern (1938), Hennen and Cummins (1956), J0rstad (1957), Toler et al. (1959), Ramachar and Cummins (1965), Cummins (1978), Buritica and Hennen (1980), Ono and Hennen (1983), Hennen and McCain (1993), Buritica (1999a, b), Berndt (2002), Hernandez and Hennen (2003), Hernandez et al. (n.d.), and Piepenbring (2005). In total, only about 67 species of rust fungi are known from Panama (Piepenbring 2006), although diversity of plants is very high and rusts are common in this country.</tax:p>
+<tax:p>
+Several days of intensive field work in Panama yielded numerous new records of rust species, new host records, and a species of 
+<tax:name>Dicheirinia</tax:name>
+on Fabaceae that is different from all known species and therefore described as new.
+</tax:p>
+<tax:p>Materials and methods</tax:p>
+<tax:p>Fresh specimens were collected from 24-29 November 2004 mainly in the province of Chiriqui, not only in agricultural fields and natural topical forest but also on roadsides between Panama City and Chiriqui. Collections were pressed in a conventional plant press and slowly dried in an electric drier. For microscopic examination, material was mounted in aqueous lactic acid and examined using a Zeiss Axioplan 2 microscope with bright-field optics. Size ranges in species descriptions are based on at least 20 measurements of each structure. Digital images were taken using a Nikon Coolpix 995 and a Nikon DXM 1200. Drawings were done with a drawing mirror or free hand on scaled paper, redrawn with ink, and scanned. SEM pictures were taken from spores dusted onto double-adhesive tape, covered during 45 s at 5 kV with gold, and observed with a Hitachi S4500. Plates were made using Adobe Photoshop Elements 2.0 and Corel Draw 12. Specimens from BPI were</tax:p>
+<tax:p>
+Taxonomical novelty: 
+<tax:name>Dicheirinia panamensis</tax:name>
+J.R. Hern., M. Piepenbr. and Vega Rios.
+</tax:p>
+<tax:p>J. R. Hernandez (*) Systematic Botany and Mycology Lab, USDA/ARS, 10300 Baltimore Ave., Beltsville, MD 20705-2350, USA e-mail: jose@nt.ars-grin.gov</tax:p>
+<tax:p>M. Piepenbring Institute for Ecology, Evolution and Diversity, J.W. Goethe-Universitaet Frankfurt am Main, 60054 Frankfurt am Main, Germany e-mail: piepenbring@em.uni-frankfurt.de</tax:p>
+<tax:p>
+M. B. Vega Rios Universidad Autonoma de Chiriqui, David, Chiriqui, Panama e-mail: maritzabvr@hotmail.com examined for comparison with different species of 
+<tax:name>Dicheirinia</tax:name>
+and also with other rusts reported in this paper. Authority names are based on recommendations given in Authors of Fungal Names (CABI): http://www.indexfungorum.org/ FungalNameAuthors.pdf. Host plants were identified by the authors as well as Ralph Mangelsdorff (University of Frankfurt) and Joe Kirkbride and John Wiersema (USDA- ARS, SBML, Beltsville). Collections were deposited at the Herbario Nacional of the Universidad de Panama (PMA) and at the US National Fungus Collection (BPI).
+</tax:p>
+<tax:p>
+DNA was extracted from leaves of 
+<tax:name>Desmodium</tax:name>
+sp. and 
+<tax:name>Phaseolus multiflorus var. coccineus</tax:name>
+containing sori using the PureLink Plant DNA Reagent (Invitrogen), and the identity of 
+<tax:name>P. meibomiae</tax:name>
+was confirmed using the polymerase chain reaction (PCR) protocol (Frederick et al. 2002) with Ppm1/Ppa2 primers.
+</tax:p>
+<tax:p>
+Specimens of 
+<tax:name>Dicheirinia</tax:name>
+examined
+</tax:p>
+<tax:p>
+<tax:name>Dicheirinia archeri Cummins</tax:name>
+on 
+<tax:name>Lonchocarpus nicou</tax:name>
+DC. Surinam, Scotelweg, 2 Nov. 1934, leg. W.A. Archer H-256, 0-III (BPI 143084), isotype.
+</tax:p>
+<tax:p>
+<tax:name>Dicheirinia binata</tax:name>
+(Berkeley and Curtis) Arthur on 
+<tax:name>Erythrina</tax:name>
+sp. Guatemala, Livingston, Dept. Izabal, 18 Jan. 1905, leg. W.A. Kellerman 5465, II (BPI 143091), isotype of Uredo cabreriana Kern. and Kell. On 
+<tax:name>Erythrina glauca Willd</tax:name>
+, Venezuela, near Los Caobos, 28 Apr. 1934, leg. F.D. Kern and R.A. Toro 1713, II (BPI 853921). Venezuela, road from Caracas to El Valle, 950 m, 9 July 1932, leg. Chardon and Toro, II (BPI 143115). On 
+<tax:name>Erythrina cristagalli</tax:name>
+, Puerto Rico, Agr. Exp. Sta. Mayaguez, 7 July 1924, leg. H.H. Whetzel, F.D. Kern and R.A. Toro 2415, II (BPI 853922).
+</tax:p>
+<tax:p>
+<tax:name>Dicheirinia guianensis Cummins</tax:name>
+on L. nicou DC, Guyana, Bonisiki Landing, Arawau River, North West District, 16 July 1934, leg. W.A. Archer H-248, 0-I-II-III (BPI 143120), Isotype, intercepted at New York. On 
+<tax:name>Lonchocarpus</tax:name>
+sp., 3 June 1938, leg. Insp. Hodson, 0-I-II-III (BPI 143119).
+</tax:p>
+<tax:p>
+<tax:name>Dicheirinia manaosensis (Henn.)</tax:name>
+Cummins (=
+<tax:name>Diorchidium manaosensis Henn.</tax:name>
+) on 
+<tax:name>Lonchocarpus</tax:name>
+rariflorus Martius.
+</tax:p>
+<tax:p>
+Brazil, Manaos, Rio Negro, Aug 1900, leg. E. Ule, III (BPI 143122, 
+<tax:name>Mycotheca brasiliensis</tax:name>
+No. 11), isotype. On 
+<tax:name>Lonchocarpus</tax:name>
+sp. Colombia, Letecia, 15 Oct. 1943, leg. C. O. Grassl 10098, III (BPI 853923).
+</tax:p>
+<tax:p>
+<tax:name>Dicheirinia ormosiae (Arthur)</tax:name>
+Cummins (=
+<tax:name>Puccinia ormosiae Arthur</tax:name>
+) on 
+<tax:name>Ormosia krugii</tax:name>
+Urban, Puerto Rico, El Yunque, 14 Apr. 1916, leg. H.H. Whetzel and E.W. Olive 276, II-III (BPI143124), isotype.
+</tax:p>
+<tax:p>
+<tax:name>Dicheirinia solenioides Cummins</tax:name>
+on 
+<tax:name>Ormosia</tax:name>
+sp. (as 
+<tax:name>Nectandra aff. rigida</tax:name>
+). Brazil, Sao Francisco, Apr. 1885, leg. E. Ule, II-III (BPI 143136), isotype.
+</tax:p>
+<tax:p>
+<tax:name>Dicheirinia spinulosa (J. W. Baxter)</tax:name>
+J.F. Hennen and Cummins on 
+<tax:name>Leucaena</tax:name>
+sp. Mexico (locality unknown), intercepted at the Nogales Plant Quarantine Station (Arizona, USA) by J.M. Kaiser and D. Noel, III (BPI 115592), isotype of 
+<tax:name>Diorchidium spinulosum J.W. Baxter</tax:name>
+.
+</tax:p>
+<tax:p>
+<tax:name>Dicheirinia superba H. S. Jacks</tax:name>
+. and Holw. on 
+<tax:name>Piptadenia</tax:name>
+sp. (originally erroneously reported as Inga sp.). Brazil, Rio de Janeiro, Petropolis, 20 Oct 1921, leg. E.W.D. and M.M. Holway 1234, 0-III (BPI 143138), isotype.
+</tax:p>
+<tax:p>Results</tax:p>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Dicheirinia panamensis</tax:name>
+J.R. Hern., M. Piepenbr. and Vega Rios, 
+sp. nov.</tax:nomenclature>
+<tax:div type="description">
+<tax:p>(Figures 1, 2, and 3).</tax:p>
+</tax:div>
+<tax:div type="etymology">
+<tax:p>Etymology The name of the species is based on the country where it was collected.</tax:p>
+</tax:div>
+<tax:div type="description">
+<tax:p>Spermogonia et aecia ignota. Uredinia amphigena, praecipue abaxialia, dispersa vel aggregata, ca. 0.1 -1 mm longa, 0.5-1 (2) lata, cinnamomea, subepidermalia, erumpentia; urediniosporae (30) 37-45 (52)x(15) 19-25 (27) µm, leviter complanatae, visae de parte lato obovoideae, ellipsoideae, sphaeroideae vel stellatae, cinnamomeae, episporio tuberculato praecipue marginis sporae, pori germinationis 2, aequatoriis, pedicello hyaline, fragili, 4-5 µm lato. Telia amphigena, praecipue abaxialia, atro-rufo-brunnea, rotunda vel elongata, ad 1 mm diam., subepidermalia, erumpentia; teliosporae (30) 36-40 µm longae, (31) 38-45 (48) µm latae, atro-cinnamomea, 3-cellulares, cellula 19-24x24-26 µm, pariete 2-4 µm crassa, tuberculata, tuberculis ad 3 µm longae; pedicellus hyalinus, 5-7 µm latus, 3 cellulis apicalibus hyalinis, una pro singulis cellulis probasidialibus.</tax:p>
+<tax:p>Spermogonia and aecia unknown. Uredinia amphigenous, mainly hypophyllous, scattered or more or less grouped, subepidermal, becoming erumpent, 0.1 -1 mm diameter, cinnamon brown, sometimes on round chlorotic areas of the leaf up to 0.5 cm, old lesions brown, up to 1 cm diameter; urediniospores (30) 37-45 (52)x(15) 19-25 (27) µm, somewhat flattened, in side view ovoid, ellipsoid, spheroid, star-shaped, cinnamon brown, cell wall 2-4 Hm thick, tuberculate, tubercles 2-10 Hm long, 2-5 Hm wide and tapering to a blunt apex, arranged mainly on margin of spores, sometimes at apex as a crown, sometimes tubercles very conspicuous giving spore a divided appearance, germ pores two, equatorial, in center of flattened side of spores, pedicel hyaline, fragile, 4-5 Hm wide. Telia amphigenous, mainly hypophyllous, close to uredinia, dark chestnut brown, round, sometimes elongated, up to 1 mm diameter, subepidermal becoming erumpent; teliospores sometimes in uredinia, (30) 36-40 µm long, (31) 38-45 (48) µm wide, yellowish when young, dark cinnamon brown when old, three probasidial cells delimited by vertical septa, probasidial cells 19-24x24-26 |j.m, wall 2-4 µm, outer wall tuberculate, tubercles up to 3 long, tapering to a blunt apex; pedicel hyaline, 5-7 µm wide, with three apical hyaline cells (12x5 (µm), one subtending each probasidial cell.</tax:p>
+</tax:div>
+<tax:nomenclature>
+Holotypus On 
+<tax:name>C. rufescens</tax:name>
+(Benth.) Britton (Fabaceae, subfamily Mimosoideae). Panama, Chiriqui, Boquete, 08°46.691'N, 82°25.968'W, 26 Nov. 2004, leg. J.R. Hernandez and M. Vega Rios 2004-120, II-III (BPI 871146). Isotype in PMA.
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>Other specimens examined: at the same place on the same host plant, 27 Aug. 2005, leg. M. Piepenbring and M. Vega Rios 3518 (PMA); 6 Nov. 2005, M. Piepenbring 3680 (PMA).</tax:p>
+<tax:p>On Fabaceae indet. Panama, Chiriqui, Boquete, 08°46.691'N, 82°25.968'W, 26 Nov. 2004, leg. J.R. Hernandez and M. Vega Rios 2004-122, II-III (BPI 871147, PMA).</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:p>Discussion</tax:p>
+<tax:p>
+Species of Raveneliaceae (Uredinales) are particularly diverse on Fabaceae in the tropics (Hernandez and Hennen 2002). This family includes species in numerous genera, among which species of 
+<tax:name>Dicheirinia</tax:name>
+, 
+<tax:name>Diorchidium</tax:name>
+, 
+<tax:name>Diorchidiella</tax:name>
+, 
+<tax:name>Hapalophragmium</tax:name>
+, and 
+<tax:name>Ravenelia</tax:name>
+are morphologically somewhat similar. Species of 
+<tax:name>Dicheirinia</tax:name>
+differ from species of the other genera by vertically septate, tuberculate teliospores, subtended by a hyaline pedicel with one apical cell for each probasidial cell. The type species of the genus is 
+<tax:name>D. binata</tax:name>
+(Berk. and M.A. Curtis) Arthur (= 
+<tax:name>Triphragmium binatum</tax:name>
+Berk. and M.A. Curtis) on 
+<tax:name>Erythrina</tax:name>
+sp. from Nicaragua. Twelve species of 
+<tax:name>Dicheirinia</tax:name>
+have been described on the three subfamilies of Fabaceae (Cummins and Hiratsuka 2003): Caesalpinioideae (
+<tax:name>Cassia</tax:name>
+), Faboideae (
+<tax:name>Abrus</tax:name>
+, 
+<tax:name>Chamaecytisus</tax:name>
+, 
+<tax:name>Cytisus</tax:name>
+, 
+<tax:name>Erythrina</tax:name>
+, 
+<tax:name>Lonchocarpus</tax:name>
+, 
+<tax:name>Ormosia</tax:name>
+, 
+<tax:name>Piptadenia</tax:name>
+,and 
+<tax:name>Teline</tax:name>
+), and 
+<tax:name>Mimosoi deae</tax:name>
+(
+<tax:name>Albizia</tax:name>
+, 
+<tax:name>Archidendropsis</tax:name>
+,and 
+<tax:name>Leucaena</tax:name>
+). Up to now, no other rusts have been reported on the host species 
+<tax:name>C. rufescens</tax:name>
+. 
+<tax:name>Dicheirinia panamensis</tax:name>
+differs from other species in the genus by the presence of flattened, tuberculate urediniospores of irregular shape with two germ pores and teliospores with three probasidial cells.
+</tax:p>
+<tax:p>
+Eight of the 
+<tax:name>Dicheirinia</tax:name>
+species are known only from the Americas. 
+<tax:name>D. archeri Cummins</tax:name>
+was described on L. nicou (Aubl.) DC. from Peru (Spaulding 1961) and Surinam (Cummins 1937) and on 
+<tax:name>L. urucu</tax:name>
+Killip and A.C. Sm. and 
+<tax:name>L. utilis</tax:name>
+A.C. Sm. also from Peru (Spaulding 1961). It is a microcyclic rust with spermogonia and telia and teliospores with two probasidial cells. 
+<tax:name>D. binata</tax:name>
+(Berk. and M.A. Curtis) Arthur was reported on species of 
+<tax:name>Erythrina</tax:name>
+and an unknown host (type specimen) from Central America, the Caribbean, and tropical South America (Farr et al. 2004). It has paraphysate uredinia, strongly echinulate urediniospores with three to four germ pores, and teliospores with two probasidial cells. 
+<tax:name>D. guianensis Cummins</tax:name>
+was reported on L. nicou (Aubl.) DC. from French Guiana and Guyana (Cummins 1937; Hernandez et al. 2005a, b; Spaulding 1961) and is a macrocyclic rust. The aeciospores and urediniospores are similar to each other and have an irregular triangular shape with one germ pore in each angle of the spore. The teliospores of both species have three probasidial cells, but those of 
+<tax:name>D. guianensis</tax:name>
+are less prominently tuberculate than in 
+<tax:name>D. panamensis</tax:name>
+. 
+<tax:name>Dicheirinia manaoensis (Henn.)</tax:name>
+Cummins was reported on 
+<tax:name>L. rariflorus</tax:name>
+Mart. ex Benth. from Brazil (Hennen et al. 2005) and on 
+<tax:name>Lonchocarpus</tax:name>
+sp. from Brazil and Colombia (Buritica and Pardo-Cardona 1996;Hennenetal.2005;Kernand Thurston 1954). Spermogonia and telia were reported for this species: teliospores mostly with three probasidial cells, (38) 44-55 (65) µm high and (36) 40-55 (59) µm wide, with tubercles or plaques up to 8 µm thick at the apex of the probasidial cells. 
+<tax:name>D. ormosiae (Arthur)</tax:name>
+Cummins was reported on O. krugii Urb. from Puerto Rico, Santo Domingo, and Virgin Islands (Cummins 1935; Stevenson 1975) and on 
+<tax:name>Ormosia nobilis Tul.</tax:name>
+from Brazil (Hennen et al. 1982). It differs from all other species of the genus in having a single intercalary cell bearing teliospores with two probasidial cells (Hennen et al. 2005). Its uredinia and telia include characteristically branched paraphyses. 
+<tax:name>D. solenioides(Henn.)</tax:name>
+Cummins was reported on 
+<tax:name>Ormosia monosperma (Sw.)</tax:name>
+Urb. (=
+<tax:name>Ormosia dasycarpa Jacks</tax:name>
+.) and 
+<tax:name>Ormosia</tax:name>
+sp. from Brazil (Cummins 1940; J0rstad 1959). It produces uredinia and telia with cylindrical hyaline paraphyses, triangular, echinulate urediniospores, and teliospores with two prominently echinulate probasidial cells. 
+<tax:name>D. spinulosa (J.W. Baxter)</tax:name>
+J.F. Hennen and Cummins was reported on 
+<tax:name>Cassia</tax:name>
+sp. and 
+<tax:name>Leucaena</tax:name>
+sp. from Mexico (Cummins 1978; Gallegos and Cummins 1981; Hennen and Cummins 1973). It produces only telia, which have teliospores with two to eight probasidial cells. 
+<tax:name>D. superba</tax:name>
+H.S. Jacks. and Holw., reported on 
+<tax:name>Piptadenia</tax:name>
+sp. from Brazil (Cummins 1935; Hennen et al. 2005; Jackson 1931), produces spermogonia and telia; teliospores have two (rarely three) verrucose probasidial cells with cubical projections.
+</tax:p>
+<tax:p>
+Four species of 
+<tax:name>Dicheirinia</tax:name>
+were reported from outside the Americas. 
+<tax:name>Dicheirinia canariensis Urries</tax:name>
+was reported on 
+<tax:name>Chamaecytisus proliferus</tax:name>
+(L. f.) Link (as 
+<tax:name>Cytisus proliferus</tax:name>
+L. f.), 
+<tax:name>Cytisus congestus</tax:name>
+Ball, 
+<tax:name>Cytisus perezii</tax:name>
+Hutch., and 
+<tax:name>Teline canariensis (L.)</tax:name>
+Webb and Berth. (as 
+<tax:name>Genista canariensis L.</tax:name>
+) from Canary Islands (Gjaerum 1987; J0rstad 1958; Urries 1954, 1957). 
+<tax:name>D. canariensis</tax:name>
+produced only telia, which are paraphysate, and the teliospores have two to three probasidial cells. 
+<tax:name>Dicheirinia maderensis</tax:name>
+Gjaerum was reported on leaves of cf. 
+<tax:name>Teline maderensis Webb</tax:name>
+and Berth. from Madeira (Portugal). We did not examine the type specimen of this species, but, according to Gjaerum (1982), it produces uredinia with urediniospores subgloboid to ellipsoid, often attenuated at the apex, 27-31 x 18-21 Hm, echinulate, and telia with teliospores 20-29x 11 -13.5 Hm with few warts, while 
+<tax:name>D. panamensis</tax:name>
+has larger urediniospores that are variable in shape and strongly tuberculate and larger teliospores with block-like tubercles. 
+<tax:name>Dicheirinia trispora Cummins</tax:name>
+was reported on 
+<tax:name>Abrus precatorius</tax:name>
+L. from Mauritius (Cummins 1960). According to Cummins (1960), it is microcyclic producing spermogonia and telia with teliospores 26-34x30-40 µm, which are smaller than those of 
+<tax:name>D. panamensis</tax:name>
+. 
+<tax:name>Dicheirinia viennotii</tax:name>
+B. Huguenin was reported on 
+<tax:name>Archidendropsis granulosa</tax:name>
+(Labill.) I.C. Nielsen [=
+<tax:name>Albizia granulosa</tax:name>
+(Labill.) Benth.] from New Caledonia (Huguenin 1966). It is a macrocyclic rust that produces urediniospores with five equatorial germ pores, 26.3-36.8x19.3-33.3 µm, and teliospores with two probasidial cells, 29.8-38.5x 18.9-33.3 µm, with smooth walls.
+</tax:p>
+<tax:p>
+Hennen et al. (1998) considered 
+<tax:name>Allotelium mirabile Syd.</tax:name>
+to belong to the genus 
+<tax:name>Dicheirinia</tax:name>
+. Cummins and Hiratsuka
+</tax:p>
+<tax:p>
+Key to species of 
+<tax:name>Dicheirinia</tax:name>
+</tax:p>
+<tax:p>1. Teliospores composed of one or two probasidial cells</tax:p>
+<tax:p>2. Telia aparaphysate</tax:p>
+<tax:p>
+3. Teliospores verrucose ........................................................... 
+<tax:name>D. maderensis</tax:name>
+</tax:p>
+<tax:p>
+3. Teliospores smooth ............................................................... 
+<tax:name>D. viennotii</tax:name>
+</tax:p>
+<tax:p>2. Telia paraphysate</tax:p>
+<tax:p>
+4. Paraphyses cauliflower-like ................................................... 
+<tax:name>D. ormosiae</tax:name>
+</tax:p>
+<tax:p>4. Paraphyses not cauliflower-like</tax:p>
+<tax:p>
+5. 
+<tax:name>Teliospore</tax:name>
+ornamentation digitate, projections up to 12 µm ........ 
+<tax:name>D. binata</tax:name>
+</tax:p>
+<tax:p>
+5. 
+<tax:name>Teliospore</tax:name>
+ornamentation bead-like
+</tax:p>
+<tax:p>
+6. Paraphyses cylindrical ................................................ 
+<tax:name>D. superba</tax:name>
+</tax:p>
+<tax:p>6. Paraphyses otherwise</tax:p>
+<tax:p>
+7. Paraphyses clavate-capitate ......................................... 
+<tax:name>D. archeri</tax:name>
+</tax:p>
+<tax:p>7. Paraphyses cylindrical to slightly clavate</tax:p>
+<tax:p>
+8. Paraphyses peripheral ........................................ 
+<tax:name>D. solenoides</tax:name>
+</tax:p>
+<tax:p>
+8. Paraphyses intermingled with teliospores .................. 
+<tax:name>D. canariensis</tax:name>
+</tax:p>
+<tax:p>1. Teliospores mostly composed of three or four probasidial cells</tax:p>
+<tax:p>
+9. Teliospores mostly composed of four probasidial cells ................... 
+<tax:name>D. spinulosa</tax:name>
+</tax:p>
+<tax:p>9. Teliospores mostly composed of three probasidial cells</tax:p>
+<tax:p>10. Telia aparaphysate</tax:p>
+<tax:p>
+11. Urediniospores present, flattened, irregularly tuberculated ...... 
+<tax:name>D. panamensis</tax:name>
+</tax:p>
+<tax:p>
+11. Urediniospores absent ................................................... 
+<tax:name>D. trispora</tax:name>
+</tax:p>
+<tax:p>10. Telia paraphysate</tax:p>
+<tax:p>
+12. Abundant peripheral branched paraphyses, uredinia produced .. 
+<tax:name>D. guianensis</tax:name>
+</tax:p>
+<tax:p>
+12. Few peripheral paraphyses, uredinia not produced .................. 
+<tax:name>D. manaoensis</tax:name>
+</tax:p>
+<tax:p>
+(2003) recognized 
+<tax:name>Allotelium</tax:name>
+as a separate genus with two species, 
+<tax:name>A. mirabile Syd.</tax:name>
+and 
+<tax:name>A. calliandrae (R. Berndt)</tax:name>
+Y. Hirats., based on the lack of uredinia and the telia that are covered by a peridium for a long time.
+</tax:p>
+<tax:p>New records</tax:p>
+<tax:p>Twenty-five new records of rust fungi for Panama are listed below, which bring the total of rusts known from Panama to 92. The considerable number of new records obtained, based on specimens collected in less than 1 week, suggests that we are still far from knowing the complete diversity of rusts in Panama. In Costa Rica, a neighboring country with similar plant diversity where rusts have been collected much more intensively than in Panama, 292 species are known (Berndt 2004).</tax:p>
+<tax:p>New records of rusts in Panama</tax:p>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Coleosporium ipomoeae</tax:name>
+(Schwein.)
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+Burrill on 
+<tax:name>Ipomoea</tax:name>
+sp. Panama, Chiriqui Province, Distrito de Alanje, La Barqueta, 8°18.258'N, 82°34.822'W, 27 Nov. 2004, leg. J.R. Hernandez 2004-134, II-III (BPI 864101). Panama, Chiriqui Province, Quebrada Cermeno, Cascada, 8°30.598TN, 82°26.193'W, 28 Nov. 2004, leg. J.R. Hernandez and R. Mangelsdorff 2004- 149, II (BPI 864102).
+</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>C. ipomoeae</tax:name>
+is widespread in Central, North, South America and the Caribbean and is reported from several countries in Africa and Asia on species in the Convolvulaceae and Pinaceae (Farr et al. 2004; Hernandez et al. 2005a, b). This is the first report of 
+<tax:name>C. ipomoeae</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Coleosporium plumeriae Pat.</tax:name>
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+on 
+<tax:name>Plumeria</tax:name>
+sp. Panama, Chiriqui Province, Quebrada Cermeno, Cascada, 8°30.598N, 82°26.193'W, 28 Nov. 2004, leg. J.R. Hernandez and R. Mangelsdorff 2004-148, II-III (BPI 864104).
+</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>C. plumeriae</tax:name>
+was reported from the Caribbean, Central America, Mexico, northern South America and the USA (Florida and Hawaii). It has also been reported from Micronesia, a green house in Canada (Farr et al. 2004), and Nigeria (Hernandez et al. 2005a, b). This is the first report of 
+<tax:name>C. plumeriae</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Coleosporium vernoniae</tax:name>
+Berk. and M.A. Curtis
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+on 
+<tax:name>Elephantopus mollis Kunth</tax:name>
+. Panama, Chiriqui Province, Volcan, 8°47.398TN, 82°40.565'W, 25 Nov. 2004, leg. J.R. Hernandez 2004-101, II (BPI 864106). Panama, Chiriqui Province, Boquete, 8°46.691N, 82°25.968'W, 26 Nov. 2004, leg. J.R. Hernandez and M. Vega Rios 2004-125, II (BPI 864107).
+</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>C. vernoniae</tax:name>
+was reported from the Caribbean, Central, North and South America, and China on species in the Asteraceae and Pinaceae (Farr et al. 2004; Hernandez et al. 2005a, b). This is the first report of 
+<tax:name>C. vernoniae</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Desmella aneimiae Syd.</tax:name>
+and P. Syd.
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+on 
+<tax:name>Thelypteris</tax:name>
+sp. Panama, Chiriqui Province, San Felix, 8°16.387'N, 81°51.71'W, 29 Nov. 2004, leg. J.R. Hernandez 2004-153, II-III (BPI 864108).
+</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>D. aneimiae</tax:name>
+was reported from Mexico to Argentina and the Caribbean on species in the 
+<tax:name>Blechnaceae</tax:name>
+, Dennstaedtiaceae, Dryopteridaceae, Nephroleptidaceae, Schizaeaceae, Pteridaceae, and Thelypteridaceae (Farr et al. 2004; Hernandez et al. 2005a, b). This is the first report of 
+<tax:name>D. aneimiae</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Gerwasia pittieriana (Henn.)</tax:name>
+Leon-Gall. and Cummins
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+on 
+<tax:name>Rubus</tax:name>
+sp. Panama, Chiriqui Province, Boquete, 8°46.691N, 82°25.968'W, 26 Nov. 2004, leg. J.R. Hernandez and M. Vega Rios 2004-123, II (BPI 864110).
+</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>G. pittieriana</tax:name>
+was reported from Costa Rica and Mexico on species of Rubus (Farr et al. 2004). This is the first report of 
+<tax:name>G. pittieriana</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Kuehneola malvicola (Speg.)</tax:name>
+Arthur
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+on 
+<tax:name>Malvaviscus arboreus</tax:name>
+Cav. Panama, Chiriqui Province, Caizan, 8°44.406N, 82°49.348'W, 25 Nov. 2004, leg. J.R. Hernandez 2004-109, II (BPI 864198).
+</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>K. malvicola</tax:name>
+was reported from the Americas and Asia on species in the 
+<tax:name>Malvaceae</tax:name>
+(Farr et al. 2004). This is the first report of 
+<tax:name>K. malvicola</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Phakopsora cupheae Buritica</tax:name>
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+on 
+<tax:name>Cuphea ignea</tax:name>
+A. DC. Panama, Chiriqui Province, road to Caizan, 8°47.382'N, 82°42.547'W, 25 Nov. 2004, leg. J.R. Hernandez 2004-103, II (BPI 871907).
+</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>P. cupheae</tax:name>
+was reported from the Caribbean, Central America, and northern South America (Farr et al. 2004). This is the first report of 
+<tax:name>P. cupheae</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Phakopsora meibomiae (Arthur)</tax:name>
+Arthur
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+on 
+<tax:name>Desmodium</tax:name>
+sp. Panama, Cocle Province, Aguadulce, 8°13.227'N, 80°36.558'W, 24 Nov. 2004, leg. J.R. Hernandez 2004- 084, II (BPI 864113). On P 
+<tax:name>multiflorus var. coccineus (L.)</tax:name>
+DC. Panama, Chiriqui Province, Dominical, 8°40.455'N, 82°48.013'W, 25 Nov. 2004, leg. J.R. Hernandez 2004-114, II (BPI 864114). Identification was confirmed using realtime PCR (Frederick et al. 2002).
+</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>P. meibomiae</tax:name>
+was reported from Mexico to Argentina and the Caribbean; in addition, there are several unconfirmed reports from out of the Americas (Farr et al. 2004). This is the first report of 
+<tax:name>P. meibomiae</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Puccinia arechavaletae Speg.</tax:name>
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+on 
+<tax:name>Serjania decapleuria</tax:name>
+Croat. Panama, Chiriqui Province, David, 8°25.947'N, 82°27.045'W, 26 Nov. 2004, leg. J.R. Hernandez 2004- 128, II-M (BPI 864115).
+</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>P. arechavaletae</tax:name>
+is widespread in the Americas on species in the Sapindaceae (Farretal. 2004; Hernandezetal. 2005a, b). This is the first report of 
+<tax:name>P. arechavaletae</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Puccinia hemerocallidis Thum.</tax:name>
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+on 
+<tax:name>Hemerocallis</tax:name>
+sp. Panama, Chiriqui Province, Boquete, central plaza, 8°46.691'N, 82°25.968'W, 26 Nov. 2004, leg. J.R. Hernandez and M. Vega Rios 2004-116, II (BPI 864127). Mycol Progress (2007) 6:81-91
+</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>P. hemerocallidis</tax:name>
+was reported from Asia, Australia, Costa Rica, and the USA (Farr et al. 2004; Hernandez et al. 2002). This is the first report of 
+<tax:name>P. hemerocallidis</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Puccinia heterospora Berk.</tax:name>
+and M.A. Curtis
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+on 
+<tax:name>Hibiscus</tax:name>
+sp. Panama, Chiriqui Province, David, El Cabrero, UNACHI, 8°25.947TN, 82°27.045'W, 26 Nov. 2004, leg. J.R. Hernandez 2004-130, III (BPI 864206). On 
+<tax:name>Hibiscus</tax:name>
+sp. Panama, Chiriqui Province, San Felix, side of San Felix river, 8°16.387'N, 81°51.71'W, 29 Nov. 2004, leg. J.R. Hernandez 2004-151, III (BPI 864210).
+</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>P. heterospora</tax:name>
+is cosmopolitan, reported from the Americas, Africa, Asia, and Oceania on species in the 
+<tax:name>Malvaceae</tax:name>
+(Farr et al. 2004). This is the first report of 
+<tax:name>P. heterospora</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Puccinia hydrocotyles</tax:name>
+Cooke
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+on 
+<tax:name>Hydrocotyle bonariensis</tax:name>
+Comm. ex Lam. Panama, Chiriqui Province, Boquete, 8°46.691'N, 82°25.968'W, 26 Nov. 2004, leg. J.R. Hernandez and M. Vega Rios 2004-124, III (BPI 864128).
+</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>P. hydrocotyles</tax:name>
+was reported from the Americas, Africa, Asia,andOceaniaonspeciesofHydrocotyle (Farr et al. 2004). This is the first report of 
+<tax:name>P. hydrocotyles</tax:name>
+from Panama and confirms the tentative record in Piepenbring et al. (2002).
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Puccinia lantanae Farl.</tax:name>
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+on 
+<tax:name>Lantana</tax:name>
+sp. Panama, Chiriqui Province, Quebrada Cermeno, 8°30.531'N, 82°26.203'W, 28 Nov. 2004, leg. J.R. Hernandez and R. Mangelsdorff 2004-147, III (BPI 864209).
+</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>P. lantanae</tax:name>
+was reported as tropical and subtropical in the western hemisphere, Africa, and Asia on species in the Verbenaceae and Acanthaceae (Farr et al. 2004). This is the first report of 
+<tax:name>P. lantanae</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Puccinia lateritia Berk.</tax:name>
+and M.A. Curtis
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>on Borreria ocymoides (Burm. f.) DC. Panama, Chiriqui Province, Volcan, 8°47.398TN, 82°40.565'W, 25 Nov. 2004, leg. J.R. Hernandez 2004-102, III (BPI 864194). This specimen confirms the tentative record in Piepenbring et al. (2002).</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>P. lateritia</tax:name>
+was reported as tropical and subtropical in the western hemisphere, Africa, and Asia on species in the Rubiaceae (Farr et al. 2004). This is the first report of 
+<tax:name>P. lateritia</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Puccinia oxalidis Dietel</tax:name>
+and Ellis
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+on 
+<tax:name>Oxalis</tax:name>
+sp. Panama, Chiriqui Province, Caizan, 8°44.406TN, 82°49.348'W, leg. J. R. Hernandez 2004-107, II (BPI 864197). Panama, Chiriqui Province, Boquete, 8°46.691N, 82°25.968'W, 26 Nov. 2004, leg. J.R. Hernandez and M. Vega Rios 2004-117, II (BPI 842600). Panama, Chiriqui Province, Boquete, 8°46.691'N, 82°25.968'W, 26 Nov. 2004, leg. J.R. Hernandez and M. Vega Rios 2004-118, II (BPI 864201). Panama, Chiriqui Province,
+</tax:p>
+<tax:p>Boquete, 8°46.691TN, 82°25.968'W, 26 Nov. 2004, leg. J.R. Hernandez and M. Vega Rios 2004-119, II (BPI 864202).</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>P. oxalidis</tax:name>
+was reported as cosmopolitan (Farr et al. 2004). This is the first report of 
+<tax:name>P. oxalidis</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Puccinia pelargonii-zonalis Doidge</tax:name>
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+on 
+<tax:name>Pelargonium hortorum</tax:name>
+L.H. Bailey. Panama, Chiriqui Province, Volcan, N 8° 46.421', W 82° 38.271', 25 Nov. 2004, leg. J.R. Hernandez 2004-095, II (BPI 864130).
+</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>P. pelargonii-zonalis</tax:name>
+was reported as cosmopolitan (Farr et al. 2004). This is the first report of 
+<tax:name>P. pelargonii-zonalis</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Puccinia urbaniana Henn</tax:name>
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+on 
+<tax:name>Stachytarpheta cayennensis (Rich.)</tax:name>
+Vahl. Panama, Chiriqui Province, Los Algarrobos, 8°29.164'N, 82°25.951'W, 27 Nov. 2004, leg. J.R. Hernandez 2004-136, III (BPI 864133).
+</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>P. urbaniana</tax:name>
+was reported from a number of countries in the Americas (Farr et al. 2004). This is the first report of 
+<tax:name>P. urbaniana</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Pucciniastrum epilobii</tax:name>
+G.H. Otth
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+on 
+<tax:name>Fuchsia</tax:name>
+sp. Panama, Chiriqui Province, Volcan, 8°46.421'N, 82°38.271'W, 25 Nov. 2004, leg. J.R. Hernandez 2004-096, II (BPI 864134).
+</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>P. epilobii</tax:name>
+was reported from the Americas, Asia, Europe, and Oceania (Farr et al. 2004). This is the first report of 
+<tax:name>P. epilobii</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Uromyces commelinae</tax:name>
+Cooke
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+on 
+<tax:name>Commelina</tax:name>
+sp. Panama, Chiriqui Province, Boquete, 8°46.691'N, 82°25.968'W, 26 Nov. 2004, leg. J.R. Hernandez and M. Vega Rios 2004- 121, II-III (BPI 864203).
+</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>U. commelinae</tax:name>
+was reported as cosmopolitan from the Americas, Africa, Asia, and Oceania (Farr et al. 2004). This is the first report of 
+<tax:name>U. commelinae</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Uromyces dolicholi</tax:name>
+Arthur
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+on 
+<tax:name>Cajanus cajan</tax:name>
+(L.) Millsp. Panama, Cocle Province, Aguadulce, 8°13.227N, 80°36.558'W, 24 Nov. 2004, leg. J.R. Hernandez 2004-081, II (BPI 864136). Panama, Chiriqui Province, Caizan, 8°44.406'N, 82°49.348'W, 25 Nov. 2004, leg. J.R. Hernandez 2004-104, II (BPI 864137). On Rhynchosia sp. Panama, Chiriqui Province, Siogui, 8°13.241'N, 81°44.758'W, 29 Nov. 2004, leg. J.R. Hernandez 2004-155, II (BPI 864140).
+</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>U. dolicholi</tax:name>
+was reported from the Caribbean, Central, North and South America, Africa, and Asia (Farretal. 2004). This is the first report of 
+<tax:name>U. dolicholi</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Uromyces euphorbiae</tax:name>
+Cooke and Peck
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>on Chamaesyce sp. Panama, Cocle Province, Aguadulce, 8°13.227'N, 80°36.558'W, 24 Nov. 2004, leg. J.R. Hernandez 2004-083, II-III(BPI864141).On Poinsettia heterophylla (L.) Klotzsch and Garcke. Panama, Chiriqui Province, Distrito de Alanje, La Barqueta, 8°18.258'N, 82°34.822'W, 27 Nov. 2004, leg. J. R. Hernandez 2004-135, II (BPI 864142).</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>U. euphorbiae</tax:name>
+is cosmopolitan, reported as widespread in the Americas, Africa, Asia, Europe, and Oceania on species of Euphorbiaceae (Farr et al. 2004; Hernandez et al. 2005a, b). This is the first report of 
+<tax:name>U. euphorbiae</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Uromyces hedysari-paniculati</tax:name>
+(Schwein.) Farl. apud Ellis
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+on 
+<tax:name>Desmodium</tax:name>
+sp. Panama, Chiriqui Province, Distrito de Alanje, La Barqueta, 8°18.258'N, 82°34.822'W, 27 Nov. 2004, leg. J.R. Hernandez 2004-133, II (BPI 864143).
+</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>U. hedysari-paniculati</tax:name>
+has been reported as widespread in the Caribbean, Central, North, and South America on species of 
+<tax:name>Desmodium</tax:name>
+and Meibomia (Fabaceae; Farr et al. 2004; Hernandez et al. 2005a, b). This is the first report of 
+<tax:name>U. hedysari-paniculati</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Uromyces novissimus Speg.</tax:name>
+on Cayaponia sp. Panama,
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>Chiriqui Province, Caizan, 8°44.406'N, 82°49.348'W, 25 Nov. 2004, leg. J.R. Hernandez 2004-106, II-III (BPI 864196).</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>U. novissimus</tax:name>
+was reported from the Caribbean, Central, North, and South America (Farr et al. 2004). This is the first report of 
+<tax:name>U. novissimus</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Uropyxis diphysae</tax:name>
+(Arthur) Cummins
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+on 
+<tax:name>Diphysa americana(Mill.)</tax:name>
+M. Sousa. Panama, Chiriqui Province, Plaza de Caizan, 8°43.528'N, 82°48.944'W, 25 Nov. 2004, leg. J. R. Hernandez 2004-110, III (BPI 864148).
+</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>U. diphysae</tax:name>
+was reported on species of 
+<tax:name>Diphysa</tax:name>
+from Central America and Mexico (Farr et al. 2004). This is the first report of 
+<tax:name>U. diphysae</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:p>New host records from Panama</tax:p>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Dietelia portoricensis</tax:name>
+(Whetzel and Olive) Buritica and J.F. Hennen
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+on 
+<tax:name>Mikania micrantha Kunth</tax:name>
+. Panama, Chiriqui Province, David, El Cabrero, UNACHI, 8°25.947'N, 82°27.045'W, 26 Nov. 2004, leg. J.R. Hernandez 2004- 127, III (BPI 864204). Panama, Quebrada Cermeno, 8°30.263'N, 82°26.342'W, 28 Nov. 2004, leg. J.R. Hernandez and R. Mangelsdorff 2004-144, III (BPI 864208).
+</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>D. portoricensis</tax:name>
+was reported from Brazil, Costa Rica, Colombia, Guatemala, Guyana, Honduras, El Salvador, Puerto Rico, Trinidad and Tobago, and Venezuela (Buritica and Hennen 1980; Evans and Ellison 2005; Farr et al. 2004; Hernandezetal. 2005a, b). Ithas been reported from Panama on 
+<tax:name>Mikania scandens (L.)</tax:name>
+Willd. and 
+<tax:name>Mikania</tax:name>
+sp. (Buritica and Hennen 1980). This is the first report of 
+<tax:name>D. portoricensis</tax:name>
+on M. 
+<tax:name>micrantha</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Puccinia cnici-oleracei Pers</tax:name>
+.
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+on 
+<tax:name>Emilia fosbergii</tax:name>
+Nicolson. Panama, Cocle Province, Aguadulce, 8°13.227'N, 80°36.558'W, 24 Nov. 2004, leg. J.R. Hernandez 2004- 082, III (BPI 864118). Panama, Veraguas Province, La Pena, 8°9.913'N, 81°5.069'W, 24 Nov. 2004, leg. J.R. Hernandez 2004-087, III (BPI 864119). On Melampodium divaricatum (Rich.) DC. Panama, Cocle Province, Aguadulce, 8°13.227'N, 80°36.558'W, 24 Nov. 2004, leg. J.R. Hernandez 2004-085, III (BPI864124). On Synedrella nodiflora (L.) Gaertn. Panama, Chiriqui Province, David, El Cabrero, UNACHI, 8°25.947'N, 82°27.045'W, 26 Nov. 2004, leg. J.R. Hernandez 2004-129, III (BPI 864205).
+</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>P. cnici-oleracei</tax:name>
+is widespread in Africa, the Americas, Asia, and Europe on several species in the Asteraceae (Farr et al. 2004; Hernandez et al. 2005a, b). It has been reported from Panama on 
+<tax:name>Neurolaena lobata (L.)</tax:name>
+R. Br. ex Cass. as 
+<tax:name>Puccinia synendrellae Henn.</tax:name>
+(Arthur 1916), as 
+<tax:name>P. emiliae Henn.</tax:name>
+(Standley 1927, 1933), and as P. melampodii Arthur (Jackson 1922). This is the first report of 
+<tax:name>P. cnici-oleracei</tax:name>
+on 
+<tax:name>E. fosbergii</tax:name>
+, 
+<tax:name>M. divaricatum</tax:name>
+, and 
+<tax:name>S. nodiflora</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Puccinia thaliae Dietel</tax:name>
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+on 
+<tax:name>Canna</tax:name>
+sp. Panama, Chiriqui Province, Volcan, 8°46.421'N, 82°38.271'W, 25 Nov. 2004, leg. J.R. Hernandez 2004-097, II-III (BPI 864132). On Calathea sp. Panama, Veraguas Province, Los Ruices, 08°12.152'N, 81°30.521'W, 24 Nov. 2004, leg. J.R. Hernandez 2004-091, III. Panama, Chiriqui Province, Quebrada Cermeno, 08°29.997'N, 82°26.266'W, 28 Nov. 2004, leg. J.R. Hernandez 2004-141, II-III.
+</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>P. thaliae</tax:name>
+is widespread in the Americas as well as in Africa and Asia, reported on species in the Marantaceae and Cannaceae (Farr et al. 2004; Hernandez et al. 2005a, b). It has been reported from Panama on Calathea sp. (Kern 1938)asPuccinia cannae Henn. This is the firstreportof 
+<tax:name>P. thaliae</tax:name>
+on 
+<tax:name>Canna</tax:name>
+sp. from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Uromyces appendiculatus (Pers.)</tax:name>
+Unger
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+on 
+<tax:name>Vigna unguiculata(L.)</tax:name>
+Walp. Panama, Chiriqui Province, Dominical, 8°39.825'N, 82°47.77'W, 25 Nov. 2004, leg J.R. Hernandez 2004-115, II (BPI 864138).
+</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>U. appendiculatus</tax:name>
+is cosmopolitan, reported on a number of species in the Fabaceae (Farr et al. 2004). It has been reported from Panama on Macroptilium atropurpureum (Sesse and Moc. ex DC.) Urb. (Lenne 1990, the firstspecific mention of Panama, although her references only refer to Central America). This is the first report of 
+<tax:name>U. appendiculatus</tax:name>
+on 
+<tax:name>V. unguiculata</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Uromyces neurocarpi Dietel</tax:name>
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+on 
+<tax:name>Clitoria falcata Lam.</tax:name>
+Panama, Veraguas Province, El Piro, 8°12.516'N, 81°37.735'W, 24 Nov. 2004, leg. J.R. Hernandez 2004- 093, II-III (BPI 864145).
+</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>U. neurocarpi</tax:name>
+is a neotropical rust reported on species of 
+<tax:name>Centrocema</tax:name>
+, 
+<tax:name>Clitoria</tax:name>
+, 
+<tax:name>Martiusia</tax:name>
+, and 
+<tax:name>Neurocarpum</tax:name>
+from the Caribbean, Central America, SouthAmerica, and Mexico (Farr et al. 2004). It has been reported from Panama on 
+<tax:name>Clitoria</tax:name>
+sp. (Cummins 1978). This is the first report of 
+<tax:name>U. neurocarpi</tax:name>
+on 
+<tax:name>C. falcata</tax:name>
+from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Uromyces setariae-italicae Yoshino</tax:name>
+</tax:nomenclature>
+<tax:div type="materials_examined">
+<tax:p>
+on 
+<tax:name>Melinis minutiflora</tax:name>
+P. Beauv. Panama, Chiriqui Province, Volcan, N 8° 47.398',W 82° 40.565', 25 Nov. 2004, leg. J.R. Hernandez 2004-099, II (BPI 864147). On Paspalum sp., same data, leg. J.R. Hernandez 2004-099A, II.
+</tax:p>
+</tax:div>
+<tax:div type="distribution">
+<tax:p>
+<tax:name>U. setariae-italicae</tax:name>
+is cosmopolitan, reported as widespread in Africa, the Americas, Asia, Europe, and Oceania (Farr et al. 2004; Hernandez et al. 2005a, b). It has been reported from Panama on Panicum maximum Jacq. (McGuire and Crandall 1967) as 
+<tax:name>Uromyces leptodermus Syd.</tax:name>
+and P. Syd. This is the firstreportofU. 
+<tax:name>setariae-italicae</tax:name>
+on M. minutiflora and on Paspalum sp. from Panama.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:p>
+Acknowledgment We thank Laurene Levy (USDA/APHIS) for the molecular diagnosis of 
+<tax:name>Phakopsora meibomiae</tax:name>
+. We also appreciate the collaboration by Ralph Mangelsdorff (University of Frankfurt) and Joe Kirkbride and John Wiersema (USDA/ARS) for identifying many host species, Manfred Ruppel for assistance with the SEM, and Roland Kirschner (University of Frankfurt) for help with the Latin description. Carl Williams and Omar Monteros (Universidad de Panama, Chiriqui) helped to visit fields of legume crops and Naira Camacho (Direccion Salud Vegetal del Ministerio de Desarrollo Agropecuario de Panama) assisted in obtaining permits. The trip by JRH was made possible by Doug Luster (USDA/ARS) as part of the survey for 
+<tax:name>Phakopsora pachyrhizi</tax:name>
+in Central America and the Caribbean. The activities by Meike Piepenbring and Maritza Vega Rios were supported by the German Academic Exchange Service (DAAD), in the context of a university partnership between the University of Frankfurt and the Universidad Autonoma de Chiriqui, and by the German Research Foundation (DFG).
+</tax:p>
+<tax:p>References</tax:p>
+<tax:p>Arthur JC (1916) Uredinales of Puerto Rico based on collections by F. L. Stevens. Mycologia 8:16-33</tax:p>
+<tax:p>Arthur JC (1918) New species of Uredineae-X. Bull Torrey Bot Club 45:141-156</tax:p>
+<tax:p>Berndt R (2002) New species, reports and observations on rust fungi. Nova Hedwig 75:415-431</tax:p>
+<tax:p>Berndt R (2004) A checklist of Costa Rican rust fungi. In: Agerer et al (eds) Frontiers in basidiomycete mycology. IHW-Verlag, Berlin, pp 185-236</tax:p>
+<tax:p>
+Buritica P (1999a) La familia Phakopsoraceae en el Neotropico III, generos: 
+<tax:name>Batistopsora</tax:name>
+y 
+<tax:name>Phakopsora</tax:name>
+. Rev Acad Colomb Cienc 23(87):271-305
+</tax:p>
+<tax:p>
+Buritica P (1999b) La familia Phakopsoraceae (Uredinales) en el neotropico-IV. Generos: 
+<tax:name>Crossopsora</tax:name>
+, 
+<tax:name>Cerotelium</tax:name>
+, 
+<tax:name>Phragmidiella</tax:name>
+y 
+<tax:name>Catenulopsora</tax:name>
+. Rev Acad Colomb Cienc 23(88):407-431
+</tax:p>
+<tax:p>Buritica P, Hennen JF (1980) Pucciniosireae (Uredinales, Pucciniaceae). Flora Neotrop 24:1-50</tax:p>
+<tax:p>Buritica P, Pardo-Cardona VM (1996) Flora Uredineana Colombiana. Rev Acad Colomb Cienc 20:183-236</tax:p>
+<tax:p>
+Cummins GB (1935) The genus 
+<tax:name>Dicheirinia</tax:name>
+. Mycologia 27:151-159
+</tax:p>
+<tax:p>Cummins GB (1937) Descriptions of tropical rusts. Bull Torrey Bot Club 64:43-44</tax:p>
+<tax:p>Cummins GB (1940) Descriptions oftropical rusts II. Bull Torrey Bot Club 67:67-75</tax:p>
+<tax:p>Cummins GB (1960) Descriptions of tropical rusts IX. Bull Torrey Bot Club 87:31-45</tax:p>
+<tax:p>Cummins GB (1978) Rust fungi on legumes and composites in North America. University of Arizona Press, Tucson</tax:p>
+<tax:p>Cummins GB, Hiratsuka Y (2003) Illustrated genera of rust fungi, 3rd edn. American Phytopathological Society, St. Paul, Minnesota</tax:p>
+<tax:p>Dietel P (1894) Die Gattung Ravenelia. Hedwigia 33:22-69 (+plates I-V)</tax:p>
+<tax:p>
+Evans HC, Ellison CA (2005) The biology and taxonomy of rust fungi associated with the tropical vine 
+<tax:name>Mikania micrantha</tax:name>
+,a major invasive weed in Asia. Mycologia 97:935-947
+</tax:p>
+<tax:p>Farr DF, Rossman AY, Palm ME, McCray EB (2004) Fungal Databases, Systematic Botany and Mycology Laboratory, ARS, USDA. http://www.nt.ars-grin.gov/fungaldatabases.Cited21 June 2004</tax:p>
+<tax:p>
+Frederick RD, Snyder CL, Peterson GL, Bonde MR (2002) Polymerase chain reaction assays for the detection and discrimination of the soybean rust pathogens 
+<tax:name>Phakopsora pachyrhizi</tax:name>
+and 
+<tax:name>P. meibomiae</tax:name>
+. Phytopathology 92:217-227
+</tax:p>
+<tax:p>Gallegos ML, Cummins GB (1981) Uredinales (Royas) de Mexico, vol 2. Instituto Nacional de Investigaciones Agricoles, Culiacan, Sinaloa, Mexico</tax:p>
+<tax:p>Gjaerum HB (1982) Rust fungi from Madeira. Bol Mus Munic Funchal 34:5-22</tax:p>
+<tax:p>Gjaerum HB (1987) Rust fungi from the Canary Islands. Vieraea 17:51-71</tax:p>
+<tax:p>Hennen JF, Cummins GB (1956) Uredinales parasitizing grasses of the tribe Chlorideae. Mycologia 48:126-162</tax:p>
+<tax:p>Hennen JF, Cummins GB (1973) New taxa of Mexican rust fungi. Rep Tottori Mycol Inst 10:169-182</tax:p>
+<tax:p>Hennen JF, McCain JW (1993) New species and records of Uredinales from the neotropics. Mycologia 85:970-986</tax:p>
+<tax:p>Hennen JF, Hennen MM, Figueiredo MB (1982) tndice das ferrugens (Uredinales) do Brasil. Arch Inst Biol (Sao Paulo) 49(Suppl 201</tax:p>
+<tax:p>
+Hennen JF, Sotao HMP, Hennen MMW (1998) The genus 
+<tax:name>Diorchidium</tax:name>
+in the neotropics. Mycologia 90:1079-1086
+</tax:p>
+<tax:p>Hennen JF, Figueiredo MB, Carvalho AA Jr, Hennen PG (2005) Catalogue of the species of plant rust fungi (Uredinales) of Brazil. http://www.jbrj.gov.br</tax:p>
+<tax:p>Hernandez JR, Hennen JF (2002) The genus Ravenelia in Argentina. Mycol Res 106:954-974</tax:p>
+<tax:p>Hernandez JR, Hennen JF (2003) Rust fungi causing galls, witches' brooms and other abnormal plant growths in northwestern</tax:p>
+<tax:p>Argentina. Mycologia 95:728-755</tax:p>
+<tax:p>
+Hernandez JR, Palm ME, Castlebury LA (2002) 
+<tax:name>Puccinia hemerocallidis</tax:name>
+, cause of daylily rust, a newly introduced disease in the Americas. Plant Dis 86:1194-1198
+</tax:p>
+<tax:p>Hernandez JR, Aime MC, Henckel T (2005a) Rust fungi of Guyana.</tax:p>
+<tax:p>Sydowia 57:122-189</tax:p>
+<tax:p>Hernandez JR, Eboh DO, Rossman AY (2005b) New reports of rust fungi (Uredinales) from Nigeria. Caldasia 27:213-221</tax:p>
+<tax:p>Hernandez JR, Hennen JF, Farr DF, McCray EB (n.d.) Ravenelia Online, Systematic Botany and Mycology Laboratory, ARS, USDA. http:// www.nt.ars-grin.gov/taxadescriptions/keys/RaveneliaIndex.cfm</tax:p>
+<tax:p>Huguenin B (1966) Micromycetes du pacifique sud (cinquieme contribution). Uredinales de Nouvelle-Caledonie (I). Bull Trimest Soc Mycol Fr 82:248-273</tax:p>
+<tax:p>Jackson HS (1922) New or noteworthy rusts on Carduaceae. Mycologia 14:104-120</tax:p>
+<tax:p>Jackson HS (1926) The rusts of South America based on the Holway collections, I. Mycologia 18:139-162</tax:p>
+<tax:p>Jackson HS (1931) The rusts of South America based on the Holway collections, IV. Mycologia 23:332-364</tax:p>
+<tax:p>J0rstad I (1957) Uredinales from South America and tropical North America, chiefly collected by Swedish botanists. Ark Bot 3:443- 490 (+plates I, II)</tax:p>
+<tax:p>J0rstad I (1958) Uredinales of the Canary Islands. Skr Norske Vidensk-Akad. Oslo, Mat-Naturvidensk Kl 2:1-182</tax:p>
+<tax:p>J0rstad I (1959) Uredinales from South America and tropical North America chiefly collected by Swedish botanists II. Ark Bot Sr 2 (4):59-103</tax:p>
+<tax:p>Kern FD (1938) Additions to the Uredinales of Venezuela. Mycologia 30:537-552</tax:p>
+<tax:p>Kern FD, Chardon CE (1927) Notes on some rusts of Colombia. Mycologia 19:268-276</tax:p>
+<tax:p>Kern FD, Thurston HW Jr (1954) Additional species of Uredinales from Colombia. Mycologia 46:354-357</tax:p>
+<tax:p>Lenne JM (1990) World list of fungal diseases of tropical pasture species. Phytopathol Pap 31:1 -162</tax:p>
+<tax:p>McGuire JU Jr, Crandall BS (1967) Survey of insect pests and plant diseases of selected food crops of Mexico, Central America and Panama. Int Agric Dev Serv, ARS, USDA, AID</tax:p>
+<tax:p>Ono Y, Hennen JF (1983) Taxonomy of the Chaconiaceous genera (Uredinales). Trans Mycol Soc Japan 24:369-402</tax:p>
+<tax:p>
+Piepenbring M (2005) 
+<tax:name>Sphaerophragmium pulchrum</tax:name>
+, a 
+new species
+of rust fungi from Panama. Mycol Prog 4:161 -166
+</tax:p>
+<tax:p>Piepenbring M (2006) Checklist offungi in Panama. Puente Biologico (Revista Cientifica de la Universidad Autonoma de Chiriqui, Panama) 1:1-190 (+ 5 plates)</tax:p>
+<tax:p>Piepenbring M, Caballero P, Arrocha C, Caceres O (2002) Royas, carbones y otros hongos parasitos en plantas. Natura 10:26-36.</tax:p>
+<tax:p>http://www.redmeso.net/bv/natura/Meike.pdf.Cited5March2005 (preliminary identifications)</tax:p>
+<tax:p>
+Ramachar P, Cummins GB (1965) The species of 
+<tax:name>Puccinia</tax:name>
+on the Paniceae. Mycopathol Mycol Appl 25:7-60
+</tax:p>
+<tax:p>Spaulding P (1961) Foreign diseases of forest trees of the world. U.S. D.A. Agric Handb 197:1-361</tax:p>
+<tax:p>
+Standley PC (1927) The 
+<tax:name>flora</tax:name>
+of Barro Colorado Island, Panama. Smithson Misc Collect 78:1-32
+</tax:p>
+<tax:p>
+Standley PC (1933) The 
+<tax:name>flora</tax:name>
+of Barro Colorado Island, Panama. Harvard Univ. Arnold Arboretum Contr 5:16-21
+</tax:p>
+<tax:p>Stevenson JA (1975) Fungi of Puerto Rico and the American Virgin Islands. Contr Reed Herb 23:1-743</tax:p>
+<tax:p>Toler RW, Cuellar R, Ferrer JB (1959) Preliminary survey of plant diseases in the Republic of Panama, 1955-1958. Pl Dis Reporter 43-:1201-1203</tax:p>
+<tax:p>
+Urries MJ (1954) 
+<tax:name>Dicheirinia canariensis</tax:name>nov. sp.
+An Jard Bot Madr 12:533-536
+</tax:p>
+<tax:figure>
+<tax:p>
+Fig. 1 
+<tax:name>Dicheirinia panamensis</tax:name>
+on 
+<tax:name>Cojoba rufescens</tax:name>
+. a Leaf with groups of uredinia and telia (from Piepenbring and Vega 3518). b Group of uredinia and telia, as seen with the stereo microscope (from Piepenbring and Vega 3518), scale bar= 2 mm. c Teliospores, as seen by LM (from BPI 871146, type), scale bar=20 µm. d Urediniospores as seen by LM (from BPI 871146, type), scale bar=20 µm
+</tax:p>
+</tax:figure>
+<tax:figure>
+<tax:p>
+Fig. 2 Uredinium, urediniospores, and teliospores of 
+<tax:name>Dicheirinia panamensis</tax:name>
+, as seen by LM. a-c Urediniospores (from type). d Longitudinal section of part of an uredinium (from Piepenbring 3680). e-h Teliospores (from type)
+</tax:p>
+</tax:figure>
+<tax:figure>
+<tax:p>
+Fig. 3 
+<tax:name>Dicheirinia panamensis</tax:name>
+, as seen by SEM (from type), scale bars =10 Hm. a, b Urediniospores, with central germpore. c, d Three-celled teliospores
+    </tax:p>
+</tax:figure>
+</tax:taxonxBody>
+</tax:taxonx>

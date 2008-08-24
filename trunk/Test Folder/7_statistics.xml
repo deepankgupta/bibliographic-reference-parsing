@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Statistics>
+  <Reference>
+    <Total>30</Total>
+    <Wrong>0</Wrong>
+    <Length>184.958333333333</Length>
+  </Reference>
+  <Author>30</Author>
+  <Year>30</Year>
+  <Titles>28</Titles>
+  <Publications>
+    <DomainBased>22</DomainBased>
+    <Predicted>5</Predicted>
+    <Length>28</Length>
+    <StartIndex>121.5</StartIndex>
+    <EndIndex>162.041666666667</EndIndex>
+  </Publications>
+</Statistics>

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -22,15 +23,8 @@ namespace Parser
             if (result == DialogResult.OK)
             {
                 Common.inputFilePath = inputFileDialog.FileName;
-            }
-        }
-
-        private void outputFileButton_Click(object sender, EventArgs e)
-        {
-            DialogResult result = outputFileDialog.ShowDialog();
-            if (result == DialogResult.OK)
-            {
-                Common.outputFilePath = outputFileDialog.FileName;
+                Common.outputFilePath = Path.GetDirectoryName(Common.inputFilePath) +
+                    @"\" + Path.GetFileNameWithoutExtension(Common.inputFilePath) + @"_" + @"output.txt";
             }
         }
 

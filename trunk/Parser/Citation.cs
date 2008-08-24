@@ -9,6 +9,7 @@ namespace Parser
     {
         string name;
         int year;
+        string paragraph;
 
         #region GetAndSetMethods
         public string Name
@@ -21,6 +22,19 @@ namespace Parser
             {
                 name = value;
                 name = Common.Strip(name);
+            }
+        }
+
+        public string Paragraph
+        {
+            get
+            {
+                return paragraph;
+            }
+            set
+            {
+                paragraph = value;
+                paragraph = Common.Strip(paragraph);
             }
         }
 
@@ -40,8 +54,9 @@ namespace Parser
         internal void Display(XmlCreator citationXml)
         {
             citationXml.AddFirstLevelTag("Citation", "");
+            citationXml.AddSecondLevelTag("Paragraph", paragraph);
             citationXml.AddSecondLevelTag("Name", name);
-            citationXml.AddSecondLevelTag("Year", year.ToString());
+            citationXml.AddSecondLevelTag("Year", year.ToString());             
         }
     }
 }
