@@ -1,0 +1,275 @@
+﻿<tax:taxonx xmlns:dc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.taxonx.org/schema/v1 http://www.taxonx.org/schema/v1/taxonx1.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-1.xsd http://digir.net/schema/conceptual/darwin/2003/1.0 http://digir.net/schema/conceptual/darwin/2003/1.0/darwin2.xsd">
+<tax:taxonxHeader>
+<mods:mods>
+<mods:titleInfo>
+<mods:title>El genero Cenobiopelma Mello-Leitão y Arle 1934 (Araneae, Theraphrosidae).</mods:title>
+</mods:titleInfo>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Gerschman de Pikelin, B. S.</mods:namePart>
+</mods:name>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Schiapelli, R. S.</mods:namePart>
+</mods:name>
+<mods:typeOfResource>text</mods:typeOfResource>
+<mods:relatedItem type="host">
+<mods:titleInfo>
+<mods:title>Revista de la Socidad Entomologica Argentina</mods:title>
+</mods:titleInfo>
+<mods:part>
+<mods:detail type="volume">
+<mods:number>34(1-2)</mods:number>
+</mods:detail>
+<mods:extent unit="page">
+<mods:start>107</mods:start>
+<mods:end>114</mods:end>
+</mods:extent>
+<mods:date>1973</mods:date>
+</mods:part>
+</mods:relatedItem>
+<mods:identifier type="HNS-PUB">21386</mods:identifier>
+<mods:location>
+<mods:url>http://hdl.handle.net/10199/15395</mods:url>
+</mods:location>
+</mods:mods>
+</tax:taxonxHeader>
+<tax:taxonxBody>
+<tax:p>
+SUMMARY: The genus 
+<tax:name>Cenobiopelma</tax:name>
+Mello-Leitão and Arle, 1934 (Araneae: Theraphosidae).
+</tax:p>
+<tax:p>
+Mello-Leitlo and Arle (1934) put their new genus 
+<tax:name>Cenobiopelma</tax:name>
+(Type-species: 
+<tax:name>C. mimetica</tax:name>
+) into the family Barychelidae. Schiapelli and Gerschman de Pikeiin (1969), as a result of the study of the second species, 
+<tax:name>Cenobiopelma argentinensis</tax:name>
+Mello-Leitão 1941, proved that it is a Theraphosidae, subfamily Ischnocolinae. The systematic position of the genus is here discussed. The description of the [[ male] Allotypus is given and a plate with the figures that illustrate the valid characters of male and female is added. The Type specimen of 
+<tax:name>Cenobiopelma</tax:name>
+mimetica has not been found. It that species is in fact a Barychelidae, 
+<tax:name>Cenobiopelma argentinensis</tax:name>
+belongs to another genus of the subfamily Ischnocolinae.
+</tax:p>
+<tax:p>
+El genero 
+<tax:name>Cenobiopelma</tax:name>
+fue incluido por sus autores en la familia Barychelidae. En 1969 lo sacamos de esa familia para colocarlo en la familia Theraphosidae. El cambio se hizo sobre la base del estudio del especimen tipo de su segunda especie, C. argentinensis Mello-Leitão 1941, colectada en la Argentina, Catamarca. Para una mayor seguridad quisimos ver la especie-tipo, 
+<tax:name>C. mimetica</tax:name>
+Mello-Leitão y Arle 1934, procedente de Brasil, Rio de Janeiro. A pesar de la buena voluntad de la Dra. Ana Timotheo da Costa, no se pudo encontrar el ejemplar tipo, que debia estar en la coleccion de aranas del Musco Nacional de Rio de Janeiro. En la descripcion orginal de 
+<tax:name>C. mimetica</tax:name>
+, que es muy somera. Mello-Leitão dice que en publicaciones posteriores daria una minuciosa descripcion, pero nunca lo hizo.
+</tax:p>
+<tax:p>
+Aproxima el genero a 
+<tax:name>Stothis</tax:name>
+Simon 1889 (Barychelidae), porque cava una galeria con dos puertas semejante a las de 
+<tax:name>S. astuta Simon</tax:name>
+, de Venezuela. Nosotros tuvimos oportunidad de ver en el British Museum (N. H.) un ejemplar hembra de 
+<tax:name>S. astuta</tax:name>
+de Caracas, Venezuela, determinada por Simon, y es muy distinta de 
+<tax:name>Cenobiopelma</tax:name>
+: tiene un verdadero rastrillo en la cara dorsal apical del quelicero, formado por espinas cortas y gruesas; el tercer artejo de las hileras superiores, apical, es redondeado, mucho mas corto que el artejo medio; el rastrillo y el artejo apical corto de las hileras superiores son caracteristicos de la familia Barychelidae. 
+<tax:name>Cenobiopelma</tax:name>
+, aunque Mello-Leitão dice que tiene un rastrillo formado por cerdas poco robustas, solo tiene los pelos largos y curvos caracteristicos de la familia Theraphosidae. El artejo apical de las hileras superiores es largo, mas largo que el artejo medio, y es aguzado, otra caracteristica de la familia
+</tax:p>
+<tax:p>
+Theraposidae. En el caso de que 
+<tax:name>Cenobiopelma</tax:name>
+mimetica fuese una Barychelidae, 
+<tax:name>Cenobiopelma argentinensis</tax:name>
+tendria que pasar a otro genero de la familia Theraphosidae.
+</tax:p>
+<tax:p>
+Ademas Mello-Leitão da como caracter diferencial de 
+<tax:name>C. mimetica</tax:name>
+la presencia en la cara dorsal de los tarsos de las patas maxilas, de unos pelos que el llama piriformes. Con respecto a esos pelos Simon (1897: I: 69), al hablar de las Mygalomorphae en general, dice que los tarsos de las patas y de las patas maxilas ofrecen siempre arriba un grupo de pelos claviformes, cortos, con fino pediculo, descubiertos en Eurypelma por W. Wagner, quien los denomino " pelos cucurbitiformes ". No se puede de ningun modo senalar la presencia de esos pelos como caracteristica de ningun genero ni especie. Determinado el genero como Theraphosidae, lo incluimos dentro de la subfamilia Ischnocolinae por carecer de escopula aterciopelada en la cara externa del femur IV; por tener sus patas posteriores provistas de espinas numerosas, y por presentar en el estado adulto las escopulas de los tarsos posteriores divididas por una banda longitudinal de cerdas. El caracter de las escopulas divididas lo presentan todas las Theraphosidae en sus estados juveniles, pero solamente las Ischnocolinae lo conservan cuando son adultas.
+</tax:p>
+<tax:p>
+Damos a continuacion la diagnosis del genero y de la especie-tipo; la redescripcion del Holotypus 9 de 
+<tax:name>Cenobiopelma argentinensis</tax:name>
+, y agregamos la diagnosis del Allotypus [[ male ]] de la misma especie, colectado en la provincia de Jujuy, Yuto.
+</tax:p>
+<tax:p>El trabajo esta ilustrado con dibujos tomados del natural con camara clara por las autoras y pasados en tinta por la dibujante Sra. S. Kahanoff, para lo que nos fue otorgado un subsidio por el Consejo Nacional de Investigaciones Cientificas y Tecnicas, Buenos Aires. Los dibujos detallan los caracteres validos. Se ilustran las espermatecas de la hembra, que no figuran en la descripcion original. Las medidas estan dadas en milimetros. La escala vertical que acompana el dibujo del bulbo no significa medida, solamente indica su torsion que es diferente en las distintas especies.</tax:p>
+<tax:p>AGRADECIMIENTOS</tax:p>
+<tax:p>A la Dra. Ana Timotheo da Costa del Museu Nacional de Rio de Janeiro, su valiosa colaboracion al enviarnos la copia de la descripcion original y dibujos de la publicacion de Mello-Leitão. A la Prof. Maria Elena Galiano y al Entomologo Antonio Martinez la entrega de los 2 unicos machos que pudimos estudiar. Tambien agradecemos a los doctores Gallardo, Crespo y Navas el material colectado en sus excursiones, como asi tambien al Sr. M. J. Viana y al R. P. Williner.</tax:p>
+<tax:treatment>
+<tax:nomenclature>
+Genero 
+<tax:name>Cenobiopelma</tax:name>
+Mello-Leitão y Arle 1934
+
+Especie-tipo 
+<tax:name>C. mimetica</tax:name>
+Mello-Leitão y Arle (Brasil)
+</tax:nomenclature>
+<tax:ref_group>
+<tax:p>1934. C. Mello-Leitão y Arle, Ann. Acad. brasil. Scie. 4: (3): 125 D gen. nov.</tax:p>
+<tax:p>1942. C. Roewer, C. Fr., Katalog der Araneae I: 220 L</tax:p>
+<tax:p>1956. C. Bonnet, P. Bibliographia Araneorum 2 i 980 B</tax:p>
+<tax:p>1962. C. Schiapelli R. D. y Gerschman de Pikelin, B. S., An. Segundo Congr. LatinoAmericano Zool., Sao Paulo 2: 15 Distr.</tax:p>
+<tax:p>1969. C. Gerschman de Pikelin. B. S. y Schiapelli, R. D., Bull. Mus. Hist. Nat. (2) 41 i 152 Sist.</tax:p>
+</tax:ref_group>
+<tax:div type="description">
+<tax:p>DIAGNOSIS: Cefalotorax (prosoma) rectangular, largo. Foseta recta o recurva. Tu-</tax:p>
+<tax:p>
+Distribucion de 
+<tax:name>Cenobiopelma argentinensis</tax:name>
+Mello-Leitão 1941
+</tax:p>
+<tax:p>mulo ocular no muy convexo, doble de ancho que largo; fila posterior casi recta; fila anterior muy procurva. Ojos medios anteriores mucho menores que los laterales anteriores, los que son mayores que los laterales posteriores. Ojos medios posteriores los mas pequenos, casi iguales a los medios anteriores y muy proximos a estos y a los laterales posteriores (fig. 5). Labio tres veces mas ancho que alto, sin esp inulas. Coxa de la pata maxila con un grupo de espinillas (2 a 30) en su angulo infero-interno. Patas IV-I-II y III. Patas anteriores con pocas espinas, las que son numerosas en las patas posteriores. Todos los tarsos con escopulas divididas por una banda de cerdas, muy angosta en las patas anteriores y mas ancha en el tarso IV. Metatarso I con escopula que sobrepasa la mitad del artejo; metatarso II con escopula hasta la mitad; metatarso III con escopula apical. Sin escopula el metatarso IV. En el macho la tibia I presenta un espolon externo provisto de una espina negra, gruesa y muy curva. A su lado, hacia la cara interna, en un ensanchamiento del artejo se encuentran 2 espinas gruesas, negras. El metatarso I cierra por fuera del espolon. El bulbo es pequeno, provisto de un larguisimo estilo, muy delgado y aguzado (figs. 3 y 4). El cuerpo revestido de densa pubescencia corta y fina y pelos negros espiniformes. Ademas se encuentran en los queliceros, patas y en menos numero en el abdomen, largas cerdas, no hirsutas. Todos los tarsos presentan en su cara dorsal y en la linea media una banda de cerdas claviformes, muy cortas.</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Cenobiopetma mimetica</tax:name>
+Mello-Leitão y Arle 1934
+</tax:nomenclature>
+<tax:ref_group>
+<tax:p>
+1934. C. m Mello-Leitão y Arle, Ann. Acad. brasil. Sci. 6 (No 3): 125 figs. D 
+sp. nov.</tax:p>
+</tax:ref_group>
+<tax:nomenclature>HOLOTYPUS: [[ female ]] colectado en los alrededores de Rio de Janeiro, Brasil, por los autores.</tax:nomenclature>
+<tax:div type="description">
+<tax:p>DIAGNOSIS: Largo total 7 a 8 mm.</tax:p>
+<tax:p>Lamentablemente no hemos visto el tipo por las razones expuestas mas arriba. Hemos tomado los datos de la nota preliminar, la que no fue completada posteriormente. Solo presenta las figuras del tumulo ocular, de los tarsos mostrando los pelos claviformes de su cara dorsal, del labio y de las coxas de las patas maxilas. El tumulo ocular y el labio son similares a los de C. argentinensis. El labio es 3 veces mas ancho que alto, sin espinulas. Las coxas de las patas maxilas son rectangulares y estan provistas de solo 2 espinulas en su angulo infero-interno.</tax:p>
+<tax:p>COLORIDO: Abdomen gris obscuro irregularmente manchado y patas anilladas.</tax:p>
+<tax:p>OBSERVACIONES: Los autores colectaron la arana viva la que hizo su ooteca en cautividad.</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Cenobiopelma argentinensis</tax:name>
+Mello-Leitão 1941 (Figs. 1 - 7)
+</tax:nomenclature>
+<tax:ref_group>
+<tax:p>
+1941. C. a. Mello- Leitão, C. de .. Rev. Mus. La Plata 2: 104; lam. II: 4 D 
+sp. nov.
+[[ female ]] HOLOTYPUS: [[ female ]] ejemplar N o 14.608 de la col. del Museo de La Plata.
+</tax:p>
+</tax:ref_group>
+<tax:div type="materials_examined">
+<tax:p>PROCEDENCIA: Argentina, Catamarca: Andalgala, Londres; col. M. Biraben, II-III de 1939.</tax:p>
+</tax:div>
+<tax:div type="description">
+<tax:p>DIAGNOSIS: Largo total 8,6 mm.</tax:p>
+<tax:p>CEFALOTORAX: Bajo, rectangular, ancho adelante, con la foseta recta.</tax:p>
+<tax:p>OJOS: Tumulo ocular dos veces mas ancho que alto. Ojos posteriores en linea casi recta, los medios triangulares, contiguos a los laterales posteriores y a los medios anteriores. Ojos anteriores formando una linea procurva; los medios menores que los laterales y mas proximos a estos que entre si; ojos laterales anteriores mayores que los laterales posteriores (fig. 6).</tax:p>
+<tax:p>ESTERNON: largo, rectangular.</tax:p>
+<tax:p>LABIO: mucho mas ancho que alto, sin espinulas en su borde apical.</tax:p>
+<tax:p>COXAS DEL PALPO: rectangulares, alargadas, con el angulo supero-interno muy prolongado. En su angulo infero-interno en grupo de unas 30 espinulas.</tax:p>
+<tax:p>QUELICEROS: aunque Mello-Leitão dice en su descripcion que tienen un rastrillo de cerdas poco robustas, el especimen tipo que hemos estudiado, solo presenta largas cerdas curvas caracteristicas de todas las Ischnocolinae. Con 9 dientes en su margen interno.</tax:p>
+<tax:p>PATAS: anteriores con pocas espinas, las que son mas abundantes en las patas posteriores. Hay tricobotrias en los tarsos, metatarso y tibias. Las escopulas de los tarsos I y II divididas por una angosta banda de cerdas formada por dos lineas solamente. En los tarsos III, la banda divisoria es mas ancha y en la pata IV la banda esta formada por 4 a 5 lineas de cerdas.</tax:p>
+<tax:p>ABDOMEN: angosto y largo. Espermatecas como en la figura 7.</tax:p>
+<tax:p>COLORIDO: Cefalotorax, patas, esternon y labio de color caoba claro. Abdomen pardo obscuro. Todo el cuerpo revestido de densa vellosidad dorada y pelos negros gruesos mas o menos erectos. Hay ademas largas cerdas en los queliceros, en las patas y algunas pocas en el abdomen.</tax:p>
+</tax:div>
+<tax:nomenclature>ALLOTYPUS: [[ male ]] No 6423 de la coleccion del M. A. C. N.</tax:nomenclature>
+<tax:div type="description">
+<tax:p>PROCEDENCIA: Jujuy, Yuto. Col. Prof. M. E. Galiano, 111 - 1967.</tax:p>
+<tax:p>DIAGNOSIS: Largo total 12; Cefalotorax 6 de largo x 5 de ancho. Esternon: 3 de largo por 2,7 de ancho.</tax:p>
+<tax:p>LABIO: como en la hembra, 3 veces mas ancho que alto y sin espinillas.</tax:p>
+<tax:p>COXAS DEL PALPO: con unas 30 a 35 espinulas en su angulo infero-interno.</tax:p>
+<tax:p>QUELICEROS-. con 11 a 12 dientes en el margen interno. (El numero de dientes puede variar de un quelicero al otro en el mismo ejemplar).</tax:p>
+<tax:p>PATAS: son en general mas espinosas que en la hembra; sus espinas son escasas en las patas I y II y muy abundantes en las patas III y IV. La tibia I presenta en su parte apical un espolon externo provisto de una gruesa espina negra, muy curva. En su lado interno, en un ensanchamiento del artejo, se encuentran dos espinas negras (fig. 2). El bulbo es pequeno y tiene un estilo larguisimo, delgado y aguzado (figs. 3 y 4). Como lo detallamos en la diagnosis del genero, el metatarso IV sin escopula. Todos los tarsos presentan en su cara dorsal, en la linea media, una banda de cerdas claviformes, muy cortas.</tax:p>
+</tax:div>
+<tax:div type="materials_examined">
+<tax:p>MATERIAL ESTUDIADO: Del Museo de La Plata, el Hplotypus [[ female ]] N o 14.608, Catamarca, Andalgala col. Biraben I. 1934.</tax:p>
+<tax:p>Del Museo Argentino de Ciencias Naturales " B. Rivadavia ": el ALLOTYPUS [[ male ]] N o 6424 col. M. E. Galiano de Jujuy, Yuto: El Pantanoso.</tax:p>
+<tax:p>[[ female ]] No 6425 Cordoba, Capilla del Monte, col. Navas IX. 1942.</tax:p>
+<tax:p>[[ female ]] No 6426 y 1 juvenil de San Luis, El Volcan, col. Hedber ano 1942.</tax:p>
+<tax:p>[[ female ]] No 6427 Jujuy, Yuto col. M. E. Galiano, XI. 1966.</tax:p>
+<tax:p>[[ female ]] No 6428 Cordoba, Calamuchita, Yacanto col. Crespo, Gallardo.</tax:p>
+<tax:p>[[ female ]] No 6429 Cordoba, Valle Hermoso col. O. de Ferraris, I. 1967.</tax:p>
+<tax:p>[[ female ]] No 6430 San Luis, El Volcan XI. 1960. [[ female ]] N o 6431 Tucuman, Capital X. 1958. [[ female ]] No 6432 Cordoba, Calamuchita, Yacanto, Col. Viana y Williner, III. 1970. [[ male ]] No 6526 Cordoba, Cruz del Eje, col. Antonio Martinez.</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:p>BIBLIOGRAFIA</tax:p>
+<tax:p>BONNET, P. 1956. Bibliographia Araneorum 2: 980.</tax:p>
+<tax:p>GERSCHMAN de PIKELIN, B. S. y SCHIAPELLI, R. D., 1969 (1970). Discusion de los caracteres validos en la Sistematica de las Aranas Theraphosomorphae. Bull. Mus. Hist. Nal. 2. Ser. 61: 152.</tax:p>
+<tax:p>MELLO-LEITAO, C. de y ARLE, 1934. De l'importance des exuvies dans l'etude de la biologie et de la Sistematique des araigenes. (Note preliminaire). Ann. Acad. brasil. Sci. 6 (N o 3): 125 - 127 figs.</tax:p>
+<tax:p>MELLO-LEITAO, C. de. 1941. Las aranas de Cordoba, La Rioja, Calamar ca, Tucumin, Salta y Jujuy colectadas por los profesores Biraben. Rev. Mus. La Plata 2: Zool. N o 12: 104 T. 2: 4.</tax:p>
+<tax:p>ROEWER, C. Fr. 1942. Katalog der Anarenae 1: 220.</tax:p>
+<tax:p>SCHIAPELLI, R. D. y GERSCHMAN de PIKELIN, B. S. 1962. Distribucion de las aranas Mygalomorpbae en la Argentina. Ann. Segundo Congreso Latino-Amer. Zool. 2: 15.</tax:p>
+<tax:note place="foot">
+<tax:p>(â€¢) Miembro de la Carrera del Investigador del Consejo Nacional de Investigaciones Cientificas y Tecnicas, Buenos Aires. Lugar de trabajo: Museo Argentino de Ciencias Naturales " Bernardino Rivadavia ".</tax:p>
+</tax:note>
+<tax:note place="foot">
+<tax:p>(J) Jefe de la Seccion Aracnologia del Museo Argentino de Ciencias Naturales " Bernardino Rivadavia ". Miembro de la Carrera del Investigador del Consejo Nacional de Investigaciones Cientificas y Tecnicas, Buenos Aires.</tax:p>
+</tax:note>
+<tax:figure>
+<tax:p>
+Figs. de 
+<tax:name>Cenobiopelma argentinensis</tax:name>
+Mello-Leitão, Allotypus [[ male ]] No 6424 de la col. M. A. C. N.: 1, palpo; 2, tibia I; 3, bulbo, cara extema; 4, bulbo, cara interna; S, tumulo ocular. Holotypus [[ female ]] No 14.608 de la col. del Museo de La Plata: 6, tumulo ocular; 7, espermatecas.
+</tax:p>
+</tax:figure>
+<tax:p>Pata</tax:p>
+<tax:p>Femur</tax:p>
+<tax:p>Patela Tibia</tax:p>
+<tax:p>Metatarso</tax:p>
+<tax:p>Tarso</tax:p>
+<tax:p>Total</tax:p>
+<tax:p>I</tax:p>
+<tax:p>2</tax:p>
+<tax:p>2.5</tax:p>
+<tax:p>1</tax:p>
+<tax:p>1</tax:p>
+<tax:p>6,5</tax:p>
+<tax:p>II</tax:p>
+<tax:p>1,7</tax:p>
+<tax:p>2,2</tax:p>
+<tax:p>0,9</tax:p>
+<tax:p>0,9</tax:p>
+<tax:p>5,7</tax:p>
+<tax:p>III</tax:p>
+<tax:p>1,7</tax:p>
+<tax:p>2</tax:p>
+<tax:p>1,3</tax:p>
+<tax:p>1</tax:p>
+<tax:p>6</tax:p>
+<tax:p>IV</tax:p>
+<tax:p>2,2</tax:p>
+<tax:p>3,2</tax:p>
+<tax:p>2</tax:p>
+<tax:p>1,4</tax:p>
+<tax:p>8,8</tax:p>
+<tax:p>Pata</tax:p>
+<tax:p>Femur</tax:p>
+<tax:p>Patela Tibia</tax:p>
+<tax:p>Metatarso</tax:p>
+<tax:p>Tarso</tax:p>
+<tax:p>Total</tax:p>
+<tax:p>I</tax:p>
+<tax:p>4</tax:p>
+<tax:p>6</tax:p>
+<tax:p>3</tax:p>
+<tax:p>2</tax:p>
+<tax:p>15</tax:p>
+<tax:p>II</tax:p>
+<tax:p>4</tax:p>
+<tax:p>5</tax:p>
+<tax:p>3</tax:p>
+<tax:p>1,8</tax:p>
+<tax:p>13,5</tax:p>
+<tax:p>III</tax:p>
+<tax:p>4</tax:p>
+<tax:p>4</tax:p>
+<tax:p>2,5</tax:p>
+<tax:p>1.5</tax:p>
+<tax:p>12</tax:p>
+<tax:p>IV</tax:p>
+<tax:p>5</tax:p>
+<tax:p>6,5</tax:p>
+<tax:p>5,7</tax:p>
+<tax:p>2</tax:p>
+<tax:p>19,2</tax:p>
+</tax:taxonxBody>
+</tax:taxonx>

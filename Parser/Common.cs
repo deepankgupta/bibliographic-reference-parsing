@@ -9,9 +9,15 @@ using System.Text.RegularExpressions;
 
 namespace Parser
 {
+    /// <summary>
+    /// This class contains the common functions used over different classes. 
+    /// </summary>
     class Common
     {
-        //The list of seperators on which the words will be seperated in a reference. 
+        #region Variables
+        /// <summary>
+        /// The list of seperators on which the words will be seperated in a reference. 
+        /// </summary>
         public static char[] seperators = { ' ', ',', '.', ';', ':', '\t', '\n', '?', '(', ')',
                                        '{', '}', '[', ']', '+', '\n', '\r' };
         private static FileStream fw;
@@ -20,6 +26,11 @@ namespace Parser
         public static string referenceFilePath = @"..\data\references.txt";
         public static string outputFilePath = @"..\data\output.txt";
         public static string[] paragraphs;
+        #endregion
+
+        /// <summary>
+        /// Initialises File streams. 
+        /// </summary>
         internal static void Init()
         {
             fw = new FileStream(outputFilePath, FileMode.Create, FileAccess.Write);
@@ -57,8 +68,7 @@ namespace Parser
             }
             return -1;
         }
-
-
+        
         /// <summary>
         /// Strips seperators from the beginning and end of the string. 
         /// </summary>
@@ -66,6 +76,8 @@ namespace Parser
         /// <returns>Output stripped string</returns>
         internal static string Strip(string input)
         {
+            if (input == null || input == String.Empty)
+                return string.Empty;
             int i;
             //Remove seperatos in front
             for (i = 0; i < input.Length; i++)

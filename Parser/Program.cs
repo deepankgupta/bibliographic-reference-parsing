@@ -10,8 +10,6 @@ using System.Windows.Forms;
 
 //SOME TODOS
 //3. In case of Levi and Levi in Extract Citation, find a better way... 
-//4. Add other keywords in the keyword.txt file. 
-//5. To make a GUI to add keywords, to add correct publications or not... think about it. 
 
 namespace Parser
 {
@@ -28,6 +26,11 @@ namespace Parser
         static XmlCreator citationXml;
         #endregion
 
+        /// <summary>
+        /// To add escape characters in a string. 
+        /// </summary>
+        /// <param name="s">Original String </param>
+        /// <returns>Output string.</returns>
         private static string AddEscapeChars(string s)
         {
             string news = "";
@@ -44,6 +47,28 @@ namespace Parser
             return news;
         }
 
+        /// <summary>
+        /// Find punctuations which might be used as seperators in references. 
+        /// </summary>
+        /// <param name="p">Paragraph string</param>
+        /// <param name="index">Index at which to start</param>
+        /// <returns>Int array of indexes with seperators</returns>
+        private static int[] FindSeperatorsInReference(string p, int index)
+        {
+            ArrayList arr = new ArrayList();
+            for (int i = index; i < p.Length; i++)
+            {
+                for (int j = 1; j < Common.seperators.Length; j++)
+                {
+                    if (p[i] == Common.seperators[j])
+                    {
+                        arr.Add(i);
+                    }
+                }
+            }
+            return arr.ToArray(typeof(int)) as int[];
+        }
+        
         #region FindYearAndAuthor
         /// <summary>
         /// This function is used to find year and author from a string reference
@@ -171,10 +196,10 @@ namespace Parser
         /// This function is used to get the publication from the reference. 
         /// </summary>
         /// <param name="r">The reference object is passed by reference as parameter. </param>
-        static void FindPublication(ref Reference r)
+        static bool FindPublication(ref Reference r)
         {
-            if (r.ReferenceText == String.Empty)
-                return;
+            if (r== null || r.ReferenceText == String.Empty)
+                return false;
             //empty pattern2
             string pattern2 = "";
             MatchCollection mc2;
@@ -258,6 +283,11 @@ namespace Parser
                     //Common.sw.WriteLine(matched_pub + " matches " + max.ToString() + " words");
                 }
             }
+            if (r.Publication == null)
+            {
+                r.Publication = string.Empty;
+                return false;
+            }
             if (r.Publication.Length < (r.seperatorAfterPublication - r.seperatorBeforePublication))
             {
                 r.Publication = r.ReferenceText.Substring(r.seperatorBeforePublication,
@@ -268,9 +298,13 @@ namespace Parser
             //it is a valid publication. 
             if (max >= 2 || (max == 1 && matchedPublication.IndexOf(" ") == -1))
             {
-                Statistics.UpdatePublication();                
+                Statistics.UpdatePublication();
+                return true;
             }
-
+            else
+            {
+                return false;
+            }
         }
         private static void PredictPublication(ref Reference parsedReference)
         {
@@ -373,7 +407,7 @@ namespace Parser
         /// <param name="r">The reference object is passed as a parameter by reference. </param>
         private static void FindPageNumbers(ref Reference r)
         {
-            if (r.ReferenceText == String.Empty)
+            if (r.ReferenceText == String.Empty || r.yearEnd == -1)
                 return;            
             string input = r.ReferenceText.Substring(r.yearEnd);
             string pattern = @"\p{Nd}+-\p{Nd}+";
@@ -398,23 +432,7 @@ namespace Parser
             }
         }
         #endregion
-
-        private static int[] FindSeperatorsInReference(string p, int index)
-        {
-            ArrayList arr = new ArrayList();
-            for (int i = index; i < p.Length; i++)
-            {
-                for (int j = 1; j < Common.seperators.Length; j++)
-                {
-                    if (p[i] == Common.seperators[j])
-                    {
-                        arr.Add(i);
-                    }
-                }
-            }
-            return arr.ToArray(typeof(int)) as int[];
-        }
-
+                
         #region ReferenceParser
         /// <summary>
         /// This function is used to parse a reference into Author, Year, Title, Publication fields. 
@@ -430,6 +448,7 @@ namespace Parser
             {
                 //TODO:Maybe it is not a reference. Do something with this informaiton in the Reference
                 //identification block code. 
+                return null;
             }                        
             FindPageNumbers(ref r);
             FindPublication(ref r);
@@ -439,9 +458,7 @@ namespace Parser
                 r.Display(referenceXml);
             }
             return r;
-        }
-
-        
+        }        
         #endregion
         
         /// <summary>
@@ -458,31 +475,36 @@ namespace Parser
             publicationData = (string[])arr.ToArray(typeof(string));
         }
 
-        static private Citation ExtractCitation(string paragraph)
+        /// <summary>
+        /// This function is used to find and extract a citation from the paragraph. 
+        /// </summary>
+        /// <param name="paragraph">String of paragraph</param>
+        static private int ExtractCitation(string paragraph)
         {
             string[] stopwords = { "in", "since", "during", "until", "before" };
             if (paragraph == null || paragraph == String.Empty)
-                return null;
+                return -1;
             int year = -1;
             int index = Common.CheckForYear(paragraph, ref year);
+            int yearEndIndex = index + year.ToString().Length;
             if (index == -1)
-                return null;
+                return -1;
             int newIndex = index;
             string subString = paragraph.Substring(0, index);
             string[] strs = subString.Split(Common.seperators, StringSplitOptions.RemoveEmptyEntries);
             if (strs.Length == 0)
-                return null;
+                return yearEndIndex;
             //Check for stopword
             foreach (string stopword in stopwords)
             {
                 if (stopword.Equals(strs[strs.Length - 1], StringComparison.CurrentCultureIgnoreCase))
                 {
-                    ExtractCitation(paragraph.Substring(index));
+                    return yearEndIndex;   
                 }
             }
             int i;
             //Check for Author. 
-            for (i = strs.Length-1; i > 0; i--)
+            for (i = strs.Length-1; i > -1; i--)
             {
                 string stringToCheck = strs[i];
                 //Check for Genetive, if present remove it and check. 
@@ -492,12 +514,24 @@ namespace Parser
                     stringToCheck = stringToCheck.Substring(0, stringToCheck.Length - 2);
                 }
                 bool flag = false;
-                //TODO: Check for Author Names with or without 's 
                 foreach (Reference reference in references)
                 {
                     if (reference.Authors.IndexOf(stringToCheck, StringComparison.CurrentCultureIgnoreCase) != -1)
                     {
-                        flag = true;
+                        int ind = reference.Authors.IndexOf(stringToCheck, StringComparison.CurrentCultureIgnoreCase);
+                        if (ind == 0)
+                        {
+                            flag = true;
+                            break;
+                        }
+                        char tempChar = reference.Authors[ind - 1];
+                        foreach (char ch in Common.seperators)
+                        {
+                            if (ch == tempChar)
+                                flag = true;
+                        }
+                        if(flag)
+                            break;
                     }
                 }
                 if (flag == false)
@@ -505,17 +539,22 @@ namespace Parser
             }
             //Put the citation in
             if (i == strs.Length - 1)
-                return null;
-            if (i != 0)
-                i = i + 1;
+                return yearEndIndex;
+            i = i + 1;
             int temp = subString.LastIndexOf(strs[i]);
             Citation citation = new Citation();
             citation.Name = paragraph.Substring(temp, index - temp);
             citation.Year = year;
+            //Note that the 4 has been kept to include the year also in this. 
+            citation.Paragraph = paragraph.Substring(0, yearEndIndex);
+            citation.Display(citationXml);
             Common.sw.WriteLine("Citation : " + citation.Name + " " + citation.Year.ToString());
-            return citation;
+            return yearEndIndex;
         }
 
+        /// <summary>
+        /// Starting point for the program after getting information from the form. 
+        /// </summary>
         internal static void Start()
         {
             referenceXml = new XmlCreator("reference.xml", "References");
@@ -538,6 +577,11 @@ namespace Parser
                 reference = fs.ReadLine();
                 Statistics.UpdateReference();
                 parsedReference = ParseReference(reference);
+                if (parsedReference == null)
+                {
+                    Statistics.wronglyPredictedReference++;
+                    continue;
+                }
                 Statistics.UpdateStatistics(parsedReference);
                 if(!parsedReference.IsPredictionNeeded())
                 {
@@ -579,21 +623,17 @@ namespace Parser
                 }
             }
             Statistics.DisplayStatistics(statisticsXml);
-            ArrayList citationArr = new ArrayList();
             foreach (string paragraph in Common.paragraphs)
             {
-                Citation citation = ExtractCitation(paragraph);
-                if (citation != null)
+                string subParagraph = paragraph;
+                int yearEndIndex = 0;
+                do
                 {
-                    citationArr.Add(citation);
-                }
-            }
-            Citation[] citations = citationArr.ToArray(typeof(Citation)) as Citation[];
+                    subParagraph = subParagraph.Substring(yearEndIndex);
+                    yearEndIndex = ExtractCitation(subParagraph);                    
+                } while (yearEndIndex != -1);
+            }            
             Common.sw.Close();
-            foreach (Citation citation in citations)
-            {
-                citation.Display(citationXml);
-            }
             Process p = new Process();
             ProcessStartInfo pInfo = new ProcessStartInfo(@"c:\windows\System32\notepad.exe", Common.outputFilePath);
             p.StartInfo = pInfo;

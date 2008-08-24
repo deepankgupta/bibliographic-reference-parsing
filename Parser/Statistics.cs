@@ -15,6 +15,7 @@ namespace Parser
         public static int statTitle = 0;
         public static int statParsed = 0;
         public static int statPredictedPublication = 0;
+        public static int wronglyPredictedReference = 0;
 
         public static double avgPublicationLength = 0.0;
         public static double avgReferenceLength = 0.0;
@@ -23,12 +24,19 @@ namespace Parser
 
         #endregion
 
+        #region DisplayMethod
+        /// <summary>
+        /// This function is used to display the statistics in an xml and output text file. 
+        /// </summary>
+        /// <param name="statisticsXml">XmlCreator to write to xml file. </param>
         public static void DisplayStatistics(XmlCreator statisticsXml)
         {
             Common.sw.WriteLine("STATISTICS");
             Common.sw.WriteLine("Total : " + stat);
+            Common.sw.WriteLine("Wrong : " + wronglyPredictedReference);
             statisticsXml.AddFirstLevelTag("Reference", "");
             statisticsXml.AddSecondLevelTag("Total", stat.ToString());
+            statisticsXml.AddSecondLevelTag("Wrong", wronglyPredictedReference.ToString());
             Common.sw.WriteLine("Avg Reference Length : " + avgReferenceLength);
             statisticsXml.AddSecondLevelTag("Length", avgReferenceLength.ToString());
             Common.sw.WriteLine("Author : " + statAuthor);
@@ -48,25 +56,10 @@ namespace Parser
             statisticsXml.AddSecondLevelTag("StartIndex", avgPublicationStart.ToString());
             Common.sw.WriteLine("Avg Publication end : " + avgPublicationEnd);
             statisticsXml.AddSecondLevelTag("EndIndex", avgPublicationEnd.ToString());
-            
         }
+        #endregion
 
-        public static void UpdateStatistics(Reference parsedReference)
-        {
-            if (parsedReference.IsPredictionNeeded())
-            {
-                //Collect statistics
-                statParsed = statParsed + 1;
-                avgReferenceLength = ((avgReferenceLength * (statParsed - 1)) +
-                    parsedReference.ReferenceText.Length) / statParsed;
-                avgPublicationLength = ((avgPublicationLength * (statParsed - 1)) +
-                    parsedReference.Publication.Length) / statParsed;
-                avgPublicationStart = ((avgPublicationStart * (statParsed - 1)) +
-                    parsedReference.seperatorBeforePublication) / statParsed;
-                avgPublicationEnd = ((avgPublicationEnd * (statParsed - 1)) +
-                    parsedReference.seperatorAfterPublication) / statParsed;
-            }
-        }
+        #region UpdateMethods
 
         internal static void UpdateYearAuthor()
         {
@@ -93,5 +86,27 @@ namespace Parser
         {
             stat = stat + 1;
         }
+
+        /// <summary>
+        /// Updation of the statistics at every turn. 
+        /// </summary>
+        /// <param name="parsedReference">Reference object to be passed. </param>
+        internal static void UpdateStatistics(Reference parsedReference)
+        {
+            if (parsedReference.IsPredictionNeeded())
+            {
+                //Collect statistics
+                statParsed = statParsed + 1;
+                avgReferenceLength = ((avgReferenceLength * (statParsed - 1)) +
+                    parsedReference.ReferenceText.Length) / statParsed;
+                avgPublicationLength = ((avgPublicationLength * (statParsed - 1)) +
+                    parsedReference.Publication.Length) / statParsed;
+                avgPublicationStart = ((avgPublicationStart * (statParsed - 1)) +
+                    parsedReference.seperatorBeforePublication) / statParsed;
+                avgPublicationEnd = ((avgPublicationEnd * (statParsed - 1)) +
+                    parsedReference.seperatorAfterPublication) / statParsed;
+            }
+        }
+        #endregion
     }
 }

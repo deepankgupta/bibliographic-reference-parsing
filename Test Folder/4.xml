@@ -1,0 +1,122 @@
+﻿<tax:taxonx xmlns:dc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.taxonx.org/schema/v1 http://www.taxonx.org/schema/v1/taxonx1.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-1.xsd http://digir.net/schema/conceptual/darwin/2003/1.0 http://digir.net/schema/conceptual/darwin/2003/1.0/darwin2.xsd">
+<tax:taxonxHeader>
+<mods:mods>
+<mods:titleInfo>
+<mods:title>Salticidae (Araneae) formiciformes. XII. Descripción del allotypus de Synemosyna paraensis Galiana, 1967.</mods:title>
+</mods:titleInfo>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Galiano, M. E.</mods:namePart>
+</mods:name>
+<mods:typeOfResource>text</mods:typeOfResource>
+<mods:relatedItem type="host">
+<mods:titleInfo>
+<mods:title>Revista de la Socidad Entomologica Argentina</mods:title>
+</mods:titleInfo>
+<mods:part>
+<mods:detail type="volume">
+<mods:number>33(1-4)</mods:number>
+</mods:detail>
+<mods:extent unit="page">
+<mods:start>133</mods:start>
+<mods:end>135</mods:end>
+</mods:extent>
+<mods:date>1971</mods:date>
+</mods:part>
+</mods:relatedItem>
+<mods:identifier type="HNS-PUB">21390</mods:identifier>
+<mods:location>
+<mods:url>http://hdl.handle.net/10199/15397</mods:url>
+</mods:location>
+</mods:mods>
+</tax:taxonxHeader>
+<tax:taxonxBody>
+<tax:p>
+<tax:name>SALTICIDAE</tax:name>
+(
+<tax:name>ARANEAE</tax:name>
+) FORMICIFORMES. XII. DESCRIPCION DEL ALLOTYPUS DE 
+<tax:name>SYNEMOSYNA PARAENSIS</tax:name>
+GALIANO, 1967
+</tax:p>
+<tax:p>por Maria Elena Galiano (*)</tax:p>
+<tax:p>
+SUMMARY: Formiciform 
+<tax:name>Salticidae</tax:name>
+(Araneae) XII. Description of the Allotypus of 
+<tax:name>Synemosyna paraensis</tax:name>
+Galiano, 1967.
+</tax:p>
+<tax:p>
+The female Allotypus of 
+<tax:name>Synemosyna paraensis</tax:name>
+is described. This species was described with only one male from Northeastern Brazil. Other three males and three females are now mentioned from the same area.
+</tax:p>
+<tax:p>Metodos: Las medidas se han tomado siguiendo metodos indicados en publicaciones anteriores (Galiano, 1963) y se expresan en milimetros con fracciones hasta milesimos. Las abreviaturas empleadas son las siguientes: O. M. A., O. L. A. y O. L. P.: ojos medios anteriores, laterales anteriores y laterales posteriores respectivamente. R. C.: region cefalica. R. T.: region toracica. MACN: Museo Argentino de Ciencias Naturales.</tax:p>
+<tax:treatment>
+<tax:nomenclature>
+<tax:name>Synemosyna paraensis</tax:name>
+Galiano, 1967
+</tax:nomenclature>
+<tax:ref_group>
+<tax:p>
+1967. 
+<tax:name>Synemosyna paraensis</tax:name>
+Galiano, Physis XXVII (74): 38, figs. 25 - 28 ([[ male ]]. 
+sp. n.
+).
+</tax:p>
+</tax:ref_group>
+<tax:div type="description">
+<tax:p>Descripcion del Allotypus [[ female ]]:</tax:p>
+<tax:p>Proporciones: Prosoma, ancho igual a 358 ° / oo del largo; alto 294 % o del largo; largo del area ocular 262 % o del largo del prosoma.</tax:p>
+<tax:p>Medidas: Largo total 6,199. Prosoma: largo 2,599. R. C. largo 1,166, ancho 0,933, alto 0,766. R. T. largo 1,399, ancho 0,766, alto 0,633. Clipeo: alto 0,116. Area ocular: ancho de la Ia hilera: 0,766; de la 2 a: 0,783; de la 3 a: 0,749; de la 4 *: 0,899. Distancia entre los ojos de la 2 a y 4 a hilera: 0,683; entre los de la 2 a y 3 a: 0,183; entre los de la 3 a v 4 a: 0,149. Diametro de los O. M. A.: 0,416. Esternon: largo 1,099; ancho en el espacio entre las coxas I y II: 0,366. Queliceros: pequenos, verticales. Retromargen del surco ungueal con 3 dientes en un quelicero y 4 en el otro. Patas: espinas, I: femur y patella 0; tibia 3 prolaterales y 4 retrolaterales inferiores; metatarso 2 - 2 inferiores. II: igual a I. III y IV: sin espinas. Palpos: con 2 - 2 espinas inferiores en la tibia y 1 retrolateral mediana en el tarso; levemente ensanchado en la tibia y tarso siendo este ultimo agudo en el apice. Opistosoma: largo 3,432. Epigino: ubicado sobre una prominencia de la region epigastrica, la cual esta totalmente endurecida, de este modo, forma una lamela, saliente que cubre en parte la entrada de los orificios de las espermatecas.</tax:p>
+<tax:p>Aspecto y color ex alcohol: mas clara y mas pequena que el Holotypus [[ male ]]. El prosoma tiene una profunda constriccion separando la R. C. de R. T. La region anterior es anaranjada, con los ojos rodeados de manchas negras. Desde cada O. L. P. hacia el margen, se extiende una mancha parda. En la R. T. el color es anaranjado, oscurecido hacia el margen. En el fondo de la constriccion se ubica una ancha banda blanquecina, limitada hacia atras por una angosta banda difusa pardo claro. El opistosoma es muy alargado, con la constriccion bien marcada. En la porcion anterior a la misma hay un scutum dorsal oval, de
+color anaranjado. El color de fondo es amarillo y existe una banda transversa mediana blanquecina. En la region posterior a la constriccion el color es anaranjado, mas claro sobre el dorso y pardusco en los costados y el apice. En el fondo de la constriccion hay una ancha banda blanquecina, que se continua sobre los costados y en el vientre se une con la del lado opuesto formando una gran mancha postepigastrica. En el dorso, limitado a la banda blanquecina de la constriccion, hay una pequena mancha parda anterior y una banda parda posterior, en forma de V invertida y cuyo apice se halla en la parte profunda del declive. La region epigastrica es anaranjada y esta totalmente endurecida, prolongandose por los costados casi hasta el dorso; en el borde dorsal, se ubica una fila de granulos en los cuales se insertan cortos pelillos rigidos. En el apice ventral hay una banda longitudinal ligeramente pardusca. La pata I es amarilla, con una linea negruzca prolateral en patella y tibia. La pata II es amarilla, excepto coxa y trocanter, que son anaranjados con una banda pardo dorsal, continuacion de la similar del prosoma. La pata III tiene coxa y trocanter anaranjados; el resto amarillo anaranjado, con la patella blanquecina y la cara retrolateral de la tibia algo oscurecida. Pata IV con coxa anaranjada, trocanter blanquecino, femur anaranjado con las caras laterales parduscas, patella blanquecina, tibia anaranjada con la cara retrolateral parda, metatarso amarillo con la mitad basal retrolateral parda. Palpos amarillos con las caras laterales algo rojizas.</tax:p>
+</tax:div>
+<tax:div type="materials_examined">
+<tax:p>Material estudiado: 1 [[ male ]] Holotypus N ° 5973 en el MACN, de Belem, Para, Brasil; col. Galiano VI- 1966. 1 [[ female ]] Allotypus N ° 6393 MACN, de Belem, Para, Brasil; col. Galiano VIII- 1970. 2 [[ male ]] y 1 [[ female ]] N ° 6394 MACN, igual localidad y colector. 1 [[ male ]] y 1 [[ female ]], igual localidad y colector, depositados en el Museu Nacional de Rio de Janeiro.</tax:p>
+</tax:div>
+<tax:div type="discussion">
+<tax:p>
+Observaciones: Cuando se describio la especie, se comento que dado que no se habian hallado las hembras, podria tal vez tratarse de Synemosyna hentzi Peckham, 1892. Ahora, el hallazgo de los ejemplares femeninos nos permite asegurar que se trata de una especie diferente, pues aunque no se ha podido estudiar el tipo de Peckham (que pareceria extraviado), el dibujo del cuerpo que ese autor proporciona muestra un ejemplar casi sin constricciones, mientras que en 
+<tax:name>S. paraensis</tax:name>
+estas son bien evidentes.
+</tax:p>
+</tax:div>
+</tax:treatment>
+<tax:p>BIBLIOGRAFIA</tax:p>
+<tax:p>
+Galiano, M. E. 1963. Las especies americanas de aranas de la familia 
+<tax:name>Salticidae</tax:name>
+descriptas por Eugene Simon. Redescripciones basadas en los ejemplares tipicos. Physis XXIII (66): 273 - 470.
+</tax:p>
+<tax:p>
+- 1966. 
+<tax:name>Salticidae</tax:name>
+(Araneae) formiciformes. V. Revision del genero Synemosyna
+</tax:p>
+<tax:p>Hentz, 1846. Rev. Mus. Arg. Cien. Nat. Buenos Aires Ent. I (6): 267 - 312.</tax:p>
+<tax:p>
+- 1967. 
+<tax:name>Salticidae</tax:name>
+(Araneae) formiciformes. VIII. Nuevas descripciones. Physis XXVII (74): 27 - 39.
+</tax:p>
+<tax:p>
+Peckham, G. W. &amp; Peckham, E. G. 1892. Ant-like Spiders of the Family 
+<tax:name>Attidae</tax:name>
+. Occ. Pap. Hist. Soc. Wisconsin II: 1 - 83.
+</tax:p>
+<tax:note place="foot">
+<tax:p>(°) Carrera del Investigador. Consejo Nacional de Investigaciones Cientificas y Tecnicas.</tax:p>
+</tax:note>
+<tax:figure>
+<tax:p>
+<tax:name>Synemosyna paraensis</tax:name>
+Galiano, 1967. Allotypus: 1, epigino; 2, el mismo, vista lateral; 3, espermatecas y conductos, vista dorsal.
+    </tax:p>
+</tax:figure>
+</tax:taxonxBody>
+</tax:taxonx>

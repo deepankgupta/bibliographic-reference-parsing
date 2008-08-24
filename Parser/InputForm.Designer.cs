@@ -30,9 +30,6 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.inputFileButton = new System.Windows.Forms.Button();
-            this.label2 = new System.Windows.Forms.Label();
-            this.outputFileButton = new System.Windows.Forms.Button();
-            this.outputFileDialog = new System.Windows.Forms.SaveFileDialog();
             this.inputFileDialog = new System.Windows.Forms.OpenFileDialog();
             this.finishButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -56,25 +53,6 @@
             this.inputFileButton.UseVisualStyleBackColor = true;
             this.inputFileButton.Click += new System.EventHandler(this.inputFileButton_Click);
             // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(24, 98);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(113, 13);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "Enter the Output File : ";
-            // 
-            // outputFileButton
-            // 
-            this.outputFileButton.Location = new System.Drawing.Point(179, 93);
-            this.outputFileButton.Name = "outputFileButton";
-            this.outputFileButton.Size = new System.Drawing.Size(75, 23);
-            this.outputFileButton.TabIndex = 3;
-            this.outputFileButton.Text = "Browse ...";
-            this.outputFileButton.UseVisualStyleBackColor = true;
-            this.outputFileButton.Click += new System.EventHandler(this.outputFileButton_Click);
-            // 
             // inputFileDialog
             // 
             this.inputFileDialog.FileName = "openFileDialog1";
@@ -95,8 +73,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(282, 259);
             this.Controls.Add(this.finishButton);
-            this.Controls.Add(this.outputFileButton);
-            this.Controls.Add(this.label2);
             this.Controls.Add(this.inputFileButton);
             this.Controls.Add(this.label1);
             this.Name = "InputForm";
@@ -110,9 +86,6 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button inputFileButton;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Button outputFileButton;
-        private System.Windows.Forms.SaveFileDialog outputFileDialog;
         private System.Windows.Forms.OpenFileDialog inputFileDialog;
         private System.Windows.Forms.Button finishButton;
     }

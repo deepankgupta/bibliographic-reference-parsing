@@ -53,12 +53,18 @@ namespace Parser
             xmldoc.ChildNodes.Item(1).AppendChild(xmlelem);
         }
 
-
         #endregion 
 
+        #region ConstructorDestructor
+        /// <summary>
+        /// Constructor creates the XmlCreator object. 
+        /// </summary>
+        /// <param name="filename">Filename which will be used to store the xml file. </param>
+        /// <param name="rootTag">The roottag of the xml. </param>
         public XmlCreator(string filename, string rootTag)
         {
-            xmlFile = Path.GetDirectoryName(Common.outputFilePath) + @"\" + filename;
+            xmlFile = Path.GetDirectoryName(Common.inputFilePath) +
+                    @"\" + Path.GetFileNameWithoutExtension(Common.inputFilePath) + @"_" + filename;
             xmldoc = new XmlDocument();
             if (File.Exists(xmlFile))
             {
@@ -72,9 +78,13 @@ namespace Parser
             xmldoc.AppendChild(xmlelem);
         }
 
+        /// <summary>
+        /// Destructor: Saves the xmlFile before exiting. 
+        /// </summary>
         ~XmlCreator()
         {
             xmldoc.Save(xmlFile);
-        }            
+        }
+        #endregion
     }
 }
