@@ -290,6 +290,7 @@ namespace Parser
             }
             if (r.Publication.Length < (r.seperatorAfterPublication - r.seperatorBeforePublication))
             {
+                bool changed = false;
                 if (r.ReferenceText[r.seperatorBeforePublication] == '.')
                 {
                     int prevSeperatorStart = r.seperatorBeforePublication;
@@ -311,11 +312,30 @@ namespace Parser
                     r.seperatorBeforePublication = offset + i;
                     if (r.seperatorBeforePublication != prevSeperatorStart)
                     {
-                        string aisehe = r.ReferenceText.Substring(r.seperatorBeforePublication);
+                        string afterPublicationText = r.ReferenceText.Substring(r.seperatorBeforePublication);
+                        int lastIndex;
+                        //Find a number/seperator.
+                        string pattern = @"(\p{Nd})";
+                        MatchCollection mc;
+                        mc = Regex.Matches(afterPublicationText, pattern);
+                        if (mc.Count == 0)
+                        {
+                            r.Publication = r.ReferenceText.Substring(r.seperatorBeforePublication);
+                        }
+                        else
+                        {
+                            lastIndex = mc[0].Index + r.seperatorBeforePublication;
+                            r.Publication = r.ReferenceText.Substring(r.seperatorBeforePublication, lastIndex
+                                - r.seperatorBeforePublication);
+                        }
+                        changed = true;
                     }
                 }
-                r.Publication = r.ReferenceText.Substring(r.seperatorBeforePublication,
-                    r.seperatorAfterPublication - r.seperatorBeforePublication);
+                if (!changed)
+                {
+                    r.Publication = r.ReferenceText.Substring(r.seperatorBeforePublication,
+                        r.seperatorAfterPublication - r.seperatorBeforePublication);
+                }
             }
             //Check for a valid publication match. More than 1 word matched
             //Check if the one word match is the only word in the matched publication. Then also 
@@ -688,10 +708,10 @@ namespace Parser
                 } while (yearEndIndex != -1);
             }            
             Common.sw.Close();
-            Process p = new Process();
+            /*Process p = new Process();
             ProcessStartInfo pInfo = new ProcessStartInfo(@"c:\windows\System32\notepad.exe", Common.outputFilePath);
             p.StartInfo = pInfo;
-            p.Start();
+            p.Start();*/
         }
 
         /// <summary>

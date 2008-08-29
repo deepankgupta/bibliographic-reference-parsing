@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Statistics">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Reference">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Total" type="xs:unsignedShort" />
+              <xs:element name="Wrong" type="xs:unsignedShort" />
+              <xs:element name="Length" type="xs:decimal" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Author" type="xs:unsignedShort" />
+        <xs:element name="Year" type="xs:unsignedShort" />
+        <xs:element name="Titles" type="xs:unsignedShort" />
+        <xs:element name="Publications">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DomainBased" type="xs:unsignedShort" />
+              <xs:element name="Predicted" type="xs:unsignedShort" />
+              <xs:element name="Length" type="xs:unsignedShort" />
+              <xs:element name="StartIndex" type="xs:decimal" />
+              <xs:element name="EndIndex" type="xs:decimal" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
