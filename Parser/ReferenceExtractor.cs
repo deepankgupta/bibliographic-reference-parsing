@@ -352,6 +352,7 @@ namespace Parser
                 sw.WriteLine(reference);
             }
             sw.Close();
+            fw.Close();
         }
 
         /// <summary>

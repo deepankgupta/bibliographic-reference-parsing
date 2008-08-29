@@ -672,6 +672,7 @@ namespace Parser
                     }
                 }
             }
+            fs.Close();
             Statistics.DisplayStatistics(statisticsXml);
             for(int i = 0; i < Common.paragraphs.Length; i++)
             {
