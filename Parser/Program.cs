@@ -290,6 +290,30 @@ namespace Parser
             }
             if (r.Publication.Length < (r.seperatorAfterPublication - r.seperatorBeforePublication))
             {
+                if (r.ReferenceText[r.seperatorBeforePublication] == '.')
+                {
+                    int prevSeperatorStart = r.seperatorBeforePublication;
+                    string tempStr = r.ReferenceText.Substring(r.yearEnd + 2);
+                    int offset = r.yearEnd + 2;
+                    int i = tempStr.IndexOf('.');
+                    if (i == 0)
+                    {
+                        tempStr = tempStr.Substring(1);
+                        i = tempStr.IndexOf('.');
+                        offset++;
+                    }
+                    if (i < 5)
+                    {
+                        tempStr = tempStr.Substring(i + 1);
+                        offset = offset + i + 1;
+                        i = tempStr.IndexOf('.');
+                    }
+                    r.seperatorBeforePublication = offset + i;
+                    if (r.seperatorBeforePublication != prevSeperatorStart)
+                    {
+                        string aisehe = r.ReferenceText.Substring(r.seperatorBeforePublication);
+                    }
+                }
                 r.Publication = r.ReferenceText.Substring(r.seperatorBeforePublication,
                     r.seperatorAfterPublication - r.seperatorBeforePublication);
             }
@@ -356,6 +380,30 @@ namespace Parser
                 return;
             if (seperatorEnd == -1 || seperatorStart == -1)
                 return;
+            if (parsedReference.ReferenceText[seperatorStart] == '.')
+            {
+                int prevSeperatorStart = seperatorStart;
+                string tempStr = parsedReference.ReferenceText.Substring(parsedReference.yearEnd + 2);
+                int offset = parsedReference.yearEnd + 2;
+                int i = tempStr.IndexOf('.');
+                if (i == 0)
+                {
+                    tempStr = tempStr.Substring(1);
+                    i = tempStr.IndexOf('.');
+                    offset++;
+                }
+                if (i < 5)
+                {
+                    tempStr = tempStr.Substring(i);
+                    offset += i;
+                    i = tempStr.IndexOf('.');
+                }
+                seperatorStart = offset + i;
+                if (seperatorStart != prevSeperatorStart)
+                {
+
+                }
+            }
             Statistics.UpdatePredictedPublication();
             parsedReference.Publication = parsedReference.ReferenceText.Substring(seperatorStart,
                 seperatorEnd - seperatorStart);
@@ -439,10 +487,10 @@ namespace Parser
         /// </summary>
         /// <param name="reference">Reference String</param>
         /// <returns>True or false based on the success/failure of the process. </returns>
-        static Reference ParseReference(string reference)
+        static Reference ParseReference(string reference, long offset)
         {
             //String used to store the author name. 
-            Reference r = new Reference(reference);
+            Reference r = new Reference(reference, offset);
             r.ReferenceText = reference;
             if (!FindYearAndAuthor(ref r))
             {
@@ -479,7 +527,7 @@ namespace Parser
         /// This function is used to find and extract a citation from the paragraph. 
         /// </summary>
         /// <param name="paragraph">String of paragraph</param>
-        static private int ExtractCitation(string paragraph)
+        static private int ExtractCitation(string paragraph, long offset)
         {
             string[] stopwords = { "in", "since", "during", "until", "before" };
             if (paragraph == null || paragraph == String.Empty)
@@ -547,6 +595,7 @@ namespace Parser
             citation.Year = year;
             //Note that the 4 has been kept to include the year also in this. 
             citation.Paragraph = paragraph.Substring(0, yearEndIndex);
+            citation.Offset = offset + yearEndIndex;
             citation.Display(citationXml);
             Common.sw.WriteLine("Citation : " + citation.Name + " " + citation.Year.ToString());
             return yearEndIndex;
@@ -570,13 +619,13 @@ namespace Parser
             Reference parsedReference;
 
             GetPublicationData();
-
+            int ind = 0;
             //Main loop for reading the references. 
             while (fs.Peek() != -1)
             {
                 reference = fs.ReadLine();
                 Statistics.UpdateReference();
-                parsedReference = ParseReference(reference);
+                parsedReference = ParseReference(reference, Common.offsetParagraphs[ind]);
                 if (parsedReference == null)
                 {
                     Statistics.wronglyPredictedReference++;
@@ -588,6 +637,7 @@ namespace Parser
                     parsedReference.toBePredicted = true;                    
                 }
                 referenceList.Add(parsedReference);
+                ind++;
             }
             references = referenceList.ToArray(typeof(Reference)) as Reference[];
             for(int i = 0; i<references.Length;i++)
@@ -623,14 +673,17 @@ namespace Parser
                 }
             }
             Statistics.DisplayStatistics(statisticsXml);
-            foreach (string paragraph in Common.paragraphs)
+            for(int i = 0; i < Common.paragraphs.Length; i++)
             {
-                string subParagraph = paragraph;
+                string subParagraph = Common.paragraphs[i];
+                long baseOffset = Common.offsetParagraphs[i];
                 int yearEndIndex = 0;
+                int incrOffset = 0;
                 do
                 {
                     subParagraph = subParagraph.Substring(yearEndIndex);
-                    yearEndIndex = ExtractCitation(subParagraph);                    
+                    yearEndIndex = ExtractCitation(subParagraph, baseOffset + incrOffset);
+                    incrOffset += yearEndIndex;
                 } while (yearEndIndex != -1);
             }            
             Common.sw.Close();
