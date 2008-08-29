@@ -19,20 +19,43 @@ namespace Parser
 
         private void inputFileButton_Click(object sender, EventArgs e)
         {
-            DialogResult result = inputFileDialog.ShowDialog();
-            if (result == DialogResult.OK)
+            if (fileModeRadio.Checked)
             {
-                Common.inputFilePath = inputFileDialog.FileName;
-                Common.outputFilePath = Path.GetDirectoryName(Common.inputFilePath) +
-                    @"\" + Path.GetFileNameWithoutExtension(Common.inputFilePath) + @"_" + @"output.txt";
+                DialogResult result = inputFileDialog.ShowDialog();
+                if (result == DialogResult.OK)
+                {
+                    Common.inputFilePath = inputFileDialog.FileName;
+                    Common.outputFilePath = Path.GetDirectoryName(Common.inputFilePath) +
+                        @"\" + Path.GetFileNameWithoutExtension(Common.inputFilePath) + @"_" + @"output.txt";
+                }
             }
+            else
+            {
+                DialogResult result = inputFolderDialog.ShowDialog();
+                if (result == DialogResult.OK)
+                {
+                    Common.inputFilePath = inputFolderDialog.SelectedPath;
+                }
+            }           
         }
 
         private void finishButton_Click(object sender, EventArgs e)
         {
-            Common.Init();
-            Program.Start();
+            if (fileModeRadio.Checked)
+            {
+                Common.Init();
+                Program.Start();                
+            }
+            else
+            {
+                BatchTestClass.Start();
+            }
             this.Close();
+        }
+
+        private void InputForm_Load(object sender, EventArgs e)
+        {
+
         }        
     }
 }
