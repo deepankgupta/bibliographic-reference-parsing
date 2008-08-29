@@ -96,7 +96,9 @@ namespace Parser
         private void GetParagraphs()
         {
             ArrayList strList = new ArrayList();
-            ArrayList intList = new ArrayList();            
+            ArrayList intList = new ArrayList();
+            if (!File.Exists(Common.inputFilePath))
+                return;
             while (reader.Read())
             {
                 if (reader.Name == "tax:p")
