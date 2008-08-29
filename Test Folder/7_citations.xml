@@ -4,16 +4,19 @@
     <Paragraph>urn:lsid:zoobank.org:pub:68376390-7809-46FF-9EC4-1371B4AAD0FF these depths (Pyle 1996</Paragraph>
     <Name>Pyle</Name>
     <Year>1996</Year>
+    <Offset>9985</Offset>
   </Citation>
   <Citation>
     <Paragraph>a, 1996</Paragraph>
     <Name>a</Name>
     <Year>1996</Year>
+    <Offset>9992</Offset>
   </Citation>
   <Citation>
     <Paragraph>b, 1999</Paragraph>
     <Name>b</Name>
     <Year>1999</Year>
+    <Offset>9999</Offset>
   </Citation>
   <Citation>
     <Paragraph>In addition to the discovery of many 
@@ -21,11 +24,13 @@ new species
 of fishes, initial exploration of deep coral reefs (sometimes referred to as "mesophotic" reefs) has led to new insights concerning ecological and biogeographic processes in both the Pacific (Pyle 2000</Paragraph>
     <Name>Pyle</Name>
     <Year>2000</Year>
+    <Offset>10261</Offset>
   </Citation>
   <Citation>
     <Paragraph>unpublished data) and the tropical Atlantic (Feitoza et al. 2005</Paragraph>
     <Name>al</Name>
     <Year>2005</Year>
+    <Offset>10327</Offset>
   </Citation>
   <Citation>
     <Paragraph>The pomacentrid genus 
@@ -37,6 +42,7 @@ Chromis
 Cuvier 1814</Paragraph>
     <Name>Cuvier</Name>
     <Year>1814</Year>
+    <Offset>10409</Offset>
   </Citation>
   <Citation>
     <Paragraph>type species Sparus7 chromis8 Linnaeus 1758) is the largest genus of the family, with 86 valid species. Fishes of this genus are among the few pomacentrid species known to inhabit deep coral reefs, perhaps a reflection of their principal food (zooplankton), in contrast to species of genera that are dependant primarily on benthic algae. At least 34 species of 
@@ -55,6 +61,7 @@ C. okamurai
 9 Yamakawa and Randall 1989</Paragraph>
     <Name>Randall</Name>
     <Year>1989</Year>
+    <Offset>10970</Offset>
   </Citation>
   <Citation>
     <Paragraph>Chromis
@@ -63,6 +70,7 @@ C. mirationis
 10 Tanaka 1917</Paragraph>
     <Name>Tanaka</Name>
     <Year>1917</Year>
+    <Offset>11030</Offset>
   </Citation>
   <Citation>
     <Paragraph>Chromis
@@ -71,6 +79,7 @@ C. struhsakeri
 11 Randall and Swerdloff 1973</Paragraph>
     <Name>Swerdloff</Name>
     <Year>1973</Year>
+    <Offset>11107</Offset>
   </Citation>
   <Citation>
     <Paragraph>Chromis
@@ -79,6 +88,7 @@ C. abyssicola
 12 Allen and Randall 1985</Paragraph>
     <Name>Randall</Name>
     <Year>1985</Year>
+    <Offset>11178</Offset>
   </Citation>
   <Citation>
     <Paragraph>and 
@@ -91,36 +101,43 @@ C. onumai
 13 Senou and Kudo 2007</Paragraph>
     <Name>Kudo</Name>
     <Year>2007</Year>
+    <Offset>11242</Offset>
   </Citation>
   <Citation>
     <Paragraph>All specimens were collected with hand nets (sometimes with the aid of rotenone or quinaldine sulphate) by divers using Cis-Lunar® MK-5P mixed-gas, closed-circuit rebreathers, generally following protocols outlined by Pyle (1996</Paragraph>
     <Name>Pyle</Name>
     <Year>1996</Year>
+    <Offset>14063</Offset>
   </Citation>
   <Citation>
     <Paragraph>c). In all cases, specimens were collected in full accordance with local government regulations, and in compliance with appropriate animal care standards. Most specimens were photographed when fresh, usually following the technique described by Randall (1961</Paragraph>
     <Name>Randall</Name>
     <Year>1961</Year>
+    <Offset>14321</Offset>
   </Citation>
   <Citation>
     <Paragraph>Counts of median fin rays, vertebrae, and predorsal bones were taken from digitally-scanned radiograph images ("x-rays")24. Measurements of standard length (SL), lengths from tip of snout to origins of dorsal, pelvic and anal fins, dorsal- and anal-fin bases, and dorsal- and anal-fin spine lengths of specimens not bent or otherwise distorted were calculated to the nearest tenth (0.1) of a mm from radiograph images25, and verified against measurements taken directly from specimens. All other counts and measurements were taken directly from specimens using a Fowler® Ultra-Cal IV 300-mm digital caliper. Measurement values were recorded to the nearest hundredth (0.01) of a mm, but rounded to the nearest tenth (0.1) of a mm for analyses. Methods of counts and measurements are mostly consistent with those described in Allen &amp; Randall (2004</Paragraph>
     <Name>in Allen &amp; Randall</Name>
     <Year>2004</Year>
+    <Offset>16650</Offset>
   </Citation>
   <Citation>
     <Paragraph>Total genomic DNA was extracted from available tissue samples using the Qiagen Dneasy® tissue kit following the manufacturer's protocol. In compliance with the Barcode of Life initiative, a fragment of the cytochrome oxidase I (COI) gene from the mitochondrial DNA (mtDNA) was amplified for holotypes (and some paratypes) of all species. Primers used for amplification and sequencing were BOL-F1 (5' TCA ACY AAT CAY AAA GAT ATY GGC AC 3') and BOL-R1 (5' ACT TCY GGG TGR CCR AAR AAT CA 3'), modified from Wa r d et al. (2005</Paragraph>
     <Name>al</Name>
     <Year>2005</Year>
+    <Offset>19814</Offset>
   </Citation>
   <Citation>
     <Paragraph>Whenever possible, information made accessible through external hyperlinks conforms to current standards and protocols as developed and maintained through Biodiversity Information Standards (formerly Taxonomic Databases Working Group; TDWG50). Most external hyperlinks are represented as a Life Science Identifier (LSID51) enclosed within an HTTP proxy (to allow viewing through standard web browsers), but others represent direct HTTP URLs or other standard protocols (e.g., "mailto"). All five new species names established herein have been prospectively registered in ZooBank (Polaszek et al. 2005</Paragraph>
     <Name>al</Name>
     <Year>2005</Year>
+    <Offset>23177</Offset>
   </Citation>
   <Citation>
     <Paragraph>a; 2005</Paragraph>
     <Name>a</Name>
     <Year>2005</Year>
+    <Offset>23184</Offset>
   </Citation>
   <Citation>
     <Paragraph>description of 
@@ -153,6 +170,7 @@ C. megalopsis
 78 Allen 1976</Paragraph>
     <Name>Allen</Name>
     <Year>1976</Year>
+    <Offset>39090</Offset>
   </Citation>
   <Citation>
     <Paragraph>now regarded as a junior synonym of 
@@ -165,6 +183,7 @@ C. mirationis Tanaka
 1917</Paragraph>
     <Name>Tanaka</Name>
     <Year>1917</Year>
+    <Offset>39183</Offset>
   </Citation>
   <Citation>
     <Paragraph>Chromis
@@ -173,6 +192,7 @@ C. mirationis Tanaka
 1917</Paragraph>
     <Name>Tanaka</Name>
     <Year>1917</Year>
+    <Offset>39241</Offset>
   </Citation>
   <Citation>
     <Paragraph>and 
@@ -185,6 +205,7 @@ C. struhsakeri Randall
 and Swerdloff 1973</Paragraph>
     <Name>Swerdloff</Name>
     <Year>1973</Year>
+    <Offset>39318</Offset>
   </Citation>
   <Citation>
     <Paragraph>to which we would add the subsequently named 
@@ -197,6 +218,7 @@ C. planesi
 79 Lecchini and Williams 2004</Paragraph>
     <Name>Williams</Name>
     <Year>2004</Year>
+    <Offset>39432</Offset>
   </Citation>
   <Citation>
     <Paragraph>Chromis
@@ -218,6 +240,7 @@ C. okamuri Yamakawa
 and Randall 1989</Paragraph>
     <Name>Randall</Name>
     <Year>1989</Year>
+    <Offset>39736</Offset>
   </Citation>
   <Citation>
     <Paragraph>from Japan, the East African 
@@ -230,6 +253,7 @@ C. woodsi
 80 Bruner and Arnam 1979</Paragraph>
     <Name>Arnam</Name>
     <Year>1979</Year>
+    <Offset>39826</Offset>
   </Citation>
   <Citation>
     <Paragraph>both easily distinguished from 
@@ -269,6 +293,7 @@ C. onumai Senou
 and Kudo 2007</Paragraph>
     <Name>Kudo</Name>
     <Year>2007</Year>
+    <Offset>40328</Offset>
   </Citation>
   <Citation>
     <Paragraph>has the high pectoral-ray count of the first complex (19-20) and the gill-raker count of the second (25-27). 
@@ -281,6 +306,7 @@ C. axillaris
 81 (Bennett 1831</Paragraph>
     <Name>Bennett</Name>
     <Year>1831</Year>
+    <Offset>40496</Offset>
   </Citation>
   <Citation>
     <Paragraph>Distribution. This species has been observed or collected from the Marshall Islands southward to Fiji, across the Caroline Islands from Puluwat to Palau, and south to Vanuatu. An underwater photo of what seems to be this species (or an undescribed species very similar to 
@@ -299,6 +325,7 @@ Chromis
 sp." on p. 531 of Kuiter &amp; Debelius, 2006</Paragraph>
     <Name>Kuiter &amp; Debelius</Name>
     <Year>2006</Year>
+    <Offset>56151</Offset>
   </Citation>
   <Citation>
     <Paragraph>Chromis
@@ -375,6 +402,7 @@ C. alpha
 101 Randall1988</Paragraph>
     <Name>Randall</Name>
     <Year>1988</Year>
+    <Offset>59126</Offset>
   </Citation>
   <Citation>
     <Paragraph>a, C. 
@@ -387,6 +415,7 @@ nigroanalis
 102 Randall 1988</Paragraph>
     <Name>Randall</Name>
     <Year>1988</Year>
+    <Offset>59191</Offset>
   </Citation>
   <Citation>
     <Paragraph>b, 
@@ -399,6 +428,7 @@ C. ovatiformis
 103 Fowler 1946</Paragraph>
     <Name>Fowler</Name>
     <Year>1946</Year>
+    <Offset>59255</Offset>
   </Citation>
   <Citation>
     <Paragraph>and 
@@ -411,11 +441,13 @@ C. pembae
 104 Randall and McCosker 1992</Paragraph>
     <Name>McCosker</Name>
     <Year>1992</Year>
+    <Offset>59326</Offset>
   </Citation>
   <Citation>
     <Paragraph>Two photos appearing on p. 390 of Kuiter &amp; Tonozuka (2001</Paragraph>
     <Name>Kuiter &amp; Tonozuka</Name>
     <Year>2001</Year>
+    <Offset>72048</Offset>
   </Citation>
   <Citation>
     <Paragraph>labelled as 
@@ -428,6 +460,7 @@ Chromis analis
 120 (Cuvier 1830</Paragraph>
     <Name>Cuvier</Name>
     <Year>1830</Year>
+    <Offset>72120</Offset>
   </Citation>
   <Citation>
     <Paragraph>bear a remarkable resemblance to 
@@ -453,6 +486,7 @@ Chromis
 flavicauda121 (Guenther 1880</Paragraph>
     <Name>Guenther</Name>
     <Year>1880</Year>
+    <Offset>72557</Offset>
   </Citation>
   <Citation>
     <Paragraph>The species appears most similar to other deep-dwelling species of 
@@ -478,6 +512,7 @@ C. opercularis
 136 (Guenther in Playfair and Guenther 1867</Paragraph>
     <Name>Guenther</Name>
     <Year>1867</Year>
+    <Offset>85526</Offset>
   </Citation>
   <Citation>
     <Paragraph>in color, but are easily distinguished from that species on several morphological characters (e.g., usually XIV dorsal-fin spines in 
@@ -511,5 +546,6 @@ C. planesi Lecchini
 and Williams 2004</Paragraph>
     <Name>Williams</Name>
     <Year>2004</Year>
+    <Offset>85997</Offset>
   </Citation>
 </Citations>
