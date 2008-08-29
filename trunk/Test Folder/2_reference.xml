@@ -2,6 +2,7 @@
 <References>
   <Reference>
     <Text>Bonnet, Pierre 1957. Bibliographia Araneorum. Toulouse. 2 (3</Text>
+    <Offset>1414</Offset>
     <Authors>Bonnet, Pierre</Authors>
     <Year>1957</Year>
     <Title>Bibliographia Araneorum</Title>
@@ -11,15 +12,27 @@
   </Reference>
   <Reference>
     <Text>Dalmas, Compte de 1916. Revision du Genre OrchestinaE. Simon. Ann. Soc. Entom. France. 85: 203 - 258, 30 figs</Text>
+    <Offset>2026</Offset>
     <Authors>Dalmas, Compte de</Authors>
     <Year>1916</Year>
-    <Title>Revision du Genre OrchestinaE. Simon</Title>
-    <Publication>Ann. Soc. Entom. France</Publication>
+    <Title>Revision du Genre OrchestinaE</Title>
+    <Publication>Simon. Ann. Soc. Entom. France</Publication>
+    <PageNumbers>
+    </PageNumbers>
+  </Reference>
+  <Reference>
+    <Text>Gertsch, W. J. 1936. Further Diagnoses of New American Spiders. Amer. Mus. Novitates, No. 852: 1 - 27, 4 pls</Text>
+    <Offset>2301</Offset>
+    <Authors>Gertsch, W. J</Authors>
+    <Year>1936</Year>
+    <Title>Further Diagnoses of New</Title>
+    <Publication>Amer. Mus. Novitates</Publication>
     <PageNumbers>
     </PageNumbers>
   </Reference>
   <Reference>
     <Text>Petrunkevitch, Alexander 1911. A synonymic index-catalogue of spiders of North, Central, South America, etc. Bull. Amer. Mus. Natur. Hist., 29: 1 - 809</Text>
+    <Offset>2547</Offset>
     <Authors>Petrunkevitch, Alexander</Authors>
     <Year>1911</Year>
     <Title>A synonymic index-catalogue of spiders of North, Central, South America, etc</Title>
@@ -29,46 +42,42 @@
   </Reference>
   <Reference>
     <Text>Simon, E. 1891. On the spiders of the island of St. Vincent. Pt. 1 Proc. Zool. Soc. of London, Nov. 17, 1891: 549 - 575</Text>
+    <Offset>5636</Offset>
     <Authors>Simon, E</Authors>
     <Year>1891</Year>
-    <Title>On the spiders of the island of St. Vincent. Pt. 1</Title>
-    <Publication>1 Proc. Zool. Soc. of London</Publication>
+    <Title>On the spiders of the island of St</Title>
+    <Publication>Vincent. Pt. 1 Proc. Zool. Soc. of London</Publication>
     <PageNumbers>
     </PageNumbers>
   </Reference>
   <Reference>
     <Text>Bryant, Elizabeth 1940. Cuban Spiders in the Museum of Comparative Zoology. Bull. Mus. Comp. Zool. 86 (7): 249 - 532, 22 pls</Text>
+    <Offset>1474</Offset>
     <Authors>Bryant, Elizabeth</Authors>
     <Year>1940</Year>
-    <Title>Cuban Spiders in the Museum of Comparative Zoology. Bull</Title>
-    <Publication>Mus. Comp. Zool. 86 (7</Publication>
+    <Title>Cuban Spiders in the Museum of Comparative Zoology</Title>
+    <Publication>Bull. Mus. Comp. Zool. 86 (7</Publication>
     <PageNumbers>
     </PageNumbers>
   </Reference>
   <Reference>
     <Text>Chickering, A. M. 1968. The Genus TriaerisSimon (Araneae, Oonopidae) in Central America and the West Indies. Psyche, 75 (1): 351 - 359</Text>
+    <Offset>1717</Offset>
     <Authors>Chickering, A. M</Authors>
     <Year>1968</Year>
-    <Title>The Genus TriaerisSimon (Araneae, Oonopidae</Title>
-    <Publication>in Central America and the West Indies. Psyche</Publication>
-    <PageNumbers>
-    </PageNumbers>
-  </Reference>
-  <Reference>
-    <Text>Gertsch, W. J. 1936. Further Diagnoses of New American Spiders. Amer. Mus. Novitates, No. 852: 1 - 27, 4 pls</Text>
-    <Authors>Gertsch, W. J</Authors>
-    <Year>1936</Year>
-    <Title>Further Diagnoses of New American Spiders. Amer</Title>
-    <Publication>Mus. Novitates, No. 852</Publication>
+    <Title>The Genus TriaerisSimon (Araneae, Oonopidae) in Central America and the West Indies</Title>
+    <Publication>Psyche</Publication>
     <PageNumbers>
     </PageNumbers>
   </Reference>
   <Reference>
     <Text>Roewer, C. Fr. 1942. Katalog der Araneae. 1: 1 - 1040</Text>
+    <Offset>5451</Offset>
     <Authors>Roewer, C. Fr</Authors>
     <Year>1942</Year>
-    <Title>Katalog der Araneae</Title>
-    <Publication>1: 1 - 1040</Publication>
+    <Title>Roewer, C. Fr. 1942. Katalog der Araneae. 1: 1 - 1040</Title>
+    <Publication>
+    </Publication>
     <PageNumbers>
     </PageNumbers>
   </Reference>

@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <Statistics>
   <Reference>
-    <Total>3</Total>
+    <Total>22</Total>
     <Wrong>1</Wrong>
-    <Length>127</Length>
+    <Length>128.909090909091</Length>
   </Reference>
-  <Author>2</Author>
-  <Year>2</Year>
-  <Titles>2</Titles>
+  <Author>21</Author>
+  <Year>21</Year>
+  <Titles>16</Titles>
   <Publications>
-    <DomainBased>2</DomainBased>
-    <Predicted>1</Predicted>
-    <Length>2</Length>
-    <StartIndex>95</StartIndex>
-    <EndIndex>110</EndIndex>
+    <DomainBased>15</DomainBased>
+    <Predicted>3</Predicted>
+    <Length>16</Length>
+    <StartIndex>85.0909090909091</StartIndex>
+    <EndIndex>108.818181818182</EndIndex>
   </Publications>
 </Statistics>
