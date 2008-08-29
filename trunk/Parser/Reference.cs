@@ -18,12 +18,14 @@ namespace Parser
         public int seperatorAfterPublication;
         public int yearEnd;
         public bool toBePredicted;
+        public long offset;
         #endregion
         
         #region Constructor
-        public Reference(string reference)
+        public Reference(string reference, long offset)
         {
             this.referenceText = reference;
+            this.offset = offset;
             this.publication = "";
             this.seperatorAfterPublication = -1;
             this.seperatorBeforePublication = -1;
@@ -107,7 +109,7 @@ namespace Parser
         {
             file.AddFirstLevelTag("Reference", "");
             file.AddSecondLevelTag("Text", referenceText);
-
+            file.AddSecondLevelTag("Offset", offset.ToString());
             Common.sw.WriteLine("REFERENCE : " + referenceText);
             file.AddSecondLevelTag("Authors", authors);
             Common.sw.WriteLine("AUTHORS : " + authors);

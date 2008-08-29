@@ -32,8 +32,12 @@ namespace Parser
         private string filePath;
         private string referenceFilePath;
         private XmlTextReader reader;
-        private string[] references;
+        private string[] references;        
         private int noPreviousParagraphReference;
+        /// <summary>
+        /// This variable is for internal use of the private function 
+        /// </summary>
+        static int prevIndex = 0;
         #endregion
 
         #region Constructor
@@ -91,19 +95,21 @@ namespace Parser
         /// </summary>
         private void GetParagraphs()
         {
-            ArrayList strList = new ArrayList();           
+            ArrayList strList = new ArrayList();
+            ArrayList intList = new ArrayList();            
             while (reader.Read())
             {
                 if (reader.Name == "tax:p")
                 {
                     StringBuilder b = new StringBuilder();
+                    intList.Add(reader.LineNumber);
                     do
                     {
                         do
                         {
                             reader.Read();
                             if (reader.Value != String.Empty)
-                            {
+                            {                                
                                 b.Append(reader.Value);
                             }
                         } while (reader.Name == String.Empty);
@@ -111,7 +117,30 @@ namespace Parser
                     strList.Add(b.ToString());
                 }
             }
-            Common.paragraphs = strList.ToArray(typeof(string)) as string[];            
+            reader.Close();
+            ArrayList offsetArray = new ArrayList();
+            foreach (int index in intList)
+            {
+                long offset = FindIndexOfLine(index);
+                offsetArray.Add(offset);
+            }            
+            Common.paragraphs = strList.ToArray(typeof(string)) as string[];
+            Common.offsetParagraphs = offsetArray.ToArray(typeof(long)) as long[];
+        }
+
+        private long FindIndexOfLine(int index)
+        {
+            FileStream fileReader = new FileStream(Common.inputFilePath, FileMode.Open);
+            int count = 1;
+            while (count < index)
+            {
+                if (fileReader.ReadByte() == '\n')
+                    count++;
+            }
+            char test = (char)fileReader.ReadByte();
+            long temp = fileReader.Position;
+            fileReader.Close();
+            return temp;
         }
         
         /// <summary>
@@ -317,7 +346,7 @@ namespace Parser
         {
             FileStream fw = new FileStream(referenceFilePath, FileMode.Create, FileAccess.Write);
             StreamWriter sw = new StreamWriter(fw, Encoding.Unicode);
-            //Write all references in it. 
+            //Write all references in it.             
             foreach (string reference in references)
             {
                 sw.WriteLine(reference);
@@ -341,6 +370,7 @@ namespace Parser
         {
             Init();
             ArrayList referenceList = new ArrayList();
+            ArrayList referenceOffsetList = new ArrayList();
             int i = 0;
             foreach (string paragraph in Common.paragraphs)
             {
@@ -348,12 +378,14 @@ namespace Parser
                 if (PredictPotentialReference(i))
                 {
                     referenceList.Add(CleanUpReference(paragraph));
+                    referenceOffsetList.Add(Common.offsetParagraphs[i]);
                     //Delete it from paragraph list
                     Common.paragraphs[i] = "";
                 }
                 i = i + 1;
             }
             references = referenceList.ToArray(typeof(string)) as string[];
+            Common.referenceOffsets = referenceOffsetList.ToArray(typeof(long)) as long[];
             StoreReferences();
             Exit();
         }

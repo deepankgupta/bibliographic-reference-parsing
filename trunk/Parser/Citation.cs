@@ -10,6 +10,7 @@ namespace Parser
         string name;
         int year;
         string paragraph;
+        long offset;
 
         #region GetAndSetMethods
         public string Name
@@ -23,6 +24,18 @@ namespace Parser
                 name = value;
                 name = Common.Strip(name);
             }
+        }
+
+        public long Offset
+        {
+            get
+            {
+                return offset;
+            }
+            set
+            {
+                offset = value;
+            }            
         }
 
         public string Paragraph
@@ -56,7 +69,8 @@ namespace Parser
             citationXml.AddFirstLevelTag("Citation", "");
             citationXml.AddSecondLevelTag("Paragraph", paragraph);
             citationXml.AddSecondLevelTag("Name", name);
-            citationXml.AddSecondLevelTag("Year", year.ToString());             
+            citationXml.AddSecondLevelTag("Year", year.ToString());
+            citationXml.AddSecondLevelTag("Offset", offset.ToString());
         }
     }
 }

@@ -26,6 +26,8 @@ namespace Parser
         public static string referenceFilePath = @"..\data\references.txt";
         public static string outputFilePath = @"..\data\output.txt";
         public static string[] paragraphs;
+        public static long[] offsetParagraphs;
+        public static long[] referenceOffsets;
         #endregion
 
         /// <summary>
