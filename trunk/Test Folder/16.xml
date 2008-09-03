@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="UTF-8"?><tax:taxonx xmlns:dc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.taxonx.org/schema/v1 http://www.taxonx.org/schema/v1/taxonx1.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-1.xsd http://digir.net/schema/conceptual/darwin/2003/1.0 http://digir.net/schema/conceptual/darwin/2003/1.0/darwin2.xsd">
+    <tax:taxonxHeader>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>A new species of Discothyrea Roger from Mauritius and a New species of Proceratium Roger from Madagascar (Hymenoptera: Formicidae).</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal">
+                <mods:role>
+                    <mods:roleTerm>Author</mods:roleTerm>
+                </mods:role>
+                <mods:namePart>Fisher, B. L.</mods:namePart>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:relatedItem type="host">
+                <mods:titleInfo>
+                    <mods:title>Proceedings of the California Academy of Sciences</mods:title>
+                </mods:titleInfo>
+                <mods:part>
+                    <mods:detail type="volume">
+                        <mods:number>56(35)</mods:number>
+                    </mods:detail>
+                    <mods:extent unit="page">
+                        <mods:start>657</mods:start>
+                        <mods:end>667</mods:end>
+                    </mods:extent>
+                    <mods:date>2005</mods:date>
+                </mods:part>
+            </mods:relatedItem>
+            <mods:location>
+                <mods:url>http://antbase.org/ants/publications/20971/20971.pdf</mods:url>
+            </mods:location>
+            <mods:subject>
+                <mods:topic>Proceratium avioide</mods:topic>
+                <mods:topic>Discothyrea berlita</mods:topic>
+                <mods:topic>Proceratium google</mods:topic>
+            </mods:subject>
+            <mods:identifier type="HNS-PUB">20971</mods:identifier>
+        </mods:mods>
+    </tax:taxonxHeader>
+    <tax:taxonxBody>
+        <tax:p>Fourth Series</tax:p>
+        <tax:p>Volume 56, No. 35, pp. 657 - 667, 17 figs., 4 tables. December 30, 2005</tax:p>
+        <tax:p>
+A New Species of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24852" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Discothyrea</dc:Genus>
+                </tax:xmldata>Discothyrea</tax:name>
+Roger from Mauritius and a New Species of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24854" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Proceratium</dc:Genus>
+                </tax:xmldata>Proceratium</tax:name>
+Roger from Madagascar (Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+)
+</tax:p>
+        <tax:p>Brian L. Fisher</tax:p>
+        <tax:p>Department of Entomology, California Academy of Sciences, 875 Howard Street, San Francisco, California 94103 USA; bfisher @ calacademy. org</tax:p>
+        <tax:p>
+The worker of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:195010" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Discothyrea</dc:Genus>
+                    <dc:Species>berlita</dc:Species>
+                </tax:xmldata>Discothyrea berlita</tax:name>sp. nov.
+from Mauritius is described. This is the first record of the genus from Mauritius. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:195010" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Discothyrea</dc:Genus>
+                    <dc:Species>berlita</dc:Species>
+                </tax:xmldata>D. berlita</tax:name>
+is known from a single locality, Le Pouce, a small sanctuary of native ants on an island overrun with invasive ant species. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35547" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Proceratium</dc:Genus>
+                    <dc:Species>avium</dc:Species>
+                </tax:xmldata>Proceratium avium</tax:name>
+is recollected at Le Pouce and is the senior synonym of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:182938" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Proceratium</dc:Genus>
+                    <dc:Species>avioide</dc:Species>
+                </tax:xmldata>Proceratium avioide de Andrade</tax:name>
+(
+syn. nov.
+). The practice of manually removing alien plants from native forest plots in Mauritius is not advised for the Le Pouce forest patch because this practice facilitates the establishment of invasive ants, which elim- inate native ants. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:195011" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Proceratium</dc:Genus>
+                    <dc:Species>google</dc:Species>
+                </tax:xmldata>Proceratium google</tax:name>sp. nov.
+is described from Madagascar.
+</tax:p>
+        <tax:p>
+Keywords: Conservation, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24852" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Discothyrea</dc:Genus>
+                </tax:xmldata>Discothyrea</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2254" source="HNS"/>Formicinae</tax:name>
+, Hymenoptera, Invasive, Madagascar, Mauritius, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24854" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Proceratium</dc:Genus>
+                </tax:xmldata>Proceratium</tax:name>
+.
+</tax:p>
+        <tax:p>In May 2005, I joined a team of Malagasy ant specialists on an expedition to the island of Mauritius, where we conducted an ant inventory and a search for indigenous species. The status of the remaining native species of Mauritius was called into question by P. S. Ward (1990). In inspired literary prose, he described, as W. L. Brown (1974) did earlier, the alarming difficulty of finding native species. Habitat destruction and introduced ants and plants dominate the landscape, pushing native ants up to and possibly over the brink of extinction.</tax:p>
+        <tax:p>Mauritius has had a long history of exploitation, habitat modification and extinction. With the extinction of the dodo in 1681, 80 years after humans first arrived on Mauritius, colonizers contin- ued to modify habitat at an alarming rate (Lorence and Sussman 1986). The dense Mauritian forests were converted into tea and sugar plantations in the 19 th century. During this time, habitat modifi- cation on Mauritius reached to almost every corner of the island (Safford 1997). Mauritius is an instructive example of what could happen to other insular environments, such as Madagascar, if habitat destruction is left unchecked. On Mauritius, as on Madagascar, invasive plant and animal species pose major problems. Once established, many invasive ants in Mauritius may be virtually impossible to eradicate, thus preventing the return of native ants (Holway et al. 2002).</tax:p>
+        <tax:p>The known native ant fauna of Mauritius includes 18 valid species, with 9 endemic to the island (Table 1). It is interesting that the endemic ants are all confined to upland forest. One could conclude that Mauritius has few endemics all of which are on mountaintops. On the other hand, these endemics could be the only remaining examples of a much richer endemic fauna that disap- peared with the destruction of the lowland forest. The discovery of a new genus record on Le Pouce, suggests that there are more species to discover on the island and that Le Pouce is a surpris- ing sanctuary of taxonomically peculiar endemic ants.</tax:p>
+        <tax:p>The site encompasses a rugged and spectacular mountain chain above the industrial city of Port Louis in north-west Mauritius. The main ridge runs approximately east to west, and three long spurs extend northward. Major peaks include Pieter Both (823 m), Le Pouce (812 m) and Montagne Ory (c. 700 m). Le Pouce captures moisture from the prevailing wind and clouds, resulting in the pres- ence of native cloud-forest there. This is the only remaining area of native vegetation, although native plants are scattered throughout the range. Exotic vegetation dominates, most notably a scrub of strawberry guava (Psidium cattleianum) and privet (Ligustrum robustrum) - but grassland and Eucalyptus plantations also occur. The best native forest found during our trip, and also the place of greatest number of endemic ants, was a small patch of forest, less than one hectare in area, just at the southeast face of the peak. Based on our survey results across the island, this forest patch on Le Pouce is the only remaining forest refuge for these mountain endemics of Mauritius and should receive high conservation priority.</tax:p>
+        <tax:p>Materials and Methods</tax:p>
+        <tax:p>This work is based on ant inventories in Mauritius from 25 May - 31 May, 2005. During that period, we visited Le Pouce Mt., Pieter Both Mt., and Calebasses Mt. in the Moka Range, and Camizard Mt., and Brise Mt. in the Bambous Range. We also collected at Basin Blanc, Ile aux Aigrettes, Cocotte Mt., and Petite Riviere Noire Mt. Ants were collected using general hand search techniques and leaf litter extraction. The work in Madagascar is based on arthropod surveys in Madagascar that included over 6,000 leaf litter samples, 4,000 pitfall traps, and 8,000 additional hand collecting events throughout Madagascar in 1992 through 2004 (Fisher 2005). The species described here was collected as part of an inventory of Reserve Speciale d ’ Anjanaharibe-Sud organized by Steve Goodman (Fisher 1998).</tax:p>
+        <tax:p>All species and type material examined in this study have been imaged and are available on AntWeb (www. antweb. org). Material was deposited at California Academy of Sciences, San Francisco (CASC) Museum of Comparative Zoology, Harvard University, Cambridge, Massachusetts (MCZC), and British Museum of Natural History (BMNH).</tax:p>
+        <tax:p>
+Digital images (Fig. 1 - 17) were created using a JVC KY-F 75 digital camera and Syncroscopy Auto-Montage (v 5.0) software. All metric measurements were taken at 80 × power with a Leica MZ APO microscope using an orthogonal pair of micrometers and recorded to the nearest 0.001 mm and rounded to two decimal places for presentation. The accuracy of the micrometers was tested against a 0.01 mm microscope micrometer before and after measurements. Measurement indices and their abbreviations used in the paper are based on those used by Ward (1988). Size and the shape of the IV abdominal segment are the most important characters for the identification and delimitation of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230045" source="HNS"/>Proceritiinae</tax:name>
+species.
+</tax:p>
+        <tax:p>List of Abbreviations Used</tax:p>
+        <tax:p>HL Head length: maximum longitudinal length from the anteriormost portion of the projecting clypeus to the midpoint of a line across the back of the head.</tax:p>
+        <tax:p>HW Head width: maximum width of head, including the eyes, and is taken behind them.</tax:p>
+        <tax:p>CI Cephalic index: HW / HL x 100.</tax:p>
+        <tax:p>SL Scape length: maximum chord length excluding basal condyle and neck.</tax:p>
+        <tax:p>SI Scape index: SL / HW x 100. WL Weber ’ s length: in lateral view of the mesosoma, diagonal length from posteroventral corner of</tax:p>
+        <tax:p>mesosoma to the farthest point on anterior face of pronotum, excluding the neck.</tax:p>
+        <tax:p>LS 4 Length of abdominal sternum IV as described in Ward (1988).</tax:p>
+        <tax:p>LT 4 Length of abdominal tergum IV as defined in Ward (1988).</tax:p>
+        <tax:p>IGR Index of gastric reflexion: LS 4 / LT 4</tax:p>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:195010" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Discothyrea</dc:Genus>
+                        <dc:Species>berlita</dc:Species>
+                    </tax:xmldata>Discothyrea berlita Fisher</tax:name>
+, 
+sp. nov.</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Fig. 1 - 4.</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>Type Material. - Holotype: Worker. Mauritius: Le Pouce Mt., Moka Range, 20 ° 11 ' 55 " S, 057 ° 31 ' 44 " E, 750 m, closed vegetation, 25 May 2005 (coll. BL. Fisher et al.) Collection code: BLF 12148, specimen code: CASENT 0007016 (CASC).</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Type worker measurements: HL 0.57, HW 0.52, CI 91, SL 0.36, SI 70, LS 4 0.08, LT 4 0.43, WL 0.64 IGR 0.19.</tax:p>
+            </tax:div>
+            <tax:div type="diagnosis">
+                <tax:p>Diagnosis. - The following character combination differentiates berlita from all its con- geners: scrobe absent, fused frontal carinae projecting perpendicular to the plane of the clypeus, expanding apically, not forming a thin lamellae; propodeal angle without acute teeth or spines; anterior margin of petiole concave when viewed from above.</tax:p>
+            </tax:div>
+            <tax:div type="etymology">
+                <tax:p>Etymology. - The specific name is an arbitrary combination, to be treated as a noun in appo- sition.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker Description. - Form of head, mandibles, and body as shown in Figures 1 - 4. Antennae 10 - segmented; medium segments extremely short and not distinct when viewed with less than 100 x magnification; scape expanded apically, reaching mid-point of head. Eyes with 2 or 3 facets. Without depressed scrobal area. Palpal segmentation requires dissection and thus was not determined. Mandible masticatory margin concave, with two teeth, sharp apical tooth and smaller acute basal tooth. Propodeal angle without teeth or acute angles; declivitous face of propodeum concave. Petiole thick, with lateral margins on anterior face; anterior margin concave when viewed from above. Petiole with distinct convex subpetiolar process. Abdominal segment III longer than broad.</tax:p>
+                <tax:p>Head and mesosoma densely punctulate; petiole sculptured as mesosoma, abdominal segment III with sparse punctures; punctures evanescent on abdominal segment IV. Integument generally opaque, except shiny for impunctate areas of metasoma.</tax:p>
+                <tax:p>Body, including mandible and appendages, covered with dense fine, very short whitish decum- bent pubescence, becoming sparse on abdominal segment III, and dense and nearly erect on abdominal segment IV</tax:p>
+                <tax:p>Color testaceous red.</tax:p>
+            </tax:div>
+            <tax:div type="distribution">
+                <tax:p>
+Distribution. - The single specimen was collected in a leaf litter sample in the only remain- ing patch of dense native vegetation near the summit of Le Pouce. Samples from other nearby mountain tops, Pieter Both (823 m), Calebasses (c. 600 m), did not uncover any endemic 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230045" source="HNS"/>Proceritiinae</tax:name>
+.
+</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>
+Comments. - The African species of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24852" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Discothyrea</dc:Genus>
+                        </tax:xmldata>Discothyrea</tax:name>
+fall into two groups: (1) those with the clypeo-frontal fusion flat topped and broad and with a depressed scrobe region, and (2) those in which the process forms a simple convex or angular vertical plate and lack a depressed scrobe region (Brown 1958). The 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24852" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Discothyrea</dc:Genus>
+                        </tax:xmldata>Discothyrea</tax:name>
+of Madagascar belong to the first group. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:195010" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Discothyrea</dc:Genus>
+                            <dc:Species>berlita</dc:Species>
+                        </tax:xmldata>D. berlita</tax:name>
+is most similar to those in the second group, but is distinct in that the vertical plate does not form a thin lamella, but is expanded apically (Fig. 3).
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35547" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Proceratium</dc:Genus>
+                        <dc:Species>avium</dc:Species>
+                    </tax:xmldata>Proceratium avium Brown</tax:name>
+, 1974
+</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figs. 5 - 13.</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35547" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>avium</dc:Species>
+                        </tax:xmldata>Proceratium avium Brown</tax:name>
+, 1974: 71, figs. 1 and 2 (worker, gyne and male). Mauritius: Le Pouce Mt, 700 - 800 m, Native forest, 1 Apr. 1969 (coll. W. L. Brown) [examined] AntWeb MCZTYPE 32216 (MCZC) [de Andrade 2000: 75]
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:182938" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>avioide</dc:Species>
+                        </tax:xmldata>Proceratium avioide de Andrade</tax:name>
+2003: 78, figs 37, 38 (worker, gyne and male). Mauritius: Le Pouce Mt, 700 - 800 m, Native forest, 30 March 1969 (coll. W. L. Brown) [examined] AntWeb MCZTYPE 35017 (MCZC). New synonymy [see justification below]
+</tax:p>
+            </tax:div>
+            <tax:div type="biology_ecology">
+                <tax:p>
+During the trip to Le Pouce on May 25 and 30, seven new collections of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24854" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                        </tax:xmldata>Proceratium</tax:name>
+from Le Pouce were recorded (Table 2). Because of the small size of the forest patch, only two complete colonies were collected. For the other colonies we encountered, only a few foragers were removed. As Brown (1974) observed, foragers were returning to nests with what appeared to be spider eggs. In this case, they carried the eggs in the mandible, and did not support the eggs with the recurved gaster (Brown 1980). Baroni and de Andrade (2003) suggest the recurved gaster serves a phrag- motic function, but I did not observe the recurved gaster being used to plug up the ant nest entrance.
+</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>
+Of note is the fact that colony (BLF 12137) included 352 workers, one ergatoid queen, and no males. Based on the colony size data reported in Baroni and de Adrade (2003), this is the largest colony size recorded for 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24854" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                        </tax:xmldata>Proceratium</tax:name>
+. Collections in May by Brown in 1969 included males. All nests encountered were located in Nuxia verticillata Lamark (Loganiaceae), with entrances about 1.5 - 2 m above ground. This tree was also the preferred nesting site for 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35494" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pristomyrmex</dc:Genus>
+                            <dc:Species>bispinosus</dc:Species>
+                        </tax:xmldata>Pristomyremx bispinosus</tax:name>
+. This tree, called bois maigre in Mauritius, has gnarled and twisted trunks. It is endemic to Mauritius and Reunion and appears to be the sole nesting site for 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35494" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pristomyrmex</dc:Genus>
+                            <dc:Species>bispinosus</dc:Species>
+                        </tax:xmldata>Pristomyremx bispinosus</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35547" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>avium</dc:Species>
+                        </tax:xmldata>Proceratium avium</tax:name>
+. The high winds that are common on Le Pouce abrade the twisted and inter- twined trunks and branches. This action damages the tree at the contact point between intersecting branches and leads to the creation of a rot pocket and nesting site.
+</tax:p>
+                <tax:p>
+Three collections of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35547" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>avium</dc:Species>
+                        </tax:xmldata>Proceratium avium</tax:name>
+(BLF 12011, 12014, and 12139) were foragers follow- ing 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35494" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pristomyrmex</dc:Genus>
+                            <dc:Species>bispinosus</dc:Species>
+                        </tax:xmldata>Pristomyremx bispinosus</tax:name>
+. These two species are very similar in color and general appearance. Brown in 1969 also observed this behavior. It is unclear why 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24854" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                        </tax:xmldata>Proceratium</tax:name>
+is interspersed among the foraging workers of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35494" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pristomyrmex</dc:Genus>
+                            <dc:Species>bispinosus</dc:Species>
+                        </tax:xmldata>P. bispinosus</tax:name>
+. Conservation of either of these species should include fur- ther investigation of potential beneficial interactions between the species.
+</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>
+Justification of Synonymy. - Brown (1980) collected three series of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24854" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                        </tax:xmldata>Proceratium</tax:name>
+at Le Pouce in 1969, one on March 30, and two on April 1. The latter were located less than 500 meters from the March 30 collecting site. He described both of these samples as 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35547" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>avium</dc:Species>
+                        </tax:xmldata>Proceratium avium</tax:name>
+(Brown 1974). De Andrade (Baroni Urbani and de Andrade 2003) reexamined these three collec- tions and determined that they represent two species, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:182938" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>avioide</dc:Species>
+                        </tax:xmldata>P. avioide</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35547" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>avium</dc:Species>
+                        </tax:xmldata>P. avium</tax:name>
+. She based this on the observation that 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35547" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>avium</dc:Species>
+                        </tax:xmldata>P. avium</tax:name>
+differs from 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:182938" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>avioide</dc:Species>
+                        </tax:xmldata>P. avioide</tax:name>
+by the less impressed sculpture, by the denser pilosity, and by longer antennal scapes (
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35547" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>avium</dc:Species>
+                        </tax:xmldata>P. avium</tax:name>
+SI 87.3 - 88.6, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:182938" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>avioide</dc:Species>
+                        </tax:xmldata>P. avioide</tax:name>
+SI 81.8 - 83.3).
+</tax:p>
+                <tax:p>
+The measurements of Brown and de Andrade are not consistent, especially for the 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:182938" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>avioide</dc:Species>
+                        </tax:xmldata>P. avioide</tax:name>
+material she examined. Brown noted measurements for the three collections (workers n = 19) as HL 0.92 - 0.98, HW. 091 - 0.98, CI 96 - 101 SL 0.90 - 0.99. Brown did not calculate SI. De Andrade notes that for her 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35547" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>avium</dc:Species>
+                        </tax:xmldata>avium</tax:name>
+: HL 1.05 - 1.12, HW. 090 - 0.94, CI 84.5 - 85.7 SL 0.93 - 0.97, SI 87.3 - 88.6 and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:182938" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>avioide</dc:Species>
+                        </tax:xmldata>P. avioide</tax:name>
+, HL 1.10 - 1.16, HW. 092 - 0.97, CI 82.1 - 85.1, SL 0.90 - 0.96, SI 81.8 - 83.3. Note that CI for Brown ranged from 96 - 101, while for De Andrade, CI ranged from 82.1 - 85.7.
+</tax:p>
+                <tax:p>
+One possible reason for these differences is the differences of HW and SL definitions. Based on the definitions presented above, I re-measured the type material using a calibrated micrometer (see Methods above). Measurements are presented in Table 3. These measurements confirm the rel- ative differences between the Brown collec- tions. However, when samples from the seven new collections are included, these differ- ences become less distinct. The seven collec- tions in the study, have even less impressed sculpture than 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35547" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>avium</dc:Species>
+                        </tax:xmldata>P. avium</tax:name>
+, similar pilosity as 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35547" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>avium</dc:Species>
+                        </tax:xmldata>P. avium</tax:name>
+, and longer antennal scapes then both 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35547" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>avium</dc:Species>
+                        </tax:xmldata>P. avium</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:182938" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>avioide</dc:Species>
+                        </tax:xmldata>P. avioide</tax:name>
+(SI 98 - 103). Based on this study of Brown ’ s material and the new collections in this study, I identify all these collections as one species.
+</tax:p>
+                <tax:p>
+The variation observed in these collec- tions is interesting in such a small area. It is possible that because 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35547" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>avium</dc:Species>
+                        </tax:xmldata>P. avium</tax:name>
+has ergatoid queens, and disperses presumably by budding with low dispersal ability, the complex topog- raphy of Le Pouce contributed to the observed variation. The possible restriction of the remaining population to the single forest patch at the base of the southeast peak, however, could severely limit the observed variation in the future.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:195011" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Proceratium</dc:Genus>
+                        <dc:Species>google</dc:Species>
+                    </tax:xmldata>Proceratium google Fisher</tax:name>
+, 
+sp. nov.</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figs. 14 - 17.</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>Type Material. - Holotype: Worker. Madagascar: Antsiranana, 11.0 km WSW Befingotra, Reserve Speciale Anjanaharibe-Sud, 14 ° 45 &amp; # 8242; S, 049 ° 27 &amp; # 8242; E, 1565 m, 16 Nov 1994 (coll. B. L. Fisher) sifted litter, montane rainforest, Collection code: BLF 1232 (6) - CASENT 0100367, (CASC) Paratypes: 2 workers with same data as holotype but with specimen codes CASENT 010068 (BMNH), CASENT 0100369 (MCZC); 1 worker 9.2 km WSW Befingotra, Reserve Speciale Anjanaharibe-Sud, 14 ° 45 &amp; # 8242; S, 049 ° 28 &amp; # 8242; E, 1280 m, 5 Nov 1994 (coll. B. L. Fisher), CASENT 0100370; (CASC); and 1 worker same as latter but collected at 1200 m on 9 Nov 1994, CASENT 0100371 (CASC).</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>
+Diagnosis. - The following character combination differentiates 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:195011" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>google</dc:Species>
+                        </tax:xmldata>P. google</tax:name>
+from all its con- geners: abdominal segment IV tergite evenly rounded posteriorly, without concave impression near apex and not hypertrophied; truncate median clypeal lobe; low nodiform petiole without peduncle but with blunt anteroventral tooth; fore tibia with a basal spine, frontal carinae separate and diverg- ing posteriorly; posterior dorsum of mesosoma and propodeal spines granulate-foveolate. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:195011" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>google</dc:Species>
+                        </tax:xmldata>P. google</tax:name>
+is easily distinguished from 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35556" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>diplopyx</dc:Species>
+                        </tax:xmldata>P. diplopyx</tax:name>
+, the only other described 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24854" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                        </tax:xmldata>Proceratium</tax:name>
+from Madagascar, by the shape of the tergite of the abdominal segment IV. In 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35556" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>diplopyx</dc:Species>
+                        </tax:xmldata>P. diplopyx</tax:name>
+, the tergite is with a deep concave notch near apex.
+</tax:p>
+            </tax:div>
+            <tax:div type="etymology">
+                <tax:p>
+Etymology. - Named in recognition of the support from the Google company. I hope that Google will continue applying its talent to serve data relevant to the biodiversity community, con- servation planners, and the general public. By creating a “ Zoogle, ” Google could help achieve free and democratic access to taxonomic and biodiversity data on species. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:195011" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>google</dc:Species>
+                        </tax:xmldata>P. google</tax:name>
+is also suspected to be a specialist egg predator of spiders, which is also why this ant is aptly named after Google - for the ability to hunt down obscure prey. The specific name is an arbitrary combination, to be treat- ed as a noun in apposition.
+</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker description. - Form of head, mandibles, and body as shown in Figures 14 - 17. In full-face view, posterior margin of head rounded, not concave; sides of head more or less straight medially; in profile, dorsal margin marginate. Mandible with 4 teeth. Palpal formula 4, 3. Antennae 12 - segmented, scape does not reach posterior margin of head. Median clypeal lobe raised and notched medially. Eye a single, large, clear, convex facet that projects beyond the margin of the head in full-face view.</tax:p>
+                <tax:p>Mesosoma in dorsal view pear-shaped, broader across pronotum than across propodeum. Metanotal grove unmarked. Propodeal spines granulate-tuberculate; declivitous face of propodeum concave, ending basally with an upturned tooth. Petiole longer than wide; subpetiolar process forming an obtuse tooth at midlength. Tibial spur present on each leg. Claws on all legs slender, simple.</tax:p>
+                <tax:p>Abdominal segment IV tergum evenly rounded posteriorly, without concave impression near apex.</tax:p>
+                <tax:p>Head, mesosoma, petiole, and abdominal segment III with dense granulate-foveolate sculp- ture. In contrast, abdominal segment IV predominantly smooth and shiny but with sparse foveae. Declivitous face of propodeum shiny smooth.</tax:p>
+                <tax:p>Body covered with abundant pilosity consisting of fine, curved, tapered, yellow-white setae.</tax:p>
+                <tax:p>Queen, male and larvae unknown.</tax:p>
+            </tax:div>
+            <tax:div type="distribution">
+                <tax:p>Distribution. - Known only from an isolated mountain in Northeastern Madagascar, Reserve Speciale Anjanaharibe-Sud, 14 ° 45 &amp; # 8242; S, 049 ° 27 &amp; # 8242; E, collected at an elevation of 1565 m. Collections in nearby mountains such as Marojejy did not locate any specimens of this species.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:p>Conservation</tax:p>
+        <tax:p>Arthropods present several challenges to those dedicated to their conservation. First, they are small and inconspicuous, and thus often forgotten during the conservation planning process. Second, arthropods are overwhelmingly diverse and as a whole, barely known. Is it pragmatic to develop a conservation strategy for a fauna we scarcely know? Third, because arthropods show a remarkable level of local endemism, they will require strategies and policies that are different from those developed to conserve birds and plants. A case in point is Mauritius.</tax:p>
+        <tax:p>Conservation in Mauritius is heavily biased to bird and plant preservation (Safford and Jones, 1998; Fowler et al 2000, Nicholas et al. 2004). Land management practices are tailored to benefit plants and birds, but not invertebrates. They are fighting the battle to protect the dwindling patch- es of native vegetation and bird populations. For plants, this includes the establishments of Conservation Management Areas where alien plants are manually removed (Dulloo et al 2002). In these plots, weedy vegetation is removed up to three times a year. The active removal of large num- ber of weedy plants, however, creates large areas of bare soil and understory (Dulloo et al 2002, pers. obs.). This disturbance facilitates the establishment of invasive ants, at the expense of any remaining native ants (pers. obs).</tax:p>
+        <tax:p>
+The small, one-hectare patch of native forest left on Le Pouce could be destroyed for native ants if an active weeding program is initiated. The closed vegetation is essential for the survival of the endemic 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24852" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Discothyrea</dc:Genus>
+                </tax:xmldata>Discothyrea</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230046" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyremx</dc:Genus>
+                </tax:xmldata>Pristomyremx</tax:name>
+, and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230047" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Acropya</dc:Genus>
+                </tax:xmldata>Acropya</tax:name>
+, which thrive in the cold, moist understory. With weeding and increased insolation and disturbance, the invasive ants that surround this small patch would quickly move in and destroy this ant sanctuary.
+</tax:p>
+        <tax:p>
+An alternative approach to the manual weeding strategy would be to plant native trees around this patch, including Nuxia verticillata, which is home to 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24854" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Proceratium</dc:Genus>
+                </tax:xmldata>Proceratium</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+. The goal would be to create a dense closed canopy of natives around this patch without disturbing the patch itself. Over time, the effective size of this patch could expand. We also advise that future collec- tions of endemic ants in Mauritius avoid collecting entire colonies.
+</tax:p>
+        <tax:p>Mauritius has shown that once invasive ants take hold, there is almost no way to return the land to native ants and healthy arthropod communities (pers. obs.). Therefore, in Madagascar, land managers must monitor for invasive arthropods. Even though remnant patches of forest may be preserved, invasion by aggressive exotic ants may drive native ants locally extinct. One of the sim- plest and most effective methods is to track the presence or absence of invasive ants. In this approach, targeted collecting can be performed in habitats and microenvironments most likely to harbor invasives.</tax:p>
+        <tax:p>Acknowledgments</tax:p>
+        <tax:p>This work was supported by the National Science Foundation under Grant No. DEB- 0344731 to B. L. Fisher and P. S. Ward. Fieldwork that provided the basis for this work could not have been completed without the support of Lorch Lach, Andy Suarez, and Vikash Tatayah from the Mauritian Wildlife Foundation. I am also grateful for the Arthropod Inventory Team (Balsama Rajemison, Jean-Jacques Rafanomezantsoa, Chrislain Ranaivo, Coco Randriambololona, Hanitriniana Rasoazanamavo, Nicole Rasoamanana, Clavier Randrianandrasana, Valerie Rakotomalala, and Dimby Raharinjanahary) who helped collect and process this material. I thank April Nobile for creating the images.</tax:p>
+        <tax:p>References</tax:p>
+        <tax:p>
+Brown, w. l. 1958. Contributions towards a reclassification of the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+. 2. Tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230048" source="HNS"/>Ectatommini</tax:name>
+. Bulletin of the Museum of Comparative Zoology at Harvard College. 118: 175 - 362
+</tax:p>
+        <tax:p>
+Brown, w. l. 1974. a remarkable new island isolate in the ant genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24854" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Proceratium</dc:Genus>
+                </tax:xmldata>Proceratium</tax:name>
+(Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Psyche 81: 70 - 83.
+</tax:p>
+        <tax:p>
+Brown, W. L. 1980. A remarkable new species of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24854" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Proceratium</dc:Genus>
+                </tax:xmldata>Proceratium</tax:name>
+, with dietary and other notes on the genus (Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Psyche 86: 337 - 346.
+</tax:p>
+        <tax:p>Dulloo, M. E., S. P. Kell, and C. G. Jones. 2002. Conservation of endemic forest species and the threat of invasive species. International Forestry Review 4: 277 - 285.</tax:p>
+        <tax:p>Fisher, B. L. 1998. Ant diversity patterns along an elevational gradient in the Reserve Speciale d ’ Anjanaharibe-Sud and on the western Masoala Peninsula, Madagascar. Pages 39 - 67 in S. M. Goodman, ed., A Floral and Faunal Inventory of the Reserve Speciale d ’ Anjanaharibe-Sud, Madagascar: with Reference to Elevational Variation. Fieldiana: Zoology, n. s., 90: 1 - 246</tax:p>
+        <tax:p>Fisher, B. L. 2005. A Model for a Global Inventory of Ants: A Case Study in Madagascar. Pages 78 - 89 in N. G. Jablonski and M. T. Ghiselin, eds., Biodiversity: A Symposium Held on the Occasion of the 150 th Anniversary of the California Academy of Sciences June 17 - 18, 2003. Proceedings of the California Academy of Sciences, ser. 4, 56 (Suppl. I).</tax:p>
+        <tax:p>Fowler, S. V., S. Ganeshan, J. Mauremootoo, and Y. M ungroo. 2000. Biological Control of Weeds in Mauritius: Past Successes Revisited and Present Challenges. Pages 43 - 50 in Neal R. Spences, ed., Proceedings of the Xth International Symposium on Control of the Weeds, 4 - 14 July 1999. Montana State University, Bozeman, Montana, USA.</tax:p>
+        <tax:p>Holway, D. A., L. Lach, A. V. Suarez, N. D. Tsutsui, and T. J. Case. 2002. The causes and consequences of ant invasions. Annual Review of Ecology and Systematics 33: 181 - 233.</tax:p>
+        <tax:p>Lorence, D. H., and R. W. Sussman. 1986. Exotic species invasion into Mauritius wet forest remnants. Journal of Tropical Ecology 2: 147 - 162.</tax:p>
+        <tax:p>Nichols, R., L. Woolaver, and C. Jones. 2004. Continued decline and conservation needs of the endangered Mauritius olive white-eye Zosterops chloronothos. Oryx 38: 291 - 296.</tax:p>
+        <tax:p>Safford, R. J. 1997. A survey of the occurrence of native vegetation remnants on Mauritius in 1993. Biological Conservation 80: 181 - 188.</tax:p>
+        <tax:p>Safford, R. J., and C. G. Jones. 1998. Strategies for Land-Bird Conservation on Mauritius. Conservation Biology 12: 169 - 176.</tax:p>
+        <tax:p>
+Ward, P. S. 1988. Mesic elements in the western Nearctic ant fauna: taxonomic and biological notes on 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2336" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Amblyopone</dc:Genus>
+                </tax:xmldata>Amblyopone</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24854" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Proceratium</dc:Genus>
+                </tax:xmldata>Proceratium</tax:name>
+, and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2457" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Smithistruma</dc:Genus>
+                </tax:xmldata>Smithistruma</tax:name>
+(Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Journal of the Kansas Entomological Society 61: 102 - 124.
+</tax:p>
+        <tax:p>Ward, P. S. 1990. The endangered ants of Mauritius: Doomed like the Dodo? Notes from the Underground 4: 3 - 5.</tax:p>
+        <tax:figure>
+            <tax:p>
+Table 1 List of valid names for native ants recorded from the island of Mauritius. Native ants restricted to Rodrigues (
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31555" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>elongatum</dc:Species>
+                    </tax:xmldata>Monomorium elongatum</tax:name>
+Smith, 1876, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2484" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Tapinoma</dc:Genus>
+                    </tax:xmldata>Tapinoma</tax:name>
+fragile Smith, 1876, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36774" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Tapinoma</dc:Genus>
+                        <dc:Species>pallipes</dc:Species>
+                    </tax:xmldata>Tapinoma pallipes Smith</tax:name>
+, 1876) are excluded. Species in bold are endemic to the island.
+</tax:p>
+        </tax:figure>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26231" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>aurosus</dc:Species>
+                </tax:xmldata>Camponotus aurosus Roger</tax:name>
+, 1863
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26752" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>grandidieri</dc:Species>
+                </tax:xmldata>Camponotus grandidieri Forel</tax:name>
+, 1886
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:28425" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Crematogaster</dc:Genus>
+                    <dc:Species>sewellii</dc:Species>
+                </tax:xmldata>Crematogaster sewellii Forel</tax:name>
+, 1891
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230043" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Dicothryea</dc:Genus>
+                    <dc:Species>berlita</dc:Species>
+                </tax:xmldata>Dicothryea berlita</tax:name>sp. nov.</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29497" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Hypoponera</dc:Genus>
+                    <dc:Species>johannae</dc:Species>
+                </tax:xmldata>Hypoponera johannae (Forel, 1891)</tax:name>
+        </tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:183204" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Nesomyrmex</dc:Genus>
+                    <dc:Species>gibber</dc:Species>
+                </tax:xmldata>Nesomyrmex gibber</tax:name>
+Donisthorpe, 1946
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32914" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Ochetellus</dc:Genus>
+                    <dc:Species>vinsoni</dc:Species>
+                </tax:xmldata>Ochetellus vinsoni (Donisthorpe, 1946)</tax:name>
+        </tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33927" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pheidole</dc:Genus>
+                    <dc:Species>picata</dc:Species>
+                </tax:xmldata>Pheidole picata Forel</tax:name>
+, 1891
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:34041" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pheidole</dc:Genus>
+                    <dc:Species>tarda</dc:Species>
+                </tax:xmldata>Pheidole tarda Donisthorpe</tax:name>
+, 1947
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:34185" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Plagiolepis</dc:Genus>
+                    <dc:Species>madecassa</dc:Species>
+                </tax:xmldata>Plagiolepis madecassa Forel</tax:name>
+, 1892
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35494" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                    <dc:Species>bispinosus</dc:Species>
+                </tax:xmldata>Pristomyrmex bispinosus (Donisthorpe, 1949)</tax:name>
+        </tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:184364" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                    <dc:Species>browni</dc:Species>
+                </tax:xmldata>Pristomyrmex browni Wang</tax:name>
+, 2003
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35526" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                    <dc:Species>trispinosus</dc:Species>
+                </tax:xmldata>Pristomyrmex trispinosus (Donisthorpe, 1946)</tax:name>
+        </tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35547" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Proceratium</dc:Genus>
+                    <dc:Species>avium</dc:Species>
+                </tax:xmldata>Proceratium avium Brown</tax:name>
+, 1974
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:132619" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pseudolasius</dc:Genus>
+                    <dc:Species>dodo</dc:Species>
+                </tax:xmldata>Pseudolasius dodo (Donisthorpe, 1946)</tax:name>
+        </tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36308" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Solenopsis</dc:Genus>
+                    <dc:Species>mameti</dc:Species>
+                </tax:xmldata>Solenopsis mameti Donisthorpe</tax:name>
+, 1946
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:155829" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>agetos</dc:Species>
+                </tax:xmldata>Strumigenys agetos</tax:name>
+Fisher, 2000
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230044" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Technomyrmex</dc:Genus>
+                    <dc:Species>primrosae</dc:Species>
+                </tax:xmldata>Technomyrmex primrosae Donisthorpe</tax:name>
+, 1949
+</tax:p>
+        <tax:figure>
+            <tax:p>
+Figure 1 - 4. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:195010" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Discothyrea</dc:Genus>
+                        <dc:Species>berlita</dc:Species>
+                    </tax:xmldata>Discothyrea berlita</tax:name>
+worker: holotype CASENT 0007016.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Table 2. Collection of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35547" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Proceratium</dc:Genus>
+                        <dc:Species>avium</dc:Species>
+                    </tax:xmldata>Proceratium avium</tax:name>
+on 25 and 30 May 2005 at Le Pouce Mt., Moka Range, 20 ° 11 &amp; # 8242; 55 &amp; # 8243; S, 057 ° 31 &amp; # 8242; 44 &amp; # 8243; E, 750 m, closed vegetation.
+</tax:p>
+        </tax:figure>
+        <tax:p>Collection</tax:p>
+        <tax:p>Habitat</tax:p>
+        <tax:p>Caste</tax:p>
+        <tax:p>BLF 12011</tax:p>
+        <tax:p>
+foraging on Nuxia verticillata with 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35494" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                    <dc:Species>bispinosus</dc:Species>
+                </tax:xmldata>Pristomyrmex bispinosus</tax:name>
+        </tax:p>
+        <tax:p>1 w</tax:p>
+        <tax:p>BLF 12014</tax:p>
+        <tax:p>
+foraging on Nuxia verticillata with 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35494" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                    <dc:Species>bispinosus</dc:Species>
+                </tax:xmldata>Pristomyrmex bispinosus</tax:name>
+        </tax:p>
+        <tax:p>2 w</tax:p>
+        <tax:p>BLF 12136</tax:p>
+        <tax:p>ex rot pocket, Nuxia verticillata, 1. 5 m above ground</tax:p>
+        <tax:p>1 erg Q, 127 w</tax:p>
+        <tax:p>BLF 12137</tax:p>
+        <tax:p>ex rot pocket, Nuxia verticillata, 1. 5 m above ground</tax:p>
+        <tax:p>1 erg. 352 w</tax:p>
+        <tax:p>BLF 12139</tax:p>
+        <tax:p>
+foraging on Nuxia verticillata with 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35494" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                    <dc:Species>bispinosus</dc:Species>
+                </tax:xmldata>Pristomyrmex bispinosus</tax:name>
+        </tax:p>
+        <tax:p>2 w</tax:p>
+        <tax:p>BLF 12140</tax:p>
+        <tax:p>foraging on Nuxia verticillata</tax:p>
+        <tax:p>8 w</tax:p>
+        <tax:p>BLF 12142</tax:p>
+        <tax:p>foraging on Nuxia verticillata</tax:p>
+        <tax:p>2 w</tax:p>
+        <tax:div type="description">
+            <tax:figure>
+                <tax:p>
+Figures 5 - 13 Profile, head in full-face view and mesosoma in dorsal view of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35547" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>avium</dc:Species>
+                        </tax:xmldata>Proceratium avium</tax:name>
+workers: Figures 5 - 7: CASENT 0059014, BLF 12136, collected May 30, 2005; Fig. 8 - 10: MCZTYPE 32216 holotype of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35547" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>avium</dc:Species>
+                        </tax:xmldata>Proceratium avium</tax:name>
+col- lected 1 Apr. 1969; Fig. 11 - 13: MCZTYPE 35017 holotype of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:182938" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Proceratium</dc:Genus>
+                            <dc:Species>avioide</dc:Species>
+                        </tax:xmldata>Proceratium avioide</tax:name>
+collected 30 March 1969.
+</tax:p>
+            </tax:figure>
+        </tax:div>
+        <tax:figure>
+            <tax:p>
+Table 3. Measurements and scape index of type material and new collections. MCZTYPE 32216 is the holotype of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35547" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Proceratium</dc:Genus>
+                        <dc:Species>avium</dc:Species>
+                    </tax:xmldata>Proceratium avium</tax:name>
+, MCZTYPE 35017 is the holotype of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:182938" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Proceratium</dc:Genus>
+                        <dc:Species>avioide</dc:Species>
+                    </tax:xmldata>Proceratium avioide</tax:name>
+.
+</tax:p>
+        </tax:figure>
+        <tax:div type="description">
+            <tax:p>Specimen number HW SL SI</tax:p>
+            <tax:p>MCZTYPE 35017 0.97 0.92 95</tax:p>
+            <tax:p>MCZTYPE 32216 1.01 0.96 96</tax:p>
+            <tax:p>CASENT 0055844 0.98 1.01 103</tax:p>
+            <tax:p>CASENT 0055842 0.99 1.00 101</tax:p>
+            <tax:p>CASENT 0059012 0.97 0.99 102</tax:p>
+            <tax:p>CASENT 0059013 1.03 1.01 98</tax:p>
+            <tax:p>CASENT 0059026 1.00 1.01 101</tax:p>
+            <tax:p>CASENT 0059030 0.99 1.01 102</tax:p>
+            <tax:p>CASENT 0059029 1.01 1.00 98</tax:p>
+            <tax:p>min 0.97 0.92 95</tax:p>
+            <tax:p>max 1.03 1.01 103</tax:p>
+        </tax:div>
+        <tax:figure>
+            <tax:p>
+Figures 14 - 17. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:195011" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Proceratium</dc:Genus>
+                        <dc:Species>google</dc:Species>
+                    </tax:xmldata>Proceratium google</tax:name>
+worker: holotype CASENT 0100348.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Table 4. Worker measurements: maximum and minimum based on all five 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:195011" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Proceratium</dc:Genus>
+                        <dc:Species>google</dc:Species>
+                    </tax:xmldata>Proceratium google</tax:name>
+specimens.
+</tax:p>
+        </tax:figure>
+        <tax:p>Specimen</tax:p>
+        <tax:p>CASENT #</tax:p>
+        <tax:p>HL</tax:p>
+        <tax:p>HW</tax:p>
+        <tax:p>CI</tax:p>
+        <tax:p>SL</tax:p>
+        <tax:p>SI</tax:p>
+        <tax:p>WL</tax:p>
+        <tax:p>LS 4</tax:p>
+        <tax:p>LT 4</tax:p>
+        <tax:p>IGR</tax:p>
+        <tax:p>0100367</tax:p>
+        <tax:p>Holotype</tax:p>
+        <tax:p>1.21</tax:p>
+        <tax:p>1.02</tax:p>
+        <tax:p>84</tax:p>
+        <tax:p>0.80</tax:p>
+        <tax:p>79</tax:p>
+        <tax:p>1.34</tax:p>
+        <tax:p>0.20</tax:p>
+        <tax:p>0.85</tax:p>
+        <tax:p>0.23</tax:p>
+        <tax:p>0100370</tax:p>
+        <tax:p>Paratype</tax:p>
+        <tax:p>1.24</tax:p>
+        <tax:p>1.07</tax:p>
+        <tax:p>86</tax:p>
+        <tax:p>0.92</tax:p>
+        <tax:p>86</tax:p>
+        <tax:p>1.49</tax:p>
+        <tax:p>0.18</tax:p>
+        <tax:p>0.79</tax:p>
+        <tax:p>0.23</tax:p>
+        <tax:p>0100371</tax:p>
+        <tax:p>Paratype</tax:p>
+        <tax:p>1.24</tax:p>
+        <tax:p>1.04</tax:p>
+        <tax:p>84</tax:p>
+        <tax:p>0.86</tax:p>
+        <tax:p>83</tax:p>
+        <tax:p>1.46</tax:p>
+        <tax:p>0.20</tax:p>
+        <tax:p>0.77</tax:p>
+        <tax:p>0.26</tax:p>
+        <tax:p>0100368</tax:p>
+        <tax:p>Paratype</tax:p>
+        <tax:p>1.15</tax:p>
+        <tax:p>1.03</tax:p>
+        <tax:p>89</tax:p>
+        <tax:p>0.84</tax:p>
+        <tax:p>82</tax:p>
+        <tax:p>1.36</tax:p>
+        <tax:p>0.19</tax:p>
+        <tax:p>0.79</tax:p>
+        <tax:p>0.23</tax:p>
+        <tax:p>0100369</tax:p>
+        <tax:p>Paratype</tax:p>
+        <tax:p>1.20</tax:p>
+        <tax:p>1.05</tax:p>
+        <tax:p>87</tax:p>
+        <tax:p>0.83</tax:p>
+        <tax:p>79</tax:p>
+        <tax:p>1.41</tax:p>
+        <tax:p>0.17</tax:p>
+        <tax:p>0.79</tax:p>
+        <tax:p>0.22</tax:p>
+        <tax:p>min</tax:p>
+        <tax:p>1.15</tax:p>
+        <tax:p>1.03</tax:p>
+        <tax:p>84</tax:p>
+        <tax:p>0.83</tax:p>
+        <tax:p>79</tax:p>
+        <tax:p>1.36</tax:p>
+        <tax:p>0.17</tax:p>
+        <tax:p>0.77</tax:p>
+        <tax:p>0.22</tax:p>
+        <tax:p>max</tax:p>
+        <tax:p>1.24</tax:p>
+        <tax:p>1.05</tax:p>
+        <tax:p>89</tax:p>
+        <tax:p>0.86</tax:p>
+        <tax:p>83</tax:p>
+        <tax:p>1.46</tax:p>
+        <tax:p>0.20</tax:p>
+        <tax:p>0.79</tax:p>
+        <tax:p>0.26</tax:p>
+        <tax:figure>
+            <tax:p>
+Baroni Urbani, c., and m. l. De Andrade. 2003. The ant genus 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24854" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Proceratium</dc:Genus>
+                    </tax:xmldata>Proceratium</tax:name>
+in the extant and fossil record (Hymenoptera: 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Family>Formicidae</dc:Family>
+                    </tax:xmldata>Formicidae</tax:name>
+). Museo Regionale di Scienze Naturali, Monografie 36: 1 - 480.
+    </tax:p>
+        </tax:figure>
+    </tax:taxonxBody>
+</tax:taxonx>

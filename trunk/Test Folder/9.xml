@@ -1,0 +1,1817 @@
+<?xml version="1.0" encoding="UTF-8"?><tax:taxonx xmlns:dc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.taxonx.org/schema/v1 http://www.taxonx.org/schema/v1/taxonx1.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-1.xsd http://digir.net/schema/conceptual/darwin/2003/1.0 http://digir.net/schema/conceptual/darwin/2003/1.0/darwin2.xsd">
+    <tax:taxonxHeader>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Adetomyrma, an enigmatic new ant genus from Madagascar (Hymenoptera: Formicidae), and its implications for ant phylogeny.</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal">
+                <mods:role>
+                    <mods:roleTerm>Author</mods:roleTerm>
+                </mods:role>
+                <mods:namePart>Ward, P. S.</mods:namePart>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:relatedItem type="host">
+                <mods:titleInfo>
+                    <mods:title>Systematic Entomology</mods:title>
+                </mods:titleInfo>
+                <mods:part>
+                    <mods:detail type="volume">
+                        <mods:number>19</mods:number>
+                    </mods:detail>
+                    <mods:extent unit="page">
+                        <mods:start>159</mods:start>
+                        <mods:end>175</mods:end>
+                    </mods:extent>
+                    <mods:date>1994</mods:date>
+                </mods:part>
+            </mods:relatedItem>
+            <mods:subject>
+                <mods:topic>Adetomyrma</mods:topic>
+                <mods:topic>Adetomyrma venatrix</mods:topic>
+            </mods:subject>
+            <mods:identifier type="HNS-PUB">2959</mods:identifier>
+            <mods:location>
+                <mods:url>http://atbi.biosci.ohio-state.edu/HymOnline/reference-full.html?id=2959</mods:url>
+            </mods:location>
+        </mods:mods>
+    </tax:taxonxHeader>
+    <tax:taxonxBody>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+, an enigmatic new ant genus from Madagascar (Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+), and its implications for ant phylogeny
+</tax:p>
+        <tax:p>PHILIP S. WARD Department of Entomology, University of California, Davis, California, U. S. A.</tax:p>
+        <tax:div type="abstract">
+            <tax:p>
+Abstract. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25000" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Adetomyrma</dc:Genus>
+                        <dc:Species>venatrix</dc:Species>
+                    </tax:xmldata>Adetomyrma venatrix</tax:name>
+, representing a new genus and species of ant, is described from a single collection of twenty-one workers from Zombitse Forest, in western Madagascar. Remarkable features of its morphology include: (i) absence of a petiole in dorsal view (abdominal tergum 3 lacking a dorsally differentiated pretergite), (ii) gaster large and expanded posteriorly, all terga and sterna unfused and without constrictions, (iii) absence of eyes, and (iv) presence of a very large sting (larger, in relation to body size, than that of any other known ant). 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Adetomyrma</dc:Genus>
+                    </tax:xmldata>Adetomyrma</tax:name>
+does not possess any of the derived features heretofore said to characterize the existing ant subfamilies. Morphological evidence suggests, however, that it is cladistically a member of the ponerine tribe 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+despite the absence of apomorphic abdominal characters (tergosternal fusion of abdominal segments 3 and 4) seen in all other 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+and in the more inclusive ' poneroid group' of subfamilies. Whether 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Adetomyrma</dc:Genus>
+                    </tax:xmldata>Adetomyrma</tax:name>
+shows primitive absence of such characters or secondary reversal to an unfused state has important implications for the higher phylogeny of the ants. There is insufficient evidence to choose decisively between these two alternatives, but in either case the monophyly of the ant subfamily 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+becomes doubtful.
+</tax:p>
+        </tax:div>
+        <tax:div type="introduction">
+            <tax:p>Introduction</tax:p>
+            <tax:p>
+Madagascar supports an extraordinary fauna and flora, notable for its diversity and endemism (Battistini &amp; Richard-Vindard, 1972; Jolly et al., 1984). Apparently isolated from the African mainland throughout most or all of the Tertiary (Rabinowitz et al., 1983; Tattersall, 1982), the island contains many taxa that are deemed ' primitive' in morphology and basal in phylogenetic position (Martin, 1990; Stiasnny, 1992). The ant fauna of Madagascar is imperfectly known — the last comprehensive treatment appeared over a hundred years ago — but it includes at least four endemic (out of approximately forty indigenous) genera, and a level of species endemism exceeding 90 % (Forel. 1891; Wheeler, 1922; Brown, 1975, 1978; Bolton, 1979. 1981; Olson &amp; Ward, 1994; Ward, unpubl.). The absence from Madagascar of certain dominant Afrotropical taxa such as driver ants (
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2329" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Aenictus</dc:Genus>
+                    </tax:xmldata>Aenictus</tax:name>
+and 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2488" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Dorylus</dc:Genus>
+                    </tax:xmldata>Dorylus</tax:name>
+) and weaver
+</tax:p>
+            <tax:p>
+ants (
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24787" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Oecophylla</dc:Genus>
+                    </tax:xmldata>Oecophylla</tax:name>
+) has doubtless permitted the persistence, and in some instances the diversfication, of ant taxa that are less common or absent elsewhere.
+</tax:p>
+            <tax:p>
+During recent field work on the island I encountered several workers of a small, pale subterranean ant that proved to be unlike any other known formicid. This ant appears to belong to the ' primitive' ponerine tribe 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+. An analysis of its morphology upsets recent views about the higher phylogeny of ants and suggests that the subfamily 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+is para- or polyphyletic.
+</tax:p>
+        </tax:div>
+        <tax:div type="materials_methods">
+            <tax:p>Materials and Methods</tax:p>
+            <tax:p>Collection abbreviations follow those of Ward (1989) and Arnett et al. (1993). The following metric measurements (in mm) and indices are cited: HW (head width: maximum width of head, measured in dorsal view), HL (head length: length of head, measured in dorsal view, from the anterior clypeal margin to a line drawn across the posterior margin of the head), SL (scape length: maximum measurable length of the scape, excluding the basal neck), PW (pronotal width: maximum width of the pronotum, measured in
+dorsal view), DPW (dorsal petiole width: maximum width of abdominal segment 2, measured in dorsal view), LHT (length of the metatibia: maximum measurable length of the metatibia), CI (cephalic index: HW / HL) and SI (scape index: SL / HW).</tax:p>
+            <tax:p>
+Since taxonomic placement of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Adetomyrma</dc:Genus>
+                    </tax:xmldata>Adetomyrma</tax:name>
+proved challenging, I surveyed character variation across a wide range of potential relatives including 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2355" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Apomyrma</dc:Genus>
+                    </tax:xmldata>Apomyrma</tax:name>
+, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24794" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Leptanilla</dc:Genus>
+                    </tax:xmldata>Leptanilla</tax:name>
+, the principal genera of the ' doryline section' (Bolton, 1990 b), and representative genera of the five tribes in the 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+(
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+, 
+<tax:name>
+                    <tax:xid identifier="Upload Failed" source="HNS"/>Ectatommini</tax:name>
+, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2306" source="HNS"/>Platythyreini</tax:name>
+, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2307" source="HNS"/>Ponerini</tax:name>
+and 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2317" source="HNS"/>Typhlomyrmecini</tax:name>
+). Character systems that proved to be of particular significance included: development of specialized setae on the anterior clypeal margin; position and shape of the metapleural gland orifice and associated structures; configuration of the metacoxal cavities; and relative position, shape and fusion of the petiolar (second abdominal) sclerites.
+</tax:p>
+            <tax:p>
+To facilitate discussion the collective term ' doryline section' (Bolton, 1990 b) is used to refer to the subfamilies 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2249" source="HNS"/>Cerapachyinae</tax:name>
+, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2256" source="HNS"/>Leptanilloidinae</tax:name>
+and the army ants (Ecito-ninae, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2244" source="HNS"/>Aenictinae</tax:name>
+, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2245" source="HNS"/>Aenictogitoninae</tax:name>
+, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2251" source="HNS"/>Dorylinae</tax:name>
+), and ' poneroid group' to refer to the ' doryline section' plus 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2247" source="HNS"/>Apomyrminae</tax:name>
+, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2255" source="HNS"/>Leptanillinae</tax:name>
+and 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+. The adjectival nouns ' ponerine' and ' poneroid' pertain to the 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+and the ' poneroid group', respectively.
+</tax:p>
+        </tax:div>
+        <tax:p>
+Descriptive taxonomy 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>gen. n.</tax:p>
+        <tax:treatment>
+            <tax:nomenclature>
+Type species: 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25000" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Adetomyrma</dc:Genus>
+                        <dc:Species>venatrix</dc:Species>
+                    </tax:xmldata>Adetomyrma venatrix</tax:name>sp. n.</tax:nomenclature>
+            <tax:div type="diagnosis">
+                <tax:p>
+Worker diagnosis (putative autapomorphies of the genus are marked with an asterisk; some of these designations are better understood in the context of the phylogenetic position of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Adetomyrma</dc:Genus>
+                        </tax:xmldata>Adetomyrma</tax:name>
+, discussion of which is deferred to a later part of the paper):
+</tax:p>
+                <tax:p>1. Twelve antennal segments.</tax:p>
+                <tax:p>2. Mandibles subfalcate, crossing at rest, and without differentiated basal and masticatory margins (Figs 7, 12); inner margin with relatively few teeth (5 — 6 teeth in the only known species).</tax:p>
+                <tax:p>3. * Palpal segmentation reduced (palp formula 3,3 in the only known species).</tax:p>
+                <tax:p>4. * Clypeus reduced to a narrow strip (dorsal view) and deflected ventrally.</tax:p>
+                <tax:p>5. Anterior clypeal margin with a row of stout, conical setae (Fig. 12).</tax:p>
+                <tax:p>6. Antennal sclerite (or torulus) raised medially, i. e. not horizontal, and fused with the laterally expanded frontal lobes.</tax:p>
+                <tax:p>7. Frontal lobes weakly developed, only partially covering the antennal insertions in dorsal view (Figs 6, 7), the maximum distance between their outer margins about 14 % of HW.</tax:p>
+                <tax:p>8. * Compound eye lacking.</tax:p>
+                <tax:p>9. Promesonotal suture unfused and flexible.</tax:p>
+                <tax:p>10. * Metanotum not evident and mesonotum reduced in size, much shorter than the basal face of the propodeum (Fig. 4).</tax:p>
+                <tax:p>11. Metacoxal cavities tightly encircled by cuticle but the endpoints not fused (Fig. 18); metasternal invagination broad and shallow, extending anteriorly between the metacoxal cavities no more than about one third the cavity diameter.</tax:p>
+                <tax:p>12. Propodeal spiracle large, circular, in an upper and posterior position (Fig. 24), almost contiguous with the visible upper margin of the metapleural gland bulla.</tax:p>
+                <tax:p>13. Metapleural gland well developed, the bulla forming a large conspicuous patch on the lower lateral and posterior faces of the mesosoma, below and behind the propodeal spiracle.</tax:p>
+                <tax:p>14. Metapleural gland orifice (or meatus) opening posterodorsally, near the centre of the bulla, above a posterolateral swelling of the metapleuron (Figs 24, 30); orifice not overhung by a conspicuous cuticular flap nor confluent with an anteriorly directed, longitudinal groove or impression.</tax:p>
+                <tax:p>15. * Tergum and sternum of abdominal segment 2 fused anteriorly but not posteriorly; tergosternal suture completely obliterated in the region of fusion (Fig. 36).</tax:p>
+                <tax:p>16. Unfused portion of abdominal sternum 2 triangular, terminating anteroventrally in a well-developed tooth (just posterior to the point of tergosternal fusion), and flanked on either side by a differentiated laterotergite (Fig. 36).</tax:p>
+                <tax:p>17. * Helcial tergite (pretergite of abdominal segment 3) poorly developed, not set off from the rest of tergum 3 by a constriction, in consequence of which no petiole discernable in dorsal view (Figs 3,4).</tax:p>
+                <tax:p>18. Helcial sternite thin, straight (not bulging ventrally), overlapped ventrolaterally by the lower arms of the helcial tergite (Fig. 41).</tax:p>
+                <tax:p>19. Helcial sternite narrower than the poststernite of abdominal segment 3, and positioned much higher than it so that a ventral petiolar constriction is seen in lateral view (Fig. 2).</tax:p>
+                <tax:p>20. *? Helcial sternite strongly bound by connective tissue to the posterodorsal margin of abdominal sternite 2. (In two of four dissections that were performed part of the helcial sternite and adjacent poststernite broke from the rest of abdomen 3 and remained attached to the inside of the petiolar venter; see Fig. 36.)</tax:p>
+                <tax:p>21. *? Tergum and sternum proper of abdominal segment 3 unfused, but helcial tergite tightly embracing the lateral margins of the helcial sternite and apparently fused with it.</tax:p>
+                <tax:p>22. *? Tergum and sternum of abdominal segment 4 unfused and without differentiated presclerites.</tax:p>
+                <tax:p>23. * Abdominal spiracles 5, and sometimes 6, exposed under normal gastral expansion.</tax:p>
+                <tax:p>24. * Metasoma large and expanded posteriorly, meta-somal length about 1.6 times mesosomal length.</tax:p>
+                <tax:p>25. Pygidium simple, with posterior extremity rounded and hood-like, neither denticulate nor heavily sclerotized or otherwise modified.</tax:p>
+                <tax:p>26. Gonostylus long and distinctly 2 - segmented.</tax:p>
+                <tax:p>27. Sting very large and barbed, valve chamber small
+and poorly differentiated from sting shaft; lancet with 7 barbs, sting shaft with 4 pairs of barbs.</tax:p>
+                <tax:p>28. Sting furcula present, well developed, with dorsal as well as lateral (ventral) arms.</tax:p>
+                <tax:p>29. Tibial spurs 1,1,2; anterior metatibial spur small, posterior spur large, subtriangular and sinuous, its lower margin pectinate, upper margin barbulate; mesotibial spur weakly barbulate, flanked by a minute remnant of the second (anterior) spur.</tax:p>
+                <tax:p>30. Apical segment of metatarsus enlarged, longer and wider than each of the three preceding segments.</tax:p>
+                <tax:p>31. Tarsal claws simple.</tax:p>
+                <tax:p>32. Metabasitarsal gland (Hoelldobler &amp; Palmer, 1989) absent.</tax:p>
+                <tax:p>
+Unique features of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Adetomyrma</dc:Genus>
+                        </tax:xmldata>Adetomyrma</tax:name>
+workers include the weakly differentiated helcial tergite and consequent ape-tiolate appearance in dorsal view; the large and posteriorly expanded gaster all of whose segments are unfused and (except abdominal segment 3) without differentiated presclerites; and the enormous sting which is larger in relation to body size than that of any other ant. Because the valve chamber is not well differentiated from the sting shaft, Kugler's (1978) ' index of sting reduction' (IR = shaft length / PW x 100) cannot be calculated precisely. Nevertheless Adetomyrma has a sting length / LHT ratio of 1.72 — 1.77 and an approximate IR of 190. These values are well above those reported for other ants (Kugler, 1978, 1980, 1991, 1992), the nearest being 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25204" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>pallipes</dc:Species>
+                        </tax:xmldata>Amblyopone pallipes</tax:name>
+with an IR of 119 (Kugler, 1978). The dentiform clypeal setae, absence of eyes, configuration of the metapleural gland orifice, structure of the petiole and exposure of abdominal spiracle 5 are also distinctive features, that occur in this combination in no other known ant.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Adetomyrma</dc:Genus>
+                        </tax:xmldata>Adetomyrma</tax:name>
+presents a curious mix of ancestral and derived traits. The former include a freely articulating pronotum and mesonotum, unfused metacoxal cavities, a well-developed furculate sting, and an apparently primitive configuration of abdominal segments 3 and 4 (but see discussion below). Derived features include the reduced eyes, mouthparts, and mesonotum; the anterior fusion of abdominal tergum and sternum 2; and the enlarged metasoma. A discussion of the taxonomic position of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Adetomyrma</dc:Genus>
+                        </tax:xmldata>Adetomyrma</tax:name>
+is given after the species description.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25000" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Adetomyrma</dc:Genus>
+                        <dc:Species>venatrix</dc:Species>
+                    </tax:xmldata>Adetomyrma venatrix</tax:name>sp. n.
+(Figs 1 - 7,12,13, 18, 24, 30,
+36, 41)</tax:nomenclature>
+            <tax:div type="materials_examined">
+                <tax:p>Holotype worker. MADAGASCAR, Zombitse Forest, along Route Nationale 7. 15 km E Sakaraha, 760 m, 22 ° 54 ' S, 44 ° 41 ' E, 15 February 1993, P. S. Ward no. 11932, ex rotten log, tropical dry forest (MCZC).</tax:p>
+                <tax:p>Paratypes. Series of twenty workers, same data as holotype (to be deposited in ANIC, BMNH, LACM, MCZC, MNHN, PBZT, PSWC, UCDC).</tax:p>
+                <tax:p>Worker measurements (n = 13). HW 0.40 - 0.49, HL 0.48 - 0.56, SL 0.29 - 0.34, PW 0.28 - 0.33, DPW 0.20 - 0.27, LHT 0.32 - 0.37, CI 0.83 - 0.90, SI 0.66 - 0.73.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Description (worker). Small (HW &lt;0.50 mm), pale and blind. Mandibles subfalcate, without distinct basal and masticatory margins (Fig. 12); inner margin with 3 or (more commonly) 4 teeth, equally spaced and lying in the same plane as the front of the head, followed by a gap (0.05 - 0.06 mm) and two longer (subapical and apical) teeth which, as a consequence of the curvature of the mandibles, lie in the dorsoventral plane when the mandibles are closed. Closed mandibles with apices overlapping. Clypeus very short, its principal surface deflected vent rally, anterior margin broadly convex and furnished with a row of about 20 small, specialized, conical setae (Figs 7, 12). Frontal carinae short, low, expanded laterally as small frontal lobes that over no more than about a third of the antennal insertions (dorsal view). Medial portion of the antennal sclerite (torulus) upturned and fusing with the frontal carinae. Scape notably shorter than head length (SL / HL 0.59 - 0.61); first funicular segment c. 2.3 times longer than broad, and approximately equal to the combined length of the next three funicular segments; funicular segments 2 - 8 broader than long, segments 8 - 11 becoming gradually enlarged but not forming a distinct club. Terminal funicular segment c. 2.5 times longer than penultimate segment, and about half the scape length. Head subquadrate (Fig. 6), longer than wide (CI 0.83 - 0.90), widest near the mandibular insertions; sides slightly convex, converging posteriorly and rounding into the concave posterior margin. Mesosoma dorsum somewhat flattened in profile, lateral margins rounded; in dorsal view pronotum longer than broad, with convex sides, mesonotum very short and twice as wide as long (Fig. 4). Basal (= dorsal) face of propodeum narrower than pronotum, about 1.5 times longer than wide, with subparallel sides that converge slightly towards the mesonotum; basal face of propodeum about 2.5 times the length of the declivitous face, and rounding gently into the latter (Figs 1, 24). Metapleuron fully fused with propodeum, the two not distinguishable in lateral view. Metapleural gland bulla conspicuous, manifested as a large circular patch on the lower posterolateral corner of the mesosoma, its dorsoventral height about two-thirds the length of the declivitous face of the propodeum. Inferior propodeal (' metapleural') lobes essentially undeveloped. Abdominal tergum 2 c. 1.4 times broader than long, in dorsal view. Abdominal sternum 2 with a conspicuous subpetiolar process, shaped like an irregular axe blade (Fig. 2). Abdominal sternum 3 with anteroventral surface evenly convex, lacking protuberant ridges near the helcium.</tax:p>
+                <tax:p>Mandibles smooth with scattered punctures. Most of body smooth and shining; head and mesosoma dorsum with numerous piligerous punctures (c. 0.010 — 0.015 mm diameter) separated by one to several times their diameters, densest on the head (except for a smooth puncture-free median strip). A few scattered punctures on abdominal tergum 2, remainder of metasoma with small, less con-
+sulcuous punctalae preceded on the exposed portions or the interior margins of each sclerite by fine transverse reticulate-striolate sculpture. Sides of propodeum and metapleuron with weak reticulations. Body with a rather dense cover of pale erect and suberect hairs; more than 30 standing hairs visible in profile on the mesosoma dorsum: anterior margin of clypeus with a row of long (up to 0.12 mm), slender, curved setae (dorsad of the specialized</tax:p>
+                <tax:p>tooth like setae) that exceed the closed mandibles; erect setae also present on the scapes, funiculi and extension surfaces of the tibiae. Colour: light yellow-brown, with narrow darker bands at the posterior margins of abdominal segments 2 to 4 or 5.</tax:p>
+                <tax:p>
+Comments. Features of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25000" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Adetomyrma</dc:Genus>
+                            <dc:Species>venatrix</dc:Species>
+                        </tax:xmldata>Adetomyrma venatrix</tax:name>
+that are likely to be species-specific include the small size, man-dibular dentition, body sculpture, dense standing pilosity, size and density of clypeal setae, and shape of the antero-ventral petiolar tooth.
+</tax:p>
+                <tax:p>
+Larva. A single ant larva, recovered from the vial con-taining the workers, may be that of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25000" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Adetomyrma</dc:Genus>
+                            <dc:Species>venatrix</dc:Species>
+                        </tax:xmldata>A. venatrix</tax:name>
+. It is 2.46 mm long and essentially " leptanilloid " (Wheeler &amp; Wheeler, 1976) in shape, i. e. long, slender, and club-shaped, widest neat the posterior end (at abdominal segments 8 and 9). The thorax is slender and curved ventrally. The body hairs are numerous, short and inconspicuous. No thoracic protuberances or specialized dorsal tubercles were detected.
+</tax:p>
+            </tax:div>
+            <tax:div type="biology_ecology">
+                <tax:p>
+Biology. The twenty-one workers were collected from the lower surface of a rotten log. at the log / soil interface, in a tract of tropical dry forest in western Madagascar. The workers appeared to be foraging as a group, much in the manner of several small 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2431" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Cerapachys</dc:Genus>
+                        </tax:xmldata>Cerapachys</tax:name>
+species that are characteristic of the dry forest of western Madagascar, although it is possible that they were recruiting to a prey item (not seen). Unfortunately time did not permit a detailed search for the colony. One of the workers stung my finger and this produced a noticeable stinging sensation (and later a slight swelling that persisted for several days) despite the minute size of the worker. It seems reasonable to surmise thai 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25000" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Adetomyrma</dc:Genus>
+                            <dc:Species>venatrix</dc:Species>
+                        </tax:xmldata>Adetomyrma venatrix</tax:name>
+is a specialized
+</tax:p>
+                <tax:p>
+predator or ground-dwelling arthropods. The apparent group foraging behaviour is suggestive of the habits of leptanilline ants (Masuko. 1990) and true army arm (Got-wald. 1982) and leads to the prediction that the queen of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Adetomyrma</dc:Genus>
+                        </tax:xmldata>Adetomyrma</tax:name>
+will prove to be a morphologically specialized wingless female.
+</tax:p>
+                <tax:p>
+The collection took place after a period of exceptionally heavy rains on this part of the island that effectively broke a 2 - year drought. It seems likely that this ant is usually subterranean and elusive, and that its discovery was aided by the wet soil conditions. A Winkler litter sample taken at the same site faded to produce additional material of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Adetomyrma</dc:Genus>
+                        </tax:xmldata>Adetomyrma</tax:name>
+.
+</tax:p>
+                <tax:p>
+The Zombitse Forest where 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Adetomyrma</dc:Genus>
+                        </tax:xmldata>Adetomyrma</tax:name>
+was found (see illustration in Tattersall. 1982: 31). although falling within the bounds of what is considered tropical dry forest, is nevertheless more [[ ... ]] than most of the dry forests of western Madagascar. Moreover, the forest is under severe threat from human activities. Large swaths of the forest along Route Nationale 7 east of Sakaraha have been destroyed by slash-and-burn agriculture. After a few cycles
+of corn and other crops the land becomes a degraded savannah woodland. It seems certain that the collection site for 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Adetomyrma</dc:Genus>
+                        </tax:xmldata>Adetomyrma</tax:name>
+which is located no more than 100 m from the main road will suffer the same fate unless urgent protective measures are taken.
+</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>Relationship to other formicids</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Adetomyrma</dc:Genus>
+                        </tax:xmldata>Adetomyrma</tax:name>
+presents something of a puzzle. At first glance it would appear to be unplaceable in any of the existing ant subfamilies since it possesses none of the derived traits that individually characterize them (Baroni Urbani et al.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32383" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myrmica</dc:Genus>
+                            <dc:Species>incompleta</dc:Species>
+                        </tax:xmldata>incompleta</tax:name>
+.
+</tax:p>
+                <tax:p>
+1992; Bolton, 1994), In Bolton's (1994) subfamily key, for example, it stalks at couplet 11 — a terminal couplet for 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2247" source="HNS"/>Apomyrminae</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+(part) — because it dis-plays a mixture of features from both lugs of the couplet. The lack of tergosternal fusion of abdominal segment 4 would seem to preclude placement of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Adetomyrma</dc:Genus>
+                        </tax:xmldata>Adetomyrma</tax:name>
+in the 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+. At the same time 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Adetomyrma</dc:Genus>
+                        </tax:xmldata>Adetomyrma</tax:name>
+exhibits almost none of the distinctive characteristics of the ' doryline section' of subfamilies (Bolton, 1990 b) such as a horizontal torulus. protruding helcial sternite specialized pygidium. reduction / loss of furcula, metatibial gland, or cuticular flap over the metapleural gland. The exposed spiracle on
+abdominal segment 5 is reminiscent of the greater exposure that occurs, presumably convergently, in the doryline section. Finally, the unfused condition of abdominal segment 3 in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Adetomyrma</dc:Genus>
+                        </tax:xmldata>Adetomyrma</tax:name>
+indicates that it does not even belong to the more inclusive ' poneroid group' (Bolton, 1990 b), i. e. that group of subfamilies, comprising 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2255" source="HNS"/>Leptanillinae</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2247" source="HNS"/>Apomyrminae</tax:name>
+and the ' doryline section', whose workers show tergosternal fusion of abdominal segment 3 and all castes of which exhibit fusion of the presclerites of the same segment (Bolton, 1990 b; Ward, 1990; Baroni Urbani et al., 1992). Since 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Adetomyrma</dc:Genus>
+                        </tax:xmldata>Adetomyrma</tax:name>
+has an apparently fused helcium (presclerites 3) this could imply that it is in a basal position, perhaps as a sister of the entire poneroid group.
+</tax:p>
+                <tax:p>
+A survey of additional character systems, beyond those used for subfamily characterization, became necessary for clarifying the phylogenetic affinities of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Adetomyrma</dc:Genus>
+                        </tax:xmldata>Adetomyrma</tax:name>
+. Focussing in particular on the morphology of the clypeal setae, metapleural gland, metacoxal cavities and petiolar sclerites, this survey revealed striking similarities (documented below) between 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Adetomyrma</dc:Genus>
+                        </tax:xmldata>Adetomyrma</tax:name>
+and members of the ponerine tribe 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+, but not between 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Adetomyrma</dc:Genus>
+                        </tax:xmldata>Adetomyrma</tax:name>
+and any other ants. The results support placement of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Adetomyrma</dc:Genus>
+                        </tax:xmldata>Adetomyrma</tax:name>
+in this tribe, and hence in the subfamily 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+, despite the absence of tergosternal fusion.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+Redefinition of the 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+            </tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>
+Long considered a rather primitive group of ants, possibly reflective of an early stage in ant evolution (Wilson, 1971; Hoelldobler &amp; Wilson, 1990), the 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+were well characterized by Brown (1960; see also Brown, 1974 a, b; Gotwald &amp; Levieux, 1972) but they have not heretofore been defined explicitly in terms of derived characters that would signify their monophyly. The characterization given below refers to all currently recognized, extant amblyoponine genera for which the worker caste is known (i. e. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2336" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                        </tax:xmldata>Amblyopone</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2374" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Concoctio</dc:Genus>
+                        </tax:xmldata>Concoctio</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2376" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Mystrium</dc:Genus>
+                        </tax:xmldata>Mystrium</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2375" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myopopone</dc:Genus>
+                        </tax:xmldata>Myopopone</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2377" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Onychomyrmex</dc:Genus>
+                        </tax:xmldata>Onychomyrmex</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2379" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Prionopelta</dc:Genus>
+                        </tax:xmldata>Prionopelta</tax:name>
+). These were compared to a representative range of taxa in other ponerine tribes (
+<tax:name>
+                        <tax:xid identifier="Upload Failed" source="HNS"/>Ectatommini</tax:name>
+. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2306" source="HNS"/>Platythyreini</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2307" source="HNS"/>Ponerini</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2317" source="HNS"/>Typhlomyrmecini</tax:name>
+) as well as to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2355" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Apomyrma</dc:Genus>
+                        </tax:xmldata>Apomyrma</tax:name>
+and the principal leptanilline and doryline section genera. In the diagnosis below, apparent apomorphic conditions are marked with an asterisk. Some of these are unique, others have appeared convergently in other ant groups, as discussed below. A comparison with 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Adetomyrma</dc:Genus>
+                        </tax:xmldata>Adetomyrma</tax:name>
+appears after the diagnosis.
+</tax:p>
+            </tax:div>
+            <tax:nomenclature>
+Tribe 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+Forel, 1893
+</tax:nomenclature>
+            <tax:div type="diagnosis">
+                <tax:p>
+1. * Worker, queen. Anterior clypeal margin with a row of specialized, stout setae which give it a denticulate appearance (Figs 8 — 11, 14, 15); this may be accentuated by the setae arising from cuticular projections (
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2376" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Mystrium</dc:Genus>
+                        </tax:xmldata>Mystrium</tax:name>
+, some 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2336" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                        </tax:xmldata>Amblyopone</tax:name>
+). The setae are secondarily reduced in some species, lost in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25197" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>mutica</dc:Species>
+                        </tax:xmldata>Amblyopone mutica (Santschi)</tax:name>
+.
+</tax:p>
+                <tax:p>2. *? Worker, queen. Mandibles overlapping at their tips when closed and typically, but not always, without distinct</tax:p>
+                <tax:p>
+basal and masticatory borders. Differentiated borders can be seen in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2374" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Concoctio</dc:Genus>
+                        </tax:xmldata>Concoctio</tax:name>
+and some 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2336" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                        </tax:xmldata>Amblyopone</tax:name>
+, however, so the groundplan for the tribe is uncertain.
+</tax:p>
+                <tax:p>3. * Worker, queen. Palp formula 5,3, with reductions therefrom (Brown, 1960).</tax:p>
+                <tax:p>4. Worker, queen. Twelve antennal segments, with uncommon secondary reduction to as few as 9 and 7.</tax:p>
+                <tax:p>5. Worker, queen. Antennal sclerite (torulus) raised medially and fusing with the overlapping frontal lobes.</tax:p>
+                <tax:p>6. * Worker. Compound eyes reduced or, less commonly, absent.</tax:p>
+                <tax:p>7. * Worker, queen. Eyes, when present, situated behind the middle of the sides of the head.</tax:p>
+                <tax:p>8. Worker. Promesonotal suture unfused.</tax:p>
+                <tax:p>9. * Worker. Mesonotum short and transverse, on a flattened mesosoma, shorter than the basal (= dorsal) face of the propodeum, usually much so.</tax:p>
+                <tax:p>
+10. * Worker, queen, male. Metacoxal cavities encircled by cuticle, the endpoints meeting broadly but not fused (Figs 19, 20). Fusion occurs as a secondary development within the tribe, in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2377" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Onychomyrmex</dc:Genus>
+                        </tax:xmldata>Onychomyrmex</tax:name>
+and possibly others.
+</tax:p>
+                <tax:p>
+11. * Worker, queen. Metapleural gland orifice directed predominantly dorsally and posteriorly, on a curved surface mesad of a posterolateral swelling or plate; orifice plainly visible, as a thin crescentic cavity, in posterior view; no guard hairs arising from the posterolateral swelling (Figs 25, 26, 31, 32). The metapleural gland orifice of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2375" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myopopone</dc:Genus>
+                        </tax:xmldata>Myopopone</tax:name>
+is somewhat divergent, opening laterally as well as posterodorsally.
+</tax:p>
+                <tax:p>12. * Worker, queen. Petiole (abdominal segment 2) shape characteristic: essentially apedunculate, with a steep, broad anterior face and a flat dorsal face that extends to the posterodorsal margin without descending into a distinct posterior face.</tax:p>
+                <tax:p>
+13. * Worker, queen, male. Abdominal sternum 2 with distinctive configuration: fused anteriorly with the tergum, but not fully fused posteriorly, i. e. with some free play between the sternite and adjacent tergite; posterior portion of sternum 2, i. e. section posterior to the region of definitive fusion, typically triangular or pyriform in shape (ventral view), its anterior apex occurring at a ' pinch point' marked by the approximate convergence of three structures: the laterotergite (see 14 below), the anterior termination of the (usually well developed and antero-dorsally undercut) ventral petiolar tooth, and the lower margins of the collar-like peduncular flange that encircles the tergum anteriorly (Fig. 37); very rarely (e. g. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25197" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>mutica</dc:Species>
+                        </tax:xmldata>A. mutica</tax:name>
+) the petiolar tooth and peduncular flange absent.
+</tax:p>
+                <tax:p>
+14. *? Worker, queen, male. Abdominal tergum 2 with a distinct laterotergite which parallels the posterior portion of the sternum, forming a hinge joint with it; laterotergite broad posteriorly, narrowing anteriorly and terminating at the ' pinch point' near the lower margins of the collar-like peduncular flange (Fig. 37). Laterotergite reduced / lost in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2379" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Prionopelta</dc:Genus>
+                        </tax:xmldata>Prionopelta</tax:name>
+(Fig. 38) and in most 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2377" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Onychomyrmex</dc:Genus>
+                        </tax:xmldata>Onychomyrmex</tax:name>
+.
+</tax:p>
+                <tax:p>
+15. *? Worker, queen, male. Petiole broadly attached to upper margins of abdominal segment 3 and helcial sternite broad. A significant narrowing of the broad dorsal attachment occurs only in the aberrant 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25197" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>mutica</dc:Species>
+                        </tax:xmldata>Amblyopone mutica</tax:name>
+.
+</tax:p>
+                <tax:p>16. Worker, queen, male. Abdominal segment 3: ter-gosternal fusion of presclerites and postsclerites,</tax:p>
+                <tax:p>17. Worker, queen. Abdominal segment 4: differen-tiation of presclerites and tergosternal fusion of the entire segment.</tax:p>
+                <tax:p>18. * 7 Worker, queen, male. Absence of stridulatory file on abdominal tergum 4.</tax:p>
+                <tax:p>19. Worker. queen. Pygidium simple.</tax:p>
+                <tax:p>20. Worker, queen. Sting apparatus well developed, furcula present.</tax:p>
+                <tax:p>21. Worker, queen, male. Tibial spurs 1.2.2. with reductions therefrom.</tax:p>
+                <tax:p>22. * Worker, queen. Posterior metatibial spur stout subtriangular and curved (Hashimoto, 1991 b), its lower margin pectinate and upper margin barbulate.</tax:p>
+                <tax:p>23. Worker, queen, male. Tarsal claws simple.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>
+Some of the starred features listed above (e. g. reduction and position of ine compound eyes: simple tarsal claws) appear repeatedly in other ant groups and hence have limited phylogenetic value. Other features, such as the absence of a stridulatory file and the broad attachment of the petiole to the succeeding segment, are possibly pleomorphic. This is almost certainly true of inc presence of a laterotergite on abdominal tergum 2 (also seen, for example, in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myrmecina</dc:Genus>
+                        </tax:xmldata>Myrmecina</tax:name>
+and some cerapachyines and other ponerines) but the particular ' pinch point' arrangement of
+</tax:p>
+                <tax:p>
+the laterotergite, the ventral petiolar tooth, and the peduncular * flange is more or less confined to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+. A ventral petiolar tooth and a peduncular flange are also seen in many other ponerines, but their shape and position in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+are distinctive. The petiolar tooth, in particular usually protrudes anteroventrally with the result that, in lateral profile, a notch-like incision is observed at its anterior junction with the sternum proper. Also compelling as synapomorphies are the specialized dentiform clypeal setae which appear to be unique to the tribe: the particular configuration of the metapleural gland which is not duplicated elsewhere: the shape of the petiole, which is rarely seen in other ants (
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37459" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Typhlomyrmex</dc:Genus>
+                            <dc:Species>rogenhoferi</dc:Species>
+                        </tax:xmldata>Typhlomyrmex rogenhoferi Mayr</tax:name>
+and a few cerapachyines approach this condition); and the broad but primitively unfused connection between the sclerites encircling the metacoxal cavities. As far as known, all amblyoponines are cryptic in their
+foraging habits and specialized as predators on arthropods, especially centipedes, living in soil or rolling wood (Brown, 1960; Gotwald &amp; Levieux, 1972; Hoelldobler &amp; Wilson, 1986; Masuko, 1986; Ito, 1993) The shape of the mandibles, the powerful sting, and the dentiform clypeal (sometimes also labral) setae no doubt assist physically in prey capture (Brown, 1960), although the clypeal setae probably also have a sensory function.
+</tax:p>
+                <tax:p>
+Excluded from 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+                </tax:p>
+                <tax:p>
+1. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2355" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Apomyrma</dc:Genus>
+                        </tax:xmldata>Apomyrma</tax:name>
+, known from the single species 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25892" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Apomyrma</dc:Genus>
+                            <dc:Species>stygia</dc:Species>
+                        </tax:xmldata>Apomyrma stygia Brown</tax:name>
+, Gotwald &amp; Levieux (1971), was originally placed in the 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+but later transferred to the 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2255" source="HNS"/>Leptanillinae</tax:name>
+by Bolton (1990 a) and then given subfamily status, as 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2247" source="HNS"/>Apomyrminae</tax:name>
+in Baroni Urbani et al. (1992). The clypeal margin of the 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2355" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Apomyrma</dc:Genus>
+                        </tax:xmldata>Apomyrma</tax:name>
+worker is not adorned with specialised setae but there is a double row of similar, presumably analogous (see also Gotwald &amp; Levieux, 1972) peg-like setae on the labrum. Note that these are different in shape than those of die 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+(compare Figs. 8 - 11, 14 - 17). Nevertheless dentiform setae are round on both the labrum and the clypeal margin in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2377" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Onychomyrmex</dc:Genus>
+                        </tax:xmldata>Onychomyrmex</tax:name>
+(Fig. 9) and some 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2336" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                        </tax:xmldata>Amblyopone</tax:name>
+, suggesting a possible link between the characters. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2383" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Protanilla</dc:Genus>
+                        </tax:xmldata>Protanilla</tax:name>
+, a leptanilline genus, also possesses a pair of stout setae on the labrum (Bolton, 1990 a) but none on the clypeus. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2355" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Apomyrma</dc:Genus>
+                        </tax:xmldata>Apomyrma</tax:name>
+workers have no eyes and those of (he queen are placed in a posterior position on the head in agreement with 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+. With respect to the remaining putative synapomorphies of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+, however, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2355" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Apomyrma</dc:Genus>
+                        </tax:xmldata>Apomyrma</tax:name>
+exhibits differences; it has a fully closed metacoxal cavity surrounded by a dis-tinct annulus; metapleural gland orifice opening posterolaterally, under a dorsal cuticular flap; non-amblyoponine petiole shape: sharp constriction between the petiole and abdominal segment 3: and an isolated posterior petiolar sternite that is much reduced in size, although flanked by apparent laterotergites (Fig. 39). It must be admitted, however, that most of these conditions could be derived from those seen in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+(
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25197" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>mutica</dc:Species>
+                        </tax:xmldata>Amblyopone mutica</tax:name>
+provides an uncanny example of a petiole tending towards the 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2355" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Apomyrma</dc:Genus>
+                        </tax:xmldata>Apomyrma</tax:name>
+condition.) The same could be said for the horizontal toruli, forward-placed spiracle on abdominal
+tergum 3, palp formula of 2,2, and transverse sulcus behind the helcial sternite (see Bolton, 1990 a: 280). Hence a close relationship between these two cannot be ruled out. The 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+might even be paraphyletic relative to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2355" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Apomyrma</dc:Genus>
+                        </tax:xmldata>Apomyrma</tax:name>
+(and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2255" source="HNS"/>Leptanillinae</tax:name>
+), although the morphology of the metapleural gland and gaster suggests otherwise.
+</tax:p>
+                <tax:p>
+2. The ponerine genus 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24856" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Typhlomyrmex</dc:Genus>
+                        </tax:xmldata>Typhlomyrmex</tax:name>
+, placed in its own tribe but sometimes considered a possible relative of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+(Brown, 1974 b), has no specialized clypeal setae, a metapleural gland whose orifice opens dorsolateraly and is not visible in a strict posterior view (Figs 27, 33), open metacoxal cavities whose encircling cuticle does not overlap broadly (Fig. 21), and a differently shaped petiolar sternite (Fig. 40). 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24856" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Typhlomyrmex</dc:Genus>
+                        </tax:xmldata>Typhlomyrmex</tax:name>
+also lacks a petiolar laterotergite and the broad attachment of the petiole to the postpetiole. Brown (1965) cites additional differences between 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24856" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Typhlomyrmex</dc:Genus>
+                        </tax:xmldata>Typhlomyrmex</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+in wing venation and larval mandibles.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:p>
+Comparison of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+with 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+        </tax:p>
+        <tax:p>
+Unlike 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2355" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Apomyrma</dc:Genus>
+                </tax:xmldata>Apomyrma</tax:name>
+or 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24856" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Typhlomyrmex</dc:Genus>
+                </tax:xmldata>Typhlomyrmex</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+exhibits almost all of the diagnostic features (derived and primitive) of the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+. The more important commonalities are considered first.
+</tax:p>
+        <tax:p>
+1. The worker of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+has specialized stout, clypeal setae which are similar in shape, external markings and location to those of the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+(compare Figs 8 — 15). Such clypeal setae are not known in other poneroids.
+</tax:p>
+        <tax:p>
+2. The mesonotum of the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+worker is short and transverse, much shorter than the propodeum and only weakly distinguishable from the latter, as in many amblyoponines.
+</tax:p>
+        <tax:p>
+3. In 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+the metacoxal cavities are open, i. e. not surrounded by fused sclerites, but the endpoints of the sclerites overlap broadly, as in most amblyoponines (Figs 18 — 20). This stands in contrast to the condition in the doryline section in which the metacoxal cavities are fully closed. Conversely, the tight embrace of the cavities places 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+closer to the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+than to 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24856" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Typhlomyrmex</dc:Genus>
+                </tax:xmldata>Typhlomyrmex</tax:name>
+and the more generalized ectatommines, which have more open cavities (Figs 21, 22).
+</tax:p>
+        <tax:p>
+4. The arrangement of the metapleural gland orifice in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+- opening posterodorsally above a swelling on the posterolateral extremity of the metapleuron, visible in posterior view as a crescent-shaped slit, and lacking guard hairs — is very similar to that seen in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2379" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Prionopelta</dc:Genus>
+                </tax:xmldata>Prionopelta</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2377" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Onychomyrmex</dc:Genus>
+                </tax:xmldata>Onychomyrmex</tax:name>
+(compare Figs 24 — 26, 30 — 32), and different from the condition in non-amblyoponine poneroids (Figs 27, 28, 33, 34).
+</tax:p>
+        <tax:p>
+5. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+has a petiole whose lateral profile (Fig. 2) is typical of the tribe. There is also a very broad attachment of the second abdominal segment to the third, although this may be a primitive trait.
+</tax:p>
+        <tax:p>
+6. The petiolar sternite of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+conforms to the above description for the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+. Anterior tergosternal fusion has proceeded to the point where the
+</tax:p>
+        <tax:p>
+original suture has been lost. This is also seen in some 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+, e. g. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2376" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Mystrium</dc:Genus>
+                </tax:xmldata>Mystrium</tax:name>
+, whereas in most members of the tribe the tergosternal suture is still visible. The posterior section of sternum 2 in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+is triangular in shape, adorned with an anteroventral tooth (with a notched anterior margin in lateral view), and flanked by a laterotergite. There is, however, no peduncular collar on the petiolar tergum.
+</tax:p>
+        <tax:p>
+7. The 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+worker is eyeless, in conformity with the reduction / loss of eyes seen in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+. Of course this condition has evolved repeatedly in other ants. A determination of whether the eyes are / were placed in a posterior position on the head will probably have to await the discovery of the queen caste.
+</tax:p>
+        <tax:p>
+8. Less importantly, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+has simple tarsal claws and lacks a stridulatory file on abdominal tergum 4. Because of homoplasy and polarity uncertainty, these two characters cannot be given much weight. Other features of uncertain significance (but possibly apomorphic) that 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+shares with 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+include the head shape (subquadrate, slightly converging posteriorly, lacking posterolateral lobes), subfalcate mandibles, dor-sally flattened and laterally rounded mesosoma, conspicuous metapleural gland bulla, somewhat enlarged apical segment of the metatarsus, large curved metatibial spur, and close association between the helcial and petiolar sternites. Whereas any one of these features does not provide strong evidence of a relationship to the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+, together they contribute to a close overall resemblance.
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+also agrees with most of the remaining, putatively plesiomorphic traits of the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+(except that abdominal segments 3 and 4 are unfused: see below). Finally, in contrast to its evident similarities to 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+does not share a suite of derived characters with any other poneroid tribe or subfamily. That the similarities between 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+are due to convergence or to symple-siomorphy must be admitted as logical possibilities, but the totality of evidence weighs heavily against them. The convergence hypothesis requires an excessive amount of special pleading; and the hypothesis of symplesiomorphous similarity would imply that generalized ponerines, with large eyes, open metacoxal cavities and unfused petioles (e. g. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2497" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Rhytidoponera</dc:Genus>
+                </tax:xmldata>Rhytidoponera</tax:name>
+) arose from a clade of small-eyed, hypogeic ants with reduced mouthparts, encircled metacoxal cavities and anterior tergosternal fusion of the petiole. The conclusion seems inescapable that 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+is a specialized amblyoponine, perhaps the sole survivor of an early basal lineage in the tribe.
+</tax:p>
+        <tax:p>
+This further boosts the known representation of the tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+in the Malagasy region. In addition to Adetomyrma Madagascar hosts six of the eight nominal species of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2376" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Mystrium</dc:Genus>
+                </tax:xmldata>Mystrium</tax:name>
+(Brown, 1960), at least three 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2336" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Amblyopone</dc:Genus>
+                </tax:xmldata>Amblyopone</tax:name>
+species (all undescribed) and at least five species (mostly undescribed) of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2379" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Prionopelta</dc:Genus>
+                </tax:xmldata>Prionopelta</tax:name>
+.
+</tax:p>
+        <tax:p>Phylogenetic implications</tax:p>
+        <tax:p>
+If we accept that 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+is a cladistic member of the tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+- and the evidence points overwhelmingly in this direction - then a paradox arises: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+lacks the derived traits that characterize the higher taxa in which 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+is nested. The case is similar to that of Mononykus, a primitive but wingless fossil bird (Norell et al., 1993). If this creature was primitively flightless, then this implies at least two origins of flight in birds, because Mononykus postdates Archaeopteryx and has certain bird-like features not possessed by the latter. Similarly, if 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+has primitively unfused abdominal segments 3 and 4 this implies homoplasy (multiple origins) of the apparent synapomorphies of the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+and the ' poneroid group'. Alternatively, one could postulate that 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+has undergone secondary loss of the fusion characters, i. e. reversal back to an unfused state, although one might not expect these kinds of fusions to be reversible. Which of these two alternatives is chosen has important implications for the evolution of abdominal morphology in ants and for the historical validity of both the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+and the poneroid group. Below I consider these two possibilities, the evidence for each, and their implications.
+</tax:p>
+        <tax:p>
+1. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+primitively lacks the abdominal fusion characteristic of the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+and the poneroid group. This would be consistent with the expectation, from comparative insect morphology, that fusion of major sclerites is (typically) an irreversible evolutionary step. Moreover, up to now there has been no evidence that the worker caste of any ant has undergone a reversal of tergosternal fusion of abdominal segment 3 (within the poneroid group) or abdominal segment 4 (within the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+). Even the enormously physogastric queens of army ants (within the doryline section of the poneroid group) have retained fusion of abdominal segment 3; and the dichthadiiform queens of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2377" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Onychomyrmex</dc:Genus>
+                </tax:xmldata>Onychomyrmex</tax:name>
+have also not been able to break free from the constraints of fused abdominal segments 3 and 4. In addition, fusion would seem to be an uncommon event: abdominal segment 3 is unfused, except for the helcium, in all ants outside the poneroid group; segment 4 is unfused in all ants except the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+. Hence, until the discovery of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+, these two characters appeared to have the admirable qualities of being unique and unreversed.
+</tax:p>
+        <tax:p>
+But if 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+, an amblyoponine, has primitively loose abdominal segments, one must presume that fusion of segments 3 and 4 (and the differentiation of presclerites on the latter) in the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+occurred independently of that seen in other poneroids. That these are homo-plasious characters is also suggested by a consideration of male morphology. The males of some 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2336" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Amblyopone</dc:Genus>
+                </tax:xmldata>Amblyopone</tax:name>
+lack complete fusion of abdominal segment 4 (Ward, unpubl.) and, within the poneroid group, male 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230074" source="HNS"/>Ecitoninae</tax:name>
+have the postsclerites of abdominal segment 3 unfused (Bolton, 1990 b). Thus male morphology already points to multiple fusions; 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+simply extends the argument to the worker caste. Unfortunately this means that the two taxa, poneroid group and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+, are robbed of their key synapomorphies. No derived character links 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+to the other ponerine tribes, and the possibility of a closer relationship to 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2247" source="HNS"/>Apomyrminae</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2255" source="HNS"/>Leptanillinae</tax:name>
+or the dory-line section cannot be discounted. The poneroid group would remain tenuously defined by the (not unique) fusion of the presclerites of abdominal segment 3, i. e. the helcial sclerites. Fusion of the postsclerites of this segment must be presumed to have occurred more than once in the group.
+</tax:p>
+        <tax:p>
+2. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+has undergone reversal with respect to abdominal segment fusion. Leaving aside arguments about the plausibility of reversal, this is certainly the most parsimonious explanation when considering only a simple count of the number of character state changes involved. A plausibility argument might go something like the following. The loosening of the abdominal segments, perhaps as a result of combined selection pressures on the workers and on the queen (as yet unknown but predicted to be dichthadiiform), was possible because 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+belongs to an early ponerine line in which tergosternal fusion of segments 3 and 4 had not proceeded to the point of irreversibility. That fusion has not been stabilized in the tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+is indicated by the fact that in some workers one can still discern the overlapping ends of the plates of segment 4, i. e. posteriorly the tergum can be seen to form a small, free overhang (especially marked in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2375" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myopopone</dc:Genus>
+                </tax:xmldata>Myopopone</tax:name>
+). One could also interpret the afore-mentioned 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2336" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Amblyopone</dc:Genus>
+                </tax:xmldata>Amblyopone</tax:name>
+males, with their incomplete posterior fusion, as exhibiting the same phenomenon. In the ' higher' 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+the fused plates tend not to have free overlap posteriorly; and in the more derived members of the doryline section (e. g. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2488" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Dorylus</dc:Genus>
+                </tax:xmldata>Dorylus</tax:name>
+) fusion of abdominal segment 3 has proceeded to the point where only a faint suture line remains to mark the boundary between the plates.
+</tax:p>
+        <tax:p>
+Adherence to this reversal scenario salvages the fusion apomorphies of the poneroid group and the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+, but they require somewhat awkward qualifications.
+</tax:p>
+        <tax:p>Prospects</tax:p>
+        <tax:p>
+At this point there is insufficent information to choose between the two scenarios outlined above. Some combination of the two might apply, for example, a fused third abdominal segment and differentiated presclerites on segment 4 might have been secondarily lost in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+even if the fourth abdominal segment is primitively un-fused. A thorough character analysis of the poneroid taxa, using tribes and genera as terminal units, will be necessary for resolution of this problem. Discovery of the male and queen castes of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+could be expected to reveal information of phylogenetic importance. If. for example, the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+male proves to have abdominal segments 3 and 4 fused this would strongly suggest reversal of fusion in the worker.
+</tax:p>
+        <tax:p>
+There are broader implications to emerge from this analysis of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+. Regardless of whether this ant exhibits primary or secondary lack of tergosternal fusion,
+it becomes increasingly difficult to justify the monophyly of the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+(see also Hashimoto, 1991 a). This is obviously the case if lack of fusion is primitive: the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+lose their only synapomorphy. But even if 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+has undergone reversal to an unfused state, this opens the possibility that other taxa currently placed outside the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+, such as 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2355" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Apomyrma</dc:Genus>
+                </tax:xmldata>Apomyrma</tax:name>
+, have undergone the same kind of change. Recent studies (Ward, 1990; Bolton, 1990 b; Baroni Urbani et al., 1992) have rejected the notion (expressed in Brown (1954), Wilson (1971) and Taylor (1978), among others) of a close relationship between 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+, on the grounds that the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+lack tergosternal fusion of abdominal segments 3 and 4. But if fusion reversal can occur — or if there have been multiple fusions - this argument loses much of its force. There are intriguing, potentially apomorphic, similarities between the 
+<tax:name>
+                <tax:xid identifier="Upload Failed" source="HNS"/>Ectatommini</tax:name>
+(excluding 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24825" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Paraponera</dc:Genus>
+                </tax:xmldata>Paraponera</tax:name>
+) and the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+, in the configuration of the metapleural gland orifice and the morphology of the propodeal foramen (Figs 28, 29, 34, 35), and in antennal sensillum characters (Hashimoto, 1991 a). The Pseudo-myrmecinae, said to be a sister group of the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+(Ward, 1990; Baroni Urbani et al., 1992), do not share these features, casting doubt on their affinities with the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+. Fig. 45 summarizes the relationships among the major ant groups that are suggested by the present study, under the assumption that tergosternal fusion is reversible. The support for some of these groupings remains weak, and if 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+has a primitively loose gaster then further uncertainty is introduced.
+</tax:p>
+        <tax:p>
+Finally, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+rekindles the debate about whether the broad attachment between abdominal segments 2 and 3, as seen in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+, is primitive or derived (for a succinct explanation of the problem and its ramifications for ant evolution see Wilson, 1971: 31). This puzzling poneroid from Madagascar certainly undermines any complacency about established views on ant phytogeny.
+</tax:p>
+        <tax:div type="acknowledgments">
+            <tax:p>Acknowledgments</tax:p>
+            <tax:p>My thanks to Barry Bolton, Bill Brown and Stefan Cover for comments, loans of material, and other help. Gary Alpert, Pascal Rabeson and Emile Rajeriarison were stalwart companions during field work in Madagascar. For other logistical assistance in Madagascar I am grateful to Steve Goodman, Claire Kremen (Xerces Society), Vincent Razafimahatratra, and the Ministere des Universites. This study was supported by NSF BSR- 9006393.</tax:p>
+        </tax:div>
+        <tax:ref_group>
+            <tax:p>
+                <tax:bibref>References</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Arnett, R. H., Jr, Samuelson, G. A. &amp; Nishida, G. M. (1993) The Insect and Spider Collections of the World, 2 nd edn. Sandhill Crane Press, Gainesville.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Baroni Urbani, C, Bolton, B. &amp; Ward, P. S. (1992) The internal phytogeny of ants (Hymenoptera: Formicidae). Systematic Entomology. 17, 301 - 329.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Battistini, R. &amp; Richard-Vindard, G. (eds) (1972) Biogeography and Ecology of Madagascar. Junk, The Hague. Bolton, B. (1979) The ant tribe Tetramoriini (Hymenoptera: Formicidae). The genus Tetramorium Mayr in the Malagasy region and in the New World. Bulletin of the British Museum {Natural History) (Entomology), 38, 129 - 181.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Bolton, B. (1981) A revision of six minor genera of Myrmicinae (Hymenoptera: Formicidae) in the Ethiopian zoogeographical region. Bulletin of the British Museum (Natural History) (Entomology), 43, 245 - 307.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Bolton. B. (1990 a) The higher classification of the ant subfamily Leptanillinae (Hymenoptera: Formicidae). Systematic Entomology), 15, 267 - 282.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Bolton, B. (1990 b) Army ants reassessed: the phylogeny and classification of the doryline section (Hymenoptera: Formicidae). Journal of Natural History, 24, 1339 - 1364. Bolton, B. (1994) Identification Guide to Ant Genera of the World. Harvard University Press, Cambridge, Mass.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Brown, W. L., Jr (1954) Remarks on the internal phylogeny and subfamily classification of the family Formicidae. Insectes Sociaux, 1, 21 — 31.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Brown, W. L., Jr (1960) Contributions towards a reclassification of the Formicidae. III. Tribe Amblyoponini (Hymenoptera). Bulletin of the Museum of Comparative Zoology, 122, 143 - 230.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Brown, W. L., Jr (1965) Contributions towards a reclassification of the Formicidae. III. Tribe Typhlomyrmecini (Hymenoptera). Psyche, 72, 65 - 78.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Brown, W. L., Jr (1974 a) Concoctio genus nov. Pilot Register of Zoology Card No. 29.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Brown. W. L., Jr (1974 b) Concoctio concenta species nov. Pilot Register of Zoology Card No. 30.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Brown, W. L., Jr (1975) Contributions towards a reclassification of the Formicidae. V. Ponerinae, tribes Platythyreini, Cerapachyini, Cylindromyrmecini, Acanthostichini, and Aenictogitini. Search, Agriculture, 5, 1 - 115.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Brown, W. L., Jr (1978) An aberrant new genus of myrmicine ant from Madagascar. Psyche, 84, 218 - 224.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Brown, WL., Jr, Gotwald, W. H., Jr &amp; Levieux. J. (1971) A new genus of ponerine ants from West Africa (Hymenoptera Formicidae) with ecological notes. Psyche. 77, 259 — 275.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Forel. A. (1891) Histoire naturelle des Hymenopteres. Deuxieme partie. Les formicides. In: Grandidier, A. Histoire physique. naturelle, et politique de Madagascar. Vol. 20 (2). Paris: Impr. Nationale, v + 237 pp.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Forel, A. (1893) Sur la classification de la famille des formicides. avec remarques synonymiques. Annales de la Societe Entomologique de Belgique, 37. 161 - 167.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Gotwald. W. H. (1982) Army ants. Social Insects (ed. by H. R. Hermann). Volume 4, pp. 157 - 254. Academic Press, New York.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Gotwald. W. H .. Jr &amp; Levieux, J. (1972) Taxonomy and biology of a new West African ant belonging to the genus Amblyopone (Hymenoptera: Formicidae). Annals of the Entomological Society of America, 65, 383 — 396.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Hashimoto, Y. (1991 a) Phylogenetic study of the family Formicidae based on sensillum structures on the antennae and labial palpi (Hymenoptera, Aculeata). Japanese Journal of Entomology. 59.125 - 140.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Hashimoto, Y. (1991 b) Phylogenetic implications of the spur structures of the hind tibia in the Formicidae (Hymenoptera). Japanese Journal of Entomology, 59. 289 - 294.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Hoelldobler, B. &amp; Palmer. J. M. (1989) A new tarsal gland in ants and the possible role in chemical communication. Naturwissenschaften, 76, 385 - 386.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Hoelldobler. B. &amp; Wilson, E. O. (1986) Ecology and behavior of</tax:bibref>
+                <tax:bibref>the primitive cryptobiotic ant Prionopelta amabilis (Hymenoptera: Formicidae). Insectes Sociaux, 33. 45 - 58.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Hoelldobler, B. &amp; Wilson, E. O. (1990) The Ants. Harvard University Press, Cambridge, Mass.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Ito, F. (1993) Observation of group recruitment to prey in a primitive ponerine ant. Amblyopone sp. (reclinata group) (Hymenoptera: Formicidae). Insectes Sociaux, 40, 163 — 167.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Jolly, A., Oberle, P. &amp; Albignac, R. (1984) Key Environments: Madagascar. Pergamon Press, Oxford.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Kugler, C. (1978) A comparative study of the myrmicine sting apparatus (Hymenoptera: Formicidae). Studia Entomologica, 20, 413 - 548.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Kugler, C. (1980) The sting apparatus in the primitive ants Nothomymecia and Myrmecia. Journal of the Australian Entomological Society, 19, 263 - 267.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Kugler, C. (1991) Stings of ants of the tribe Ectatommini (Formicidae: Ponerinae). Insecta Mundi, 5, 153 — 166.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Kugler, C. (1992) Stings of ants of the Leptanillinae (Hymenoptera: Formicidae). Psyche, 99, 103 - 115.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Martin, R. D. (1990) Primate Origins and Evolution. Chapman and Hall, London.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Masuko, K. (1986) Larval hemolymph feeding: a nondestructive parental cannibalism in the primitive ant Amblyopone silvestrii Wheeler (Hymenoptera: Formicidae). Behavioral Ecology and Sociobiology, 19, 249 - 255.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Masuko, K. (1990) Behavior and ecology of the enigmatic ant Leptanilla japonica Baroni Urbani (Hymenoptera: Formicidae: Leptanillinae). Insectes Sociaux, 37, 31 — 57.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Norrell, M., Chiappe, L. &amp; Clark, J. (1993) New limb on the avian family tree. Natural History, 102 (9), 38 - 42.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Olson, D. M. &amp; Ward, P. S. (1994) The ant fauna of Kirindy</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Forest (tropical dry forest) in western Madagascar. In: The Ecology and Economy of a Tropical Dry Forest (ed. by J. Ganzhorn). Springer, Berlin.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Rabinowitz, P. D., Coffin, M. F. &amp; Flavey, D. (1983) The separation of Africa and Madagascar. Science, 220, 67 — 69.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Stiassny, M. L. J. (1992) Phylogenetic analysis and the role of systematics in the biodiversity crisis. Systematics, Ecology, and the Biodiversity Crisis (ed. by N. Eldredge), pp. 109 - 120. Columbia University Press, New York.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Tattersall, I. (1982) The Primates of Madagascar. Columbia University Press, New York.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Taylor, R. W. (1978) Nothomyrmecia macrops: a living-fossil ant rediscovered. Science, 210, 979 - 985.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Ward, P. S. (1989) Systematic studies on pseudomyrmecine ants: revision of the Pseudomyrmex oculatus and P. subtilissimus species groups, with taxonomic comments on other species. Quaestiones Entomologicae, 25, 393 — 468.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Ward, P. S. (1990) The ant subfamily Pseudomyrmecinae (Hymenoptera: Formicidae): generic revision and relationship to other formicids. Systematic Entomology, 15, 449 — 489.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Wheeler, G. C. &amp; Wheeler, J. (1976) Ant larvae: review and synthesis. Memoirs of the Entomological Society of Washington, 7, 1 - 108.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Wheeler, W. M. (1922) Ants of the American Museum Congo expedition. A contribution to the myrmecology of Africa. IX. A synonymic list of the ants of the Malagasy region. Bulletin of the American Museum of Natural History, 45, 1005 — 1055.</tax:bibref>
+            </tax:p>
+            <tax:p>
+                <tax:bibref>Wilson, E. O. (1971) The Insect Societies. Harvard University Press, Cambridge, Mass.</tax:bibref>
+            </tax:p>
+        </tax:ref_group>
+        <tax:div type="multiple">
+            <tax:p>Accepted 2 March 1994</tax:p>
+        </tax:div>
+        <tax:note place="foot">
+            <tax:p>Correspondence: Dr P. S. Ward, Department of Entomology, University of California, Davis, CA 95616, U. S. A.</tax:p>
+        </tax:note>
+        <tax:figure>
+            <tax:p>
+Figs 1 - 7. SEM micrographs of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25000" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Adetomyrma</dc:Genus>
+                        <dc:Species>venatrix</dc:Species>
+                    </tax:xmldata>Adetomyrma venatrix</tax:name>
+worker. In these and subsequent figures the scale bars are approximately the indicated lengths in microns (µ m) 1. left lateral view of body (composite of two micrographs of the same specimen) 2. Lateral view of petiole (abdominal segment 2); 3, 4. dorsal views of body; 5, left lateral view of gaster; 6. dorsal view of head: 7. oblique anterodorsal. view cf he-id.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figs 8 - 13. Anteroventral views (close-up on right) of worker clypeus, with specialized setae. 8. 9. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33140" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Onychomyrmex</dc:Genus>
+                        <dc:Species>doddi</dc:Species>
+                    </tax:xmldata>Onychomyrmex doddi Wheeler</tax:name>
+: 10, 11 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35481" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Prionopelta</dc:Genus>
+                        <dc:Species>amabilis</dc:Species>
+                    </tax:xmldata>Prionopelta? amabilis</tax:name>
+Borgmeier: 12, 13. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25000" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Adetomyrma</dc:Genus>
+                        <dc:Species>venatrix</dc:Species>
+                    </tax:xmldata>Adetomyrma venatrix</tax:name>
+. Note that in 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2377" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Onychomyrmex</dc:Genus>
+                    </tax:xmldata>Onychomyrmex</tax:name>
+most setae adorn the clypeus but one pair occurs behind on the labrum (Fig. 9)
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figs. 14 - 17. Anteroventral views (close-up on right) of worker clypeus. 14, 15. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25202" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Amblyopone</dc:Genus>
+                        <dc:Species>oregonensis</dc:Species>
+                    </tax:xmldata>Amblyopone oregonensis (Wheeler)</tax:name>
+; 16. 17, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25892" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Apomyrma</dc:Genus>
+                        <dc:Species>stygia</dc:Species>
+                    </tax:xmldata>Apomyrma stygia</tax:name>
+. In 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2355" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Apomyrma</dc:Genus>
+                    </tax:xmldata>Apomyrma</tax:name>
+the peg-like setae are located on the labrum not the clypeus.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figs 10 - 23. Worker metacoxal cavities. 18. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25000" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Adetomyrma</dc:Genus>
+                        <dc:Species>venatrix</dc:Species>
+                    </tax:xmldata>Adetomyrma venatrix</tax:name>
+: 19. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35481" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Prionopelta</dc:Genus>
+                        <dc:Species>amabilis</dc:Species>
+                    </tax:xmldata>Prionopelta? amabilis</tax:name>
+20. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32761" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Mystrium</dc:Genus>
+                        <dc:Species>voeltzkowi</dc:Species>
+                    </tax:xmldata>Mystrium voeltzkowi Forel</tax:name>
+; 21, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37459" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Typhlomyrmex</dc:Genus>
+                        <dc:Species>rogenhoferi</dc:Species>
+                    </tax:xmldata>Typhlomyrmex rogenhoferi</tax:name>
+, 22. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35928" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Rhytidoponera</dc:Genus>
+                        <dc:Species>chalybaea</dc:Species>
+                    </tax:xmldata>Rhytidoponera chalybaea Emery</tax:name>
+: 23. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32383" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>incompleta</dc:Species>
+                    </tax:xmldata>Myrmica incompleta Provancher</tax:name>
+.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Fig. 24 - 29. Lateral views of worker mesosoma, posterior end; legs and metasoma removed (except in Fig. 24). 24. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25000" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Adetomyrma</dc:Genus>
+                        <dc:Species>venatrix</dc:Species>
+                    </tax:xmldata>Adetomyrma venatrix</tax:name>
+; 25. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2379" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Prionopelta</dc:Genus>
+                    </tax:xmldata>Prionopelta</tax:name>
+? 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35481" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Prionopelta</dc:Genus>
+                        <dc:Species>amabilis</dc:Species>
+                    </tax:xmldata>amabilis</tax:name>
+; 26. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33140" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Onychomyrmex</dc:Genus>
+                        <dc:Species>doddi</dc:Species>
+                    </tax:xmldata>Onychomyrmex doddi</tax:name>
+; 27. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37459" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Typhlomyrmex</dc:Genus>
+                        <dc:Species>rogenhoferi</dc:Species>
+                    </tax:xmldata>Typhlomyrmex rogenhoferi</tax:name>
+; 28. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35928" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Rhytidoponera</dc:Genus>
+                        <dc:Species>chalybaea</dc:Species>
+                    </tax:xmldata>Rhytidoponera chalybaea</tax:name>
+; 29. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24868" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                    </tax:xmldata>Myrmica</tax:name>
+            </tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figs. 30 - 35. Posterior views of worker mesosoma, legs and metasoma removed. 30. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25000" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Adetomyrma</dc:Genus>
+                        <dc:Species>venatrix</dc:Species>
+                    </tax:xmldata>Adetomyrma venatrix</tax:name>
+; 31. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35481" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Prionopelta</dc:Genus>
+                        <dc:Species>amabilis</dc:Species>
+                    </tax:xmldata>Prionopelta amabilis</tax:name>
+; 32. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33140" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Onychomyrmex</dc:Genus>
+                        <dc:Species>doddi</dc:Species>
+                    </tax:xmldata>Onychomyrmex doddi</tax:name>
+; 33. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37459" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Typhlomyrmex</dc:Genus>
+                        <dc:Species>rogenhoferi</dc:Species>
+                    </tax:xmldata>Typhlomyrmex rogenhoferi</tax:name>
+; 34. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35928" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Rhytidoponera</dc:Genus>
+                        <dc:Species>chalybaea</dc:Species>
+                    </tax:xmldata>Rhytidoponera chalybaea</tax:name>
+; 35. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32383" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>incompleta</dc:Species>
+                    </tax:xmldata>Myrmica incompleta</tax:name>
+.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figs. 36 - 40. Ventral views of worker petiole. 36. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25000" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Adetomyrma</dc:Genus>
+                        <dc:Species>venatrix</dc:Species>
+                    </tax:xmldata>Adetomyrma venatrix</tax:name>
+; 37. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25202" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Amblyopone</dc:Genus>
+                        <dc:Species>oregonensis</dc:Species>
+                    </tax:xmldata>Amblyopone oregonensis</tax:name>
+; 38. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35481" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Prionopelta</dc:Genus>
+                        <dc:Species>amabilis</dc:Species>
+                    </tax:xmldata>Prionopelta amabilis</tax:name>
+; 39. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25892" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Apomyrma</dc:Genus>
+                        <dc:Species>stygia</dc:Species>
+                    </tax:xmldata>Apomyrma stygia</tax:name>
+; 40. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37459" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Typhlomyrmex</dc:Genus>
+                        <dc:Species>rogenhoferi</dc:Species>
+                    </tax:xmldata>Typhlomyrmex rogenhoferi</tax:name>
+.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figs. 41 - 44. Anterior views of worker helcia. 41. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25000" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Adetomyrma</dc:Genus>
+                        <dc:Species>venatrix</dc:Species>
+                    </tax:xmldata>Adetomyrma venatrix</tax:name>
+; 42. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32761" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Mystrium</dc:Genus>
+                        <dc:Species>voeltzkowi</dc:Species>
+                    </tax:xmldata>Mystrium voeltzkowi</tax:name>
+; 43. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:35481" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Prionopelta</dc:Genus>
+                        <dc:Species>amabilis</dc:Species>
+                    </tax:xmldata>Prionopelta? amabilis</tax:name>
+; 44.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37459" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Typhlomyrmex</dc:Genus>
+                        <dc:Species>rogenhoferi</dc:Species>
+                    </tax:xmldata>Typhlomyrmex rogenhoferi</tax:name>
+.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Fig. 45. A conservative hypothesis of formicid relationships (extant subfamilies only), based on the assumption that tergosternal fusion of abdominal segments is reversible. Closed bars: unique and unreversed characters; hatched bars: unique and reversed characters; open bars: homoplasious characters with multiple origins (most of these are unique at the groundplan levels considered here but have also originated within other lower taxa). The characters, worker- and queen-based unless otherwise noted, are as follows: (1) dorsal cuticular flap of metapleural gland reduced anteriorly and extended posteromesally, so that metapleural gland orifice is directed more posteriorly than laterally (guard hairs usually common); (2) all castes: metacoxal cavities closed by a thin strip of cuticle (condition in 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2341" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Aneuretus</dc:Genus>
+                    </tax:xmldata>Aneuretus</tax:name>
+uncertain); (3) reduction / loss of furcula of sting apparatus; (4) proventriculus sclerotized: (5) metabasitarsal sulcus (Ward, 1990) present (this presumes a convergent origin in 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24825" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Paraponera</dc:Genus>
+                    </tax:xmldata>Paraponera</tax:name>
+): (6) sensilla basiconica of antenna with socket raised above the cuticular surface: this condition, reported in 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2262" source="HNS"/>Pseudomyrmecinae</tax:name>
+and 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24801" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmecia</dc:Genus>
+                    </tax:xmldata>Myrmecia</tax:name>
+(Hashimoto. 1991 a), also occurs in 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24823" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Nothomyrmecia</dc:Genus>
+                    </tax:xmldata>Nothomyrmecia</tax:name>
+(present study); (7) labial palpi with sparse covering of setiform sensilla (Hashimoto, 1991 a); (8) all castes: fusion of helcial sclerites (convergently developed within the formicoid group); (9) fusion of postsclerites of abdomen 3 (reversed in 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Adetomyrma</dc:Genus>
+                    </tax:xmldata>Adetomyrma</tax:name>
+); (10) metapleural gland orifice directed laterally, close to the ventral margin of metapleuron; flanked dorsally by a well-developed cuticular flap and ventrally by a small plate or prominence, these two being recessed medially at their posterior juncture, so that in posterior view the orifice is visible as a semicircular or slit-shaped invagination; (11) metacoxal cavities broadly closed (convergently developed within other groups); (12) worker metatibial gland (Bolton. 1990 b) present: (13) helical sternite protruding mesoventrally below the level of the lateral arms of the helcial tergite; (14) abdominal spiracles 5 - 7 exposed under normal gastral expansion: (15) worker pygidium spinose (some reduction occurs): (16) male: hypopygium bifurcate; (17) metapleural gland orifice well separated from ventral metapleural margin, opening laterodorsally (posterior exposure variable), in a depression above a protuberance or swelling of the posterolateral extremity of the metapleuron (this swelling appears to be part of the bulla so that the orifice originates not below the bulla but in its lower quarter); guard hairs originating from the lower margin of the protuberance or swelling; (18) tergosternal fusion of abdomen 4 (reversed in 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Adetomyrma</dc:Genus>
+                    </tax:xmldata>Adetomyrma</tax:name>
+); (19) dorsal stridulitrum on abdominal pretergite 4 (convergently developed in 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2262" source="HNS"/>Pseudomyrmecinae</tax:name>
+): (20) anterior clypeal margin with specialized, dentiform setae: (21) metapleural gland orifice directed posterodorsally, visible as a crescentic slit-shaped cavity in posterior view: no guard hairs arising from the posterolateral swelling; (22) anterior tergosternal fusion of petiole; free posterior portion of sternite with characteristic configuration (see text); (23) anterior face of petiolar node steep and broad, dorsal face flat and extending to the posterodorsal margin without descending into a distinct posterior face; (24) worker: compound eyes reduced / lost. Characters 17, 18, 20 — 23 must be presumed reversed or otherwise modified if the 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2247" source="HNS"/>Apomyrminae</tax:name>
+. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2255" source="HNS"/>Leptanillinae</tax:name>
+and 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+are positioned where indicated.
+    </tax:p>
+        </tax:figure>
+    </tax:taxonxBody>
+</tax:taxonx>

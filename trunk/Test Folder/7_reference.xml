@@ -2,7 +2,8 @@
 <References>
   <Reference>
     <Text>Allen, G.R. (1976) Two new speciesof damselfishes (Pomacentridae) from Western Australia. Records of the Western Australian Museum, 4, 133-144.150</Text>
-    <Offset>2029</Offset>
+    <StartOffset>101634</StartOffset>
+    <EndOffset>101795</EndOffset>
     <Authors>Allen, G.R</Authors>
     <Year>1976</Year>
     <Title>Two new speciesof damselfishes (Pomacentridae</Title>
@@ -11,7 +12,8 @@
   </Reference>
   <Reference>
     <Text>Allen, G.R. &amp; Randall, J.E. (1985) A new speciesof damselfish (Pomacentridae) from eastern Australia and the Norfolk Island Ridge. Records of the Western Australian Museum, 12, 241-245.152</Text>
-    <Offset>2126</Offset>
+    <StartOffset>101908</StartOffset>
+    <EndOffset>102115</EndOffset>
     <Authors>Allen, G.R. &amp; Randall, J.E</Authors>
     <Year>1985</Year>
     <Title>A new speciesof damselfish (Pomacentridae) from eastern Australia and the Norfolk Island Ridge</Title>
@@ -20,7 +22,8 @@
   </Reference>
   <Reference>
     <Text>Allen, G.R. &amp; Randall, J.E. (2004) Two new speciesof damselfishes (Pomacentridae: ChromisChromis) from Indonesian seas. Aqua, Journal of Ichthyology and Aquatic Biology, 9, 17-24.153</Text>
-    <Offset>2477</Offset>
+    <StartOffset>102125</StartOffset>
+    <EndOffset>102505</EndOffset>
     <Authors>Allen, G.R. &amp; Randall, J.E</Authors>
     <Year>2004</Year>
     <Title>Two new speciesof damselfishes (Pomacentridae: ChromisChromis) from Indonesian seas</Title>
@@ -29,7 +32,8 @@
   </Reference>
   <Reference>
     <Text>Bennett, E.T. (1831) Observations on a collection of fishes from the Mauritius, with characters of new genera and species. Proceedings of the Zoological Society of London 1830-31 (Part 1), 126-128.154</Text>
-    <Offset>2552</Offset>
+    <StartOffset>102515</StartOffset>
+    <EndOffset>102515</EndOffset>
     <Authors>Bennett, E.T</Authors>
     <Year>1831</Year>
     <Title>Observations on a collection of fishes from the Mauritius, with characters of new genera and species</Title>
@@ -38,7 +42,8 @@
   </Reference>
   <Reference>
     <Text>Bruner, J.C. &amp; Arnam, S. (1979) ChromisChromiswoodsi, a new speciesof damselfish (Pomacentridae) from the western Indian Ocean with a redescription of ChromisaxillarisChromis axillaris (Bennett), 1831. Fieldiana Zoology, 73, 49-63.155</Text>
-    <Offset>2757</Offset>
+    <StartOffset>102732</StartOffset>
+    <EndOffset>103370</EndOffset>
     <Authors>Bruner, J.C. &amp; Arnam, S</Authors>
     <Year>1979</Year>
     <Title>ChromisChromiswoodsi, a new speciesof damselfish (Pomacentridae) from the western Indian Ocean with a redescription of ChromisaxillarisChromis axillaris (Bennett), 1831</Title>
@@ -47,7 +52,8 @@
   </Reference>
   <Reference>
     <Text>Feitoza, B.M., Rosa, R.S. &amp; Rocha, L.A. (2005) Ecology and zoogeography of deep-reef fishes in northeastern Brazil. Bulletin of Marine Science, 76, 725-742.157</Text>
-    <Offset>3024</Offset>
+    <StartOffset>103673</StartOffset>
+    <EndOffset>103673</EndOffset>
     <Authors>Feitoza, B.M., Rosa, R.S. &amp; Rocha, L.A</Authors>
     <Year>2005</Year>
     <Title>Ecology and zoogeography of deep-reef fishes in northeastern Brazil</Title>
@@ -56,7 +62,8 @@
   </Reference>
   <Reference>
     <Text>Fowler, H.W. (1946) A collection of fishes obtained in the Riu Kiu Islands by Captain Ernest R. Tinkham, A.U.S. Proceedings of the Academy of Sciences of Philadelphia, 98, 123-218.158</Text>
-    <Offset>3141</Offset>
+    <StartOffset>103853</StartOffset>
+    <EndOffset>103853</EndOffset>
     <Authors>Fowler, H.W</Authors>
     <Year>1946</Year>
     <Title>A collection of fishes obtained in the Riu Kiu Islands by Captain Ernest R</Title>
@@ -65,7 +72,8 @@
   </Reference>
   <Reference>
     <Text>Kuiter, R.H. &amp; Debelius, H. (2006) World atlas of marine fishes. IKAN-Unterwasserarchiv. Frankfurt. 720 pp.160</Text>
-    <Offset>3836</Offset>
+    <StartOffset>104325</StartOffset>
+    <EndOffset>104325</EndOffset>
     <Authors>Kuiter, R.H. &amp; Debelius, H</Authors>
     <Year>2006</Year>
     <Title>World atlas of marine fishes</Title>
@@ -74,16 +82,18 @@
   </Reference>
   <Reference>
     <Text>Kuiter, R.H. &amp; Tonozuka, T. (2001) Pictorial guide to Indonesian reef fishes. Part 2. Fusiliers - Dragonets, Caesionidae - Callionymidae. Zoonetics. Australia. pp. 304-622.161</Text>
-    <Offset>4184</Offset>
+    <StartOffset>104456</StartOffset>
+    <EndOffset>104456</EndOffset>
     <Authors>Kuiter, R.H. &amp; Tonozuka, T</Authors>
     <Year>2001</Year>
     <Title>Pictorial guide to Indonesian reef fishes</Title>
-    <Publication>Part 2. Fusiliers - Dragonets, Caesionidae - Callionymidae. Zoonetics. Australia</Publication>
+    <Publication>Part</Publication>
     <PageNumbers>304-622</PageNumbers>
   </Reference>
   <Reference>
     <Text>Lecchini, D. &amp; Williams, J.T. (2004) Description of a new speciesof damselfish (Pomacentridae: ChromisChromis) from Rapa Island, French Polynesia. Aqua, Journal of Ichthyology and Aquatic Biology, 8, 97-102.162</Text>
-    <Offset>4528</Offset>
+    <StartOffset>104652</StartOffset>
+    <EndOffset>105060</EndOffset>
     <Authors>Lecchini, D. &amp; Williams, J.T</Authors>
     <Year>2004</Year>
     <Title>Description of a new speciesof damselfish (Pomacentridae: ChromisChromis) from Rapa Island, French Polynesia</Title>
@@ -92,7 +102,8 @@
   </Reference>
   <Reference>
     <Text>Playfair, R.L. &amp; Guenther, A. (1867) The fishes of Zanzibar, with a list of the fishes of the whole east coast of Africa. London. xix+153 pp, 21 pls.164</Text>
-    <Offset>4871</Offset>
+    <StartOffset>105343</StartOffset>
+    <EndOffset>105343</EndOffset>
     <Authors>Playfair, R.L. &amp; Guenther, A</Authors>
     <Year>1867</Year>
     <Title>The fishes of Zanzibar</Title>
@@ -101,7 +112,8 @@
   </Reference>
   <Reference>
     <Text>Polaszek, A., Alonso-Zarazaga, M., Bouchet, P., Brothers, D.J., Evenhuis, N., Krell, F.-T., Lyal, C.H.C., Minelli, A., Pyle, R.L., Robinson, N.J., Thompson, F.C. &amp; van Tol, J. (2005b) ZooBank: the open-access register for zoological taxonomy: Technical Discussion Paper. Bulletin of Zoological Nomenclature, 62, 210-220.166</Text>
-    <Offset>4986</Offset>
+    <StartOffset>106035</StartOffset>
+    <EndOffset>106035</EndOffset>
     <Authors>Polaszek, A., Alonso-Zarazaga, M., Bouchet, P., Brothers, D.J., Evenhuis, N., Krell, F.-T., Lyal, C.H.C., Minelli, A., Pyle, R.L., Robinson, N.J., Thompson, F.C. &amp; van Tol, J</Authors>
     <Year>2005</Year>
     <Title>b) ZooBank: the open-access register for zoological taxonomy: Technical Discussion Paper</Title>
@@ -110,7 +122,8 @@
   </Reference>
   <Reference>
     <Text>Pyle, R.L. (1996a) How much coral reef biodiversity are we missing? Global Biodiversity, 6, 3-7.167</Text>
-    <Offset>5102</Offset>
+    <StartOffset>106379</StartOffset>
+    <EndOffset>106379</EndOffset>
     <Authors>Pyle, R.L</Authors>
     <Year>1996</Year>
     <Title>a</Title>
@@ -119,7 +132,8 @@
   </Reference>
   <Reference>
     <Text>Pyle, R.L. (1996b) The Twilight Zone. Natural History Magazine, 105, 59-62.168</Text>
-    <Offset>5221</Offset>
+    <StartOffset>106495</StartOffset>
+    <EndOffset>106495</EndOffset>
     <Authors>Pyle, R.L</Authors>
     <Year>1996</Year>
     <Title>b) The Twilight Zone</Title>
@@ -128,7 +142,8 @@
   </Reference>
   <Reference>
     <Text>Pyle, R.L. (1996c) A Learner's Guide to Closed Circuit Rebreather Diving. In: Menduno, M. (Ed.) Proceedings of the Rebreather Forum 2.0. 26-28 September, 1996. Redondo Beach, CA. DSAT, Santa Ana, CA., pp P45-P67.169</Text>
-    <Offset>5246</Offset>
+    <StartOffset>106590</StartOffset>
+    <EndOffset>106590</EndOffset>
     <Authors>Pyle, R.L</Authors>
     <Year>1996</Year>
     <Title>c) A Learner's Guide to Closed Circuit Rebreather Diving. In: Menduno, M. (Ed.) Proceedings of the Rebreather Forum 2.0. 26-28 September, 1996. Redondo Beach, CA. DSAT</Title>
@@ -137,7 +152,8 @@
   </Reference>
   <Reference>
     <Text>Pyle, R.L. (1999) Mixed-Gas, Closed-Circuit Rebreather Use for Identification of New Reef Fish Species from 200-500 fsw. In: Hamilton, R.W., Pence, D.F. &amp; Kesling, D.E. (eds.), Assessment and Feasibility of Technical Diving Operations for Scientific Exploration, American Academy of Underwater Sciences, Nahant, Massachusetts, pp 53-65.170</Text>
-    <Offset>8017</Offset>
+    <StartOffset>106822</StartOffset>
+    <EndOffset>106822</EndOffset>
     <Authors>Pyle, R.L</Authors>
     <Year>1999</Year>
     <Title>Mixed-Gas, Closed-Circuit Rebreather Use for Identification of New Reef Fish Species from 200-500 fsw. In: Hamilton, R.W., Pence, D.F. &amp; Kesling, D.E. (eds</Title>
@@ -146,7 +162,8 @@
   </Reference>
   <Reference>
     <Text>Pyle, R.L. (2000) Assessing undiscovered fish biodiversity on deep coral reefs using advanced self-contained diving technology. Marine Technology Society Journal, 34, 82-91.171</Text>
-    <Offset>9338</Offset>
+    <StartOffset>107182</StartOffset>
+    <EndOffset>107182</EndOffset>
     <Authors>Pyle, R.L</Authors>
     <Year>2000</Year>
     <Title>Assessing undiscovered fish biodiversity on deep coral reefs using advanced self-contained diving technology</Title>
@@ -155,7 +172,8 @@
   </Reference>
   <Reference>
     <Text>Randall, J.E. (1988a) Three new Indo-Pacific damselfishes of the genus ChromisChromis(Pomacentridae). Memoirs of the Museum of Victoria, 49, 73-81.173</Text>
-    <Offset>9814</Offset>
+    <StartOffset>107472</StartOffset>
+    <EndOffset>107812</EndOffset>
     <Authors>Randall, J.E</Authors>
     <Year>1988</Year>
     <Title>a) Three new Indo-Pacific damselfishes of the genus ChromisChromis(Pomacentridae</Title>
@@ -164,7 +182,8 @@
   </Reference>
   <Reference>
     <Text>Randall, J. E. (1988b) Three new damselfishes of the genus ChromisChromis(Perciformes: Pomacentridae) from the Indian Ocean. Revue Francaise d'Aquariologie, 15, 49-56.174</Text>
-    <Offset>9898</Offset>
+    <StartOffset>107822</StartOffset>
+    <EndOffset>108182</EndOffset>
     <Authors>Randall, J. E</Authors>
     <Year>1988</Year>
     <Title>b) Three new damselfishes of the genus ChromisChromis(Perciformes: Pomacentridae</Title>
@@ -173,7 +192,8 @@
   </Reference>
   <Reference>
     <Text>Randall, J.E. &amp; McCosker, J.E. (1992) Two new damselfishes of the genus ChromisChromis(Perciformes: Pomacentridae) from the South Pacific. Proceedings of the California Academy of Sciences, 47, 329-337.175</Text>
-    <Offset>10348</Offset>
+    <StartOffset>108192</StartOffset>
+    <EndOffset>108591</EndOffset>
     <Authors>Randall, J.E. &amp; McCosker, J.E</Authors>
     <Year>1992</Year>
     <Title>Two new damselfishes of the genus ChromisChromis(Perciformes: Pomacentridae) from the South Pacific</Title>
@@ -182,7 +202,8 @@
   </Reference>
   <Reference>
     <Text>Randall, J.E. &amp; Swerdloff, S.N. (1973) A review of the damselfish genus ChromisChromisfrom the Hawaiian Islands, with descriptions of three new species. Pacific Science, 27, 327-349.176</Text>
-    <Offset>12993</Offset>
+    <StartOffset>108601</StartOffset>
+    <EndOffset>108984</EndOffset>
     <Authors>Randall, J.E. &amp; Swerdloff, S.N</Authors>
     <Year>1973</Year>
     <Title>A review of the damselfish genus ChromisChromisfrom the Hawaiian Islands, with descriptions of three new species</Title>
@@ -191,7 +212,8 @@
   </Reference>
   <Reference>
     <Text>Senou, H. &amp; Kudo, T. (2007) A new speciesof the genus ChromisChromis(Perciformes: Pomacentridae) from Taiwan and Japan. Bulletin of the National Museum of Natural Science, Series A, Suppl. 1, 51-57.177</Text>
-    <Offset>13745</Offset>
+    <StartOffset>108994</StartOffset>
+    <EndOffset>109393</EndOffset>
     <Authors>Senou, H. &amp; Kudo, T</Authors>
     <Year>2007</Year>
     <Title>A new speciesof the genus ChromisChromis(Perciformes: Pomacentridae) from Taiwan and Japan</Title>
@@ -200,7 +222,8 @@
   </Reference>
   <Reference>
     <Text>Ward, R.D., Zemlak, T.S., Innes, B.H., Last, P.R. &amp; Herbert, P.D.N. (2005). Barcoding Australia's fish species. Philosophical Transactions of the Royal Society B: Biological Sciences, 360, 1847-1857.179</Text>
-    <Offset>13833</Offset>
+    <StartOffset>109516</StartOffset>
+    <EndOffset>109516</EndOffset>
     <Authors>Ward, R.D., Zemlak, T.S., Innes, B.H., Last, P.R. &amp; Herbert, P.D.N</Authors>
     <Year>2005</Year>
     <Title>Barcoding Australia's fish species</Title>
@@ -209,7 +232,8 @@
   </Reference>
   <Reference>
     <Text>Yamakawa, T. &amp; Randall, J.E. (1989) ChromisChromisokamurai, a new damselfish from the Okinawa Trough, Japan. Japanese Journal of Ichthyology, 36, 299-302.180</Text>
-    <Offset>15745</Offset>
+    <StartOffset>109739</StartOffset>
+    <EndOffset>110090</EndOffset>
     <Authors>Yamakawa, T. &amp; Randall, J.E</Authors>
     <Year>1989</Year>
     <Title>ChromisChromisokamurai, a new damselfish from the Okinawa Trough</Title>
@@ -218,26 +242,29 @@
   </Reference>
   <Reference>
     <Text>Allen, G.R. (1991) Damselfishes of the world. Aquarium Systems, Mentor, OH, 271 pp.151</Text>
-    <Offset>2078</Offset>
+    <StartOffset>101805</StartOffset>
+    <EndOffset>101805</EndOffset>
     <Authors>Allen, G.R</Authors>
     <Year>1991</Year>
-    <Title>Damselfishes of the world. Aquarium Systems</Title>
-    <Publication>Mentor, OH</Publication>
+    <Title>Damselfishes of the world</Title>
+    <Publication>Aquarium Systems, Mentor, OH</Publication>
     <PageNumbers>Mentor, OH, 271 pp.151</PageNumbers>
   </Reference>
   <Reference>
     <Text>Cuvier, G. (1814) Observations et recherches critiques sur differens poissons de la Mediterranee et, a leur occasion, sur des Poissons des autres mers plus ou moins lies avec eux; par M. G. Cuvier. Bulletin de la Societe philomathique de</Text>
-    <Offset>2791</Offset>
+    <StartOffset>103380</StartOffset>
+    <EndOffset>103380</EndOffset>
     <Authors>Cuvier, G</Authors>
     <Year>1814</Year>
-    <Title>Observations et recherches critiques sur differens poissons de la Mediterranee et, a leur occasion, sur des Poissons des autres mers plus ou moins lies avec eux</Title>
-    <Publication>par M. G. Cuvier</Publication>
+    <Title>Observations et recherches critiques sur differens poissons de la Mediterranee et, a leur occasion</Title>
+    <Publication>sur des Poissons des autres mers plus ou moins lies avec eux; par M. G. Cuvier</Publication>
     <PageNumbers>
     </PageNumbers>
   </Reference>
   <Reference>
     <Text>Paris, 1814, 80-92.156</Text>
-    <Offset>2907</Offset>
+    <StartOffset>103634</StartOffset>
+    <EndOffset>103634</EndOffset>
     <Authors>Paris</Authors>
     <Year>1814</Year>
     <Title>Paris, 1814, 80-92.156</Title>
@@ -247,7 +274,8 @@
   </Reference>
   <Reference>
     <Text>Guenther, A. (1880) Report on the shore fishes procured during the voyage of H. M. S. Challenger in the years 1873-1876. In: Report on the scientific results of the voyage of H. M. S. Challenger during the years 1873-76. Zoology, Vol. 1, 82 pp, 32 pls.159</Text>
-    <Offset>3485</Offset>
+    <StartOffset>104053</StartOffset>
+    <EndOffset>104053</EndOffset>
     <Authors>Guenther, A</Authors>
     <Year>1880</Year>
     <Title>Report on the shore fishes procured during the voyage of H</Title>
@@ -256,7 +284,8 @@
   </Reference>
   <Reference>
     <Text>Randall, J.E. (1961) A technique for fish photography. Copeia, 1961, 241-242.172</Text>
-    <Offset>9367</Offset>
+    <StartOffset>107375</StartOffset>
+    <EndOffset>107375</EndOffset>
     <Authors>Randall, J.E</Authors>
     <Year>1961</Year>
     <Title>A technique for fish photography</Title>
@@ -265,11 +294,12 @@
   </Reference>
   <Reference>
     <Text>Tanaka, S. (1917) Eleven new speciesof fish from Japan. Dobutsugaku Zasshi, 29, 7-12.178</Text>
-    <Offset>13782</Offset>
+    <StartOffset>109403</StartOffset>
+    <EndOffset>109506</EndOffset>
     <Authors>Tanaka, S</Authors>
     <Year>1917</Year>
     <Title>Eleven new speciesof fish from Japan</Title>
-    <Publication>Dobutsugaku Zasshi, 29</Publication>
+    <Publication>Dobutsugaku Zasshi</Publication>
     <PageNumbers>7-12</PageNumbers>
   </Reference>
 </References>

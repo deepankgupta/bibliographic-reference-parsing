@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8"?><tax:taxonx xmlns:dc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.taxonx.org/schema/v1 http://www.taxonx.org/schema/v1/taxonx1.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-1.xsd http://digir.net/schema/conceptual/darwin/2003/1.0 http://digir.net/schema/conceptual/darwin/2003/1.0/darwin2.xsd">
+    <tax:taxonxHeader>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Pachycondyla nigrita and related species in Southeast Asia.</mods:title>
+            </mods:titleInfo>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:name type="personal">
+                <mods:role>
+                    <mods:roleTerm>Author</mods:roleTerm>
+                </mods:role>
+                <mods:namePart>Yamane, S.</mods:namePart>
+            </mods:name>
+            <mods:relatedItem type="host">
+                <mods:titleInfo>
+                    <mods:title>Advances in ant systematics (Hymenoptera: Formicidae): Homage to E.O. Wilson - 50 years of contributions.</mods:title>
+                </mods:titleInfo>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Snelling, R. R.</mods:namePart>
+                </mods:name>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Fisher, B. L.</mods:namePart>
+                </mods:name>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Ward, P. S.</mods:namePart>
+                </mods:name>
+                <mods:originInfo>
+                    <mods:dateIssued>2007</mods:dateIssued>
+                    <mods:publisher>Memoirs of the American Entomological Institute, 80</mods:publisher>
+                </mods:originInfo>
+                <mods:part>
+                    <mods:extent unit="page">
+                        <mods:start>650</mods:start>
+                        <mods:end>663</mods:end>
+                    </mods:extent>
+                </mods:part>
+            </mods:relatedItem>
+            <mods:identifier type="HNS-PUB">21295</mods:identifier>
+            <mods:location>
+                <mods:url>http://atbi.biosci.ohio-state.edu/HymOnline/reference-full.html?id=21295</mods:url>
+            </mods:location>
+        </mods:mods>
+    </tax:taxonxHeader>
+    <tax:taxonxBody>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24842" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                </tax:xmldata>PACHYCONDYLA</tax:name>
+NIGRITA AND RELATED SPECIES IN SOUTHEAST ASIA
+</tax:p>
+        <tax:p>Seiki Yamane</tax:p>
+        <tax:p>Department of Earth and Environmental Sciences, Faculty of Science</tax:p>
+        <tax:p>Kagoshima University</tax:p>
+        <tax:p>Korimoto, Kagoshima, 890 - 0065 Japan</tax:p>
+        <tax:p>sky @ sci. kagoshima-u. ac. jp</tax:p>
+        <tax:p>ABSTRACT</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33331" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>nigrita</dc:Species>
+                </tax:xmldata>Pachycondyla nigrita</tax:name>
+and related species in Southeast Asia are revised. Four new species are described: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237918" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>batak</dc:Species>
+                </tax:xmldata>P. batak</tax:name>
+from N. Sumatra, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237919" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>flavipes</dc:Species>
+                </tax:xmldata>P. flavipes</tax:name>
+from Myanmar, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237920" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>pilidorsalis</dc:Species>
+                </tax:xmldata>P. pilidorsalis</tax:name>
+from Borneo and Malay Peninsula, and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237921" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>wallacea</dc:Species>
+                </tax:xmldata>P. wallacea</tax:name>
+from Sulawesi, Lombok and Bali. Keys to species are presented, though males and queens are not available for all the species.
+</tax:p>
+        <tax:p>
+Key words: Hymenoptera, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24842" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                </tax:xmldata>Pachycondyla</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:146835" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Brachyponera</dc:Genus>
+                </tax:xmldata>Brachyponera</tax:name>
+, Southeast Asia, new species, keys.
+</tax:p>
+        <tax:p>INTRODUCTION</tax:p>
+        <tax:p>
+The taxonomic status of the ponerine genus-group taxon 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:146835" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Brachyponera</dc:Genus>
+                </tax:xmldata>Brachyponera</tax:name>
+has a complicated history (Bolton, 1995, 2003). Although it is currently synonymized with the genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24842" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                </tax:xmldata>Pachycondyla</tax:name>
+, now a very large genus (Bolton, 1995), ' Brachyponera' is a compact group comprising species from the Australian, Oriental and Ethiopian regions. The Oriental fauna currently includes only a few species mainly from tropical areas, and has received little taxonomic treatment. In this group the male characters may be important for species discrimination, but males are rarely encountered when digging nests. In this short review I treat larger species of this group (i. e., 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33331" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>nigrita</dc:Species>
+                </tax:xmldata>P. nigrita</tax:name>
+and related species) for which better material and information are available compared with other species such as those of the P. chinensis-complex. Although this selection of species has not been made upon a phylogenetic basis, the present paper may resolve some problems in this group that have long been neglected. A more comprehensive review is being planned to include all the forms of ' Brachyponera' and using materials from many museums / institutions in the world.
+</tax:p>
+        <tax:p>CHARACTERIZATION OF ' BRACHYPONERA'</tax:p>
+        <tax:p>
+Although Brachyponera was synonymized with 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24842" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                </tax:xmldata>Pachycondyla</tax:name>
+(see Bolton, 1995), it seems a well-defined compact group. Andersen (2000) still uses 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:146835" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Brachyponera</dc:Genus>
+                </tax:xmldata>Brachyponera</tax:name>
+as genus name, and Shattuck (1999) as subgenus name. However, in this paper I follow Bolton (1995), who did not recognize any subgenera in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24842" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                </tax:xmldata>Pachycondyla</tax:name>
+.
+</tax:p>
+        <tax:p>
+Emery (1911) and Ogata (1987) presented diagnoses for the genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:146835" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Brachyponera</dc:Genus>
+                </tax:xmldata>Brachyponera</tax:name>
+. Although Ogata's description was based upon the then single Japanese species, B. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237922" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Brachyponera</dc:Genus>
+                    <dc:Species>chinensis</dc:Species>
+                </tax:xmldata>chinensis</tax:name>
+, more information was included than in Emery (1911). According to these authors and my own observations, ' Brachyponera' has the following recognition characteristics (W: worker, Q: queen, M: male):
+</tax:p>
+        <tax:p>
+1) Eye relatively large compared with those in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24845" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Ponera</dc:Genus>
+                </tax:xmldata>Ponera</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24837" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Hypoponera</dc:Genus>
+                </tax:xmldata>Hypoponera</tax:name>
+, located near the anterior margin of cranium (W / Q), 2) basal portion of mandible with shallow and elliptical fovea (but the fovea obsolete or absent in some species from Borneo, Bali, Krakatau and Sumatra) (W / Q), 3) mandible rather slender, boomerang shaped (M), 4) anterior margin of clypeus weakly and roundly produced, and medially shallowly emarginate (W / Q), 5) first funicular segment (pedicel) longer than second in W and Q, but much shorter than second in M, 6) palpal formula 3, 3 (W / Q), 7) mesonotum completely surrounded by suture / groove, i. e., promesonotal suture and metanotal groove deep and complete (W / Q), 8) mesopleuron with a transverse furrow always in Q and sometimes also in W, 9) propodeum compressed, seen from back narrowed dorsally (W / Q), 10) dorsum of propodeum distinctly lower than promesonotum (this condition also occurs in some 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24837" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Hypoponera</dc:Genus>
+                </tax:xmldata>Hypoponera</tax:name>
+species of similar size) (W / Q), 11) propodeum in profile demarcated from metanotum by a groove that passes near propodeal spiracle (rarely this groove is obsolete) (W / Q), 12) subpetiolar process with a backward-directed projection (Ogata described this projection as a pair of teeth for 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33243" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>chinensis</dc:Species>
+                </tax:xmldata>P. chinensis</tax:name>
+, but actually it is generally a single process, which is flat with a round apical margin, and in profile acute apically) (W / Q / M), 13) pygidium ending as a sharp spine posteriorly (M).
+</tax:p>
+        <tax:p>Species treated in this paper:</tax:p>
+        <tax:p>All the ' Brachyponera' species in Southeast Asia are very similar to one another, and at this moment it is difficult to sort them into species groups. However, for the convenience I have recognized three artificial groups based on body size and some other minor characters among them, i. e., those comprising large-, medium- and small-sized species.</tax:p>
+        <tax:p>
+In the present paper I deal with the large-sized species, which can be separated from the others by a combination of the following character states in the worker caste: 1) Head width over 0.9 mm in workers from mature colonies, 2) the number of ommatidia along the long axis of eye more than 10 (usually around 12; Figs. 1 - 3), 3) antennal scape long, in full-face view surpassing the posterior border of head by more than 1 / 4 of its length (Figs. 4 - 8; only in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237919" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>flavipes</dc:Species>
+                </tax:xmldata>P. flavipes</tax:name>sp. nov.
+scape shorter), 4) all the flagellar segments of antenna longer than broad (this condition also applies to some medium- and small-sized species such as P. chinensis-complex), and 5) petiole relatively thick, with more or less flat dorsal surface in profile (transitional states between thick and thin petioles are found in other species). Among these the character states 2 to 5 may be associated with body size. I have primarily adopted the state 2 to separate the large-sized species from the others.
+</tax:p>
+        <tax:p>The Southeast Asian forms may be assigned to the three groups as follows:</tax:p>
+        <tax:p>
+Large-sized species: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33331" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>nigrita</dc:Species>
+                </tax:xmldata>Pachycondyla nigrita</tax:name>
+(continental Asia and Taiwan), 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237921" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>wallacea</dc:Species>
+                </tax:xmldata>P. wallacea</tax:name>sp. nov.
+(Sulawesi, Lombok and Bali), 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237919" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>flavipes</dc:Species>
+                </tax:xmldata>P. flavipes</tax:name>sp. nov.
+(Myanmar), 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237920" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>pilidorsalis</dc:Species>
+                </tax:xmldata>P. pilidorsalis</tax:name>sp. nov.
+(Malay Peninsula and Borneo), and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237918" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>batak</dc:Species>
+                </tax:xmldata>P. batak</tax:name>sp. nov.
+(N. Sumatra).
+</tax:p>
+        <tax:p>
+Medium-sized species: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33243" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>chinensis</dc:Species>
+                </tax:xmldata>Pachycondyla chinensis</tax:name>
+(widely distributed in S. E Asia and temperate eastern Asia) and a few new forms.
+</tax:p>
+        <tax:p>
+Small-sized species: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33313" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>luteipes</dc:Species>
+                </tax:xmldata>Pachycondyla luteipes</tax:name>
+(continental Asia), 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33299" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>jerdoni</dc:Species>
+                </tax:xmldata>P. jerdoni</tax:name>
+(N. India), and some new forms. Prof. P. S. Ward (personal communication) suggested that 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33336" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>obscurans</dc:Species>
+                </tax:xmldata>P. obscurans</tax:name>
+may also belong to this group.
+</tax:p>
+        <tax:p>MATERIALS AND METHODS</tax:p>
+        <tax:p>The present paper is principally based on the Sk. Yamane (SKY) Collection at Kagoshima University, Kagoshima, Japan. Two syntypes with the same collection data were borrowed from the Natural History Museum, Vienna through the courtesy of Dr. Stefan Schoedl, and one of them was used for redescription.</tax:p>
+        <tax:p>Measurements were made for some body parts for the holotype and paratypes. Abbreviations are as follows: HW (head width), HL (head length excluding mandibles), SL (scape length excluding condylar bulb), EL (maximum eye length), MSL (malar space length: distance between anterior margin of eye and anterior margin of cranium).</tax:p>
+        <tax:p>KEY TO SPECIES (WORKERS)</tax:p>
+        <tax:p>
+1. Pronotal side, metapleuron above, propodeum extensively with rather strong rugae. Pronotal dorsum finely striate (Sulawesi, Lombok and Bali) .................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237921" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>wallacea</dc:Species>
+                </tax:xmldata>P. wallacea</tax:name>sp. nov.</tax:p>
+        <tax:p>-- Mesosoma only weakly microsculptured ................................................................................ 2</tax:p>
+        <tax:p>
+2. Antennal scape shorter (Fig. 5), surpassing the posterior margin of head by less than 1 / 4 of its total length. Legs yellowish brown to orangish, contrasting with jet black mesosoma (Myanmar) .................................................................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237919" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>flavipes</dc:Species>
+                </tax:xmldata>P. flavipes</tax:name>sp. nov.</tax:p>
+        <tax:p>-- Antennal scape longer, surpassing the posterior margin of head by more than 1 / 4 of its total length (Figs, 4, 6 - 8). Legs brown to dark brown, contrast with body color weaker ................ 3</tax:p>
+        <tax:p>
+3. Mesosomal dorsum without standing hairs; standing hairs if any very few and shorter than width of funicular segment 1 of antenna (Sumatra) ....................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237918" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>batak</dc:Species>
+                </tax:xmldata>P. batak</tax:name>sp. nov.</tax:p>
+        <tax:p>-- Mesosomal dorsum usually with more than ten standing hairs, some of which are as long as width of funicular segment 1 .................................................................................................. 4</tax:p>
+        <tax:p>4. Mesopleuron often with a transverse groove; the groove sometimes incomplete but at least scar visible. Posterior faces of propodeum and petiole more strongly punctate. Gastral tergite</tax:p>
+        <tax:p>1 usually with more than ten standing hairs (Borneo; Malay Peninsula) ..................................</tax:p>
+        <tax:p>
+............................................................................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237920" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>pilidorsalis</dc:Species>
+                </tax:xmldata>P. pilidorsalis</tax:name>sp. nov.</tax:p>
+        <tax:p>
+-- Mesopleuron usually without such a groove; the groove if any vestigial. Posterior face of propodeum medially and petiole entirely smooth or very weakly punctate. Gastral tergite 1 with fewer standing hairs, the number, excluding those on the posterior margin of the tergite, being usually less than ten (Thailand, Vietnam, Myanmar) ...................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33331" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>nigrita</dc:Species>
+                </tax:xmldata>P. nigrita</tax:name>
+        </tax:p>
+        <tax:p>KEY TO SPECIES (QUEENS)</tax:p>
+        <tax:p>
+Queen of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237919" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>flavipes</dc:Species>
+                </tax:xmldata>P. flavipes</tax:name>
+not available.
+</tax:p>
+        <tax:p>
+1. Pronotal side densely striate; metapleuron and propodeal side partly and irregularly rugose .. .................................................................................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237921" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>wallacea</dc:Species>
+                </tax:xmldata>P. wallacea</tax:name>sp. nov.</tax:p>
+        <tax:p>-- Lateral face of mesosoma not striate, not rugose .................................................................... 2</tax:p>
+        <tax:p>
+2. Mesosomal dorsum virtually without standing hairs (Fig. 13). Standing hairs on gastral tergites 1 and 2 completely confined to posterior margin (Fig. 14) ............... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237918" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>batak</dc:Species>
+                </tax:xmldata>P. batak</tax:name>sp. nov.</tax:p>
+        <tax:p>-- Mesosomal dorsum with standing hairs (Fig. 10). Gastral tergites 1 and 2 with standing hairs on the disc as well as at the margin (Fig. 11) .......................................................................... 3</tax:p>
+        <tax:p>
+3. Smaller, with head width ranging from 0.83 to 0.91 mm. Mesosoma dorsally with many standing hairs, some of which are as long as or longer than funicular segment 1. Gastral tergites 1 and 2 each with more than 10 long standing hairs ................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237920" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>pilidorsalis</dc:Species>
+                </tax:xmldata>P. pilidorsalis</tax:name>sp. nov.</tax:p>
+        <tax:p>
+-- Larger, head width ranging from 1.04 to 1.06 mm. Mesosoma dorsally with sparser hairs, most of which are much shorter than width of funicular segment 1. Gastral tergites 1 and 2 with sparser standing hairs that are usually shorter than width of funicular segment 1 ..... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33331" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>nigrita</dc:Species>
+                </tax:xmldata>P. nigrita</tax:name>
+        </tax:p>
+        <tax:p>KEY TO SPECIES (MALES)</tax:p>
+        <tax:p>Males available only for the following two species.</tax:p>
+        <tax:p>
+1. Body light yellowish brown, with creamy white legs (Fig. 17). Ocelli large, their diameter longer than scape width; distance between anterior and posterior ocelli only slightly longer than ocellar diameter .................................................................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33331" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>nigrita</dc:Species>
+                </tax:xmldata>P. nigrita</tax:name>
+        </tax:p>
+        <tax:p>
+-- Body and legs blackish brown (legs only slightly paler than the body; Fig. 15). Ocelli small, their diameter shorter than scape length; distance between anterior and posterior ocelli much longer than ocellar diameter ........................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237918" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pachycondyla</dc:Genus>
+                    <dc:Species>batak</dc:Species>
+                </tax:xmldata>P. batak</tax:name>sp. nov.</tax:p>
+        <tax:p>ENUMERATION OF SPECIES</tax:p>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33331" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Pachycondyla</dc:Genus>
+                        <dc:Species>nigrita</dc:Species>
+                    </tax:xmldata>Pachycondyla nigrita (Emery, 1895)</tax:name>
+            </tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 6, 17,18</tax:p>
+            </tax:div>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:141772" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Ponera</dc:Genus>
+                            <dc:Species>nigrita</dc:Species>
+                        </tax:xmldata>Ponera nigrita Emery</tax:name>
+, 1895: 459 (w) examined.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237923" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Euponera</dc:Genus>
+                            <dc:Species>nigrita</dc:Species>
+                        </tax:xmldata>Euponera (Brachyponera) nigrita</tax:name>
+: Emery, 1900: 668.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237924" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Brachyponera</dc:Genus>
+                            <dc:Species>nigrita</dc:Species>
+                        </tax:xmldata>Brachyponera nigrita</tax:name>
+: Bingham, 1903: 102.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33331" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pachycondyla</dc:Genus>
+                            <dc:Species>nigrita</dc:Species>
+                        </tax:xmldata>Pachycondyla nigrita</tax:name>
+: Brown in Bolton, 1995: 307.
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="description">
+                <tax:p>
+Worker (redescription of a syntype of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:141772" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Ponera</dc:Genus>
+                            <dc:Species>nigrita</dc:Species>
+                        </tax:xmldata>Ponera nigrita Emery</tax:name>
+). Measurements (mm): Body length in fully extended posture ca. 6; HW 1.05; HL 1.14; SL 1.14; EL 0.21; MSL 0.10. SL / HL 1.00, Number of ommatidia along longest axis of eye 12.
+</tax:p>
+                <tax:p>
+Antennal scape long, surpassing the posterior margin of head by more than 1 / 4 of its total length; segments 3 - 7, 11 distinctly longer than wide; segments 8 - 10 only slightly longer than wide (relative length of funicular segments much longer than in those of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33313" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pachycondyla</dc:Genus>
+                            <dc:Species>luteipes</dc:Species>
+                        </tax:xmldata>P. luteipes</tax:name>
+). Mandibular fovea distinct. Lateral face of mesosoma very weakly sculptured or shining; lateral face of propodeum well demarcated from metapleuron by a suture, somewhat distinctly microsculptured and relatively mat. In profile petiole thick; its lower margin longer than lower margin of metapleuron.
+</tax:p>
+                <tax:p>Queen. The following description is based on specimens from Doi Suthep, N. Thailand. Structure. Body distinctly larger than the worker, with the head width ranging from 1.04 to 1.06 mm. Eye much larger than in the worker (ca. 0.28 mm long and with ca. 22 ommatidia along the long axis). Distance between posterior ocelli longer than that between anterior and posterior ocelli. Mesopleuron above always with a distinct transverse groove. Compared with the worker, petiole relatively thin, seen from above almost lacking dorsal flat portion. Body sculpture much as in the worker. Mesopleuron and metapleuron smooth and shining; in one specimen from Taiwan posterior face of propodeum and petiole also smooth medially, and mesopleuron partly and metanotum densely punctate. Pilosity. Body covered with decumbent pubescence except on mesopleuron and metapleuron where pubescence is absent or very sparse. Eye with short fine standing hairs. Mesosoma dorsally and gastral tergites with very sparse standing hairs; long hairs on tergites almost confined to their posterior margins; sternites with more long standing hairs on the disc. Outer margin of forewing with dense short fringe; outer and posterior margins of hindwing fringed with longer hairs. Coloration much as in the worker.</tax:p>
+                <tax:p>Male. Description based on the specimens from the same series as the queen. Structure. Head including eyes much wider than long. Eyes very large (maximum diameter ca. 0.40 mm) with outer margin strongly convex and inner margin weakly emarginate. Clypeus transverse with anterior and posterior margins truncate; labrum anteriorly produced as a narrow lobe. Mandible long and fragile, not opposable, basally wide and suddenly narrowed toward bluntly pointed apex. Ocelli relatively large; distance between posterior ocelli slightly longer than their diameter, and as long as ocello-occipital distance; antenna long; scape (segment 1) twice as long as segment 2 and slightly shorter than segment 3. Pronotum short; mesoscutum large, with weak notauli and sharp parapsidal lines; mesopleuron large, with a wide transverse furrow which is striate on the bottom; scutellum dorsally convex with an anterior transverse zone which is much lower than the main disc; axilla extensively concave; metanotum short. Propodeum rounded; dorsal, lateral and posterior faces not clearly differentiated. Petiole relatively low, in profile rather strongly narrowed above, seen from back almost as wide as high, with dorsal margin almost straight; subpetiolar process flat, with acute posterior tooth in profile. Sculpture. Head superficially micropunctate. Sculpture on pronotum, mesoscutum, metanotum and metapleuron still weaker; mesopleuron extensively smooth and strongly shining; axilla coarsely rugose. Propodeum more strongly and densely sculptured, but on its posterior face sculpture somewhat weaker. Anterior face of petiole mat; posterior face weakly shining. Gaster only superficially and sparsely punctate and somewhat shining. Pilosity similar to that in the queen. Mesopleuron, metapleuron and posterior face of petiole almost hairless. Petiole extensively with dense obliquely standing short hairs on its anterior and lateral faces; subpetiolar process below with standing hairs. Fringe on wings as in the queen. Coloration. Body brown to pale brown, with ivory white femora and tibiae; tarsi especially fore tarsus darker. Scape and pedicel yellowish; other segments dark brown.</tax:p>
+            </tax:div>
+            <tax:nomenclature>TYPE MATERIAL
+Worker, Carin Ghecu, Myanmar, 1300 - 1400 m L. Fea II-III 88 [printed] / 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:141772" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Ponera</dc:Genus>
+                        <dc:Species>nigrita</dc:Species>
+                    </tax:xmldata>Ponera nigrita Emery</tax:name>
+[handwritten] / Emery [handwritten] / Collect. G. Mayr [printed] / 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:141772" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Ponera</dc:Genus>
+                        <dc:Species>nigrita</dc:Species>
+                    </tax:xmldata>nigrita</tax:name>
+[handwritten] det Emery [printed] (examined).
+</tax:nomenclature>
+            <tax:div type="materials_examined">
+                <tax:p>ADDITIONAL MATERIAL</tax:p>
+                <tax:p>THAILAND. 2 w, Doi Inthanon N. P. (HQ, 1800 m alt.), Chiang Mai Prov., 20 viii 1998, Sk. Yamane; 1 w, Doi Ang Kang (HQ, 1300 m alt.), Chiang Mai Prov., 21 viii 1998, Sk. Yamane; 10 w, Doi Suthep N. P., Chian Mai Prov., 21 - 22 xii 1997, F. &amp; Sk. Yamane; 12 w, same loc., 18 viii 1998, H. Okido &amp; Sk. Yamane; 5 w, 1 m, same loc. &amp; date, H. Okido (TH 98 - H 006); 10 w, 2 q, 8 m, same data, Sk. Yamane (TH 98 - SKY- 06 &amp; - 07). VIETNAM. 30 w, Cuc Phuong N. P., Nho Quan Distr., 10 - 12 viii 1998, Sk. Yamane; 3 w, same loc., 9 xi 2001, Sk. Yamane; 10 w, same loc. (320 m alt.), 10 xi 2001, K. Eguchi (Eg 01 - VN- 189); 8 w, Bavi N. P. (670 m alt.), Hatai Distr., 12 xi 2001, K. Eguchi (Eg 01 - VN- 227); 11 w, same loc., Sk. Yamane (VN 01 - SKY- 96); 3 w, same loc. (1100 m alt.), 19 iv 2002, K. Eguchi (Eg 02 - VN- 037); 18 w, Tam Dao (900 - 1240 m alt.), Vinh Phuc Prov., 9 viii 1998, Sk. Yamane; 1 q, same loc., 8 viii 1998, H. Okido; 1 w, Na Xan (500 m alt.), Nghe An Prov., 14 iv 1999, T. V. Bui. TAIWAN. 2 w, 1 q, Wulai, Taipei Hsien, 2 viii 1981, M. Terayama; 10 w, Fushan, Taipei Hsien, 22 - 23 ix 1997, Sk. Yamane.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>REMARKS</tax:p>
+                <tax:p>
+The worker specimens from Doi Suthep, Chiang Mai, N. Thailand agreed well with the type material. This species is very similar to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237920" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pachycondyla</dc:Genus>
+                            <dc:Species>pilidorsalis</dc:Species>
+                        </tax:xmldata>P. pilidorsalis</tax:name>
+that occurs in Borneo and the southern part of the Malay Peninsula. The former is distinguished from the latter by 1) more weakly sculptured posterior faces of propodeum and petiole (W), 2) fewer and shorter standing hairs on mesosoma and gastral tergites 1 and 2 (W, Q), 3) frequent lack of transverse groove on mesopleuron (W), and 3) much larger body size (Q).
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:141772" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Ponera</dc:Genus>
+                            <dc:Species>nigrita</dc:Species>
+                        </tax:xmldata>P. nigrita</tax:name>
+shows variation in sculpturation on the mandible and propodeum in the worker. Striation and punctation in these parts tend to be stronger and more extensive in the specimens from N. Vietnam; in some specimens the major portion of the mandible is densely striate, and the lateral and posterior faces of the propodeum are extensively and rather coarsely striate or irregularly sculptured.
+</tax:p>
+                <tax:p>
+The subspecies 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237925" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Ponera</dc:Genus>
+                            <dc:Species>nigrita</dc:Species>
+                            <dc:Subspecies>nigritella</dc:Subspecies>
+                        </tax:xmldata>P. nigrita nigritella</tax:name>
+(Starcke, 1930) from Sumatra may not be a race of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:141772" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Ponera</dc:Genus>
+                            <dc:Species>nigrita</dc:Species>
+                        </tax:xmldata>P. nigrita</tax:name>
+, since according to the original description the body size and eye size are smaller for 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:141772" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Ponera</dc:Genus>
+                            <dc:Species>nigrita</dc:Species>
+                        </tax:xmldata>P. nigrita</tax:name>
+, and head is relatively long (HL / HW 1.14 for 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237926" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Ponera</dc:Genus>
+                            <dc:Species>nigritella</dc:Species>
+                        </tax:xmldata>nigritella</tax:name>
+vs. 1.10 for typical 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:141772" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Ponera</dc:Genus>
+                            <dc:Species>nigrita</dc:Species>
+                        </tax:xmldata>nigrita</tax:name>
+). Starcke himself (1930) suggested that 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237926" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Ponera</dc:Genus>
+                            <dc:Species>nigritella</dc:Species>
+                        </tax:xmldata>nigritella</tax:name>
+is closely related to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237927" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Brachyponera</dc:Genus>
+                            <dc:Species>nigrita</dc:Species>
+                            <dc:Subspecies>chinensis</dc:Subspecies>
+                        </tax:xmldata>Brachyponera nigrita chinensis</tax:name>
+, which is now given specific status (Brown, 1958).
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237920" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Pachycondyla</dc:Genus>
+                        <dc:Species>pilidorsalis</dc:Species>
+                    </tax:xmldata>Pachycondyla pilidorsalis Yamane</tax:name>
+, 
+sp. nov.</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 7, 9 - 11</tax:p>
+                <tax:p>Worker. Measurements (mm) holotype in parentheses: HW 0.96 - 0.98 (0.96); HL 1.00 - 1.05 (1.00); SL 1.07 - 1.09 (1.08); EL 0.19 - 0.20 (0.19); MSL 0.11 - 0.13 (0.11). SL / HL 1.03 - 1.08 (1.08);</tax:p>
+                <tax:p>Number of ommatidia along long axis of eye ca. 12.</tax:p>
+                <tax:p>
+Very similar to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:141772" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Ponera</dc:Genus>
+                            <dc:Species>nigrita</dc:Species>
+                        </tax:xmldata>P. nigrita</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237918" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pachycondyla</dc:Genus>
+                            <dc:Species>batak</dc:Species>
+                        </tax:xmldata>P. batak</tax:name>
+. Mesopleuron usually with a transverse groove. Posterior faces of propodeum and petiole constantly punctate. Dorsum of mesosoma usually with more than ten standing hairs, some of which are longer than width of antennal segment 2. Gastral tergites 1 and 2 each with more than ten long standing hairs.
+</tax:p>
+                <tax:p>
+Queen. Similar to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237918" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pachycondyla</dc:Genus>
+                            <dc:Species>batak</dc:Species>
+                        </tax:xmldata>P. batak</tax:name>
+in body size and distinctly punctate metapleuron (in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:141772" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Ponera</dc:Genus>
+                            <dc:Species>nigrita</dc:Species>
+                        </tax:xmldata>P. nigrita</tax:name>
+metapleuron almost smooth). Specimens from Malay Pen. tend to be larger than those from Borneo (HW: 0.83 - 0.91 vs. 1.04 - 1.06 mm). Mesosoma dorsally and gastral tergites with numerous long standing hairs.
+</tax:p>
+            </tax:div>
+            <tax:nomenclature>TYPE MATERIALHolotype
+: worker, Ulu Gombak (ca. 250 m alt.), 
+Selangor Prov.
+, 
+Malaysia
+., 5 vii 1999, 
+F. Ito
+(FI 99 - 291). 
+Paratypes
+: 10 w, 2 q, from the same colony as 
+holotype
+. The holotype is deposited in the Entomological Collection at Forest Research Institute, 
+Kuala Lumpur
+,
+Malaysia
+, and paratypes in SKY Collection, Kagoshima University, Natural History Museum (
+NHMK
+), London (
+BMNH
+), Museum of Comparative Zoology, Harvard University (MCZC) and Natural History Museum of Los Angeles County (
+LACM
+).
+</tax:nomenclature>
+            <tax:div type="materials_examined">
+                <tax:p>ADDITIONAL MATERIAL</tax:p>
+                <tax:p>MALAY PENINSULA. 2 w, Ulu Gombak, 24 - 29 x 1996, F. Ito; 10 w, Bunga Buah (ca. 1000 m alt.), nr Genting Highland, 6 vii 1999, Sk. Yamane. JAVA. 2 w, Cidaon, Ujung Kulon, 10 iii 1997, F. Ito. BORNEO. 5 w, Poring (550 - 700 m alt.), Sabah, 16 iii 1995, Sk. Yamane; 54 w, Poring (600 - 900 m alt.), Sabah, 1996 - 97, T. Kikuta; 3 w, 1 q, Sayap Kinabalu (ca. 1000 m alt.), 15 vii 1996, K. Eguchi (Eg 96 - BOR- 47); 6 w, same loc., 14 - 15 vii 1996, K. Eguchi &amp; Sk. Yamane; 10 w, 3 q, G. Rara, Tawau, Sabah, 11 xii 1996, K. Eguchi (Eg 96 - BOR- 375); 11 w, 1 q, Tasek Merimbun, Brunei, 17 ii 1999, K. Eguchi (Eg 99 - BOR- 148).</tax:p>
+            </tax:div>
+            <tax:div type="etymology">
+                <tax:p>ETYMOLOGY</tax:p>
+                <tax:p>The name refers to the presence of numerous standing hairs on the dorsum of the bodies of the queen and worker.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>REMARKS</tax:p>
+                <tax:p>Diagnostic characteristics separating this species from two related species are given in the keys. Since the male has not been collected the status of this species is still inconclusive. This species nests in rotting wood in good forests.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237918" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Pachycondyla</dc:Genus>
+                        <dc:Species>batak</dc:Species>
+                    </tax:xmldata>Pachycondyla batak Yamane</tax:name>
+, 
+sp. nov.</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 3, 4, 12 - 16</tax:p>
+                <tax:p>Worker. Measurements (mm), holotype in parentheses: HW 0.95 - 1.00 (0.99); HL 1.04 - 1.11 (1.08); SL 1.11 - 1.13 (1.13); EL 0.19 - 0.21 (0.20); MSL 0.11 - 0.12 (0.11). SL / HL 1.03 - 1.08 (1.05). Number of ommatidia along long axis of eye ca. 10.</tax:p>
+                <tax:p>
+Structure. Similar to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33331" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pachycondyla</dc:Genus>
+                            <dc:Species>nigrita</dc:Species>
+                        </tax:xmldata>P. nigrita</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237920" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pachycondyla</dc:Genus>
+                            <dc:Species>pilidorsalis</dc:Species>
+                        </tax:xmldata>P. pilidorsalis</tax:name>
+, but the following characteristics are useful to recognize 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237918" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pachycondyla</dc:Genus>
+                            <dc:Species>batak</dc:Species>
+                        </tax:xmldata>P. batak</tax:name>
+. Mesal half of mandible rather extensively smooth with scattered punctures. Posterior face of propodeum superficially but extensively punctate. Both anterior and posterior faces of petiole distinctly punctate. Dorsal face of mesosoma without standing hairs or with at most five very short standing hairs. Gastral tergites 1 and 2 each with less than five standing hairs (excluding those along posterior margin of the tergites).
+</tax:p>
+                <tax:p>
+Queen. Small, head width ca. 0.85 mm. Similar in size and structure to the queen of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237920" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pachycondyla</dc:Genus>
+                            <dc:Species>pilidorsalis</dc:Species>
+                        </tax:xmldata>P. pilidorsalis</tax:name>
+, but mesosoma dorsally and gastral tergites 1 and 2 virtually without standing hairs.
+</tax:p>
+                <tax:p>Male. Structure. Head small, much narrower than pronotum, posteriorly roundly narrowed. Clypeus apically almost straight; labrum produced anteriorly. Lower frons with a short longitudinal keel. Mandible reduced, basally widened. Eye large (maximum length 0.30 mm), strongly convex, with short standing hairs, mesally weakly emarginate. Ocelli small, diameter as long as the width of antennal segment 3; distance between posterior ocelli much longer than that between anterior and posterior ocelli. Scape as long as antennal segment 3; pedicel (segment 2) slightly longer than half the length of scape. Pronotum posterolaterally concave; mesoscutum large, much higher than pronotum; scutellum much narrower than mesoscutum, with a wide and deep furrow just behind mesoscutum; mesopleuron large, with a deep transverse groove of which the bottom has many striae. Propodeum lower than meso-metanotum, weakly rounded above; posterior face shallowly concave. Petiole relatively thin, in profile much narrowed above; subpetiolar process in profile with an apically acute posterior projection. Sculpture. Head only superficially punctate and shining. Pronotum, mesoscutum, scutellum and metanotum very weakly sculptured and somewhat shining; mesopleuron almost entirely smooth and strongly shining; metapleuron anteromedially coarsely puncto-striate; other part of metapleuron weakly sculptured. Propodeum very densely punctate except for concave posterior face that is only superficially sculptured. Anterior and posterior faces of petiole densely and irregularly sculptured; posterior face very weakly sculptured and somewhat shining. Gaster only superficially sculptured. Pilosity. Body rather densely covered with decumbent pubescence and obliquely standing short hairs; on mesopleuron the pilosity very sparse. Coloration. Body dark reddish brown, with slightly paler gaster and legs.</tax:p>
+            </tax:div>
+            <tax:nomenclature>TYPE MATERIALHolotype
+. Worker, Parapat (900 m alt.), 
+nr Danau Toba
+, 
+N. Sumatra
+, 
+Indonesia
+, 
+19 viii 2002
+, 
+Sk. Yamane
+(SU 02 - SKY- 91). 
+Paratypes
+. 7 w, 4 q, 5 m from the same colony. The holotype is deposited in Museum Zoologicum Bogoriense,
+Indonesia
+, and paratypes in SKY Collection (
+NHMK
+), 
+BMNH
+, MCZC and 
+LACM
+.
+</tax:nomenclature>
+            <tax:div type="materials_examined">
+                <tax:p>ADDITIONAL MATERIAL</tax:p>
+                <tax:p>SUMATRA: 26 w 2 q, same loc. (SU 02 - SKY- 85); 11 w 2 q, same loc. (SU 02 - SKY- 90); 16 w, Bt Lawang (lowland), G. Leuser N. P., Sk. Yamane (SU 02 - SKY- 87).</tax:p>
+            </tax:div>
+            <tax:div type="etymology">
+                <tax:p>ETYMOLOGY</tax:p>
+                <tax:p>Named for the Batak tribe who live in the area of the type locality.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>REMARKS</tax:p>
+                <tax:p>
+This species may be most closely related to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237920" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pachycondyla</dc:Genus>
+                            <dc:Species>pilidorsalis</dc:Species>
+                        </tax:xmldata>P. pilidorsalis</tax:name>
+, from which it is easily distinguished by the lack of standing hairs on mesosoma and gastral tergites 1 and 2 (excluding those arising along posterior margins of the tergites) in the queen. It is also separable from the related 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33331" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pachycondyla</dc:Genus>
+                            <dc:Species>nigrita</dc:Species>
+                        </tax:xmldata>P. nigrita</tax:name>
+by the smaller body (queen), and smaller ocelli and dark body color (male). On the other hand, in the worker caste, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237918" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pachycondyla</dc:Genus>
+                            <dc:Species>batak</dc:Species>
+                        </tax:xmldata>P. batak</tax:name>
+differs from 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237920" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pachycondyla</dc:Genus>
+                            <dc:Species>pilidorsalis</dc:Species>
+                        </tax:xmldata>P. pilidorsalis</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33331" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pachycondyla</dc:Genus>
+                            <dc:Species>nigrita</dc:Species>
+                        </tax:xmldata>P. nigrita</tax:name>
+only in the fewer numbers of standing hairs on mesosoma and tergites 1 and 2. This species nests in rotting wood / branches on the ground in secondary forests.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237919" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Pachycondyla</dc:Genus>
+                        <dc:Species>flavipes</dc:Species>
+                    </tax:xmldata>Pachycondyla flavipes Yamane</tax:name>
+, 
+sp. nov.</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figure 5</tax:p>
+                <tax:p>Worker. Measurements (mm), holotype in parentheses: HW 0.90 - 0.94 (0.94); HL 1.00 - 1.04 (1.04); SL 0.94 - 0.98 (0.97); EL 0.19 - 0.20 (0.19); MSL 0.08 - 0.10 (0.10). SL / HL 0.93 - 0.96 (0.93). Number of ommatidia along the long axis of eye ca 10.</tax:p>
+                <tax:p>Structure. Head slightly longer than wide, almost parallel-sided behind eyes, with the posterior margin almost straight in full-face view. Clypeus with the anterior margin widely and very shallowly emarginate. All the funicular segments of antenna longer than wide. Antennal scape surpassing the posterior margin of head by less than 1 / 4 of its total length in full-face view. Anterodorsal corner of pronotum weakly and roundly produced; mesonotum demarcated anteriorly from pronotum by a wide and deep furrow; mesopleuron above sometimes with a weak transverse groove; metanotal depression distinct. Propodeum in profile separated by a distinct furrow from metapleuron and propodeum; posterior face distinctly margined laterally. Sculpture. Dorsum of head finely and densely punctate. Clypeus almost smooth except in median portion that is longitudinally and finely striate. Mandible extensively smooth with large sparse punctures, and only basal portion finely striatopunctate. Dorsum of pronotum finely punctate; its lateral face and mesonotum with still finer punctation; mesopleuron and metapleuron smooth and shining, with rugulae in lower posterior area. Propodeum dorsally irregularly sculptured but its lateral face smooth; posterior face of propodeum smooth except for margins and upper portion. Petiole anteriorly micropunctate, posteriorly smooth. Gastral segments finely punctate and somewhat shining. Pilosity. Body covered with decumbent pubescence except for mesopleuron, metapleuron, and posterior faces of propodeum and petiole that are almost bare. Dorsum of head, mesosoma, petiole almost without standing hairs; disc of gastral tergites 1 and 2 with a few standing hairs in addition to those at posterior margins; other tergites and sternites also with standing hairs at margins. Coloration. Mesosoma jet black; head, petiole and gaster blackish brown. Antennal funiculus and mandible brown to reddish brown. Legs yellowish brown to orangish, strikingly contrasting with jet black mesosoma.</tax:p>
+            </tax:div>
+            <tax:nomenclature>TYPE MATERIALHolotype
+: worker, 
+27 ii 2002
+, 
+between Kampetlet and Natmataung N. P. (1700 m alt.)
+, 
+Chin State
+, 
+Myanmar
+, 
+27 ii 2002
+, 
+Sk. Yamane
+leg (MM 02 - SKY- 33). Paratypes: 16 workers from the same colony. The holotype is deposited in SKY Collection (
+NHMK
+), and paratypes in 
+NHMK
+, 
+BMNH
+, MCZC, and 
+LACM
+.
+</tax:nomenclature>
+            <tax:div type="etymology">
+                <tax:p>ETYMOLOGY</tax:p>
+                <tax:p>Named for the yellow legs of this species.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>REMARKS</tax:p>
+                <tax:p>This species has the shortest relative length of antennal scape among the species treated here. The scape surpasses the posterior margin of head by less than 1 / 4 of its total length.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237921" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Pachycondyla</dc:Genus>
+                        <dc:Species>wallacea</dc:Species>
+                    </tax:xmldata>Pachycondyla wallacea Yamane</tax:name>
+, 
+sp. nov.</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figure 8</tax:p>
+                <tax:p>Worker. Measurements (mm), holotype in parentheses: HW 1.05 - 1.13 (1.11); HL 1.10 - 1.17 (1.15); SL: 1.10 - 1.15 (1.15); EL: 0.21 - 0.23 (0.22); MSL: 0.08 - 0.09 (0.08). SL / HL 0.97 - 1.01 1.00). Number of ommatidia along long axis of eye ca. 14.</tax:p>
+                <tax:p>Structure. Head slightly longer than wide, in full-face view with posterior margin weakly emarginate, almost parallel-sided behind eye. Mandible with six larger and three smaller teeth on the masticatory margin; basal fovea absent or obsolete. Antennal scape rather long, surpassing the posterior margin of head by more than 1 / 4 (often almost 1 / 3) of its total length in full-face view. Pronotal dorsum bluntly demarcated from lateral face; seen from above anterolateral corner round. Mesonotum distinctly demarcated from pronotum and propodeum by deep furrows, posteriorly weakly emarginate. In profile propodeum demarcated by a distinct obliquely running suture from metapleuron; posterior face well demarcated from lateral face by a rather sharp ridge, but separation from dorsal face indistinct. Petiole thick, in posterior view round and slightly wider than high. Sculpture. Dorsum of head minutely and densely punctate. Clypeus with much more superficial sculpture and shining except in median sculptured portion. Greater part of mandible finely and densely striate, leaving small area around apex and along mesal margin smooth. Pronotum very finely striatopunctate dorsally; its lateral face strongly rugose. Mesonotum finely and superficially punctate; mesopleuron almost smooth and shining, but rugulose below; metapleuron smooth, but punctate below and rugose above. Propodeum dorsally irregularly sculptured and mat; lateral face rugose; posterior face densely and transversely striate. Petiole with anterior and posterior faces densely and superficially punctate. gastral segments densely and weakly punctate evenly over the surface. Pilosity. Body except for lateral face of mesosoma extensively covered with dense decumbent pubescence. Standing hairs sparse; gastral tergites 1 and 2 each with more than ten standing hairs.</tax:p>
+                <tax:p>Coloration. Body dark brown to blackish; gaster slightly lighter than head and mesosoma. Antennal funiculus, mandible, subpetiolar process and legs yellowish brown to orangish.</tax:p>
+                <tax:p>Queen. Only one winged teneral individual is available, which is not suitable for detailed description. Striation on mesosoma less conspicuous than in the worker; pronotal side very finely and densely striate; striation on metapleuron above and propodeal side irregular; dorsum of pronotum and mesonotum very finely punctate and matte.</tax:p>
+            </tax:div>
+            <tax:nomenclature>TYPE MATERIALHolotype
+: worker, 
+Kopi house, nr Semaya
+, 
+W. Lombok
+, 
+Indonesia
+, 
+29 x 1998
+, 
+K. Eguchi
+leg. (Eg 98 - LMB- 1077). 
+Paratypes
+: one queen and 12 workers from the same colony. The holotype is deposited in Museum Zoologicum Bogoriense,
+Indonesia
+, and paratypes in SKY Collection (
+NHMK
+), 
+BMNH
+, MCZC, and 
+LACM
+.
+</tax:nomenclature>
+            <tax:div type="materials_examined">
+                <tax:p>ADDITIONAL MATERIAL</tax:p>
+                <tax:p>INDONESIA: 2 w, S. E. Sulawesi, Indonesia, 25 xi 2000, IKT Ginarsa; 10 w, West Bali, 27 vi 1998, IKT Ginarsa.</tax:p>
+            </tax:div>
+            <tax:div type="etymology">
+                <tax:p>ETYMOLOGY</tax:p>
+                <tax:p>Named for the famous " Wallace's Line " dividing the Asian from the Melanesian faunas.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>REMARKS</tax:p>
+                <tax:p>
+This species is similar to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33223" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pachycondyla</dc:Genus>
+                            <dc:Species>atrata</dc:Species>
+                        </tax:xmldata>P. atrata (Karavaiev, 1925)</tax:name>
+in having rugose pronotal sides (also see Wilson, 1958). It is, however, easily distinguished from the latter in the worker caste by having the pronotal dorsum and propodeum extensively rugose / striate, and the antennal scape much longer. In 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33223" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pachycondyla</dc:Genus>
+                            <dc:Species>atrata</dc:Species>
+                        </tax:xmldata>P. atrata</tax:name>
+the scape surpasses the posterior margin of head by only 1 / 5 of its length, while in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237921" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pachycondyla</dc:Genus>
+                            <dc:Species>wallacea</dc:Species>
+                        </tax:xmldata>P. wallacea</tax:name>
+by more than 1 / 4 (often almost 1 / 3) of its length. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33223" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pachycondyla</dc:Genus>
+                            <dc:Species>atrata</dc:Species>
+                        </tax:xmldata>P. atrata</tax:name>
+is known from Amboina and Boeton, eastern Indonesia, and excluded here.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:p>ACKNOWLEDGEMENTS</tax:p>
+        <tax:p>
+I thank Roy Snelling for his invitation to contribute to this honorable volume, and P. S. Ward for critical reading of an earlier draft. Thanks are extended to Stefan Schoedl for his kind loan of the type material of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:141772" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Ponera</dc:Genus>
+                    <dc:Species>nigrita</dc:Species>
+                </tax:xmldata>Ponera nigrita</tax:name>
+, and Gary Alpert for kindly sending me the Staercke paper. Katsuyuki Eguchi, Hirofumi Okido, I. K. T Ginarsa, Decha Wiwatwitaya, and Mamoru Terayama helped me in collecting the material examined in the present paper.
+</tax:p>
+        <tax:p>LITERATURE CITED</tax:p>
+        <tax:p>Andersen, A. N. 2000. The ants of Northern Australia. A guide to the monsoonal fauna. v + 106 pp. CSIRO Publishing, Collingwood.</tax:p>
+        <tax:p>Bolton, B. 1995. A new general catalogue of the ants of the world. 504 pp. Harvard University Press, Cambridge, Massachusetts.</tax:p>
+        <tax:p>
+Bolton, B. 2003. Synopsis and classification of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+. Memoirs of the American Entomological Institute 71: 1 - 370.
+</tax:p>
+        <tax:p>Brown, W. L. 1958. A review of ants of New Zealand. Acta Hymenopterologica 1: 1 - 50.</tax:p>
+        <tax:p>Emery, C. 1895. Viaggio de Leonardo Fea in Birmania e regioni vicine. 63. Formiche di Birmania, del Tenasserim e del Monti carin, raccolte da L. Fea. Annali del Museo Civico de Storia Naturale di Genova (2) 14 [34]: 450 - 483.</tax:p>
+        <tax:p>
+Emery, C. 1911. Hymenoptera, Fam. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+, Subfam. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+. In: Wytsman, P., Genera Insectorum 118: 1 - 125, 3 pls.
+</tax:p>
+        <tax:p>
+Karavaiev, W. 1925. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+(Fam. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+) aus dem Indo-Australischen Gebiet. Konowia 4: 69 - 81, 115 - 131, 276 - 296.
+</tax:p>
+        <tax:p>
+Ogata, K. 1987. A generic synopsis of the poneroid complex of the family 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+in Japan (Hymenoptera). Part I. Subfamilies 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2249" source="HNS"/>Cerapachyinae</tax:name>
+. Esakia (Fukuoka) 25: 97 - 132.
+</tax:p>
+        <tax:p>Shattuck, S. O. 1999. Australian ants. Their biology and identification. Monographs on Invertebrate Taxonomy 3: i-xi, 1 - 226.</tax:p>
+        <tax:p>Staercke, A. 1930. Verzeichnis der bis jetzt von der Insel Pulau Berhala bekannt gewordenen Ameizen. Treubia 12: 371 - 381.</tax:p>
+        <tax:p>
+Wilson, E. O. 1958. Studies on the ant fauna of Melanesia III. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2497" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Rhytidoponera</dc:Genus>
+                </tax:xmldata>Rhytidoponera</tax:name>
+in western Melanesia and the Moluccas. IV. The tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2307" source="HNS"/>Ponerini</tax:name>
+. Bulletin of the Museum of Comparative Zoology 119: 303 - 371.
+</tax:p>
+        <tax:figure>
+            <tax:p>
+Figures 1 - 8. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24842" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Pachycondyla</dc:Genus>
+                    </tax:xmldata>Pachycondyla</tax:name>
+workers. 1 - 3, Eyes: 1, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33313" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Pachycondyla</dc:Genus>
+                        <dc:Species>luteipes</dc:Species>
+                    </tax:xmldata>Pachycondyla luteipes</tax:name>
+; 2, P. chinensis-complex; 3, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237918" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Pachycondyla</dc:Genus>
+                        <dc:Species>batak</dc:Species>
+                    </tax:xmldata>P. batak</tax:name>sp. nov.
+4 - 8, heads in full-face view: 4, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237918" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Pachycondyla</dc:Genus>
+                        <dc:Species>batak</dc:Species>
+                    </tax:xmldata>Pachycondyla batak</tax:name>sp. nov.
+; 5, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237919" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Pachycondyla</dc:Genus>
+                        <dc:Species>flavipes</dc:Species>
+                    </tax:xmldata>P. flavipes</tax:name>sp. nov.
+; 6, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33331" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Pachycondyla</dc:Genus>
+                        <dc:Species>nigrita</dc:Species>
+                    </tax:xmldata>P. nigrita</tax:name>
+; 7, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237920" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Pachycondyla</dc:Genus>
+                        <dc:Species>pilidorsalis</dc:Species>
+                    </tax:xmldata>P. pilidorsalis</tax:name>sp. nov.
+; 8, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237921" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Pachycondyla</dc:Genus>
+                        <dc:Species>wallacea</dc:Species>
+                    </tax:xmldata>P. wallacea</tax:name>sp. nov.</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 9 - 14. Winged queens. 9 - 11, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237920" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Pachycondyla</dc:Genus>
+                        <dc:Species>pilidorsalis</dc:Species>
+                    </tax:xmldata>Pachycondyla pilidorsalis</tax:name>
+; 12 - 14, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237918" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Pachycondyla</dc:Genus>
+                        <dc:Species>batak</dc:Species>
+                    </tax:xmldata>P. batak</tax:name>
+. 9 &amp; 12, Body in profile; 10 &amp; 13, Promesonotum in profile; 11 &amp; 14, 1 st and 2 nd gastral tergites in profile.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 15 - 18. Males. 15 &amp; 16, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237918" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Pachycondyla</dc:Genus>
+                        <dc:Species>batak</dc:Species>
+                    </tax:xmldata>Pachycondyla batak</tax:name>sp. nov.
+; 17 &amp; 18, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33331" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Pachycondyla</dc:Genus>
+                        <dc:Species>nigrita</dc:Species>
+                    </tax:xmldata>P. nigrita</tax:name>
+.
+      </tax:p>
+        </tax:figure>
+    </tax:taxonxBody>
+</tax:taxonx>

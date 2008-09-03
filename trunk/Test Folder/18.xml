@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8"?><tax:taxonx xmlns:dc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.taxonx.org/schema/v1 http://www.taxonx.org/schema/v1/taxonx1.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-1.xsd http://digir.net/schema/conceptual/darwin/2003/1.0 http://digir.net/schema/conceptual/darwin/2003/1.0/darwin2.xsd">
+    <tax:taxonxHeader>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>A review of the ant genus Metapone Forel from Madagascar.</mods:title>
+            </mods:titleInfo>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:name type="personal">
+                <mods:role>
+                    <mods:roleTerm>Author</mods:roleTerm>
+                </mods:role>
+                <mods:namePart>Alpert, G. D.</mods:namePart>
+            </mods:name>
+            <mods:relatedItem type="host">
+                <mods:titleInfo>
+                    <mods:title>Advances in ant systematics (Hymenoptera: Formicidae): Homage to E.O. Wilson - 50 years of contributions.</mods:title>
+                </mods:titleInfo>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Snelling, R. R.</mods:namePart>
+                </mods:name>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Fisher, B. L.</mods:namePart>
+                </mods:name>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Ward, P. S.</mods:namePart>
+                </mods:name>
+                <mods:originInfo>
+                    <mods:dateIssued>2007</mods:dateIssued>
+                    <mods:publisher>Memoirs of the American Entomological Institute, 80</mods:publisher>
+                </mods:originInfo>
+                <mods:part>
+                    <mods:extent unit="page">
+                        <mods:start>8</mods:start>
+                        <mods:end>18</mods:end>
+                    </mods:extent>
+                </mods:part>
+            </mods:relatedItem>
+            <mods:identifier type="HNS-PUB">21271</mods:identifier>
+            <mods:location>
+                <mods:url>http://plazi.org:8080/dspace/handle/10199/15365</mods:url>
+            </mods:location>
+        </mods:mods>
+    </tax:taxonxHeader>
+    <tax:taxonxBody>
+        <tax:p>
+A REVIEW OF THE ANT GENUS 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>METAPONE</tax:name>
+FOREL FROM MADAGASCAR
+</tax:p>
+        <tax:p>Gary D. Alpert</tax:p>
+        <tax:p>Entomology Department</tax:p>
+        <tax:p>Museum of Comparative Zoology</tax:p>
+        <tax:p>Harvard University, 26 Oxford Street</tax:p>
+        <tax:p>Cambridge, MA 02138 U. S. A.</tax:p>
+        <tax:p>gary _ alpert @ harvard. edu</tax:p>
+        <tax:p>ABSTRACT</tax:p>
+        <tax:p>
+The pattern of obligatory association between the Old World ant genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+and termites is confirmed. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223472" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                    <dc:Species>vincimus</dc:Species>
+                </tax:xmldata>Metapone vincimus</tax:name>
+, new species, is described based upon workers and a queen collected from northeastern Madagascar. Several nest series of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223472" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                    <dc:Species>vincimus</dc:Species>
+                </tax:xmldata>M. vincimus</tax:name>
+were collected from within a log in association with the dry wood termite, Cryptotermes kirbyi (Kalotermitidae). An illustrated key is provided to separate the three species of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+known from Madagascar. A remarkable ergatoid male caste is noted for 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31372" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                    <dc:Species>madagascarica</dc:Species>
+                </tax:xmldata>Metapone madagascarica</tax:name>
+.
+</tax:p>
+        <tax:p>
+Key words: Hymenoptera, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+, new species, Madagascar, taxonomy, ergatoid male, termites
+</tax:p>
+        <tax:p>INTRODUCTION</tax:p>
+        <tax:p>
+The genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+Forel remains one of the most unusual and enigmatic ant genera in the Old World. Most of the 17 described taxa are known from very few specimens, often single queens or males are collected during dispersal flights and occasionally workers are collected from dead wood. Forel (1911) established the genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+based upon a series of workers, larvae and reproductive pupae of the type species 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31366" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                    <dc:Species>greeni</dc:Species>
+                </tax:xmldata>M. greeni Forel</tax:name>
+, collected from Peradenyia, Sri Lanka. In the same paper, Forel designated 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+as the type genus of a new tribe Metaponini and provisionally placed this tribe into a new special section among the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+, which he called the Promyrmicinae.
+</tax:p>
+        <tax:p>
+The genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+was properly transferred to the subfamily 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+a year later by Emery (1912) when he realized that the larvae were characteristic of the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmicinae</dc:Genus>
+                </tax:xmldata>Myrmicinae</tax:name>
+and not the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+. Unfortunately, Emery misinterpreted certain ponerine-like morphological traits of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+as primitive rather than as derived adaptations to a highly specialized habit of foraging in galleries of wood. As a result, Emery retained Forel ’ s section Promyrmicinae, transferred it to the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+, and expanded it to include the tribes Metaponini and Pseudomyrmicini. Wheeler (1919) was able to clear up much of the earlier confusion after additional species of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+became available for study. Wheeler rejected the term Promyrmicinae even though he could not determine the position of the Metaponini among the other tribes within the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+. The genera 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24814" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Liomyrmex</dc:Genus>
+                </tax:xmldata>Liomyrmex</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24816" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Vollenhovia</dc:Genus>
+                </tax:xmldata>Vollenhovia</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24817" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Xenomyrmex</dc:Genus>
+                </tax:xmldata>Xenomyrmex</tax:name>
+were included until recently in the tribe Metaponini (Bolton, 1994, 1995). 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+is presently the only genus assigned to the tribe Metaponini (Bolton, 2003). The placement of the Metaponini within the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+remains problematic and awaits a comprehensive revision of the myrmicine tribes.
+</tax:p>
+        <tax:p>
+The genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+is widely distributed throughout the Indo-Australian, Oriental and Malagasy Regions (Taylor, 1991; Bolton, 1995; Eguchi, 1998). Even though specimens are rare, new species continue to be discovered. Eguchi (1998) described a new species from Borneo, an undescribed 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+has been found in Gabon (B. Bolton, B. Fisher, personal communication) and another undescribed 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+has been found recently in New Caledonia (C. Burwell, personal communication). There are several series of undescribed 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+from Papua New Guinea and Australia in the Australian National Insect Collection in Canberra, Australia. The new species described in this paper, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223472" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                    <dc:Species>vincimus</dc:Species>
+                </tax:xmldata>M. vincimus</tax:name>
+, is the third endemic 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+species known from Madagascar.
+</tax:p>
+        <tax:p>
+From the very first collections, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+workers have been found in association with termites. The type species of the genus, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31366" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                    <dc:Species>greeni</dc:Species>
+                </tax:xmldata>M. greeni</tax:name>
+, was found in “ galleries in a decayed branch, which was also infested by two species of termites ” (Forel, 1911, quoting E. E. Green, the collector). Subsequently, Wheeler (1919, 1936) listed 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31366" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                    <dc:Species>greeni</dc:Species>
+                </tax:xmldata>M. greeni</tax:name>
+as an inquiline of termites and suggested that all species of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+probably form small colonies and live in or near the galleries of termites in dead wood. Taylor (1991) has found several undescribed species of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+in association with termites in Australia. In Papua New Guinea, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+were found in rotten wood with termites of the genus Prorhinotermes (Leigh Miller, personal communication). Eguchi (1998) reported that 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:150394" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                    <dc:Species>quadridentata</dc:Species>
+                </tax:xmldata>M. quadridentata Eguchi</tax:name>
+from Borneo “ was collected from the galleries of a termite nest in rotten wood ”. Gregg (1958) obtained from Alfred E. Emerson, the noted termite specialist, two new species of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+(
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31364" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                    <dc:Species>emersoni</dc:Species>
+                </tax:xmldata>M. emersoni</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31372" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                    <dc:Species>madagascarica</dc:Species>
+                </tax:xmldata>M. madagascarica</tax:name>
+) from a series of termites collected from Madagascar by Harold Kirby in 1935. Additional specimens of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31372" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                    <dc:Species>madagascarica</dc:Species>
+                </tax:xmldata>M. madagascarica</tax:name>
+were collected in association with Coptotermes truncatus Wasmann and Cryptotermes sp. (Brian Fisher, written communication). Though the evidence is anecdotal, the pattern of obligatory association with termites is clear. The new species of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+described in this paper, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223472" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                    <dc:Species>vincimus</dc:Species>
+                </tax:xmldata>M. vincimus</tax:name>
+, was found in association with a dry wood termite, Cryptotermes kirbyi (Paul Eggleton, written communication). Live colonies of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31372" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                    <dc:Species>madagascarica</dc:Species>
+                </tax:xmldata>M. madagascarica</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223472" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                    <dc:Species>vincimus</dc:Species>
+                </tax:xmldata>M. vincimus</tax:name>
+along with their termite associates were transported to the laboratory of Bert Hoelldobler in Wuerzburg, Germany. The resulting studies (Hoelldobler et al., 2002 a, 2002 b) are the first in-depth investigations of the Metapone-termite relationship.
+</tax:p>
+        <tax:p>METHODS</tax:p>
+        <tax:p>Specimens were examined using a Leica MZ 16 binocular microscope. Digital images were taken with a JVC digital camera and processed using Auto-Montage (Syncroscopy, Divison of Synoptics, LTD) software. Morphological measurements follow the terminology of Eguchi (1998) and include: head length, measured from the midpoint of a line drawn across from the posterior margin of the head to the anterior clypeal margin (HL), head width (HW), cephalic index (CI), scape length (SL), dorsal length of mesosoma excluding posterior declivities of the propodeum (ML), promesonotal length in dorsal view (PML), maximum promesonotal width (PMW), petiolar node length measured from the centers of the anterior and posterior faces (PNL), maximum petiolar width in dorsal view (PW) and maximum postpetiole width in dorsal view (PPW).</tax:p>
+        <tax:p>Material was examined from the Museum of Comparative Zoology, Harvard University, Cambridge, MA, USA, (MCZC), California Academy of Sciences, San Francisco, California, USA (CASC) and the Field Museum of Natural History, Chicago, Illinois, USA, (FMNH).</tax:p>
+        <tax:p>
+KEY TO WORKERS OF 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>METAPONE</tax:name>
+FROM MADAGASCAR
+</tax:p>
+        <tax:p>
+1 Abdominal segment 2 from above twice as wide as long (Figs. 11, 12), third segment in profile with a stout, ventrally directed spine (Fig. 6) ................................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31364" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                    <dc:Species>emersoni</dc:Species>
+                </tax:xmldata>M. emersoni Gregg</tax:name>
+        </tax:p>
+        <tax:p>-- Abdominal segment 2 from above quadrate to subquadrate (Figs. 8, 10), third segment with an anteroventral transverse ridge that appears as a blunt tooth (Figs. 2, 4) ............................ 2</tax:p>
+        <tax:p>
+2 Abdominal segment 2 from above with narrow anterior margin, sides strongly diverging posteriorly to form a wide, strongly concave posterior margin (Fig. 8) ..... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223472" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                    <dc:Species>vincimus</dc:Species>
+                </tax:xmldata>M. vincimus</tax:name>
+, 
+n. sp.</tax:p>
+        <tax:p>
+-- Abdominal segment 2 from above with sides weakly diverging posteriorly to form a slightly wider, somewhat less concave posterior margin (Fig. 10) ............... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31372" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                    <dc:Species>madagascarica</dc:Species>
+                </tax:xmldata>M. madagascarica Gregg</tax:name>
+        </tax:p>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31364" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Metapone</dc:Genus>
+                        <dc:Species>emersoni</dc:Species>
+                    </tax:xmldata>Metapone emersoni Gregg</tax:name>
+            </tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 5, 6, 11, 12, 17, 18</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>
+Gregg (1958) described this species and provided an illustration of the petiole and postpetiole in lateral view. Additional figures are provided here of the entire ant for comparison purposes. Gregg based his description on two workers found within a series of termites collected 12 miles from Perinet, 
+Madagascar
+on 
+June 28
+, 1935
+
+by 
+Harold Kirby
+. Kirby attached a locality code T- 4503, his record label T specifying a collection of termites. Many of Kirby ’ s termite collections were later identified to species in a series of papers including Moszkowski ’ s 1955 paper on Malagasy termites. T- 4503 however has never been listed as a locality code for Cryptotermes kirbyi, or any other termite, leaving in question the identification of the host termite for 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31364" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Metapone</dc:Genus>
+                            <dc:Species>emersoni</dc:Species>
+                        </tax:xmldata>M. emersoni</tax:name>
+. One worker of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31364" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Metapone</dc:Genus>
+                            <dc:Species>emersoni</dc:Species>
+                        </tax:xmldata>M. emersoni</tax:name>
+has been collected subsequently from a more northern location, (
+Toamasina, P. N. Mantadia
+, 
+18 ° 47 ’ 30 ” S
+, 
+48 ° 25 ’ 36 ” E
+, 895 m, rainforest, 
+
+25 Nov- 
+1 Dec 1998
+, coll. 
+H. J. Ratsirarson
+, 
+HJR 020
+, 
+CASENT 0003116
+, 
+CASC
+)
+
+.
+</tax:p>
+                <tax:p>
+A single queen assigned to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31364" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Metapone</dc:Genus>
+                            <dc:Species>emersoni</dc:Species>
+                        </tax:xmldata>M. emersoni</tax:name>
+was collected from the Andohahela Special Reserve (
+24 ° 46 ’ 35 ” S
+, 
+45 ° 42 ’ 19 ” E
+), in southern 
+Madagascar
+(
+P. Rabeson
+, 
+4. II. 1993
+, 
+MCZC
+). When 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31364" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Metapone</dc:Genus>
+                            <dc:Species>emersoni</dc:Species>
+                        </tax:xmldata>M. emersoni</tax:name>
+is rediscovered and queens are collected in association with workers, then the status of this single queen can be confirmed
+
+.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31372" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Metapone</dc:Genus>
+                        <dc:Species>madagascarica</dc:Species>
+                    </tax:xmldata>Metapone madagascarica Gregg</tax:name>
+            </tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 3, 4, 9, 10, 15, 16, 19 - 24</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>
+Gregg (1958) described this species and included an illustration of a worker in dorsal view. Additional figures are provided here. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31372" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Metapone</dc:Genus>
+                            <dc:Species>madagascarica</dc:Species>
+                        </tax:xmldata>M. madagascarica</tax:name>
+was described from a small series of workers collected along with termites from a stump with a field label T – 4403. Moszkowski (1955, p. 34) described the associated drywood termite as a new species, Cryptotermes kirbyi Moszkowski, gave the field label as T- 4403, and described the collection locality in more detail [14 km. East (
+23 ° 20 ’ S
+, 
+43 ° 48 ’ E
+) of 
+Tulear
+, along 
+Fiheranana River
+, 
+Madagascar
+, coll. 
+H. Kirby
+, 
+7. VI. 1935
+, in large dead stump].
+
+On 
+February 10, 1993
+, 
+Phil Ward
+, 
+Emile Rajeriarison
+and the author discovered a series of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31372" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Metapone</dc:Genus>
+                            <dc:Species>madagascarica</dc:Species>
+                        </tax:xmldata>M. madagascarica</tax:name>
+from 
+Berenty Reserve
+, 15 m, 
+25 ° 01 ’ 3.9 ” S
+, 
+46 ° 18 ’ 21.8 ” E
+; spiny forest, in an Alluaudia sp. log in association with termites. On 
+July 11, 2000
+, the author returned to this locality with 
+Pascal Rabeson
+and 
+Emile Rajeriarison
+and collected several nest series of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31372" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Metapone</dc:Genus>
+                            <dc:Species>madagascarica</dc:Species>
+                        </tax:xmldata>M. madagascarica</tax:name>
+in a dead hardwood tree (local Malagasy name “ Kelegnogne ”) in association with the termite Cryptotermes kirbyi. These nest series included larvae, pupae, workers, queens, males and ergatoid males.
+
+Additional material examined from 
+Madagascar
+: 
+Toliara
+, 
+Reserve Prive Berenty
+, 
+Foret d ’ Anjapolo
+, 
+21.4 km 325 ° NWAmbosary
+, 
+24 ° 55 ’ 47 ” S
+, 
+46 ° 12 ’ 35 ” E
+, 65 m, spiny forest / thicket, 
+7 Feb 2002
+(
+coll. Fisher-Griswold Arthropod Team
+) 
+CASENT 0004524
+, 1 ergatoid male, 
+CASC
+; 
+Reserve Prive Berenty
+, 
+Foret de Malaza
+, 
+Mandrare River
+, 
+8.6 km 314 ° NWAmbosary
+, 
+25 ° 0 ’ 28 ” S
+, 
+46 ° 18 ’ 22 ” E
+, 40 m, gallery forest, 
+6 Feb 2002
+(
+coll. Fisher-Griswold Arthropod TeamBLF 5474
+) 
+CASENT 0004525
+, 1 worker, 
+CASC
+; 
+Parc National d ’ Andohahela
+, 
+Foret de Manantalinjio
+, 
+33.6 km 63 ° ENEAmbosary
+, 
+7.6 km 99 ° EHazofotsy
+, 
+24 ° 49 ’ 1 ” S
+, 
+46 ° 36 ’ 36 ” E
+, 150 m, spiny forest / thicket, 12 - 
+16 Jan 2002
+(
+coll. Fisher-Griswold Arthropod TeamBLF 4837
+) 
+CASENT 0004526
+, 
+BLF 4840
+, 
+CASENT 0004529
+, 2 workers, 
+CASC
+.
+</tax:p>
+                <tax:p>Worker-queen intermorphs were present in low numbers among the series of workers. Two intermorphs exhibiting rudimentary wing articulations were present among 51 workers. Other intermediate stages of intermorph development were also present and this is consistent with the variation in development of ovarioles from six to two (Hoelldobler et al., 2002 b).</tax:p>
+                <tax:p>Several ergatoid males (Figs. 19, 21, 23) were collected along with typical winged males (Figs. 20, 22, 24) within the same colony at more than one location. These ergatoid males are almost identical to workers with the following exceptions, presence of male genitalia, large welldeveloped eyes and typical male antennae. The presence of both winged males and an ergatoid male caste in the same colony is exceptional in ants and warrants further study.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223472" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Metapone</dc:Genus>
+                        <dc:Species>vincimus</dc:Species>
+                    </tax:xmldata>Metapone vincimus</tax:name>
+, 
+new species</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>(Figs. 1, 2, 7, 8, 13, 14)</tax:p>
+            </tax:div>
+            <tax:div type="diagnosis">
+                <tax:p>
+Diagnosis - Similar to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31372" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Metapone</dc:Genus>
+                            <dc:Species>madagascarica</dc:Species>
+                        </tax:xmldata>M. madagascarica</tax:name>
+but readily distinguished by the following characters: Transverse metanotal groove prominent and continuous across the mesosomal dorsum. Petiole in dorsal view with strongly divergent sides, so that the flat anterior margin is much shorter than the concave posterior margin. Median anterior lobe of clypeus blunt, not forming teeth.
+</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Description - Worker. Measurement for holotype given first, followed in brackets by range for 15 paratype workers examined. HL 1.20 mm [1.20 - 1.44]; HW 0.90 mm [0.90 - 1.06]; ML 1.60 mm [1.58 - 1.90]; PML 0.90 mm [0.90 - 1.24]; PMW. 64 mm [0.60 - 0.76]; PNL 0.34 mm [0.32 - 0.46]; PW 0.44 mm [0.44 - 0.68]; PPW 0.46 mm [0.44 - 0.62].</tax:p>
+                <tax:p>Head in full-face view distinctly longer than broad (CI 0.75 [0.74 - 0.81]), lateral margins sub-parallel, posterior margin broadly concave. Compound eyes small, reduced to about 6 weakly defined ommatidia, located near the mid-line of the head. Ocellar pits and ocelli absent.</tax:p>
+                <tax:p>Mandibles stout, with 5 rounded teeth, increasing in size progressively towards the mandibular apices. Anterior clypeal margin with a quadrate median lobe formed into a blunt anterior edge (0.10 mm wide). The vertex with a short median suture that extends from the base to the posterior margin. Frontal carinae, widely separated, parallel and forming deep antennal scrobes. The frontal carinae originating from the posterior border of the clypeus, diverging transversely and extending posteriorly to behind the eye. Lateral clypeal lobes narrow, oblique, and separated from the genae by distinct lines continuous with the posterior border of the clypeus. A series of parallel striae begin just below the eye and extend across the posterior border of the lateral clypeal margin.</tax:p>
+                <tax:p>Antennae 11 - segmented, the scape short and flattened dorso-ventrally, SL 0.34 mm, dorsal surface of scape with scattered erect hairs. First segment of funiculus elbowed, segments 2 - 7 gradually expanding before developing into a flattened, 3 - segmented club. Numerous hairs on all surfaces of the funicular segments.</tax:p>
+                <tax:p>Mesosoma long and narrow, the promesonotum separated from the propodeum by a welldeveloped, complete, transverse metanotal groove. Entire mesosoma marginate to submarginate laterally, margin becoming more distinct at the propodeal corners. Propodeal dorsum nearly horizontal, passing through an abrupt concave angle to the vertical, posterior face. Petiole weakly convex dorsally. In dorsal view, the anterior margin of the petiolar node straight, the posterior margin deeply concave. Petiole ventrally with a thin, translucent median rounded keel. In profile, the anterior and posterior face of the petiole strongly concave. In profile, postpetiole almost flat dorsally. In dorsal view, anterior margin of postpetiole straight, posterior margin slightly concave, the anterodorsal corners diverging to rounded posterodorsal corners. The postpetiole joined to the gaster by a wide face, although a deep constriction exists between the two segments. Anteroventral surface of postpetiole produced into a pronounced, triangular rounded lobe or blunt tooth in side view.</tax:p>
+                <tax:p>The first gastric segment almost as long as the remaining gastral segments combined. Gaster with numerous hairs arising from foveae, surface between foveae smooth and shiny. Coxae stout and bulbous. Femora swollen and laterally compressed, the ventral surface longitudinally grooved for the reception of the tibia. Tibia also stout and partly compressed. Protibia armed apically with 1 small spine and a large pectinate spur. Mesotibia with a small, barely pectinate spur, and 3 stout apical teeth. Apical tarsomere on all legs with simple claws.</tax:p>
+                <tax:p>Sculpture: Clypeus, frons, genae and antennal scrobes covered with fine, longitudinal striae, essentially parallel, but which fade posteriorly, leaving the vertex, occiput and posterior part of the genae smooth and shining, interrupted only by prominent punctures. Centrally two parallel striae forming a groove that extends from the clypeal border to just beyond the limits of the frontal carinae. Entire dorsum of mesosoma longitudinally striate. Dorsal surface of petiole with hair-bearing punctures. Postpetiole and gaster with similar but finer punctures. All areas of the body, including the legs and antennae, smooth and shiny.</tax:p>
+                <tax:p>Pilosity: Short, scattered, erect yellow hairs on all surfaces of head and mesosoma, many hairs arising from punctures on the vertex, occiput and petiole. Hairs longer on mandibles, anterior margin of the clypeus, lateral surfaces of legs and lower surfaces of petiole and gaster. Pilosity most abundant on postpetiole and gaster.</tax:p>
+                <tax:p>Color: Head, mandibles and postpetiole dark reddish brown, the mesosoma and gaster a lighter brown. Petiole, legs and antennae light yellowish brown.</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>
+Type Material. – Holotype worker from 
+MADAGASCAR
+, 
+30 km N of Antalaha, 3 km W to a hill
+, near 
+Amboangy
+, 50 m, 
+14 ° 39 ’ 53.3 ” N
+, 
+50 ° 11 ’ 26.5 ” E
+, 
+29. VII. 2000
+, secondary rainforest, in log with termite Cryptotermes kirbyi, 
+G. Alpert
+, 
+P. Rabeson
+and 
+E. Rajeriarison
+, 
+# 2278
+. Deposited in 
+MCZC
+. 
+Paratype
+workers. 15 workers and 1 queen-worker intermorph, collected from the same nest series as the 
+holotype
+. Alate queen found in same locality on 
+24. I. 1991
+. 
+Paratypes
+have been deposited in the following collections; 
+Los Angeles County
+Museum of Natural History, Los Angeles, California, USA, (
+LACM
+); California Academy of Sciences, San Francisco, California, USA, (
+CASC
+); Bohart Museum of Entomology, University of California, Davis, California, USA, (
+UCDC
+); The Natural History Museum, London, England (
+BMNH
+); Australian National Insect Collection, Canberra, Australia (
+ANIC
+); and the National Museum of Natural History, Smithsonian Institution, Washington, D. C., USA, (
+USNM
+). 
+Paratypes
+and voucher specimens including larvae are deposited in the Museum of Comparative Zoology, Harvard University, Cambridge, Massachusetts, USA, (
+MCZC
+). Cryptotermes termite voucher specimens have been deposited in the American Museum of Natural History, New York, USA, (
+AMNH
+); the Natural History Museum, London, England (
+BMNH
+); and the Museum of Comparative Zoology, Harvard University, Cambridge, Massachusetts, USA, (
+MCZC
+)
+
+.
+</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Queen-worker intermorph. Same characters as worker apart from being larger in most dimensions, darker and having relatively larger postpetiole. Ocelli absent.</tax:p>
+                <tax:p>Queen. Same as worker with the following exceptions: Larger size, additional thoracic sclerites, HL 1.20 mm; HW 0.98 mm; AL 2.20 mm; PW 0.46 mm; PNL 0.44 mm, dealate and uniformly black in color. Three ocelli present and large compound eyes.</tax:p>
+                <tax:p>Male. Unknown.</tax:p>
+            </tax:div>
+            <tax:div type="distribution">
+                <tax:p>Distribution. - Known only from the type locality, a secondary lowland rainforest habitat.</tax:p>
+            </tax:div>
+            <tax:div type="etymology">
+                <tax:p>Etymology. - The specific name, vincimus = “ we succeed ”, is in recognition of the joint effort expended in discovering this species. Extremely hard logs were searched by axe for weeks before finally locating the ants and associated termites.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:p>
+Remarks. - At least two separate 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223472" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                    <dc:Species>vincimus</dc:Species>
+                </tax:xmldata>M. vincimus</tax:name>
+colonies were present in the same fallen tree (local Malagasy name “ Ompa ”). The colonies were separated by over 5 meters along the log and workers attacked and killed members of the other colony when put together into a common foraging arena. Workers and brood were found in chambers just below the log surface in close proximity to Cryptotermes termite chambers. Colony size was small, one colony containing less than 20 workers and about 40 larvae. A queen mesosoma along with worker remains was found in a refuse chamber of this colony. Since queens are known for this species it is probable that after the death of the primary reproductive, the colony is still able to produce workers via the presence of gamergates (Hoelldobler et al., 2000 b).
+</tax:p>
+        <tax:p>ACKNOWLEDGEMENTS</tax:p>
+        <tax:p>This paper is dedicated to the recognition and appreciation of Edward O. Wilson, who has supported the author for more than two decades with encouragement, advice and funding. “ Vincimus ” (success through perseverance) was the operative word not only for the Shackelton Expedition but also for the “ Wilson Expedition ” to explore myrmecological life on earth. I acknowledge all who are undertaking this enterprise for their efforts and for their encouragement.</tax:p>
+        <tax:p>
+Emile Rajeriarison and Pascal Rabeson were invaluable as field assistants and as collaborators in the effort to discover colonies of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+. I thank Stefan Cover, Steve Shattuck, Brian Fisher and Phil Ward for their review of this manuscript. I also thank the Madagascar Institute pour le Conservation de l ’ Environment Tropicaux (MICET) for collection permits and logistical support in Madagascar.
+</tax:p>
+        <tax:p>LITERATURE CITED</tax:p>
+        <tax:p>Bolton, B. 1994. Identification Guide to the Ant Genera of the World: Harvard University Press, Cambridge, Massachusetts. 222 pp.</tax:p>
+        <tax:p>Bolton, B. 1995. A New General Catalogue of the Ants of the World: Harvard University Press, Cambridge, Massachusetts. 504 pp.</tax:p>
+        <tax:p>
+Bolton, B. 2003. Synopsis and classification of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+. Memoirs of the American Entomological Institute 71: 1 - 370.
+</tax:p>
+        <tax:p>
+Emery, C. 1912. Etudes sur les 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+. Annales de la Societe Entomologique de Belgique 56: 94 - 105.
+</tax:p>
+        <tax:p>
+Eguchi, K. 1998. A new ant of the genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+(Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+) from Sabah, Borneo. Entomological Science 1: 605 - 609.
+</tax:p>
+        <tax:p>
+Forel, A. 1911. Sur le genre 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>n. g.
+nouveau groupe des formicides et sur quelques autres formes nouvelles. Revue Suisse de Zoologie 19: 445 - 459.
+</tax:p>
+        <tax:p>
+Gregg, R. F. 1958. Two new species of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+from Madagascar. Proceedings of the Entomological Society of Washington 60: 111 - 121.
+</tax:p>
+        <tax:p>
+Hoelldobler, B., Oldham, N. J., Alpert, G. D. &amp; Liebig, J. 2002 a. Predatory behavior and chemical communication two 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+species (Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Chemoecology 12: 147 - 151.
+</tax:p>
+        <tax:p>
+Hoelldobler, B., Liebig, J. &amp; Alpert, G. D. 2002 b. Gamergates in the myrmicine genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+(Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Naturwissenschaften 89: 305 - 307.
+</tax:p>
+        <tax:p>
+Moszkowski, L. 
+I. 1955
+. Cryptotermes kirbyi, 
+new species
+from Madagascar and C. havilandi (Sjoestedt) from Africa and introduced into Madagascar, India and South America (Isoptera: Kalotermitidae). Memoires de L ’ Institut Scientifique de Madagascar. Serie E. 6: 15 - 41.
+</tax:p>
+        <tax:p>
+Taylor, R. W. 1991. The nomenclature and distribution of some Australasian ants of the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+(Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Memoirs of the Queensland Museum 30: 599 - 614.
+</tax:p>
+        <tax:p>
+Wheeler, W. M. 1919. The ants of the genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24815" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Metapone</dc:Genus>
+                </tax:xmldata>Metapone</tax:name>
+Forel. Annals of the Entomological Society of America 12: 173 - 191.
+</tax:p>
+        <tax:p>Wheeler, W. M. 1936. Ecological relations of Ponerine and other ants to termites. Proceedings of the American Academy of Arts and Sciences 71 (3): 159 - 243.</tax:p>
+        <tax:figure>
+            <tax:p>
+Figures 1 - 6. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223472" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Metapone</dc:Genus>
+                        <dc:Species>vincimus</dc:Species>
+                    </tax:xmldata>Metapone vincimus</tax:name>
+holotype worker (1, 2); 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31372" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Metapone</dc:Genus>
+                        <dc:Species>madagascarica</dc:Species>
+                    </tax:xmldata>M. madagascarica</tax:name>
+holotype worker (3, 4); 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31364" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Metapone</dc:Genus>
+                        <dc:Species>emersoni</dc:Species>
+                    </tax:xmldata>M. emersoni</tax:name>
+holotype worker (5, 6).
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 7 - 12. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223472" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Metapone</dc:Genus>
+                        <dc:Species>vincimus</dc:Species>
+                    </tax:xmldata>Metapone vincimus</tax:name>
+holotype worker (7, 8); 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31372" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Metapone</dc:Genus>
+                        <dc:Species>madagascarica</dc:Species>
+                    </tax:xmldata>M. madagascarica</tax:name>
+holotype worker (9, 10); 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31364" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Metapone</dc:Genus>
+                        <dc:Species>emersoni</dc:Species>
+                    </tax:xmldata>M. emersoni</tax:name>
+holotype worker (11, 12).
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 13 - 18. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223472" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Metapone</dc:Genus>
+                        <dc:Species>vincimus</dc:Species>
+                    </tax:xmldata>Metapone vincimus</tax:name>
+queen (13, 14); 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31372" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Metapone</dc:Genus>
+                        <dc:Species>madagascarica</dc:Species>
+                    </tax:xmldata>M. madagascarica</tax:name>
+queen (15, 16); 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31364" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Metapone</dc:Genus>
+                        <dc:Species>emersoni</dc:Species>
+                    </tax:xmldata>M. emersoni</tax:name>
+queen (17, 18).
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 19 - 24. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31372" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Metapone</dc:Genus>
+                        <dc:Species>madagascarica</dc:Species>
+                    </tax:xmldata>Metapone madagascarica</tax:name>
+ergatoid male (19 - 23); 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31372" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Metapone</dc:Genus>
+                        <dc:Species>madagascarica</dc:Species>
+                    </tax:xmldata>M. madagascarica</tax:name>
+male (20 - 24).
+    </tax:p>
+        </tax:figure>
+    </tax:taxonxBody>
+</tax:taxonx>

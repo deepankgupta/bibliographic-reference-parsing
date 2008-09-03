@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <Statistics>
   <Reference>
-    <Total>39</Total>
-    <Wrong>1</Wrong>
-    <Length>115.608695652174</Length>
+    <Total>566</Total>
+    <Wrong>3</Wrong>
+    <Length>187.420849420849</Length>
   </Reference>
-  <Author>38</Author>
-  <Year>38</Year>
-  <Titles>32</Titles>
+  <Author>563</Author>
+  <Year>563</Year>
+  <Titles>538</Titles>
   <Publications>
-    <DomainBased>27</DomainBased>
-    <Predicted>8</Predicted>
-    <Length>32</Length>
-    <StartIndex>71.304347826087</StartIndex>
-    <EndIndex>96.9565217391304</EndIndex>
+    <DomainBased>495</DomainBased>
+    <Predicted>24</Predicted>
+    <Length>538</Length>
+    <StartIndex>110.239382239382</StartIndex>
+    <EndIndex>157.388030888031</EndIndex>
   </Publications>
 </Statistics>

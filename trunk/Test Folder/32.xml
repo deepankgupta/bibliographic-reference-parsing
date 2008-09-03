@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?><tax:taxonx xmlns:dc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.taxonx.org/schema/v1 http://www.taxonx.org/schema/v1/taxonx1.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-1.xsd http://digir.net/schema/conceptual/darwin/2003/1.0 http://digir.net/schema/conceptual/darwin/2003/1.0/darwin2.xsd">
+    <tax:taxonxHeader>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>New species of myrmicine ants from Western Australia (Hymenoptera: Formicidae).</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal">
+                <mods:role>
+                    <mods:roleTerm>Author</mods:roleTerm>
+                </mods:role>
+                <mods:namePart>Shattuck, S. O.</mods:namePart>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:relatedItem type="host">
+                <mods:titleInfo>
+                    <mods:title>Zootaxa</mods:title>
+                </mods:titleInfo>
+                <mods:part>
+                    <mods:detail type="volume">
+                        <mods:number>1661</mods:number>
+                    </mods:detail>
+                    <mods:extent unit="page">
+                        <mods:start>47</mods:start>
+                        <mods:end>53</mods:end>
+                    </mods:extent>
+                    <mods:date>2007</mods:date>
+                </mods:part>
+            </mods:relatedItem>
+            <mods:subject>
+                <mods:topic>Epopostruma inornata</mods:topic>
+                <mods:topic>Mayriella occidua</mods:topic>
+                <mods:topic>Mesostruma spinosa</mods:topic>
+            </mods:subject>
+            <mods:identifier type="HNS-PUB">21364</mods:identifier>
+            <mods:location>
+                <mods:url>http://hdl.handle.net/10199/15431</mods:url>
+            </mods:location>
+        </mods:mods>
+    </tax:taxonxHeader>
+    <tax:taxonxBody>
+        <tax:p>Zootaxa 1661: 47-53 (2007) www.mapress.com/zootaxa/ Copyright © 2007 · Magnolia Press</tax:p>
+        <tax:p>ISSN 1175-5326 (print edition) ZOOTAXA ISSN 1175-5334 (online edition)</tax:p>
+        <tax:p>New species of Myrmicine ants from Western Australia (Hymenoptera: Formicidae)</tax:p>
+        <tax:p>STEVEN O. SHATTUCK</tax:p>
+        <tax:p>CSIRO Entomology, GPO Box 1700, Canberra, ACT 2601, Australia</tax:p>
+        <tax:p>Abstract</tax:p>
+        <tax:p>
+Three new species belonging to the ant subfamily Myrmicinae are described from Western Australia. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229302" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Epopostruma</dc:Genus>
+                    <dc:Species>inornata</dc:Species>
+                </tax:xmldata>Epopostruma inornata</tax:name>
+is the nineteenth species known for this Australian genus. It has been collected only once. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229311" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Mayriella</dc:Genus>
+                    <dc:Species>occidua</dc:Species>
+                </tax:xmldata>Mayriella occidua</tax:name>
+is the eighth species of this small genus, and the sixth from Australia. It is the first species from Western Australia and extends the known distribution of the genus into south-western Australia. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229319" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Mesostruma</dc:Genus>
+                    <dc:Species>spinosa</dc:Species>
+                </tax:xmldata>Mesostruma spinosa</tax:name>
+is the fifth species, out of nine known for the genus, to be found in Western Australia. It has been collected only once.
+</tax:p>
+        <tax:p>
+Key words: Hymenoptera, Formicidae, Myrmicinae, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2446" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Epopostruma</dc:Genus>
+                </tax:xmldata>Epopostruma</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24921" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Mayriella</dc:Genus>
+                </tax:xmldata>Mayriella</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2450" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Mesostruma</dc:Genus>
+                </tax:xmldata>Mesostruma</tax:name>
+, taxonomy, new species, Australia
+</tax:p>
+        <tax:p>Introduction</tax:p>
+        <tax:p>It is an interesting, and slightly frustrating, fact that no matter how thoroughly a taxonomic revision is undertaken, shortly after its publication any number of additional species will surface. Many of these will be discovered by users of the revision examining local material that was not available to the reviser, and would not have been examined in detail if not for the motivation provided by the revision being published. This is just the case here, where three additional species have turned up, two shortly after a revision appeared and another while a revision was still in press. I take the opportunity to describe these additional species here, both to expand our understanding of the Australian fauna, and also so these taxa can be referred to in an upcoming guide to the ant fauna of the south-west botanic province of Western Australia (B. Heterick, pers. comm.).</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2446" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Epopostruma</dc:Genus>
+                </tax:xmldata>Epopostruma</tax:name>
+Forel was recently revised by Shattuck (2000). He recognised 18 species, 15 of which were described as new, with seven of the new species being known from 2 or fewer collections. This would indicate that these ants are rarely encountered and that the discovery of additional species should be expected for some time to come. This has proven to be the case with an additional new species, described below, being found soon after Shattuck’s (2000) publication appeared. It is the sixth species known from Western Australia (out of 19 known for the genus).
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24921" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Mayriella</dc:Genus>
+                </tax:xmldata>Mayriella</tax:name>
+Forel is a small genus restricted to the Indo-Australian region. It was recently revised by Shattuck and Barnett (2007), who recognised seven species, four of which are known from Australia. Recently an additional species was collected in Western Australia, the first record of the genus from this region. An examination of the single available specimen revealed that it represents an additional species of this genus, the eighth worldwide and fifth from Australia. This new species is described here, and a key to the Australian fauna is provided.
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2450" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Mesostruma</dc:Genus>
+                </tax:xmldata>Mesostruma</tax:name>
+Brown was revised by Shattuck (2000), who recognised eight species in the genus. A ninth species is described here, the fifth known from Western Australia. This species, like several others in the
+</tax:p>
+        <tax:p>
+Accepted by J. Longino: 6 Nov. 2007; published: 14 Dec. 2007 
+47</tax:p>
+        <tax:p>-------------------------------- page break --------------------------------</tax:p>
+        <tax:p>genus, has been collected only once. This suggests that these ants, while diverse, are rare in this part of Australia.</tax:p>
+        <tax:p>The genera to which these species belong can be determined using Shattuck (1999), where additional notes on each genus can also be found.</tax:p>
+        <tax:p>Measurements</tax:p>
+        <tax:p>
+The following measurements were recorded in millimeters. Indices were calculated using the measurements indicated. Measurements are based on Shattuck (2000) for 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2446" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Epopostruma</dc:Genus>
+                </tax:xmldata>Epopostruma</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2450" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Mesostruma</dc:Genus>
+                </tax:xmldata>Mesostruma</tax:name>
+, and Shattuck and Barnett (2007) for 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24921" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Mayriella</dc:Genus>
+                </tax:xmldata>Mayriella</tax:name>
+. However, some abbreviations have been modified because of differences in morphological terminology used between these studies.
+</tax:p>
+        <tax:p>MandL Straight-line length of the closed mandibles, measured in the same plane as HL, from the mandibular apex to the anterior clypeal margin, or to a transverse line connecting the anterior-most points in those taxa where the margin is concave medially.</tax:p>
+        <tax:p>CI (cephalic index)HW X 100/HL</tax:p>
+        <tax:p>HL Maximum head length in full face view, measured from the anterior clypeal margin to the midpoint of a line drawn across the posterior margin of the head</tax:p>
+        <tax:p>HTL Maximum length of hind tibia, excluding the proximal part of the articulation which is received into the distal end of the hind femur</tax:p>
+        <tax:p>HW Maximum head width in full face view, excluding eyes</tax:p>
+        <tax:p>MandI (mandible index) ML X 100/HL</tax:p>
+        <tax:p>ML Mesosomal length measured from the point at which the pronotum meets the cervical shield to the posterior base of the metapleuron when viewed laterally</tax:p>
+        <tax:p>PW Maximum pronotal width in dorsal view</tax:p>
+        <tax:p>SI (scape index) SL X 100/HW</tax:p>
+        <tax:p>SL Length of the scape (first antennal segment) excluding the basal constriction and condylar bulb</tax:p>
+        <tax:p>TL Total length of outstretched ant from mandibular apex to the gastral apex; when measured in profile the sum of MandL + HL + ML + lengths of waist segments + length of gaster.</tax:p>
+        <tax:p>Depository</tax:p>
+        <tax:p>ANIC Australian National Insect Collection, Canberra, ACT, Australia</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2446" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Epopostruma</dc:Genus>
+                </tax:xmldata>Epopostruma Forel</tax:name>
+, 1895
+</tax:p>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229302" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Epopostruma</dc:Genus>
+                        <dc:Species>inornata</dc:Species>
+                    </tax:xmldata>Epopostruma inornata</tax:name>new species</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>(Figs 1-4)</tax:p>
+                <tax:p>Description: Holotype worker. TL 2.8, HL 0.67, HW 0.57, CI 85, MandL 0.30, MandI 45, SL 0.33, SI 58, PW 0.41, ML 0.75. In full face view lateral margin of head between eye and posterior corner forming a gentle convexity. Pronotal spines absent, anterolateral corners of pronotum very slightly angular. Posterior section of metanotum in approximately same plane as dorsal face of propodeum, junction of these plates indistinct. Posterior face of propodeum between bases of spines and propodeal lobes with thin flanges. Petiolar spines</tax:p>
+                <tax:p>48
+· Zootaxa 1661 © 2007 Magnolia Press SHATTUCK
+</tax:p>
+                <tax:p>-------------------------------- page break --------------------------------</tax:p>
+                <tax:p>reduced to a small protuberance or angle. Anterior face of postpetiole shorter than dorsal face and separated from it by a broadly rounded angle; lateral surface of postpetiole approximately vertical and rounding gradually from dorsal to posterior surfaces, in dorsal view lateral margins parallel. Dorsum of petiole, postpetiole and gaster with short, appressed hairs. First gastral tergite smooth. Body colour yellowish brown, dorsum of head and gaster slightly darker, mandibles and legs lighter.</tax:p>
+            </tax:div>
+            <tax:nomenclature>Material examined: Holotype worker from Western Australia, Karragullen (misspelled as “Karagullen” on the label, located at 32°06'S 116°07'E), 1978 (J. D. Majer) (ANIC, No. 32-007280).</tax:nomenclature>
+            <tax:figure>
+                <tax:p>
+                    <tax:div type="description">
+                        <tax:p>
+FIGURES 1-4. 
+<tax:name>
+                                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229302" source="HNS"/>
+                                <tax:xmldata>
+                                    <dc:Genus>Epopostruma</dc:Genus>
+                                    <dc:Species>inornata</dc:Species>
+                                </tax:xmldata>Epopostruma inornata Shattuck</tax:name>
+(holotype). 1, front of head; 2, lateral body; 3, dorsal body; 4, specimen labels.
+</tax:p>
+                    </tax:div>
+                </tax:p>
+            </tax:figure>
+            <tax:div type="diagnosis">
+                <tax:p>
+Comments: This rare species is currently known from a single specimen. It belongs to the 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:28979" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Epopostruma</dc:Genus>
+                            <dc:Species>quadrispinosa</dc:Species>
+                        </tax:xmldata>quadrispinosa</tax:name>
+species group of Shattuck (2000), and is one of only two members of this group to occur west of the Adelaide region (the other being 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:28979" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Epopostruma</dc:Genus>
+                            <dc:Species>quadrispinosa</dc:Species>
+                        </tax:xmldata>E. quadrispinosa</tax:name>
+). 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229302" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Epopostruma</dc:Genus>
+                            <dc:Species>inornata</dc:Species>
+                        </tax:xmldata>Epopostruma inornata</tax:name>
+can be separated from other species in this genus by the presence of the following characters:
+</tax:p>
+                <tax:note place="foot">
+                    <tax:p>• In full face view the lateral margin of the head between the eye and the posterior corner forming a gentle convexity.</tax:p>
+                </tax:note>
+                <tax:note place="foot">
+                    <tax:p>• Humeral angles of pronotum rounded, lacking spines.</tax:p>
+                </tax:note>
+                <tax:note place="foot">
+                    <tax:p>• Dorsum of petiole lacking elongate spines.</tax:p>
+                </tax:note>
+                <tax:note place="foot">
+                    <tax:p>• Anterior face of postpetiole shorter than the dorsal and posterior faces.</tax:p>
+                </tax:note>
+                <tax:note place="foot">
+                    <tax:p>• Sides of postpetiole approximately vertical and rounding gradually from dorsal to posterior surfaces.</tax:p>
+                </tax:note>
+                <tax:note place="foot">
+                    <tax:p>• In dorsal view the postpetiole lacking lateral teeth.</tax:p>
+                </tax:note>
+                <tax:p>
+NEW AUSTRALIAN MYRMICINE ANTS Zootaxa 1661 © 2007 Magnolia Press · 
+49</tax:p>
+                <tax:p>-------------------------------- page break --------------------------------</tax:p>
+            </tax:div>
+            <tax:div type="key">
+                <tax:p>The following modifications to the key provided by Shattuck (2000) will allow the identification of this species.</tax:p>
+                <tax:p>
+12. In dorsal view the posterolateral teeth of the postpetiole wider than the anterolateral teeth..... 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229426" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Epopostruma</dc:Genus>
+                            <dc:Species>areosylva</dc:Species>
+                        </tax:xmldata>areosylva</tax:name>
+                </tax:p>
+                <tax:p>In dorsal view the postpetiole either lacking lateral teeth, or when present, anterolateral and posterolateral teeth approximately the same width............................................................................................12A</tax:p>
+                <tax:p>
+12A. Dorsum of petiole armed with lateral angles .............................................................................. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229302" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Epopostruma</dc:Genus>
+                            <dc:Species>inornata</dc:Species>
+                        </tax:xmldata>inornata</tax:name>
+                </tax:p>
+                <tax:p>Dorsum of petiole armed with distinct spines .......................................................................................13</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24921" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Mayriella</dc:Genus>
+                </tax:xmldata>Mayriella Forel</tax:name>
+, 1902
+</tax:p>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229311" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Mayriella</dc:Genus>
+                        <dc:Species>occidua</dc:Species>
+                    </tax:xmldata>Mayriella occidua</tax:name>new species</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>(Figs 5-8)</tax:p>
+                <tax:p>Description: Holotype worker. CI 88; HL 0.50; HTL 0.27; HW 0.44; ML 0.50; PW 0.32; SI 61; SL 0.27. Sculpturing in posterior section of antennal scrobe well developed and distinct. Sculpturing on dorsal surface of mesosoma consisting of large, closely spaced pits. Propodeal spines short, triangular. Dorsal surface of petiole in lateral profile with distinct dorsal and posterior faces which are separated by an obtuse angle, dorsal face much longer than posterior face. Lateral margins of postpetiole in dorsal view essentially parallel. Dorsum of postpetiole and gaster lacking erect hairs (excluding row along posterior margin of gastral tergite).</tax:p>
+                <tax:figure>
+                    <tax:p>
+FIGURES 5-8. 
+<tax:name>
+                            <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229311" source="HNS"/>
+                            <tax:xmldata>
+                                <dc:Genus>Mayriella</dc:Genus>
+                                <dc:Species>occidua</dc:Species>
+                            </tax:xmldata>Mayriella occidua Shattuck</tax:name>
+(holotype). 5, front of head; 6, lateral body; 7, dorsal body; 8, specimen labels.
+</tax:p>
+                </tax:figure>
+                <tax:p>50
+· Zootaxa 1661 © 2007 Magnolia Press SHATTUCK
+</tax:p>
+                <tax:p>-------------------------------- page break --------------------------------</tax:p>
+            </tax:div>
+            <tax:nomenclature>Material examined: Holotype worker from Western Australia, Nuyts Wilderness (approx. 35°04'S 116°38'E), Walpole, December 2003 (P. F. Van Heurck) (ANIC, No. 32-009464).</tax:nomenclature>
+            <tax:div type="diagnosis">
+                <tax:p>
+Comments: 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229311" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Mayriella</dc:Genus>
+                            <dc:Species>occidua</dc:Species>
+                        </tax:xmldata>Mayriella occidua</tax:name>
+can be separated from other Australian species of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24921" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Mayriella</dc:Genus>
+                        </tax:xmldata>Mayriella</tax:name>
+by the presence of a cylindrical or slightly barrel-shaped postpetiole which lacks lateral expansions when viewed dorsally, the well developed and distinct sculpturing in the posterior sections of the antennal scrobes and in having the dorsum of the petiole with distinct dorsal and posterior faces which are separated by an obtuse angle. It is most similar to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:30537" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Mayriella</dc:Genus>
+                            <dc:Species>abstinens</dc:Species>
+                        </tax:xmldata>M. abstinens</tax:name>
+but can be separated from it by the shape of the petiolar node (the node lacks distinct dorsal and posterior faces in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:30537" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Mayriella</dc:Genus>
+                            <dc:Species>abstinens</dc:Species>
+                        </tax:xmldata>M. abstinens</tax:name>
+).
+</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>
+This is the only species of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24921" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Mayriella</dc:Genus>
+                        </tax:xmldata>Mayriella</tax:name>
+known from Western Australia, and extends the range of this genus in Australia westward by nearly 2,000km. Morphologically this species is most similar to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:30537" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Mayriella</dc:Genus>
+                            <dc:Species>abstinens</dc:Species>
+                        </tax:xmldata>M. abstinens</tax:name>
+, a species found along the Queensland and New South Wales coasts (Shattuck and Barnett, 2007) and not 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229296" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Mayriella</dc:Genus>
+                            <dc:Species>ebbei</dc:Species>
+                        </tax:xmldata>M. ebbei</tax:name>
+, the species which occurs in the Adelaide region and is geographically closest to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229311" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Mayriella</dc:Genus>
+                            <dc:Species>occidua</dc:Species>
+                        </tax:xmldata>M. occidua</tax:name>
+. The only known specimen of this species was collected during a survey in an area with pines.
+</tax:p>
+            </tax:div>
+            <tax:div type="key">
+                <tax:p>
+Key to Australian species of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24921" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Mayriella</dc:Genus>
+                        </tax:xmldata>Mayriella</tax:name>
+(workers)
+</tax:p>
+                <tax:p>
+The following key, modified from Shattuck and Barnett (2007), can be used to identify the Australian species of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24921" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Mayriella</dc:Genus>
+                        </tax:xmldata>Mayriella</tax:name>
+.
+</tax:p>
+                <tax:p>1. In dorsal view, anterior region of outer margin of postpetiole expanded laterally compared to posterior regions so its overall outline is trapezoidal ................................................................................................. 2</tax:p>
+                <tax:p>In dorsal view, outer margins of postpetiole approximately the same width anteriorly as posteriorly so its overall outline is cylindrical or slightly barrel-shaped ............................................................................... 3</tax:p>
+                <tax:p>
+2. Dorsum of postpetiole with more than four erect hairs and dorsum of gaster with numerous erect hairs; dorsum of petiole in lateral profile uniformly convex and without distinct, separate dorsal and posterior faces ..................................................................................................................................................... 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229296" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Mayriella</dc:Genus>
+                            <dc:Species>ebbei</dc:Species>
+                        </tax:xmldata>ebbei</tax:name>
+                </tax:p>
+                <tax:p>
+Dorsum of postpetiole with at most four erect hairs and dorsum of gaster generally lacking erect hairs (rarely hairs present); dorsum of petiole in lateral profile angular and with distinct, separate dorsal and posterior faces ................................................................................................................................ 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:30539" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Mayriella</dc:Genus>
+                            <dc:Species>spinosior</dc:Species>
+                        </tax:xmldata>spinosior</tax:name>
+                </tax:p>
+                <tax:p>
+3. Sculpturing in posterior section of antennal scrobe at most weakly developed and always indistinct; sculpturing on dorsal mesosoma consisting of small, widely spaced pits (separated by greater than their diameter) .................................................................................................................................................. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:140059" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Mayriella</dc:Genus>
+                            <dc:Species>overbecki</dc:Species>
+                        </tax:xmldata>overbecki</tax:name>
+                </tax:p>
+                <tax:p>Sculpturing in posterior section of antennal scrobe well developed and distinct; sculpturing on dorsal surface of mesosoma consisting of large, closely spaced pits (separated by less than their diameter) .......... 4</tax:p>
+                <tax:p>
+4. Dorsum of petiole in lateral profile strongly angular, the dorsal and posterior faces indistinguishable ....... ....................................................................................................................................................... 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:30537" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Mayriella</dc:Genus>
+                            <dc:Species>abstinens</dc:Species>
+                        </tax:xmldata>abstinens</tax:name>
+                </tax:p>
+                <tax:p>
+Dorsum of petiole in lateral profile with an obtuse angle, the dorsal and posterior faces separated by an angle ................................................................................................................................................... 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229311" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Mayriella</dc:Genus>
+                            <dc:Species>occidua</dc:Species>
+                        </tax:xmldata>occidua</tax:name>
+                </tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2450" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Mesostruma</dc:Genus>
+                </tax:xmldata>Mesostruma Brown</tax:name>
+1948
+</tax:p>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229319" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Mesostruma</dc:Genus>
+                        <dc:Species>spinosa</dc:Species>
+                    </tax:xmldata>Mesostruma spinosa</tax:name>new species</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>(Figs 9-12)</tax:p>
+                <tax:p>Description: Holotype worker. TL 2.9, HL 0.69, HW 0.56, CI 81, MandL 0.21, MandI 30, SL 0.41, SI 73,</tax:p>
+                <tax:p>
+NEW AUSTRALIAN MYRMICINE ANTS Zootaxa 1661 © 2007 Magnolia Press · 
+51</tax:p>
+                <tax:p>-------------------------------- page break --------------------------------</tax:p>
+                <tax:p>PW 0.40, ML 0.77. In dorsal view the anterolateral corners of pronotum rounded. Dorsum of mesosoma with scattered, shallow foveolate punctures spaced more than their width apart, the area between punctures smooth and lacking sculpturing. Propodeum armed with elongate spines, propodeal lamellae reduced to thin bands and essentially absent. Sculpturing on metapleural gland bulb consisting of indistinct rugae and punctures. Lateral surfaces of postpetiole rounded. First gastral segment immediately posterior of postpetiole smooth. Body colour yellow-red with light infuscation on dorsum of head above eyes, clypeus and first gastral tergite.</tax:p>
+            </tax:div>
+            <tax:nomenclature>Material examined: Holotype worker from Western Australia, Manjimup (34°15'S 116°09'E), July, 1977 (J. D. Majer) (ANIC, No. 32-007281).</tax:nomenclature>
+            <tax:figure>
+                <tax:p>
+                    <tax:div type="description">
+                        <tax:p>
+FIGURES 9-12. 
+<tax:name>
+                                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229319" source="HNS"/>
+                                <tax:xmldata>
+                                    <dc:Genus>Mesostruma</dc:Genus>
+                                    <dc:Species>spinosa</dc:Species>
+                                </tax:xmldata>Mesostruma spinosa Shattuck</tax:name>
+(holotype). 9, front of head; 10, lateral body; 11, dorsal body; 12, specimen labels.
+</tax:p>
+                    </tax:div>
+                </tax:p>
+            </tax:figure>
+            <tax:div type="diagnosis">
+                <tax:p>
+Comments: 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229319" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Mesostruma</dc:Genus>
+                            <dc:Species>spinosa</dc:Species>
+                        </tax:xmldata>Mesostruma spinosa</tax:name>
+can be separated from all other known species in this genus by the presence of distinct, elongate propodeal spines, the lack of broad propodeal lamellae and the narrower head (CI = 81, CI is greater than 88 in the other known species). There is little chance it will be confused with any other species. This species, together with 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:155788" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Mesostruma</dc:Genus>
+                            <dc:Species>inornata</dc:Species>
+                        </tax:xmldata>M inornata</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:30657" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Mesostruma</dc:Genus>
+                            <dc:Species>loweryi</dc:Species>
+                        </tax:xmldata>M loweryi</tax:name>
+, have only been collected once. Only one species, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:30655" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Mesostruma</dc:Genus>
+                            <dc:Species>eccentrica</dc:Species>
+                        </tax:xmldata>M. eccentrica</tax:name>
+, is at all common in Western Australia, having been collected over 10 times. It is likely that additional species remain to be discovered in this part of Australia. The single known specimen of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229319" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Mesostruma</dc:Genus>
+                            <dc:Species>spinosa</dc:Species>
+                        </tax:xmldata>M. spinosa</tax:name>
+was collected from a pitfall trap.
+</tax:p>
+            </tax:div>
+            <tax:div type="key">
+                <tax:p>The following modifications to the key provided by Shattuck (2000) will allow the identification of this species.</tax:p>
+                <tax:p>3. Dorsum of alitrunk with dense, shallow foveolate punctures which are generally spaced less than their width apart, and with the area between the punctures with weak but distinct sculpturing......................4</tax:p>
+                <tax:p>Dorsum of alitrunk with scattered, shallow foveolate punctures which are spaced more than their width apart, the area between the punctures smooth and lacking sculpturing................................................4A</tax:p>
+                <tax:note place="foot">
+                    <tax:p>4A. Propodeum armed with elongate spines, the lamellae reduced to thin bands which are only slightly</tax:p>
+                </tax:note>
+                <tax:p>52
+· Zootaxa 1661 © 2007 Magnolia Press SHATTUCK
+</tax:p>
+                <tax:p>-------------------------------- page break --------------------------------</tax:p>
+                <tax:p>
+raised above the underlying propodeal surface ............................................................................. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229319" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Mesostruma</dc:Genus>
+                            <dc:Species>spinosa</dc:Species>
+                        </tax:xmldata>spinosa</tax:name>
+                </tax:p>
+                <tax:p>Propodeum lacking spines and with thick lamellae ................................................................................ 5</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:p>Acknowledgements</tax:p>
+        <tax:p>
+I would like to thank Brian Heterick for drawing my attention to the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24921" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Mayriella</dc:Genus>
+                </tax:xmldata>Mayriella</tax:name>
+species, and to Bradley Durrant and Paul Van Heurck for making material in their care available for study and for donating the specimen of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24921" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Mayriella</dc:Genus>
+                </tax:xmldata>Mayriella</tax:name>
+to ANIC. Natalie Barnett (CSIRO Entomology) prepared the illustrations of the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2446" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Epopostruma</dc:Genus>
+                </tax:xmldata>Epopostruma</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24921" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Mayriella</dc:Genus>
+                </tax:xmldata>Mayriella</tax:name>
+species and provided useful comments on the manuscript while April Nobile (California Academy of Sciences) prepared the illustrations of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229319" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Mesostruma</dc:Genus>
+                    <dc:Species>spinosa</dc:Species>
+                </tax:xmldata>Mesostruma spinosa</tax:name>
+.
+</tax:p>
+        <tax:p>References</tax:p>
+        <tax:p>Brown, W.L., Jr. (1948) A preliminary generic revision of the higher Dacetini (Hymenoptera: Formicidae). Transactions of the American Entomological Society, 74, 101-129.</tax:p>
+        <tax:p>
+Forel, A. (1895) Nouvelles fourmis d'Australie, 
+recolteesa
+The Ridge, Mackay, Queensland, par M. Gilbert Turner. Annales de la 
+Societe
+Entomologique de Belgique, 39, 417-428.
+</tax:p>
+        <tax:p>Forel, A. (1902) Fourmis nouvelles d'Australie. Revue Suisse de Zoologie, 10, 405-548.</tax:p>
+        <tax:p>Shattuck, S.O. (1999) Australian ants: their biology and identification. Monographs on Invertebrate Taxonomy, 3, 1-226.</tax:p>
+        <tax:p>Shattuck, S.O. (2000) The epopostrumiform genus group. pp. 30-67. In B. Bolton. The ant tribe Dacetini. Memoirs of the American Entomological Institute, 65, 1-1028.</tax:p>
+        <tax:p>
+Shattuck, S.O. &amp; Barnett, N.J. (2007) Revision of the ant genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24921" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Mayriella</dc:Genus>
+                </tax:xmldata>Mayriella</tax:name>
+, pp. 437-458. In Snelling, R.R., Fisher, B.L. &amp; Ward, P.S.(eds) Advances in ant systematics (Hymenoptera: Formicidae): homage to E. O. Wilson - 50 years of contributions. Memoirs of the American Entomological Institute, Vol. 80.
+</tax:p>
+        <tax:p>
+NEW AUSTRALIAN MYRMICINE ANTS Zootaxa 1661 © 2007 Magnolia Press · 
+53</tax:p>
+        <tax:p>-------------------------------- page break --------------------------------</tax:p>
+    </tax:taxonxBody>
+</tax:taxonx>

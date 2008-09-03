@@ -1,0 +1,2869 @@
+<?xml version="1.0" encoding="UTF-8"?><tax:taxonx xmlns:dc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.taxonx.org/schema/v1 http://www.taxonx.org/schema/v1/taxonx1.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-1.xsd http://digir.net/schema/conceptual/darwin/2003/1.0 http://digir.net/schema/conceptual/darwin/2003/1.0/darwin2.xsd">
+    <tax:taxonxHeader>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Two new South American species of Monomorium Mayr with taxonomic notes on the genus.</mods:title>
+            </mods:titleInfo>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:name type="personal">
+                <mods:role>
+                    <mods:roleTerm>Author</mods:roleTerm>
+                </mods:role>
+                <mods:namePart>Fernández, F.</mods:namePart>
+            </mods:name>
+            <mods:relatedItem type="host">
+                <mods:titleInfo>
+                    <mods:title>Advances in ant systematics (Hymenoptera: Formicidae): Homage to E.O. Wilson - 50 years of contributions.</mods:title>
+                </mods:titleInfo>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Snelling, R. R.</mods:namePart>
+                </mods:name>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Fisher, B. L.</mods:namePart>
+                </mods:name>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Ward, P. S.</mods:namePart>
+                </mods:name>
+                <mods:originInfo>
+                    <mods:dateIssued>2007</mods:dateIssued>
+                    <mods:publisher>Memoirs of the American Entomological Institute, 80</mods:publisher>
+                </mods:originInfo>
+                <mods:part>
+                    <mods:extent unit="page">
+                        <mods:start>128</mods:start>
+                        <mods:end>145</mods:end>
+                    </mods:extent>
+                </mods:part>
+            </mods:relatedItem>
+            <mods:identifier type="HNS-PUB">21280</mods:identifier>
+            <mods:location>
+                <mods:url>http://plazi.org:8080/dspace/handle/10199/15383</mods:url>
+            </mods:location>
+        </mods:mods>
+    </tax:taxonxHeader>
+    <tax:taxonxBody>
+        <tax:p>
+TWO NEW SOUTH AMERICAN SPECIES OF 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>MONOMORIUM</tax:name>
+MAYR WITH TAXONOMIC NOTES ON THE GENUS
+</tax:p>
+        <tax:p>Fernando Fernandez</tax:p>
+        <tax:p>Instituto de Ciencias Naturales</tax:p>
+        <tax:p>Universidad Nacional de Colombia</tax:p>
+        <tax:p>Apartado 7495</tax:p>
+        <tax:p>Bogota D. C., Colombia</tax:p>
+        <tax:p>ffernandezca @ unal. edu. co</tax:p>
+        <tax:p>ABSTRACT</tax:p>
+        <tax:p>
+This article describes two new species of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+from Brazil. One, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231124" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>delabiei</dc:Species>
+                </tax:xmldata>M. delabiei</tax:name>n. sp.
+is reminiscent of the genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24898" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Megalomyrmex</dc:Genus>
+                </tax:xmldata>Megalomyrmex</tax:name>
+, although it lacks the transverse propodeal carina characteristic of that genus. The other, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231125" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>inusuale</dc:Species>
+                </tax:xmldata>M. inusuale</tax:name>n. sp.
+, is even more interesting: given the current concepts in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2312" source="HNS"/>Solenopsidini</tax:name>
+, it could be treated as a new genus within the tribe due to its distinctive morphological characteristics (mandibular configuration, vestibulate propodeal spiracle, propodeal carinae, micropegs on the last tergum). Broadening the limits of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+requires including 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24900" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Nothidris</dc:Genus>
+                </tax:xmldata>Nothidris</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24902" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Phacota</dc:Genus>
+                </tax:xmldata>Phacota</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24897" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Epelysidris</dc:Genus>
+                </tax:xmldata>Epelysidris</tax:name>
+as junior synonyms (
+syn. nov.
+). A working key to Neotropical species of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+is provided along with taxonomic notes.
+</tax:p>
+        <tax:p>
+Key words: Hymenoptera, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2312" source="HNS"/>Solenopsidini</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24900" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Nothidris</dc:Genus>
+                </tax:xmldata>Nothidris</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24902" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Phacota</dc:Genus>
+                </tax:xmldata>Phacota</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238553" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Eplysidris</dc:Genus>
+                </tax:xmldata>Eplysidris</tax:name>
+, Neotropical, key, new species.
+</tax:p>
+        <tax:p>INTRODUCTION</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+is one of the most diverse ant genera, with more than 300 described species (Bolton, 1995; Heterick, 2001), the majority of which are Old World, especially Afrotropical. For a long time there were various generic or subgeneric names associated with this genus and related groups (Ettershank, 1966), without critical study of their limits or validity. Ettershank (1966) made the first attempt to classify 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+and related groups; Bolton (1987) subsequently modified this arrangement in his study of the Afrotropical fauna of the genus. Since then, the only regional studies have been those of DuBois (1986) and Heterick (2001), and our understanding of the monophyly and relationships of the group remains far from adequate. The present work is intended as a modest contribution to this end; it consists of the description of two interesting species attributable to 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+, with taxonomic notes, synonyms, and an operational key for the Neotropical species.
+</tax:p>
+        <tax:p>
+The species described herein require extending the generic limits of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+, or forming bridges among neighboring genera. Among the consequences is that 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24900" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Nothidris</dc:Genus>
+                </tax:xmldata>Nothidris</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24897" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Epelysidris</dc:Genus>
+                </tax:xmldata>Epelysidris</tax:name>
+cannot be sustained as distinct genera, that 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24898" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Megalomyrmex</dc:Genus>
+                </tax:xmldata>Megalomyrmex</tax:name>
+is left in a precarious state, and that 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24902" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Phacota</dc:Genus>
+                </tax:xmldata>Phacota</tax:name>
+becomes, once again, a synonym of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+.
+</tax:p>
+        <tax:p>
+Heterick (2003) observed that: “ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238555" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Momomorium</dc:Genus>
+                    <dc:Species>sublamellatum</dc:Species>
+                </tax:xmldata>Momomorium sublamellatum</tax:name>
+... pushes back the diagnostic boundaries of the genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+, and cannot be placed at present in existing Australian species-groups of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+” (Heterick, 2003). The description of the two new species is fraught with analogous interpretational dilemmas with reference to the Neotropical 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+fauna, within which perhaps neither is rightly included. Both species may eventually prove to lie outside 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+. For further analysis of the issue, readers are referred to the discussion.
+</tax:p>
+        <tax:p>MATERIALS AND METHODS</tax:p>
+        <tax:p>Depositories of Material</tax:p>
+        <tax:p>BMNH Natural History Museum, London, England.</tax:p>
+        <tax:p>CEPLAC Centro de Pesquisas do Cacau, Itabuna, Bahia, Brazil.</tax:p>
+        <tax:p>ICN Instituto de Ciencias Naturales, Universidad Nacional de Colombia, Bogota D. C., Colombia.</tax:p>
+        <tax:p>LACM Los Angeles County Museum of Natural History, Los Angeles, USA.</tax:p>
+        <tax:p>MZSP Museu de Zoologia, Universidad de Sao Paulo, SP, Brazil.</tax:p>
+        <tax:p>Terminology</tax:p>
+        <tax:p>CI Cephalic index: HW / HL × 100.</tax:p>
+        <tax:p>EL Eye length: maximum diameter of the eye.</tax:p>
+        <tax:p>GL Gaster length: the maximum length, in lateral view, from the anteriormost point of the gaster to gastral apex.</tax:p>
+        <tax:p>HL Head Length: maximum length, in full face view, from the midpoint apex of anterior clypeal margin to midpoint of preoccipital (posterior) margin of head.</tax:p>
+        <tax:p>HW Head width: maximum width in full face view.</tax:p>
+        <tax:p>PL Petiole length: in dorsal view, from anterior to posterior articulation.</tax:p>
+        <tax:p>PPL Postpetiole length: in dorsal view, from anterior to posterior articulation.</tax:p>
+        <tax:p>SL Scape length: maximum length of scape, excluding basal condyle, in straight line distance.</tax:p>
+        <tax:p>TL Total length: total length of the ant from anterior clypeal margin to gastral apex.</tax:p>
+        <tax:p>WL Weber's length: the diagonal length of mesosoma from anterior pronotal margin to basal angle of metapleuron.</tax:p>
+        <tax:p>Illustrations</tax:p>
+        <tax:p>Scanning Electron Microscope (SEM) photographs were taken at the University of Alberta in Edmonton. Observations and measurements of pinned specimens were made using a Nikon SMZ 2 T stereomicroscope at 80 X magnification and a fiber ring lamp. All measurements are in millimeters.</tax:p>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                    </tax:xmldata>Monomorium</tax:name>
+Mayr
+</tax:nomenclature>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+Mayr, 1855: 452. Type-species: 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31657" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>monomorium</dc:Species>
+                        </tax:xmldata>Monomorium monomorium Bolton</tax:name>
+, 1987: 287.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24902" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Phacota</dc:Genus>
+                        </tax:xmldata>Phacota</tax:name>
+Roger, 1862: 260. Type species: 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33556" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Phacota</dc:Genus>
+                            <dc:Species>sichelli</dc:Species>
+                        </tax:xmldata>Phacota sichelli Roger</tax:name>
+, 1862: 262. Synonym of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+: Ettershank, 1966: 82. Genus revalidated: Bolton, 1987: 281. Syn. rev.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24900" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Nothidris</dc:Genus>
+                        </tax:xmldata>Nothidris</tax:name>
+Ettershank, 1966: 105. Type-species: 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:140751" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>latastei</dc:Species>
+                        </tax:xmldata>Monomorium latastei Emery</tax:name>
+, 1895: 10. Syn. n.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2350" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Antichthonidris</dc:Genus>
+                        </tax:xmldata>Antichthonidris</tax:name>
+Snelling, 1975: 5. Type-species: 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:133793" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>denticulatum</dc:Species>
+                        </tax:xmldata>Monomorium denticulatum Mayr</tax:name>
+, 1887: 614. Junior synonym of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+: Heterick, 2001: 361.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24897" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Epelysidris</dc:Genus>
+                        </tax:xmldata>Epelysidris</tax:name>
+Bolton, 1987: 279. Type-species: 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:28957" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Epelysidris</dc:Genus>
+                            <dc:Species>brocha</dc:Species>
+                        </tax:xmldata>Epelysidris brocha Bolton</tax:name>
+, 1987: 280. Syn. n.
+</tax:p>
+            </tax:ref_group>
+            <tax:ref_group>
+                <tax:p>For a full list of synonymies before Heterick (2001) see Bolton (1987: 287 - 288).</tax:p>
+            </tax:ref_group>
+            <tax:div type="diagnosis">
+                <tax:p>WORKER DIAGNOSIS (after Bolton, 1987: 289; Heterick, 2001: 363 - 364).</tax:p>
+                <tax:p>Monomorphic to polymorphic. Minute to moderately large in total length. Mandibles with 4 to 5 teeth. Maxillary palps with 2 to 4 segments. Median clypeal seta present, sometimes displaced or absent. Median portion of clypeus raised, longitudinally bicarinate, the carinae rarely effaced. Frontal carinae absent past frontal lobes. Antennal scrobes absent. Antennae with 11 - 12 segments and with club of 3 (rarely 4) segments. Eyes present, sometimes reduced. Metapleural glands never bulging or hypertrophied. Metapleural lobes usually small, rounded. Propodeum normally unarmed, sometimes angulated to dentate, rarely with lamelliform process. Propodeal spiracle usually circular and at about midlength of the sclerite, rarely in another position. Petiole pedunculated, the petiolar spiracle usually close to or at node. Sting functional.</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24900" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Nothidris</dc:Genus>
+                        </tax:xmldata>Nothidris</tax:name>
+was created by Ettershank (1966) and further delimited by Snelling (1975), who created 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2350" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Antichthonidris</dc:Genus>
+                        </tax:xmldata>Antichthonidris</tax:name>
+to accomodate some species. Bolton (1987: 284 - 285) discussed the traits proposed for the latter, demonstrating their weakness and dubious value as generic-level characters: a vestibulated propodeal spiracle appears to be present in some Australian 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+species (Bolton, 1987), for instance, as well as in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231124" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>delabiei</dc:Species>
+                        </tax:xmldata>M. delabiei</tax:name>
+. Moreover, the inclusion of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2350" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Antichthonidris</dc:Genus>
+                        </tax:xmldata>Antichthonidris</tax:name>
+in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+, as proposed by Heterick (2001), leaves no justification for maintaining 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24900" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Nothidris</dc:Genus>
+                        </tax:xmldata>Nothidris</tax:name>
+as a separate genus.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24902" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Phacota</dc:Genus>
+                        </tax:xmldata>Phacota</tax:name>
+has been a taxonomic problem in the myrmicines, due to its poor description, the disappearance of the type specimen, and the lack of collected material referable to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33556" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Phacota</dc:Genus>
+                            <dc:Species>sichelii</dc:Species>
+                        </tax:xmldata>P. sichelii (Bolton, 1987)</tax:name>
+, all of which have impeded an evaluation of its taxonomic status. Ettershank (1966) considered this name a junior synonym of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+. Bolton (1987) subsequently revived the genus, citing the few attributes that can be retrieved from Roger's (1862) original description; nevertheless, he made explicit his strong suspicion that the putative species is based on a wingless, ergatoid 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+female, perhaps from the 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31703" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>salomonis</dc:Species>
+                        </tax:xmldata>M. salomonis</tax:name>
+group. Both the meager description (e. g., that the gaster is bigger than the head) and the important fact that the species has not been rediscovered in Spain or any other nearby location, are consistent with this interpretation. Given that the European ant fauna can be considered acceptably collected and studied, and in light of the group's importance, samples assignable to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24902" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Phacota</dc:Genus>
+                        </tax:xmldata>Phacota</tax:name>
+would surely have been detected and described by now. According to its description, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24902" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Phacota</dc:Genus>
+                        </tax:xmldata>Phacota</tax:name>
+is characterized by 11 - segmented antennae with a 2 - segmented club. Some Neotropical 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24903" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Solenopsis</dc:Genus>
+                        </tax:xmldata>Solenopsis</tax:name>
+females possess this combination, but it is an antennal configuration unknown in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+, and it is highly probable that the description of the number of flagellomeres in the antenna and club is erroneous. It would not be the only inadvertent mistake of this type in the history of ant systematics, especially given the size of the ants and the optical resolution possible in the 19 th century. It seems of little practical use to maintain a badlydescribed genus, with no associated type material, and no other collected material, and I recommend that 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24902" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Phacota</dc:Genus>
+                        </tax:xmldata>Phacota</tax:name>
+once again be demoted as proposed by Ettershank (1966) until and unless more material is discovered, or the type specimen (in good condition) reappears.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24897" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Epelysidris</dc:Genus>
+                        </tax:xmldata>Epelysidris</tax:name>
+is a monotypic genus of eastern Malaysia, easily separable by the distinctive pair of lobules on the basal border of each mandible, mandibular and clypeal structure, and palpal formula (Bolton, 1987). Although this taxon is undoubtedly monophyletic, its continued recognition as a separate genus would create the same dilemmas that characterize 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2350" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Antichthonidris</dc:Genus>
+                        </tax:xmldata>Antichthonidris</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24900" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Nothidris</dc:Genus>
+                        </tax:xmldata>Nothidris</tax:name>
+, and some others. It is preferable to leave brocha as one additional (although highly apomorphic) species within 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+; I propose here that 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24897" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Epelysidris</dc:Genus>
+                        </tax:xmldata>Epelysidris</tax:name>
+thus be considered a junior synonym of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+.
+</tax:p>
+            </tax:div>
+            <tax:nomenclature>
+Neotropical species of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                    </tax:xmldata>Monomorium</tax:name>
+(includes recent introductions *).
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:133791" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>bidentatum</dc:Species>
+                    </tax:xmldata>M. bidentatum Mayr</tax:name>
+, 1887 comb. rev. – Chile, Argentina
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31424" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>brasiliense</dc:Species>
+                    </tax:xmldata>M. brasiliense Forel</tax:name>
+, 1908 - Brazil
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31520" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>carbonarium</dc:Species>
+                    </tax:xmldata>M. carbonarium Fr. Smith</tax:name>
+, 1858 – Azores
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231135" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>cekalovici</dc:Species>
+                    </tax:xmldata>M. cekalovici (Snelling, 1975)</tax:name>comb. nov.
+- Chile
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231134" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>chilensis</dc:Species>
+                    </tax:xmldata>M. chilensis</tax:name>
+, n. name for 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32893" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Nothidris</dc:Genus>
+                        <dc:Species>bicolor</dc:Species>
+                    </tax:xmldata>N. bicolor Ettershank</tax:name>
+, 1965: 55, preoccupied by 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:140750" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Megalomyrmex</dc:Genus>
+                        <dc:Species>bicolor</dc:Species>
+                    </tax:xmldata>M. bicolor Emery</tax:name>
+, 1877: 368 - Chile
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31533" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>cyaneum</dc:Species>
+                    </tax:xmldata>M. cyaneum Wheeler</tax:name>
+, 1914 - Mexico
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31525" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>compressum</dc:Species>
+                    </tax:xmldata>M. compressum Wheeler</tax:name>
+, 1914 – Mexico
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231124" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>delabiei</dc:Species>
+                    </tax:xmldata>M. delabiei</tax:name>sp. n.
+- Brazil
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:133793" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>denticulatum</dc:Species>
+                    </tax:xmldata>M. denticulatum Mayr</tax:name>
+, 1887 comb. rev. – Chile, Argentina
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31539" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>destructor</dc:Species>
+                    </tax:xmldata>M. destructor (Jerdon, 1852)</tax:name>
+* - Widespread
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31550" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>ebeninum</dc:Species>
+                    </tax:xmldata>M. ebeninum Forel</tax:name>
+, 1891 – Caribbean and coastal Mesoamerica
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31573" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>floricola</dc:Species>
+                    </tax:xmldata>M. floricola (Jerdon, 1852)</tax:name>
+* - Widespread
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31602" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>inquilinum</dc:Species>
+                    </tax:xmldata>M. inquilinum</tax:name>
+DuBois, 1980 - Mexico
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231125" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>inusuale</dc:Species>
+                    </tax:xmldata>M. inusuale</tax:name>sp. n.
+- Brazil
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:140751" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>latastei</dc:Species>
+                    </tax:xmldata>M. latastei Emery</tax:name>
+, 1895 comb. rev. - Chile
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31642" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>marjoriae</dc:Species>
+                    </tax:xmldata>M. marjoriae</tax:name>
+DuBois, 1986 – Mexico
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31653" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>minimum</dc:Species>
+                    </tax:xmldata>M. minimum (Buckley, 1867)</tax:name>
+– Mexico (?) Paraguay (?)
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31657" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>monomorium</dc:Species>
+                    </tax:xmldata>M. monomorium Bolton</tax:name>
+, 1987 * – Barbados
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31685" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>pharaonis</dc:Species>
+                    </tax:xmldata>M. pharaonis (Linnaeus, 1758)</tax:name>
+* - Widespread
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31703" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>salomonis</dc:Species>
+                    </tax:xmldata>M. salomonis (Linnaeus, 1758)</tax:name>
+* - Widespread
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31726" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>subcoecum</dc:Species>
+                    </tax:xmldata>M. subcoecum Emery</tax:name>
+, 1894 – Caribbean (St. Thomas and Puerto Rico)
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31728" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>subopacum</dc:Species>
+                    </tax:xmldata>M. subopacum Fr. Smith</tax:name>
+, 1858 * – Antigua
+Outside the Neotropical fauna the following changes are proposed:<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231133" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>sichelii</dc:Species>
+                    </tax:xmldata>Monomorium sichelii (Roger, 1862)</tax:name>
+comb. rev.
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231136" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>brocha</dc:Species>
+                    </tax:xmldata>Monomorium brocha (Bolton, 1987)</tax:name>comb. n.</tax:nomenclature>
+        </tax:treatment>
+        <tax:p>SPECIES DESCRIPTIONS AND NOTES</tax:p>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:133791" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>bidentatum</dc:Species>
+                    </tax:xmldata>Monomorium bidentatum Mayr</tax:name>
+comb. rev.
+</tax:nomenclature>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:133791" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>bidentatum</dc:Species>
+                        </tax:xmldata>Monomorium bidentatum Mayr</tax:name>
+, 1887: 616 (w, q).
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231126" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>bidentatum</dc:Species>
+                        </tax:xmldata>Monomorium (Notomyrmex) bidentatum</tax:name>
+: Emery, 1922: 169.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231127" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>bidentatum</dc:Species>
+                            <dc:Subspecies>piceonigrum</dc:Subspecies>
+                        </tax:xmldata>Monomorium (Notomyrmex) bidentatum piceonigrum</tax:name>
+Borgmeier, 1948: 468 (w); Kusnezov, 1960: 345 (as junior synonym of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:190526" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>bidentata</dc:Species>
+                        </tax:xmldata>bidentata</tax:name>
+).
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231128" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Notomyrmex</dc:Genus>
+                            <dc:Species>bidentatum</dc:Species>
+                        </tax:xmldata>Notomyrmex bidentatum</tax:name>
+: Kusnezov, 1960: 345.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231129" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Nothidris</dc:Genus>
+                            <dc:Species>bidentatus</dc:Species>
+                        </tax:xmldata>Nothidris bidentatus</tax:name>
+: Ettershank, 1966: 107.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231130" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Antichthonidris</dc:Genus>
+                            <dc:Species>bidentatus</dc:Species>
+                        </tax:xmldata>Antichthonidris bidentatus</tax:name>
+: Snelling, 1975: 5 - 6 (w, q, m); Wheeler &amp; Wheeler, 1980: 533 (larvae).
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25380" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Antichthonidris</dc:Genus>
+                            <dc:Species>bidentata</dc:Species>
+                        </tax:xmldata>Antichthonidris bidentata</tax:name>
+: Bolton, 1995: 67.
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="discussion">
+                <tax:p>
+Heterick (2001) synonymized 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2350" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Antichthonidris</dc:Genus>
+                        </tax:xmldata>Antichthonidris</tax:name>
+under 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+, but did not make the appropriate nomenclatural changes in the two species assigned to that genus.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31424" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>brasiliense</dc:Species>
+                    </tax:xmldata>Monomorium brasiliense Forel</tax:name>
+            </tax:nomenclature>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:140347" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>minutum</dc:Species>
+                            <dc:Subspecies>brasiliense</dc:Subspecies>
+                        </tax:xmldata>Monomorium minutum subsp. brasiliense Forel</tax:name>
+, 1908: 361 (w).
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231131" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>monomorium</dc:Species>
+                            <dc:Subspecies>brasiliense</dc:Subspecies>
+                        </tax:xmldata>Monomorium monomorium subsp. brasiliense</tax:name>
+: Brandao, 1991: 357.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31424" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>brasiliense</dc:Species>
+                        </tax:xmldata>Monomorium brasiliense</tax:name>
+: Bolton, 1995: 260.
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="discussion">
+                <tax:p>
+Bolton (1987) did not study the type of this species, nor the possibly corresponding native 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+material. The 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+native to South America are moderate to large in size; 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231125" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>inusuale</dc:Species>
+                        </tax:xmldata>M. inusuale</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231124" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>delabiei</dc:Species>
+                        </tax:xmldata>M. delabiei</tax:name>
+are small but with HW greater than 0.60 mm. There is a possibility that 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31424" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>brasiliense</dc:Species>
+                        </tax:xmldata>M. brasiliense</tax:name>
+might in fact be a tramp species, erroneously described by Forel as a different (subspecific) taxon.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231135" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>cekalovici</dc:Species>
+                    </tax:xmldata>Monomorium cekalovici (Snelling)</tax:name>new combination</tax:nomenclature>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32894" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Nothidris</dc:Genus>
+                            <dc:Species>cekalovici</dc:Species>
+                        </tax:xmldata>Nothidris cekalovici Snelling</tax:name>
+, 1975: 3 (w); Bolton, 1995: 292.
+</tax:p>
+            </tax:ref_group>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231134" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>chilensis</dc:Species>
+                    </tax:xmldata>Monomorium chilensis</tax:name>
+, new name.
+</tax:nomenclature>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:140750" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Megalomyrmex</dc:Genus>
+                            <dc:Species>bicolor</dc:Species>
+                        </tax:xmldata>Megalomyrmex bicolor Ettershank</tax:name>
+, 1965: 55 (w, larva); Kempf, 1970: 359.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32893" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Nothidris</dc:Genus>
+                            <dc:Species>bicolor</dc:Species>
+                        </tax:xmldata>Nothidris bicolor</tax:name>
+: Snelling, 1975: 3; Bolton, 1995: 292.
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="discussion">
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231134" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>chilensis</dc:Species>
+                        </tax:xmldata>M. chilensis</tax:name>
+is the new name proposed for 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31414" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>bicolor</dc:Species>
+                        </tax:xmldata>bicolor</tax:name>
+, a name preoccupied by 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31414" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>bicolor</dc:Species>
+                        </tax:xmldata>Monomorium bicolor Emery</tax:name>
+, 1877: 368.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31533" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>cyaneum</dc:Species>
+                    </tax:xmldata>Monomorium cyaneum Wheeler</tax:name>
+            </tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>
+It is not easy to separate 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31533" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>cyaneum</dc:Species>
+                        </tax:xmldata>M. cyaneum</tax:name>
+from 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31550" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>ebeninum</dc:Species>
+                        </tax:xmldata>M. ebeninum</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238556" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>depressum</dc:Species>
+                        </tax:xmldata>M. depressum</tax:name>
+. In the syntypes of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31533" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>cyaneum</dc:Species>
+                        </tax:xmldata>M. cyaneum</tax:name>
+examined (
+LACM
+) the mesopleuron is smooth, whereas the DuBois (1986) diagnosis and keys indicate punctate mesopleura for the species. There are Mexican workers (
+LACM
+) with punctate mesopleura identified as 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31533" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>cyaneum</dc:Species>
+                        </tax:xmldata>M. cyaneum</tax:name>
+, but other material referable to this species (Mexico, 
+LACM
+) lacks this attribute. Perhaps there is variability in the character, but the limited material is insufficient to evaluate this possibility. In 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31533" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>cyaneum</dc:Species>
+                        </tax:xmldata>M. cyaneum</tax:name>
+the propodeum is more weakly angled than in the other two species and supposedly there are 8 or fewer hairs on the mesosoma (DuBois, 1986). The pilosity varies somewhat in samples referable to these three species. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31533" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>cyaneum</dc:Species>
+                        </tax:xmldata>M. cyaneum</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238556" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>depressum</dc:Species>
+                        </tax:xmldata>M. depressum</tax:name>
+share a petiole that is slightly curved in frontal view, as well as a petiolar node that is thicker in lateral view. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31550" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>ebeninum</dc:Species>
+                        </tax:xmldata>M. ebeninum</tax:name>
+has a petiole that is flat or weakly concave in frontal view. Thus the problem is how to separate 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31533" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>cyaneum</dc:Species>
+                        </tax:xmldata>M. cyaneum</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238556" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>depressum</dc:Species>
+                        </tax:xmldata>M. depressum</tax:name>
+. As pointed out above, the punctate sculpturing of the mesopleura does not seem to be universal in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31533" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>cyaneum</dc:Species>
+                        </tax:xmldata>cyaneum</tax:name>
+(three syntypes examined, 
+LACM
+, do not have appreciable sculpturing on the mesopleura). A characteristic of the syntypes and other specimens (from Hatillo, Mexico, 
+LACM
+) is the presence of a light metallic blue sheen on the entire body (from which the species name derives). A specimen labeled as 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31533" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>cyaneum</dc:Species>
+                        </tax:xmldata>cyaneum</tax:name>
+(
+LACM
+) by DuBois has mesopleural sculpturing but does not have the blue sheen.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231124" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>delabiei</dc:Species>
+                    </tax:xmldata>Monomorium delabiei</tax:name>
+, 
+new species</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Description</tax:p>
+                <tax:p>Worker measurements (mm): HW 0.65; HL 0.73; SL 0.53; EL 0.16; WL 1.03; PL 0.36; PPL 0.24; GL 1.00; TL 3.50. Indices: CI 89; SI 82.</tax:p>
+                <tax:p>Head slightly longer than wide. Sides of head slightly convex, evenly rounded into the posterior border, latter more or less straight with a small medial concavity. Mandibles with four teeth: the apical larger than the others, the subapical separated by a space from the basal teeth. Maxillary palps 2 segmented. Clypeus convex with no trace of carinae, extended posteriorly as smooth and shiny frontal area. Clypeus anteriorly convex. Antenna 12 - segmented with club 3 - segmented. Frontal carinae short.</tax:p>
+                <tax:p>Eyes large, well developed, with about 11 ommatidia in the maximum diameter, situated in the middle of the head.</tax:p>
+                <tax:p>In lateral view mesosoma with promesonotum convex. Metanotal groove deep, well marked. Propodeum unarmed. Declivity of propodeum devoid of transverse carinae. Propodeal spiracle with a thin walled vestibule anteriorly. Metapleural lobes small, rounded. Petiole with short peduncle, node rounded above. Petiolar spiracle at beginning of node. Petiolar ventral process consisting of anterior median keel. In dorsal view postpetiole wider than petiole. In side view postpetiole subcampaniform, with a ventral strong median tubercle, pointed anteriorly. Sting developed.</tax:p>
+                <tax:p>Entire body smooth and shining. Moderate erect pilosity on head, promesonotum, petiole, postpetiole and gaster, very few on propodeum. Larger hairs about 0.15 mm, those of head shorter. Clypeus with two series of transverse setae, those of anterior margin increasing in size toward the somewhat larger median apical setae. Body brown, most of gaster dark brown.</tax:p>
+                <tax:p>Queen and male unknown.</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>
+Type data: 
+Holotype
+worker, 
+Brazil
+, 
+Bahia
+, 
+Fazenda Amarillina
+, 
+Guaratinga
+, 
+28. 
+vii. 1993(Pula / MichelliNo. 4675 - D
+) (
+CEPLAC
+)
+
+.
+</tax:p>
+            </tax:div>
+            <tax:div type="distribution">
+                <tax:p>Distribution: Eastern Brazil.</tax:p>
+            </tax:div>
+            <tax:div type="etymology">
+                <tax:p>Etymology: This species is named for my friend and colleague Dr. Jacques Delabie, for his continuous supply of interesting ants.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>Comments</tax:p>
+                <tax:p>
+In 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231124" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>delabiei</dc:Species>
+                        </tax:xmldata>M. delabiei</tax:name>
+there are two transverse rows of hairs on the clypeus. In the row on the anterior border, the hairs increase in length from the lateral ones towards the midpoint, where they are longest (although not very much longer than the rest); in other words, there is no single medial hair that stands out, a characteristic typical of the tribe. This is also typical of some 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24898" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Megalomyrmex</dc:Genus>
+                        </tax:xmldata>Megalomyrmex</tax:name>
+, and in at least some “ 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2350" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Antichthonidris</dc:Genus>
+                        </tax:xmldata>Antichthonidris</tax:name>
+” workers, there is no apical medial seta. The clypeus forms a medial convexity with only a very weak trace of carinae. The tentorial pit is more than halfway between antennal receptacles and mandibular base (as in some “ 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2350" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Antichthonidris</dc:Genus>
+                        </tax:xmldata>Antichthonidris</tax:name>
+”), rather than near the antennal alveolus (as in some Neotropical 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+). The form of the propodeal spiracle is somewhat similar to that of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24900" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Nothidris</dc:Genus>
+                        </tax:xmldata>Nothidris</tax:name>
+(Bolton, 1994: 104), with a visible vestibule preceding anteriorly the spiracle proper: in typical 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24898" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Megalomyrmex</dc:Genus>
+                        </tax:xmldata>Megalomyrmex</tax:name>
+the spiracle is round and without anterior vestibules. The postpetiole has a robust, pointed ventral tubercle, a characteristic apparently not shared with other members of the genus or with 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24898" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Megalomyrmex</dc:Genus>
+                        </tax:xmldata>Megalomyrmex</tax:name>
+. The absence of the transverse propodeal carina excludes, by definition, the inclusion of this species in the typical 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24898" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Megalomyrmex</dc:Genus>
+                        </tax:xmldata>Megalomyrmex</tax:name>
+, although the character is not universal within the genus, and can be present in some 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:133793" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>denticulatum</dc:Species>
+                    </tax:xmldata>Monomorium denticulatum Mayr</tax:name>
+revised combination
+</tax:nomenclature>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:133793" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>denticulatum</dc:Species>
+                        </tax:xmldata>Monomorium denticulatum Mayr</tax:name>
+, 1887: 614 (w, q); Wheeler &amp; Wheeler, 1980: 532 (larvae).
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:133795" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>denticulatum</dc:Species>
+                            <dc:Subspecies>navarinensis</dc:Subspecies>
+                        </tax:xmldata>Monomorium denticulatum navarinensis</tax:name>
+Forel, 1904: 7 (q); Kusnezov, 1960: 347 (as junior synonym of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25381" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Antichthonidris</dc:Genus>
+                            <dc:Species>denticulata</dc:Species>
+                        </tax:xmldata>denticulata</tax:name>
+).
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:133796" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>denticulatum</dc:Species>
+                            <dc:Subspecies>picea</dc:Subspecies>
+                        </tax:xmldata>Monomorium denticulatum picea</tax:name>
+Emery, 1906: 120 (w); Kusnezov, 1960: 347 (as junior synonym of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25381" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Antichthonidris</dc:Genus>
+                            <dc:Species>denticulata</dc:Species>
+                        </tax:xmldata>denticulata</tax:name>
+).
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:133794" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>denticulatum</dc:Species>
+                        </tax:xmldata>Monomorium (Notomyrmex) denticulatum</tax:name>
+: Emery, 1922: 169.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238557" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>denticulatum</dc:Species>
+                            <dc:Subspecies>navarinensis</dc:Subspecies>
+                        </tax:xmldata>Monomorium (Notomyrmex) denticulatum navarinensis</tax:name>
+: Emery, 1922: 169.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:133794" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>denticulatum</dc:Species>
+                            <dc:Subspecies>inerme</dc:Subspecies>
+                        </tax:xmldata>Monomorium (Notomyrmex) denticulatum inerme</tax:name>
+Borgmeier, 1948: 469 (worker); Kusnezov, 1949: 432 (as junior synonym of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25381" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Antichthonidris</dc:Genus>
+                            <dc:Species>denticulata</dc:Species>
+                        </tax:xmldata>denticulata</tax:name>
+).
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238558" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Notomyrmex</dc:Genus>
+                            <dc:Species>denticulatum</dc:Species>
+                        </tax:xmldata>Notomyrmex denticulatum</tax:name>
+: Kusnezov, 1960: 347.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238559" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Nothidris</dc:Genus>
+                            <dc:Species>denticulatus</dc:Species>
+                        </tax:xmldata>Nothidris denticulatus</tax:name>
+: Ettershank, 1966: 107.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238560" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Antichthonidris</dc:Genus>
+                            <dc:Species>denticulatus</dc:Species>
+                        </tax:xmldata>Antichthonidris denticulatus</tax:name>
+: Snelling, 1975: 6; Heterick, 2001: 353.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25381" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Antichthonidris</dc:Genus>
+                            <dc:Species>denticulata</dc:Species>
+                        </tax:xmldata>Antichthonidris denticulata</tax:name>
+: Bolton, 1995: 67.
+</tax:p>
+            </tax:ref_group>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+* 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31539" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>destructor</dc:Species>
+                    </tax:xmldata>Monomorium destructor (Jerdon)</tax:name>
+            </tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>
+A widespread tramp species, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31539" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>destructor</dc:Species>
+                        </tax:xmldata>M. destructor</tax:name>
+is readily recognized by the fine transverse striae on the vertex, as well as the deep metanotal groove.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31550" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>ebeninum</dc:Species>
+                    </tax:xmldata>Monomorium ebeninum Forel</tax:name>
+            </tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>
+This species is similar to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31525" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>compressum</dc:Species>
+                        </tax:xmldata>M. compressum</tax:name>
+and, to a lesser extent, to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31533" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>cyaneum</dc:Species>
+                        </tax:xmldata>M. cyaneum</tax:name>
+. A characteristic that appears to separate it from similar species is the petiolar profile, which in frontal view is flat to weakly concave.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+* 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31573" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>floricola</dc:Species>
+                    </tax:xmldata>Monomorium floricola (Jerdon)</tax:name>
+            </tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>
+This is a small adventive Old World species, as is 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31657" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>monomorium</dc:Species>
+                        </tax:xmldata>M. monomorium</tax:name>
+, with HW less than 0.35 mm. In 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31573" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>floricola</dc:Species>
+                        </tax:xmldata>M. floricola</tax:name>
+the pale mesosoma is in sharp contrast to the darker head and gaster.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31602" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>inquilinum</dc:Species>
+                    </tax:xmldata>Monomorium inquilinum</tax:name>
+DuBois
+</tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>
+Known only from queen and male castes. DuBois (1986) suggests that this species is a social parasite of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31533" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>cyaneum</dc:Species>
+                        </tax:xmldata>M. cyaneum</tax:name>
+. Known only from the type locality, between Mexico City and Queretaro, Mexico.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231125" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>inusuale</dc:Species>
+                    </tax:xmldata>Monomorium inusuale</tax:name>
+, 
+new species</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 1 - 2</tax:p>
+                <tax:p>Description</tax:p>
+                <tax:p>Worker, measurements (mm), holotype (paratypes, n = 3): HW 0.48 (0.46 - 0.48); HL 0.57 (0.57 - 0.62); SL 0.37 (0.37 - 0 - 41); EL 0.03 (0.03); WL 0.72 (0.70 - 0.72); PL 0.25 (0.25); PPL 0.18 (0.18); GL 0.73 (0.73 - 0.80); TL 2.58 (2.58 - 2.61). Indices: CI 84 (74 - 84); SI 77 (77 - 89).</tax:p>
+                <tax:p>Head longer than wide. Sides of head parallel, very slightly wider anteriorly, broadly rounded into the posterior border, which is more or less straight. Mandibles with four teeth: the three apical separated from isolated basal by a large diastema. Maxillary palps 2 segmented. Median lobe of clypeus strong, bicarinate, narrowing posteriorly to narrow strip between frontal lobes. Clypeus with apical median seta and several paracarinal setae. Antenna 12 segmented with strong 3 segmented club; scapes fail to reach the vertexal border. Antennal insertions close together. Frontal carinae and antennal scrobes absent. Eyes reduced to indistinct ommatidia, placed in front of head midline.</tax:p>
+                <tax:p>In lateral view promesonotum slightly convex. Metanotal groove very deep, well marked. Propodeum unarmed, with a faint cuticular crest, from the meeting point of dorsal and declivity faces, extended and slightly higher, continuous with the small metapleural lobes. Propodeal spiracle circular, opened posteriorly. Bullae of metapleural glands large. Petiole with peduncle and node well differentiated, the node more or less with the sides parallel, dorsum convex. Petiolar spiracle at beginning of node. Petiolar ventral process tooth-like. Postpetiole subcampaniform, with a ventral strong transverse carina. Apical portion of penultimate tergite with four small pegs or teeth, hairs arising from outermost.</tax:p>
+                <tax:p>Mandibles, most of promesonotum, dorsum of petiole and postpetiole and gaster smooth and shining. Head with longitudinal rugulae mixed with dense foveae. Posterior promesonotum with feeble short rugulae. Most of mesopleura with irregular short longitudinal striae, mixed with fine reticulation. Most of propodeum and sides of petiole and postpetiole densely reticulated. Declivity of propodeum with several fine transverse carinae, the most posterior more marked. Moderate erect pilosity on head, promesonotum, petiole, postpetiole and gaster, very few on propodeum. Scapes with several erect hairs. Larger hairs about 0.15 mm, those of head shorter. Body brown, appendages lighter.</tax:p>
+                <tax:p>Queen and male unknown.</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>Type data: Holotype worker, Brazil, Bahia, Barrolandia, 16 - 23.07.1994 (S. Lacau) (CEPLAC).</tax:p>
+                <tax:p>Paratypes
+, 1 worker, same data as 
+holotype
+, deposited in 
+ICN
+; 3 workers, 
+Brazil
+, 
+Amazonas
+, 
+Benjamin Constant
+, 
+21. ix. 1962
+(
+W. L. Brown Jr.
+) (
+MZSP
+)
+
+; 
+
+2 workers, 
+Ecuador
+, 
+Napo
+, 
+Limoncocha
+, 
+1973
+(
+M. Rettenmeyer
+) (
+MZSP
+, 
+BMNH
+)
+
+.
+</tax:p>
+            </tax:div>
+            <tax:div type="distribution">
+                <tax:p>Distribution: Ecuador and Brazil.</tax:p>
+            </tax:div>
+            <tax:div type="etymology">
+                <tax:p>Etymology: The name refers to the unusual traits of the ant, and the taxonomical difficulties for their generic placement.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>Comments</tax:p>
+                <tax:p>
+This species presents a series of unusual characters that are interesting in the context of the 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2312" source="HNS"/>Solenopsidini</tax:name>
+, and especially 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+and its allied genera. The long diastema between the 3 apical teeth and the basal tooth does not appear to be common in the genus or any other close genera.
+</tax:p>
+                <tax:p>
+The same can be said for the much reduced eyes, since large, multifaceted eyes are common in the genus, although some Afrotropical species have reduced eyes (Snelling, personal communication). The narrow carina or propodeal crest that extends down to join the metapleural lobes is reminiscent of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24897" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Epelysidris</dc:Genus>
+                        </tax:xmldata>Epelysidris</tax:name>
+. The anterior and posterior sides of the petiolar node are more or less straight; in other species in this and neighboring genera, they tend to be rounded. The postpetiole has a strong transverse keel in the ventral part, which is reminiscent of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2325" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Adelomyrmex</dc:Genus>
+                        </tax:xmldata>Adelomyrmex</tax:name>
+. The head sculpturing is also unusual, with longitudinal rugules mixed with obvious foveae, a trait which is absent in other Neotropical 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+. The most outstanding feature is the series of minute teeth or pegs in the last abdominal tergum, from at least the outermost of which arise hairs. This appears to be an autapomorphic structure, absent in other 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2312" source="HNS"/>Solenopsidini</tax:name>
+and probably in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+; it is somewhat like the pygidial pegs of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2249" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Cerapachyinae</dc:Genus>
+                        </tax:xmldata>Cerapachyinae</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33253" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pachycondyla</dc:Genus>
+                            <dc:Species>crassinoda</dc:Species>
+                        </tax:xmldata>Pachycondyla crassinoda</tax:name>
+workers.
+</tax:p>
+                <tax:p>The Brazilian specimens are uniform in size and general aspect. Nevertheless, the two Ecuadorian specimens differ somewhat in size and some measurements (slightly shorter dorsal side of the propodeum, for instance) and the visible micropegs of the last tergum are less conspicuous than those of Benjamin Constant, Brazil. These structures are well-developed in the type specimen, from Bahia, but the propodeum is intermediate between the other Brazilian specimens and those from Ecuador. Given that in the other essential characteristics all samples are similar, I prefer to consider these differences as within-species variability, instead of creating a new taxon that might result in a paraphyletic species.</tax:p>
+                <tax:p>
+Is 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231125" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>inusuale</dc:Species>
+                        </tax:xmldata>M. inusuale</tax:name>
+truly a 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+? I recently was loaned two interesting myrmicines from CEPLAC. The first of these, a worker from Guaramiranga (Brazil, Ceara) is reminiscent in general form of the Australian M. sublamellatum, although without a single apical clypeal seta and clypeus so conspicuously bicarinate. The Brazilian specimen could pass as an unusual 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+. However, the discovery of a preoccipital carina — supposedly apomorphic in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24915" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Rogeria</dc:Genus>
+                        </tax:xmldata>Rogeria</tax:name>
+— could require the inclusion of the species in the latter genus, in spite of the fact that other characteristics do not coincide (Kugler, 1994). Or, alternatively, the Australian species possibly does not belong in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2312" source="HNS"/>Solenopsidini</tax:name>
+; Heterick (2003) places sublamellatum in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+by default, since it does not fit in any other genus of the tribe. The paraphyletic nature of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+renders it a “ basket ” or “ catch-all ” genus. Maybe sublamellatum, like this Ceara worker, belongs to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2314" source="HNS"/>Stenammini</tax:name>
+(Bolton, personal communication).
+</tax:p>
+                <tax:p>
+The second CEPLAC specimen from Bahia (Brazil, S. Jose Victoria, No. 2139, provisionally determined as 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+sp.) has a general aspect typical of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+, the genus to which the Bolton (1994) key leads, if one ignores the absence of the apical clypeal seta (which is variable in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2312" source="HNS"/>Solenopsidini</tax:name>
+). Nevertheless, as in the above case, this specimen might better be associated with some 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2314" source="HNS"/>Stenammini</tax:name>
+, possibly 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24915" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Rogeria</dc:Genus>
+                        </tax:xmldata>Rogeria</tax:name>
+, although it is impossible to confirm the preoccipital carina in the unique dry-mounted specimen, and the total absence of color and other traits make it difficult to place in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24915" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Rogeria</dc:Genus>
+                        </tax:xmldata>Rogeria</tax:name>
+(as defined by Kugler, 1994).
+</tax:p>
+                <tax:p>
+Bolton (personal communication) suggests that 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231125" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>inusuale</dc:Species>
+                        </tax:xmldata>M. inusuale</tax:name>
+might be a member of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2314" source="HNS"/>Stenammini</tax:name>
+, which was my first suspicion due to the overall resemblance with members of this tribe. The traits of frontal lobes and toruli, as well as clypeal posterior border, places inusuale in the 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2314" source="HNS"/>Stenammini</tax:name>
+as diagnosed in Bolton (2003: 58). However, the first gastral tergite clearly overlapping the first sternite on ventral surface, and the single medial clypeal seta puts the taxon in the 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2312" source="HNS"/>Solenopsidini</tax:name>
+, again sensu Bolton (2003: 59 - 60). Although the solenopsidine tribe group (Bolton 2003: 57) may be a monophyletic group, the tribes proposed by Bolton (2003) as 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2314" source="HNS"/>Stenammini</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2312" source="HNS"/>Solenopsidini</tax:name>
+currently lack synapomorphies. Perhaps the mixed traits of inusuale, the Australian species, and the Brazilian specimens referred to above may justify merging the two tribes. On the other hand, moving these taxa from 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2314" source="HNS"/>Stenammini</tax:name>
+simply transfers the problem of generic allocation from one tribe to the other.
+</tax:p>
+                <tax:p>
+Bolton (2003) has clarified some of the uncertainties in the systematics of the myrmicines allied to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2312" source="HNS"/>Solenopsidini</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2314" source="HNS"/>Stenammini</tax:name>
+. However, there are many problems to be resolved only when the limits of the Myrmicine tribes are clearly defined. For these reasons, I think that the only option at the moment is to leave inusuale as a member of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:140751" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>latastei</dc:Species>
+                    </tax:xmldata>Monomorium latastei Emery</tax:name>
+revised combination
+</tax:nomenclature>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:140751" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>latastei</dc:Species>
+                        </tax:xmldata>Monomorium latastei Emery</tax:name>
+, 1895: 10 (w); Wheeler &amp; Wheeler 1980: 533 (larva).
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:140751" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>latastei</dc:Species>
+                        </tax:xmldata>Monomorium (Notomyrmex) latastei</tax:name>
+: Emery, 1922: 169.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32895" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Nothidris</dc:Genus>
+                            <dc:Species>latastei</dc:Species>
+                        </tax:xmldata>Nothidris latastei</tax:name>
+: Ettershank, 1966: 106.
+</tax:p>
+            </tax:ref_group>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31642" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>marjoriae</dc:Species>
+                    </tax:xmldata>Monomorium marjoriae</tax:name>
+DuBois
+</tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>
+The worker caste of this species is indistinguishable from those of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31653" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>minimum</dc:Species>
+                        </tax:xmldata>M. minimum</tax:name>
+and M. wheelorum. However, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31642" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>marjoriae</dc:Species>
+                        </tax:xmldata>M. marjoriae</tax:name>
+is the only species (of these three) recorded for Mexico (DuBois, 1986).
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31653" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>minimum</dc:Species>
+                    </tax:xmldata>Monomorium minimum (Buckley)</tax:name>
+            </tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>Kempf (1972) recorded this species from Paraguay, following Forel (1917). However, I know of no confirmed records of this species from Paraguay or any other Neotropical country and it is not included in the key below.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+* 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31657" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>monomorium</dc:Species>
+                    </tax:xmldata>Monomorium monomorium Bolton</tax:name>
+            </tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>
+Wilson and Taylor (1967) mention the presence of this Old World species (as 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:140489" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>minutum</dc:Species>
+                        </tax:xmldata>M. minutum Mayr</tax:name>
+) from Brazil. However, I know of no confirmed records in the literature. It has also been recorded from Barbados (Kempf, 1972).
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+* 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31685" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>pharaonis</dc:Species>
+                    </tax:xmldata>Monomorium pharaonis (Linnaeus)</tax:name>
+            </tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31685" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>pharaonis</dc:Species>
+                        </tax:xmldata>Monomorium pharaonis,</tax:name>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31703" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>salomonis</dc:Species>
+                        </tax:xmldata>M. salomonis</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31728" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>subopacum</dc:Species>
+                        </tax:xmldata>M. subopacum</tax:name>
+are the only species in the Neotropics with head and mesosoma with fine reticulate-punctate sculpturation and mandibular dorsum with coarse longitudinal rugulae. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31685" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>pharaonis</dc:Species>
+                        </tax:xmldata>M. pharaonis</tax:name>
+has two rows of hairs on the head between the vertex and carinae, which distinguishes this species from the other two. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31685" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>pharaonis</dc:Species>
+                        </tax:xmldata>M. pharaonis</tax:name>
+is one of the best-known Old World tramp species.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+* 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31703" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>salomonis</dc:Species>
+                    </tax:xmldata>Monomorium salomonis (Linnaeus)</tax:name>
+            </tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>
+The body is sculptured as in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31685" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>pharaonis</dc:Species>
+                        </tax:xmldata>M. pharaonis</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31728" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>subopacum</dc:Species>
+                        </tax:xmldata>M. subopacum</tax:name>
+. It differs from these by the lack of hairs on the dorsum, and presence of a medial notch in the anterior clypeal margin. It is a widespread species, introduced in the Neotropics.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31726" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>subcoecum</dc:Species>
+                    </tax:xmldata>Monomorium subcoecum Emery</tax:name>
+            </tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>This is a minute, pale ant, with propodeum angles well marked. Mesopleuron sculptured. Body with abundant pilosity. It was described from St. Thomas in the Lesser Antilles, but is found also in Puerto Rico (R. R. Snelling, pers. comm.).</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31728" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>subopacum</dc:Species>
+                    </tax:xmldata>Monomorium subopacum (Fr. Smith)</tax:name>
+            </tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>
+Similar in general form as 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31685" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>pharaonis</dc:Species>
+                        </tax:xmldata>M. pharaonis</tax:name>
+and the body is without erect hairs; clypeus without the medial notch as in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31703" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>salomonis</dc:Species>
+                        </tax:xmldata>M. salomonis</tax:name>
+. Originally described from the Azores, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31728" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>subopacum</dc:Species>
+                        </tax:xmldata>M. subopacum</tax:name>
+has been recorded from Antigua in the Lesser Antilles (Kempf, 1972).
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:p>
+THE LIMITS OF 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>MONOMORIUM</tax:name>
+AND RELATED GENERA
+</tax:p>
+        <tax:p>
+Bolton (1987) characterized the genus and listed its extensive associated synonymy, including new synonymies. This author proposed species groups for the Afrotropical fauna, some of which might be applicable to the fauna outside of Africa. Since then, DuBois (1986) has studied the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31653" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>minimum</dc:Species>
+                </tax:xmldata>M. minimum</tax:name>
+species group native in America and Heterick (2001) has revised the Australian fauna, placing 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2350" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Antichthonidris</dc:Genus>
+                </tax:xmldata>Antichthonidris</tax:name>
+Snelling as junior synonym of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+.
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+was included within the tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2312" source="HNS"/>Solenopsidini</tax:name>
+by Bolton (1987), citing several traits and giving emphasis to the possession of a single medial apical seta or hair on the anterior margin of the clypeus. This characteristic at times is variable (the seta maybe displaced to one side, or a pair of setae more or less arising from the apical part of the medial clypeus), a feature that is also present in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2325" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adelomyrmex</dc:Genus>
+                </tax:xmldata>Adelomyrmex</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2513" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Cardiocondyla</dc:Genus>
+                </tax:xmldata>Cardiocondyla</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:182902" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Tyrannomyrmex</dc:Genus>
+                </tax:xmldata>Tyrannomyrmex</tax:name>
+and some 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2314" source="HNS"/>Stenammini</tax:name>
+(Bolton, 2003; Fernandez, 2003).
+</tax:p>
+        <tax:p>
+Later, Bolton (2003) redefined 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2312" source="HNS"/>Solenopsidini</tax:name>
+and proposed two groups in the tribe: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24903" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Solenopsis</dc:Genus>
+                </tax:xmldata>Solenopsis</tax:name>
+genus group (
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2312" source="HNS"/>Solenopsidini</tax:name>
+s. str., as in Bolton, 1987) and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24887" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Carebara</dc:Genus>
+                </tax:xmldata>Carebara</tax:name>
+genus group, containing most of the former tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2304" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pheidologetonini</dc:Genus>
+                </tax:xmldata>Pheidologetonini</tax:name>
+. Although it is possible to recognize several monophyletic groupings within the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2312" source="HNS"/>Solenopsidini</tax:name>
+s. str. (e. g., 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2335" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Allomerus</dc:Genus>
+                </tax:xmldata>Allomerus</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24903" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Solenopsis</dc:Genus>
+                </tax:xmldata>Solenopsis</tax:name>
+), the monophyly of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+and allied groups (
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2350" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Antichthonidris</dc:Genus>
+                </tax:xmldata>Antichthonidris</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24898" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Megalomyrmex</dc:Genus>
+                </tax:xmldata>Megalomyrmex</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24900" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Nothidris</dc:Genus>
+                </tax:xmldata>Nothidris</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24902" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Phacota</dc:Genus>
+                </tax:xmldata>Phacota</tax:name>
+) is not clear. In fact, Heterick (2001) in his revision of the Australia 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+formally synonymized 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2350" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Antichthonidris</dc:Genus>
+                </tax:xmldata>Antichthonidris</tax:name>
+with 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+. Bolton (1987) had already warned of the precariousness of this genus and of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24900" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Nothidris</dc:Genus>
+                </tax:xmldata>Nothidris</tax:name>
+Ettershank, names whose validity become feeble upon examination of the group in a worldwide context. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24902" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Phacota</dc:Genus>
+                </tax:xmldata>Phacota</tax:name>
+Roger was revalidated by Bolton (1987) as a synonym of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+(Ettershank, 1966). Unfortunately the type of this group has disappeared and Bolton 1987) suspected that the description might have been based on a wingless ergatoid female.
+</tax:p>
+        <tax:p>
+What are the limits of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+?
+</tax:p>
+        <tax:p>
+There has been no phylogenetic study of the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2312" source="HNS"/>Solenopsidini</tax:name>
+. Kusnezov (1957) discussed some problems in the taxonomy of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24903" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Solenopsis</dc:Genus>
+                </tax:xmldata>Solenopsis</tax:name>
+and neighboring groups and Bolton (1987) ventured some possible relationships within the tribe (now 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24903" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Solenopsis</dc:Genus>
+                </tax:xmldata>Solenopsis</tax:name>
+genus group: see Bolton, 2003). Some groups, e. g., 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2343" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Anillomyrma</dc:Genus>
+                </tax:xmldata>Anillomyrma</tax:name>
++ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24894" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Bondroitia</dc:Genus>
+                </tax:xmldata>Bondroitia</tax:name>
+, or 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24896" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Diplomorium</dc:Genus>
+                </tax:xmldata>Diplomorium</tax:name>
++ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2335" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Allomerus</dc:Genus>
+                </tax:xmldata>Allomerus</tax:name>
+, as well as 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24903" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Solenopsis</dc:Genus>
+                </tax:xmldata>Solenopsis</tax:name>
++ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24901" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Oxyepoecus</dc:Genus>
+                </tax:xmldata>Oxyepoecus</tax:name>
+, possess distinctive shared morphological traits. Notwithstanding that these groups might be thus be considered monophyletic, the arrangement would leave 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+and other close genera as paraphyletic. No morphological trait exists, either in workers or sexuals, which would robustly separate 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+from other solenopsidines. The existence of certain characteristics or sets of characteristics that were seen from a local rather than global perspective favored the creation of many weakly-delimited genera, whose fate has been synonymy. In fact, strict application of cladistic norms would result in synonymy of all the genera in the tribe, leaving a giant inclusive genus, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24903" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Solenopsis</dc:Genus>
+                </tax:xmldata>Solenopsis</tax:name>
+, which would be rejected by the majority of myrmecologists. Even so, the monophyly of this grouping would not be clear, since 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2312" source="HNS"/>Solenopsidini</tax:name>
+still lacks a strong synapomorphy: the apical central clypeal seta is not universal.
+</tax:p>
+        <tax:p>
+Perhaps a moderate solution might be to maintain as valid those groups that can be clearly distinguished from 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+(
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2335" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Allomerus</dc:Genus>
+                </tax:xmldata>Allomerus</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2343" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Anillomyrma</dc:Genus>
+                </tax:xmldata>Anillomyrma</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24894" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Bondroitia</dc:Genus>
+                </tax:xmldata>Bondroitia</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24896" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Diplomorium</dc:Genus>
+                </tax:xmldata>Diplomorium</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24901" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Oxyepoecus</dc:Genus>
+                </tax:xmldata>Oxyepoecus</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24903" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Solenopsis</dc:Genus>
+                </tax:xmldata>Solenopsis</tax:name>
+), leaving the rest in a single genus, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+. This group is paraphyletic, but can be justified on practical grounds as a provisional arrangement, pending molecular systematics and chemotaxonomy that will probably illuminate relationships not apparent solely on the basis of external morphology. Some studies, for instance, suggest that the defensive chemicals in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24903" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Solenopsis</dc:Genus>
+                </tax:xmldata>Solenopsis</tax:name>
+and neighboring groups will be phylogenetically useful traits (Van der Meer, 1986). Although molecular phylogenetic studies are not nearly as compelling as the discipline's followers contend, the joint examination of molecular, chemical and morphological characters will probably be enlightening. This problem is not exclusive to 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+and its neighbors; it is highly likely that the same situation exists in genera such as 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2414" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                </tax:xmldata>Camponotus</tax:name>
+and its neighbors in the tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2273" source="HNS"/>Camponotini</tax:name>
+(Brady et al., 1999) and in the taxa created around 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2521" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Leptothorax</dc:Genus>
+                </tax:xmldata>Leptothorax</tax:name>
+(Bolton, 2003).
+</tax:p>
+        <tax:p>
+The species 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231125" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>inusuale</dc:Species>
+                </tax:xmldata>M. inusuale</tax:name>
+described here creates an interesting dichotomy. On one hand, it possesses unique features (mandibles with diastema, greatly reduced eyes, propodeal crest, pegs on the penultimate abdominal segment) whose nature might justify the creation of a new genus, as was the case with 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24900" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Nothidris</dc:Genus>
+                </tax:xmldata>Nothidris</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2350" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Antichthonidris</dc:Genus>
+                </tax:xmldata>Antichthonidris</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24897" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Epelysidris</dc:Genus>
+                </tax:xmldata>Epelysidris</tax:name>
+. Nevertheless, given the morphological and behavioral richness of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+(Bolton, 1987; Heterick, 2001), it is difficult to justify such strict generic limits. If 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24900" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Nothidris</dc:Genus>
+                </tax:xmldata>Nothidris</tax:name>
+or 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24897" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Epelysidris</dc:Genus>
+                </tax:xmldata>Epelysidris</tax:name>
+are accepted as valid genera, it requires that 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231125" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>inusuale</dc:Species>
+                </tax:xmldata>M. inusuale</tax:name>
+also be considered a separate genus. Nevertheless, by so doing, it would favor the indiscriminate creation of many monotypic genera (or with just a few species) around 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+. Although such genera might be monophyletic, characterizing them as separate genera might confound the taxonomy of the group. It seems thus more advisable to regard these as monophyletic lineages that have evolved separately, each with unique traits, within 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+. This is the decision taken recently by Heterick (2003) in placing the highly distinctive M. sublamellatum in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+, instead of erecting a new monotypic genus to accommodate this species.
+</tax:p>
+        <tax:p>
+To summarize, this work proposes the following: To accept as valid genera within the tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2312" source="HNS"/>Solenopsidini</tax:name>
+those that can be unambiguously distinguished from 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2343" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Anillomyrma</dc:Genus>
+                </tax:xmldata>Anillomyrma</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24903" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Solenopsis</dc:Genus>
+                </tax:xmldata>Solenopsis</tax:name>
+and others. To consider as congeners those genera that cannot be clearly separated from 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24900" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Nothidris</dc:Genus>
+                </tax:xmldata>Nothidris</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24902" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Phacota</dc:Genus>
+                </tax:xmldata>Phacota</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24897" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Epelysidris</dc:Genus>
+                </tax:xmldata>Epelysidris</tax:name>
+and perhaps 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24898" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Megalomyrmex</dc:Genus>
+                </tax:xmldata>Megalomyrmex</tax:name>
+. This is a practical position, but there are other considerations as well: the phylogeny of the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+is barely in its first stages. This means that some genera placed in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2312" source="HNS"/>Solenopsidini</tax:name>
+(
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2343" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Anillomyrma</dc:Genus>
+                </tax:xmldata>Anillomyrma</tax:name>
+, for instance) might eventually belong to a different lineage, which may restrict the size of the tribe. New morphological, molecular, and chemical characters, as well as the description of the males and females of many of these lineages will perhaps in the future create a firm foundation for understanding the limits and relationships of the components of this interesting tribe.
+</tax:p>
+        <tax:p>
+KEY TO NEOTROPICAL 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>MONOMORIUM</tax:name>
+WORKERS
+</tax:p>
+        <tax:p>
+This key should be considered a working draft, since it has been constructed based more on the literature than on specimens: Snelling &amp; Hunt, 1976; DuBois, 1986; Bolton, 1994. I have not been able to examine various specimens assignable to some of the species reported for the Neotropical region. It will be of special interest in this context to study the type of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31424" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>brasiliense</dc:Species>
+                </tax:xmldata>M. brasiliense</tax:name>
+and establish its actual status. Observations by users will surely be useful for improving future versions.
+</tax:p>
+        <tax:p>1 Head and dorsal mesosomal sculpture with longitudinal striations or fine reticulation .......... 2</tax:p>
+        <tax:p>– Head and mesosomal dorsum smooth and shining; any sculpture, if present, reduced ........... 5</tax:p>
+        <tax:p>
+2 Last abdominal tergite with a series of small pegs (Fig. 2); mandibles with four teeth, the apical ones separated from basal by diastema (Fig. 1); Brazil and Ecuador ..................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231125" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>inusuale</dc:Species>
+                </tax:xmldata>M. inusuale</tax:name>
+        </tax:p>
+        <tax:p>– Last abdominal tergite without small pegs; mandibles with different configuration .............. 3</tax:p>
+        <tax:p>
+3 Front of head with several erect hairs forming two rows of about 4 hairs each; mesosoma with several hairs ......................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31685" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>pharaonis</dc:Species>
+                </tax:xmldata>M. pharaonis</tax:name>
+        </tax:p>
+        <tax:p>– Front of head devoid of erect hairs; mesosoma without erect hairs ........................................ 4</tax:p>
+        <tax:p>
+4 Clypeal margin with medial notch ....................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31703" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>salomonis</dc:Species>
+                </tax:xmldata>M. salomonis</tax:name>
+        </tax:p>
+        <tax:p>
+– Clypeus without medial notch; Antigua ............................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31728" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>subopacum</dc:Species>
+                </tax:xmldata>M. subopacum</tax:name>
+        </tax:p>
+        <tax:p>5 Maxillary palps with 4 segments; Chile .................................................................................. 6</tax:p>
+        <tax:p>– Maxillary palps with fewer than 3 segments ........................................................................... 8</tax:p>
+        <tax:p>6 Head concolorous with mesosoma; gaster darker; propodeum distinctly angulate in profile orwith short sharp teeth .......................................................................................................... 7</tax:p>
+        <tax:p>
+– Head concolorous with gaster; mesosoma lighter; propodeum rounded in profile ................... ............................................................................................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231135" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>cekalovici</dc:Species>
+                </tax:xmldata>M. cekalovici</tax:name>
+        </tax:p>
+        <tax:p>
+7 Propodeum angulate in profile, but without sharp teeth; penultimate antennomere 1.25 – 1.45 × longer than wide .................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231134" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>chilensis</dc:Species>
+                </tax:xmldata>M. chilensis</tax:name>
+        </tax:p>
+        <tax:p>
+– Propodeum at least sharply angulate, usually with distinct triangular teeth; penultimate antennomere 0.77 - 1.20 × longer than wide ............................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:140751" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>latastei</dc:Species>
+                </tax:xmldata>M. latastei</tax:name>
+        </tax:p>
+        <tax:p>
+8 Head with fine transverse rugulae on vertex ........................................................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31539" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>destructor</dc:Species>
+                </tax:xmldata>M. destructor</tax:name>
+        </tax:p>
+        <tax:p>– Vertex without obvious rugulae .............................................................................................. 9</tax:p>
+        <tax:p>
+9 Propodeum armed with well developed spines; Chile and Argentina ................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:133791" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>bidentatum</dc:Species>
+                </tax:xmldata>M. bidentatum</tax:name>
+        </tax:p>
+        <tax:p>– Propodeum unarmed or with small spines or angles ............................................................. 10</tax:p>
+        <tax:p>10 Head width more than 0.60 mm ............................................................................................ 11</tax:p>
+        <tax:p>– Head width less than 0.60 mm .............................................................................................. 12</tax:p>
+        <tax:p>
+11 Clypeus bicarinate; mandibles with 5 teeth; Chile and Argentina .................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:133793" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>denticulatum</dc:Species>
+                </tax:xmldata>M. denticulatum</tax:name>
+        </tax:p>
+        <tax:p>
+– Clypeus feebly bicarinate; mandibles with 4 teeth; Brazil ...................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231124" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>delabiei</dc:Species>
+                </tax:xmldata>M. delabiei</tax:name>
+        </tax:p>
+        <tax:p>
+12 Mesosoma and petiole clear yellow or at most light brownish, contrasting with dark reddish brown head and gaster ........................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31573" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>floricola</dc:Species>
+                </tax:xmldata>M. floricola</tax:name>
+        </tax:p>
+        <tax:p>– Mesosoma concolorous at least with either head or gaster ................................................... 13</tax:p>
+        <tax:p>
+13 Propodeum abruptly subangulate in profile; several short parallel, longitudinal rugulae on clypeus; head and body shiny black ..................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31550" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>ebeninum</dc:Species>
+                </tax:xmldata>M. ebeninum</tax:name>
+        </tax:p>
+        <tax:p>– Propodeum distinctly rounded in profile or with a pair of short sharp spines at propodeal angles .............................................................................................................................................. 14</tax:p>
+        <tax:p>
+14 Scape surpassing posterior margin of head by slightly less than length of following segment. ............................................................................................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31642" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>marjoriae</dc:Species>
+                </tax:xmldata>M. marjoriae</tax:name>
+        </tax:p>
+        <tax:p>– Scape never surpassing posterior margin of head ................................................................. 15</tax:p>
+        <tax:p>
+15 Propodeum with small spines; clypeus without teeth; eyes reduced to one or two ommatidia; yellowish species; Puerto Rico, Virgin Islands .................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31726" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>subcoecum</dc:Species>
+                </tax:xmldata>M. subcoecum</tax:name>
+        </tax:p>
+        <tax:p>– Propodeum unarmed, rounded in profile; clypeus with two submedian teeth; eyes multifaceted; body brown to black ............................................................................................................. 16</tax:p>
+        <tax:p>
+16 Scape with reclinate hairs; body brown ................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31525" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>compressum</dc:Species>
+                </tax:xmldata>M. compressum</tax:name>
+(part)
+</tax:p>
+        <tax:p>– Scape with suberect hairs; body blackish brown to black ..................................................... 17</tax:p>
+        <tax:p>17 HW equal to or more than 0.38 mm; Mexico ........................................................................ 18</tax:p>
+        <tax:p>
+– HW less than 0.36 mm; introduced in Brazil (?) .............................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31657" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>monomorium</dc:Species>
+                </tax:xmldata>M. monomorium</tax:name>
+        </tax:p>
+        <tax:p>
+18 Body with metallic bluish reflections; clypeal teeth as long as wide at base ......... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31533" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>cyaneum</dc:Species>
+                </tax:xmldata>M. cyaneum</tax:name>
+        </tax:p>
+        <tax:p>
+– Body without bluish reflections; clypeal teeth stout, wider at base than long .......................... ……………………………………………………………………. …… .. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31525" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>compressum</dc:Species>
+                </tax:xmldata>M. compressum</tax:name>
+(part)
+</tax:p>
+        <tax:p>ACKNOWLEDGMENTS</tax:p>
+        <tax:p>I am pleased to offer my thanks to many people who helped to produce this contribution. Beto Brandao (MZSP), Roy R. Snelling and Brian Brown (LACM), Charles Delabie (CEPLAC) and James Wetterer loaned or provided ants. Sara Bennet made useful translation and / or suggestions in the English. Partial support was received from NSF Grant DEB Nos. 9972024 and 0205982 to Michael Sharkey and Brian Brown. SEM pictures were taken by George D. Braybrook (Department of Earth and Atmospheric Sciences, University of Alberta) and prepared by Danny Shepley Department of Biological Sciences, University of Alberta); costs incurred were met through Grant 1399 of National Research Council of Canada to George E. Ball (Department of Biological Sciences). This paper is a partial product of my PhD Thesis at the Universidad Nacional de Colombia under the directorship of Dr. Rodulfo Ospina. Special thanks to Roy R. Snelling and Phil Ward for the useful corrections and comments to the manuscript.</tax:p>
+        <tax:p>LITERATURE CITED</tax:p>
+        <tax:p>
+Bolton, B. 1987. A review of the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24903" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Solenopsis</dc:Genus>
+                </tax:xmldata>Solenopsis</tax:name>
+genus-group and revision of Afrotropical 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+Mayr (Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Bulletin of the British Museum (Natural History) Entomology 54: 263 - 452.
+</tax:p>
+        <tax:p>Bolton, B. 1994. Identification guide to the ant genera of the world. Cambridge, Massachusetts: Harvard University Press, 222 pp.</tax:p>
+        <tax:p>Bolton, B. 1995. A new general catalogue of the ants of the world. Cambridge, Massachusetts: Harvard University Press, 504 pp.</tax:p>
+        <tax:p>
+Bolton, B. 2003. Synopsis and classification of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+. Memoirs of the American Entomological Institute 71: 1 - 370.
+</tax:p>
+        <tax:p>Borgmeier, T. 1948. Einige ameisen aus Argentinien. Revista de Entomologia 19: 459 - 471.</tax:p>
+        <tax:p>
+Brady, S. G., Gadau, J. &amp; Ward, P. S. 1999. Is the ant genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2414" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                </tax:xmldata>Camponotus</tax:name>
+paraphyletic? Pp. 27 - 28 in: 4 th International Hymenopterists Conference, 6 - 
+11 th January 1999
+, Canberra, Australia, Abstracts.
+</tax:p>
+        <tax:p>Brandao, C. R. F. 1991. Adendos ao catalogo abreviado das formigas da regiao Neotropical. Revista Brasileira de Entomologia 35: 319 - 412.</tax:p>
+        <tax:p>
+DuBois, M. 1986. A revision of the native New World species of the ant genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+(minimum group) (Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). University of Kansas Science Bulletin 53: 65 - 119.
+</tax:p>
+        <tax:p>Emery, C. 1877. Catalogo delle formiche esistenti nelle collezioni del Mueso Civico di Genova. Parte prima. Formiche provenienti dal Viaggio dei signori Antinori, Beccari e Issel nel Mar Rosso e nel paese dei Bogos. [part]. Annali del Museo Civico di Storia Naturale di Genova 9: 363 - 368.</tax:p>
+        <tax:p>Emery, C. 1894. Studi sulle formiche della fauna Neotropica. Bulletino della Societa Entomologica Italiana 26: 137 - 241.</tax:p>
+        <tax:p>Emery, C. 1895. Deuxieme note sur les fourmis du Chili. Actes de la Societe Scientifique du Chili 5: 10 - 18.</tax:p>
+        <tax:p>Emery, C. 1906. Studi sulle formiche della fauna Neotropica. Bulletino della Societa Entomologica Italiana 37: 107 - 194.</tax:p>
+        <tax:p>
+Emery, C. 1922. In Wytsman, P. Genera Insectorum. Hymenoptera, Fam. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+, subfam. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+. Fasc. 174 B &amp; 174 C: 95 - 206, 207 - 397. Bruxelles.
+</tax:p>
+        <tax:p>
+Ettershank, G. 1965. A new species of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24898" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Megalomyrmex</dc:Genus>
+                </tax:xmldata>Megalomyrmex</tax:name>
+from the Chilean Andes. Psyche (Cambridge) 72: 55 - 58.
+</tax:p>
+        <tax:p>
+Ettershank, G. 1966. A generic revision of the world 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+related to 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24903" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Solenopsis</dc:Genus>
+                </tax:xmldata>Solenopsis</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24893" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pheidologeton</dc:Genus>
+                </tax:xmldata>Pheidologeton</tax:name>
+. Australian Journal of Zoology 14: 73 - 171.
+</tax:p>
+        <tax:p>
+Fernandez, F. 2003. A new myrmicine ant genus from Malaysia with uncertain affinities (Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Zootaxa 341: 1 - 6.
+</tax:p>
+        <tax:p>Forel, A. 1891. In Grandidier, A. Histoire Physique, Naturelle et Politique de Madagascar 20.2. Les Formicides: 1 - 231.</tax:p>
+        <tax:p>
+Forel, A. 1904. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+. Ergebnisse der Hamburger Magalhaensischen Sammelreise 7 (8): 1 - 7.
+</tax:p>
+        <tax:p>Forel, A. 1908. Ameisen aus Sao Paulo (Brasilien), Paraguay, etc. Gesammelt von Prof. Herm. v. Ihering, Dr. Lutz, Dr. Fiebrig, etc. Verhandlungen der k. k. Zoologisch-Botanischen Gessellschaft in Wien 58: 340 - 418.</tax:p>
+        <tax:p>Forel, A. 1917. Cadre synoptique actuel de la faune universelle des fourmis. Bulletin de la Societe Vaudoise des Sciences Naturelles 51: 229 - 253.</tax:p>
+        <tax:p>
+Heterick, B. E. 2001. Revision of the Australian ants of the genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+(Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Invertebrate Taxonomy 15: 353 - 459.
+</tax:p>
+        <tax:p>
+Heterick, B. E. 2003. Two new Australian 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+Mayr (Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+) including a highly distinctive species. Australian Journal of Entomology 42: 249 - 253.
+</tax:p>
+        <tax:p>
+Kempf, W. W. 1970. Taxonomic notes on ants of the genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24898" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Megalomyrmex</dc:Genus>
+                </tax:xmldata>Megalomyrmex</tax:name>
+Forel, with the description of new species. Studia Entomologica (N. S.) 13: 353 - 364.
+</tax:p>
+        <tax:p>Kempf, W. W. 1972, Catalogo abreviado das formigas da regiao Neotropical. Studia Entomologica (N. S.) 15: 3 - 344.</tax:p>
+        <tax:p>
+Kugler, C. 1994. A revision of the ant genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24915" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Rogeria</dc:Genus>
+                </tax:xmldata>Rogeria</tax:name>
+with descriptions of the sting apparatus (Hyemnoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Journal of Hymenoptera Research 3: 17 - 89.
+</tax:p>
+        <tax:p>
+Kusnezov, N. 1949. El genero 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+en la Argentina. Acta Zoologica Lilloana 7: 423 - 448.
+</tax:p>
+        <tax:p>Kusnezov, N. 1957. Die Solenopsidinen-Gattungen von Suedamerika. Zoologischer Anzeiger 158: 266 - 280.</tax:p>
+        <tax:p>Kusnezov, N. 1960. La fauna de hormigas del oeste de la Patagonia. Acta Zoologica Lilloana 17: 321 - 401.</tax:p>
+        <tax:p>Mayr, G. 1855. Formicina austriaca. Beschreibung der bisher im oesterreichischen Kaiserstaate aufgefundenen Ameisen nebst Hinzufuegung jener in Deutschland, in der Schweitz und in Italien vorkommenden Ameisen. Verhandlungen des Zoologisch- Botanischen Vereins in Wien 5: 271 - 478.</tax:p>
+        <tax:p>Mayr, G. 1887. Suedamerikanische Formiciden. Verhandlungen der k. k. Zoologisch-Botanischen Gesellschaft in Wien 37: 511 - 632.</tax:p>
+        <tax:p>Roger, J. 1862 Beitraege zur Kenntniss der Ameisen-Fauna der Mittelmeerlaendler. Berliner Entomologische Zeitschrift 6: 255 - 262.</tax:p>
+        <tax:p>Snelling, R. R. 1975. Descriptions of new Chilean ant taxa. Contributions in Science 274: 1 - 19.</tax:p>
+        <tax:p>Snelling, R. R. &amp; Hunt, J. H. 1976. The ants of Chile. Revista Chilena de Entomologia 9: 63 - 129.</tax:p>
+        <tax:p>
+Vander Meer, R. K. 1986. Chemical taxonomy as a tool for separating 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24903" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Solenopsis</dc:Genus>
+                </tax:xmldata>Solenopsis</tax:name>
+spp. Pp. 316 - 326 in: Lofgren, C. S. &amp; Vander Meer, R. K. (eds.). Fire ants and leaf-cutting ants. Biology and management. Boulder: Westview Press, xv + 435 pp.
+</tax:p>
+        <tax:p>
+Wheeler, G. C. &amp; Wheeler, J. 1980. Supplementary studies on ant larvae: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2254" source="HNS"/>Formicinae</tax:name>
+. Transactions of the American Entomological Society 106: 527 - 545.
+</tax:p>
+        <tax:p>Wheeler, W. M. 1914. Ants collected by W. M. Mann in the state of Hidalgo, Mexico. Journal of the New York Entomological Society 22: 37 - 61.</tax:p>
+        <tax:p>Wilson, E. O. &amp; Taylor, R. W. 1967. The ants of Polynesia. Pacific Insects Monograph 14: 1 - 109.</tax:p>
+        <tax:figure>
+            <tax:p>
+Figure 1. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231125" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>inusuale</dc:Species>
+                    </tax:xmldata>Monomorium inusuale</tax:name>
+. A, head in full face view; B, clypeus in oblique view; C, lateral view of worker; D &amp; E, two lateral views of mesosoma.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figure 2. Lateral (A) and dorsal (B-D) views of the last abdominal tergum in 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231125" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>inusuale</dc:Species>
+                    </tax:xmldata>M. inusuale</tax:name>
+(Brazil).
+    </tax:p>
+        </tax:figure>
+    </tax:taxonxBody>
+</tax:taxonx>

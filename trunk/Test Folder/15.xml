@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?><tax:taxonx xmlns:dc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.taxonx.org/schema/v1 http://www.taxonx.org/schema/v1/taxonx1.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-1.xsd http://digir.net/schema/conceptual/darwin/2003/1.0 http://digir.net/schema/conceptual/darwin/2003/1.0/darwin2.xsd">
+    <tax:taxonxBody>
+        <tax:p>Chinese J. Entomol. 16: 137-152(1996)</tax:p>
+        <tax:p>Revision of the Ant Genus Strumigenys Fr. Smith (Hymenoptera: Formicidae) of Taiwan</tax:p>
+        <tax:p>Chung-Chi Lin and Wen-Jer W^'U* Department of Plant Pathology and Entomology National Taiwan University Taipei. Taiwan.</tax:p>
+        <tax:p>R.O.C.</tax:p>
+        <tax:p>ABSTRACT</tax:p>
+        <tax:p>The genus Strumigenys Fr. Smith of Taiwan is revised. Ten species are recognized, of which 5 are new to science and 1 is newly recorded: S. formosensis Forel, S. godeffroyi Mayr (new record), S. hispida sp. nov., S. lacunosa sp. nov., S. lichiaensis sp. nov., 5. liuhueiensis Terayama &amp; Kubota, S. minutula Terayama &amp; Kubota, S. nanzanensis sp. nov., S. solifontis Brown and S. trada sp. nov. A key to the workers and females is presented. Key words: Hymenoptera, Formicidae, Dacetonini, Strumigenys, Taiwan.</tax:p>
+        <tax:p>Introduction</tax:p>
+        <tax:p>The ant genus Strumigenys Fr. Smith, 1860, belonging to the tribe Dacetonini in the subfamily Myrmicinae, is represented by 167 described species distributed in all zoogeographical regions from the tropical to the temperate zones of the world (Bolton, 1995). Modern taxonomic under- standing of Strumigenys depends almost entirely upon the works by Brown (1948-1973), who sorted the great diver- sity of forms previously included in the genus and completed a large number of descriptive, faunistic and revisionary works on Strumigenys and its allies, on a world basis.</tax:p>
+        <tax:p>The first description of Taiwanese Strumigenys was that of Forel (1912), who recognized Strumigenys feae var. formosensis from Peinan, Taitung Hsien in the southeastern part of the island. In 1949, Brown raised Forel's variety to species status, S. formosensis. Recently, Terayama and Kubota (1989) described 2 new species, S. mintula and S. liukueie- nsis, and recorded S. solifontis for the 1st time. Thus 4 species of the genus have hitherto been found in Taiwan. A key to the Taiwanese species of Strumigenys was also provided by Terayama and Kubota (1989).</tax:p>
+        <tax:p>In this paper, 5 new species (S. hispida sp. nov., S. lacunosa sp. nov., S. lichiaensis sp. nov., S. nanzanensis sp. nov. and S. trada sp. nov.) and 1 newly recorded species (S. godeffroyi) are added to the fauna of Taiwan.</tax:p>
+        <tax:p>The following abbreviations are used for the institutions and collectors in the lists of materials examined: National Taiwan University (NTU), Taiwan Agricultural Research Institute (TARI), C. C. Lin (CCD, C. Y. Lee (CYL). I. S. Shu (ISS) and Y. C. Shiau (YCS).</tax:p>
+        <tax:p>Measurements and indices</tax:p>
+        <tax:p>Terminology used herein mainly fol-</tax:p>
+        <tax:p>Torrespondence reprint request address</tax:p>
+        <tax:p>
+Revision ofthe Ant Genus Strumigenys 
+137</tax:p>
+        <tax:p>-------------------------------- page break --------------------------------</tax:p>
+        <tax:p>lows that in Terayama and Kubota (1989). Their measurements are as in Figs. 1-2.</tax:p>
+        <tax:p>Cephalic index (CI}. HWx 100 HL Frontal carinal distance (FCD). Maxi- mum distance between the frontal carinae, measured in full face (dors- al) view.</tax:p>
+        <tax:p>Frontal carinal index (FCI). FCD X 100 /' HW</tax:p>
+        <tax:p>Head length (HL). Maximum length of head excluding mandibles, in full face view.</tax:p>
+        <tax:p>Head width (HW). The maximum width of the head in full face view.</tax:p>
+        <tax:p>Mandibular length (MD. The straight- line length of the mandible, measured in the same plane for which the HL measurement is taken, from the man- dibular apex to the transverse through the anteriormost point of the clypeal margin. Mandibular index (MI). ML x 100 HL Mesosoma index (MSI). PW X 100 WL Pronotum width (PW). The maximum width of the pronotum in dorsal view. Scape index (SI). SLx 100 HW Scape length (SL). The maximum straight-line length of the antennal scape excluding the basal constric-</tax:p>
+        <tax:figure>
+            <tax:p>Figs. 1-2. 1. Head of Strumigenys Fr. Smith worker in full face view, illustrating the measurement of frontal carinal distance (FCD), head length (HL), head width (HW), mandiblular length (ML) and scape length (SL). 2 Mesosoma of Strumigenys Fr. Smith worker in dorsal view, illustrating the measurement of pronotum width (PW) and Weber's length of mesosoma (WL).</tax:p>
+        </tax:figure>
+        <tax:p>-------------------------------- page break --------------------------------</tax:p>
+        <tax:p>tion or neck close to the condylar bulb.</tax:p>
+        <tax:p>Total length (TL). The total outstretched length of the ant from mandibular apex to the gastral apex, Weber's length of mesosoma (WL). The diagonal length of the mesosoma in profile from the point at which the pronotum meets the cervical shield to the posterior base of the meta- pleuron.</tax:p>
+        <tax:p>Strumigenys Fr. Smith</tax:p>
+        <tax:p>Strumigenys Fr. Smith, 1860. J. Entomol. 1: 72. Type-species: Strumigenys man- dibularis Fr. Smith, 1860: 72, by monotypy.</tax:p>
+        <tax:p>Labidogenys Roger, 1862. Berl. Entomol. Zeit. 6: 249. Type-species: Labidogenys lyroessa Roger, 1862: 251, pl. 1. fig. 17, by monotypy. (Synonymy by Brown, 1959. Psyche 66: 38)</tax:p>
+        <tax:p>Pyramica Roger, 1862. Berl. Entomol. Zeit. 6: 251. Type-species: Pyramica gundlachi Roger, 1862: 253, pl. 1. fig. 18, by monotypy. (Synonymy by Brown, 1959. Psyche 66: 37)</tax:p>
+        <tax:p>Proscopomyrmex Patrizi, 1946. Boll. En- tomol. Univer. Bologna 15: 294. Type- species: Proscopomyrmex londianensis Patrizi, 1946: 295, fig 1, 2, by mono- typy. (Synonymy by Brown, 1949. Mushi 20: 15)</tax:p>
+        <tax:p>Eneria Donisthorpe, 1948. Ann. Mag. Nat. Hist. 14: 598. Type-species: Eneria excisa Donisthorpe, 1948: 598, fig. 1 (= Strumigenys loriae Emery), by original designation. (Synonymy by Brown, 1949. Mushi 20: 15)</tax:p>
+        <tax:p>All the Taiwanese species of the genus Strumigenys belong to the gode- ffroyi-group in Brown (1959). This spe- cies-group differs from other groups by the following combination of characters: no preocular notch in the ventrolateral margin of head: mandibles slender, sickle- or hook-like at apex, with a pair of spiniform preapical teeth or reduced; apical fork with 2, 3 or 4 spiniform teeth; presence of long projecting fine hairs on the dorsal (outer) surface of the hind tibia and basitarsus; spongiform ap- pendages on propodeum, petiole and post- petiole.</tax:p>
+        <tax:p>Key to the species of Strumigenys in Taiwan</tax:p>
+        <tax:p>1. Anterior clypeal margin deeply con- cave medially (Fig. 3) ..........................S. formosensis Forel</tax:p>
+        <tax:p>— Anterior clypeal margin transverse (Figs. 4-8).......................................2</tax:p>
+        <tax:p>2. Dorsolateral margin of head behind level of eye. with 1 or more laterally projecting flagellate hairs; simple hairs may be present........................3</tax:p>
+        <tax:p>— Dorsolateral margin of head behind level of eye without laterally proje- cting flagellate hairs; simple hairs may be present.......................................7</tax:p>
+        <tax:p>3. Head and mesosoma with flocculent hairs and lacunose sculpture (Fig. 5); head dorsolaterally with 3 pairs of long flagellate hairs (Fig. 20); man- dible with a pair of spiniform preap- ical teeth or reduced (Figs. 5, 20); apical fork with an intercalary den- ticle between spiniform teeth; propode- al teeth acute and well developed....... ...........................S. lacunosa sp. nov.</tax:p>
+        <tax:p>— Head with spatulate hairs (Figs. 4, 7, 8); head dorsolaterally with 2 pairs of long flagellate hairs at most; mandible with a pair of acute spiniform preap- ical teeth, apical fork with 1 or 2 intercalary denticle between spiniform teeth; propodeal teeth spongiform......4</tax:p>
+        <tax:p>4. First gastral tergite with 5 pairs of long flagellate hairs at most (Fig. 36); dorsolateral border of head posteriorly without erect hair (Fig. 35)..............5</tax:p>
+        <tax:p>— First gastral tergite with numerous, long flagellate hairs (Fig. 31); dorsolateral border of head posteriorly with 3 pairs of erect hairs at least</tax:p>
+        <tax:p>
+Revision of the Ant Genus Strumigenys 
+139</tax:p>
+        <tax:p>-------------------------------- page break --------------------------------</tax:p>
+        <tax:p>(Fig. 30).........................................6</tax:p>
+        <tax:p>5. Medium species. TL 2.20-2.44 mm: mandible relatively long, MI&gt;45. straight in full face view; propodeum smooth and shining in most part; eye with 6 ommatidia.......S. trada sp. nov.</tax:p>
+        <tax:p>— Smaller species. TL 1.70-1.96 mm; man- dible relatively short. MI&lt;37, arcuate in full face view (Fig. 7); propodeum microreticulate; eye consisting of 9-1 ommatidia ...................................... .........S. minutula Terayama &amp; Kubot</tax:p>
+        <tax:p>6. Dorsum of promesonotum with numer- ous. short curved hairs (Fig. 13); siz relatively small, TL 2.20-2.22 mm; eye relatively large, consisting of 28-2</tax:p>
+        <tax:figure>
+            <tax:p>Figs. 3-8. Heads in dorsal view. 3, Strumigenys formosensis Forel; 4, S. godeffroyi Mayr; 5, 5. lacunosa sp. nov.; 6, S. liukueiensis Terayama &amp; Kubota; 7, S. minutula Terayama &amp; Kubota; 8, S. solifontis Brown.</tax:p>
+        </tax:figure>
+        <tax:p>-------------------------------- page break --------------------------------</tax:p>
+        <tax:p>ommatidia; in female, mesosoma in profile with scutum convex (Fig. 34)--- ......................S. nanzanensis sp. nov.</tax:p>
+        <tax:p>— Dorsum of promesonotum with few short curved hairs (Fig. 10); size relatively medium. TL 2.36-2.44 mm; eye relatively small, consisting of 10-13 ommatidia; in female, mesosoma in</tax:p>
+        <tax:p>profile with scutum even.................... .............................S. godeffroyi Mayr</tax:p>
+        <tax:p>7. First gastral tergite with numerous simple erect hairs (Fig. 26)...............8</tax:p>
+        <tax:p>— First gastral tergite with long flagel- late hairs, without simple erect hairs (Fig. 16).........................................9</tax:p>
+        <tax:p>8. Cephalic dorsum with numerous long</tax:p>
+        <tax:figure>
+            <tax:p>Figs. 9-14 Mesosoma in dorsal view 9, Strumigenys formosensis Forel, 10, 5. godeffroyi Mayr; 11, S. iacunosa sp nov.; 12, S. liukueiensis Terayama &amp; Kubota; 13, 5. nanzanensis sp. nov; 14, S. solifontis Brown.</tax:p>
+        </tax:figure>
+        <tax:p>
+Revision of the Ant Genus Strumigenys 
+141</tax:p>
+        <tax:p>-------------------------------- page break --------------------------------</tax:p>
+        <tax:p>erect hairs (Fig. 6); dorsal margin of antennal scrobe with long erect hairs; dorsum of mesosoma with 8 pairs of long erect hairs at least (Fig. 12); larger species, TL 2,5-2.7 mm .....S. liukueiensis Terayama &amp; Kubota</tax:p>
+        <tax:p>— Cephalic dorsum with erect hairs only in posterolateral area (Fig, 25); dorsa. margin of antennal scrobe with short narrowly spatulate hairs: dorsum o; mesosoma with 6 pairs of long erect hairs at most: smaller species. TL 2.10</tax:p>
+        <tax:figure>
+            <tax:p>Figs. 15-24. 15-19. Strumigenys hispida sp. nov.; 15, head, full face view, worker; 16, profile, worker; 17, apical fork of mandible, end-on view, worker; 18, head, full face view, female; 19, profile, female. 20-24. Strumigenys lacunosa sp. nov.; 20, head, full face view, worker; 21, profile, worker; 22, apical fork of mandible, end-on view, worker; 23, head, full face view, female; 24, profile, female.</tax:p>
+        </tax:figure>
+        <tax:p>-------------------------------- page break --------------------------------</tax:p>
+        <tax:p>2.14 mm.............S. lichiaensis sp. nov.</tax:p>
+        <tax:p>9. Numerous, long flagellate hairs on first gastral tergite; with propodeal teeth acute; propodeal lamellae well developed; in female, mesosoma in profile with scutum convex ................ ............................S. solifontis Brown</tax:p>
+        <tax:p>— Sparse, long flagellate hairs on first gastral tergite (Fig. 16); propodeal teeth spongiform; in female, mesosoma in profile with scutum even (Fig. 19) .. .............................S. hispida sp. nov.</tax:p>
+        <tax:p>Strumigenys formosensis Forel (Figs. 3, 9)</tax:p>
+        <tax:p>Strumigenys feae var. formosensis Forel,</tax:p>
+        <tax:p>1912. Entomol. Mitt. 1: 52. Strumigenys formosensis Forel: Brown,</tax:p>
+        <tax:p>1949. Mushi 20: 19, 24.</tax:p>
+        <tax:p>Material examined: ILAN HSIEN: Fushan, 1 female, 8 workers, 10.X.1992, CCL: 16 workers, 10.X.1992, CCL; 1 fema- le, 47 workers, 10.X.1992, CCL. KEELU- NG CITY: Paomingsu, 1 worker, 16.VI. 1992. CCL. NANTOU HSIEN: Hui- sunlinchang. 3 females, 49 workers, 13.XII.1992. CCL; 5 workers, 14.XII.1992, CCL: 1 female, 20 workers, 14.XII.1992, CCL: 2 female, 75 workers. 14.XII.1992, CCL; 4 workers, 21.VI.1993, CCL; Lie- nhuachih, 11 workers, 13.XI.1992, CCL; Lushan, 2 workers, 17.X.1993, CCL. PI- NTUNG HSIEN: Renting. 1 female, 80 workers, 25.IV.1992, CCL: 1 female. 75 workers, 25.IV.1992, CCL; 1 female, 98 workers. 25.IV. 1992, CCL; 1 female. 57 workers, 26.IV.1992. CCL: 1 female, 10 workers, 26.IV.1992, CCL. TAIPEI CITY: Shuangchi. 1 female. 24 workers, 4.VI.1988, CCL: TAIPEI HSIEN: Hsintien, 8 workers. 11.VI.1992, CCL; 15 workers. 13.VI.1992, CCL: 1 female. 1.X.1992. CCL: Wulai, 1 female. 22 workers, 2.X.1992, CCL. TAITUNG HSIEN: Chihpen, 6 workers, 5. XI. 1994. CCL.</tax:p>
+        <tax:p>Distribution: Taiwan.</tax:p>
+        <tax:p>Remarks: This species is easily dis-</tax:p>
+        <tax:p>tinguished from the other Taiwanese congeners by the following combination of characters: (1) mandible sickle-like at extreme apex; (2) anterior border of clypeus deeply concave medially (Fig. 3); (3) cranium with numerous, short, broad spatulate hairs (Fig. 3). It is a pleistoendemic species of the genus in Taiwan, and widely distributed in the low-middle elevation zone of the island.</tax:p>
+        <tax:p>Strumigenys godeffroyi Mayr (Figs. 4, 10)</tax:p>
+        <tax:p>Strumigenys godeffroyi Mayr, 1866. Sber. Akad. wiss. Wien 53: 516.</tax:p>
+        <tax:p>Strumigenys godeffroyi var. indica Forel, 1902. Rev. Suisse Zool. 10: 243.</tax:p>
+        <tax:p>Strumigenys godeffroyi var. butteli Forel, 1913. Zool. Jahrb. Syst. 36: 83.</tax:p>
+        <tax:p>Material examined. ILAN HSIEN: Fushan, 1 female, 59 workers, 10.X.1992, CCL; 3 females, 67 workers, 6.XI.1992, CCL; 3 females, 38 workers, 6.XI.1992. CCL; 2 females, 42 workers, 6.XI.1992, CCL; 1 female, 63 workers, 6.XI.1992, CCL; 1 worker, 10.V1I.1993. CCL; 2 fema- les, 24 workers, 27. U. 1994, CCL; 1 female. 38 workers, 1.111.1994, CCL. NANTOU HSIEN: Huisunlinchang, 1 female, 14. XI. 1992, CCL. TAIPEI HSIEN: Chuchih, 2 workers, 13.VI.1992, CCL; 12 workers, 13. VI.1992, CCL; Hsintien, 2 workers. 4.V.1992, CCL; Wulai, 1 worker, 2.X.1992. CCL; Yinhotung, 2 females, 35 workers, 24.V11.1992, CCL.</tax:p>
+        <tax:p>Distribution: Fiji, Hawaiian Is.. N. Australia, New Guinea, Philippine Is., S. India, Samoa, Solomon Is., Sri Lanka, Sunda Is., Taiwan (new record), Tonga, Vanuatu.</tax:p>
+        <tax:p>Remarks: This species resembles S. lewisi Cameron from Japan, Korea, China and Burma. S. solifontis Brown, and S. liukueiensis Terayama &amp; Kubota from Taiwan in general appearance. However, it is distinguished from the latter 3 by the dorsum of promesonotum with 2 pairs of</tax:p>
+        <tax:p>
+Revision of the Ant Genus Srumigenys 
+143</tax:p>
+        <tax:p>-------------------------------- page break --------------------------------</tax:p>
+        <tax:figure>
+            <tax:p>Figs. 25-37. 25-29. Strumigenys lichiaensis sp. nov.; 25, head, full face view, worker; 26, profile, worker; 27, apical fork of mandible, end-on view, worker; 28, head, full face view, female; 29, profile, female. 30-34. Strumigenys nanzanensis sp. nov.; 30, head, full face view, worker; 31, profile, worker; 32, apical fork of mandible, end-on view, worker; 33, head, full face view, female; 34, profile, female. 35-37. Strumigenys trada sp. nov.; 35, head, full face view, worker; 36, profile, worker; 37, apical fork of mandible, end-on view, worker.</tax:p>
+        </tax:figure>
+        <tax:p>-------------------------------- page break --------------------------------</tax:p>
+        <tax:p>long flagellate hairs (Fig. 10). This is the 1st record of this species from Taiwan and is the northern limit in distribution of this species. This species is widely distributed from Australia through Ocea- nia, Indonesia, and the Philippines, to South Asia.</tax:p>
+        <tax:p>Strumigenys hispida sp. nov. (Figs. 15-19)</tax:p>
+        <tax:p>Holotype Worker: TL: 2.8 mm, HL:</tax:p>
+        <tax:p>0.73 mm, HW: 0.67 mm, SL: 0.45 mm, ML: 0.35 mm, FCD: 0.21 mm, PW: 0.34 mm, WL: 0.84 mm, CI: 92, MI: 48, SI: 67, FCI: 31, MSI: 40.</tax:p>
+        <tax:p>Head as in Fig. 15, microreticulate sculpture, with short, narrowly spatulate hairs on cranium. Posterior portion of head with a row of erect hairs. Mandible hook-like at extreme apex, slender in full face view; external margin very shallowly and evenly convex; internal margin almo- st straight. Preapical teeth of mandible prominently spiniform; apical fork with 2 spiniform teeth, and 2 intercalary den- ticles (Fig. 17). Anterior clypeal margin transverse. Antenna 6-segmented, in ratio of 13: 3: 1: 1: 3.5: 8.5 in length from base; scape microreticulate, with a row of narrowly spatulate hairs; 2nd segment 2 X as long as wide; 3rd and 4th segments each as long as wide; 5th segment 2 X as long as wide; apical segment 4.5 X as long as wide. Eye relatively small, 0.06 mm in maximum diameter, consisting of 8 omma- tidia.</tax:p>
+        <tax:p>Dorsum of promesonotum microre- ticulate sculpture, with erect hairs pres- ent on dorsum of mesosoma (Fig. 16). Mesopleuron and metapleuron smooth and shining in most part. Propodeum microreticulate sculpture. Propodeal la- mellae well developed.</tax:p>
+        <tax:p>Petiole peduncle long and node con- vex, microreticulate sculpture, with erect hairs. Spongiform appendages of pedicel segments well developed.</tax:p>
+        <tax:p>First gastral tergite smooth and shi- ning, with sparse long flagellate hairs. Body yellow.</tax:p>
+        <tax:p>Paratype: workers Ten paratype workers with the following measurements and indices: TL: 2.70-2.90 mm, HL: 0.71-0.74 mm, HW: 0.66-0.68 mm, SL: 0.44-0.47 mm, ML: 0.34-0.36 mm, FCD: 0.20-0.22 mm, PW: 0.33-0.35 mm, WL: 0.83- 0.86 mm, CI: 90-93, MI: 46-49, SI: 63-67, FCI: 30-33, MSI: 39-42.</tax:p>
+        <tax:p>Paratype females: Five paratype females with the following measurements and indices: TL: 2.80-3.00 mm, HL: 0.74-0.75 mm, HW: 0.56-0.60 mm, SL: 0.41-0.43 mm, ML: 0.39-0.42 mm, FCD: 0.26-0.28 mm, PW: 0.38-0.39 mm, WL: 0.81- 0.83 mm, CI: 78-80, MI: 51-53, SI: 70-72, FCI: 45-57, MSI: 46-48.</tax:p>
+        <tax:p>General shape of head and mesosoma as shown in Figs. 18-19. Head and antenn- al scape microreticulate sculpture. Head with narrowly spatulate hairs in cranium; posterior border of head with a row of erect hairs. Compound eye large. Ocelli relatively large, each with blackened callus.</tax:p>
+        <tax:p>Mesosoma in profile relatively more even dorsally, arching from anteriormost of mesonotum to posteriormost of meta- notum (Fig. 19). Propodeal lamellae well developed. Dorsum of mesosoma with numerous, short erect hairs. Erect hairs sparsely present on dorsa of mesosoma, petiole, postpetiole and 1st gastral tergite.</tax:p>
+        <tax:p>Body yellow.</tax:p>
+        <tax:p>Holotype: Worker, NANTOU HSIEN: Chitou, 30.XI.1992, CCL.</tax:p>
+        <tax:p>Paratypes: CHIAI HSIEN: Fenchifu, 7 workers, 3.LX.1992, CCL. ILAN HSIEN: Fushan, 5 females, 58 workers, 9.X. 1992, CCL. NANTOU HSIEN: Chitou, 1 female, 12 workers, 30.XI.1992, CCL (from the same nest as the holotype). TAIPEI HSIEN: Wulai, 1 worker, 2.X.1992, CCL.</tax:p>
+        <tax:p>Type depository: The holotype is preserved in the NTU, and paratypes in NTU and TARI.</tax:p>
+        <tax:p>Distribution: Taiwan.</tax:p>
+        <tax:p>Etymology: The species is named</tax:p>
+        <tax:p>
+Revision of the Ant Genus Strumigenys 
+145</tax:p>
+        <tax:p>-------------------------------- page break --------------------------------</tax:p>
+        <tax:p>from the Latin "hispidus", which means hair.</tax:p>
+        <tax:p>Remarks: This new species resembles S. solifontis Brown, but is distinguished from the latter by the lower number of hairs on the 1st gastral tergite, and much more developed propodeal lamellae. In female, mesosoma in profile is more even dorsally than that in S. solifontis.</tax:p>
+        <tax:p>Strumigenys lacunosa sp. nov. (Figs. 5, 11, 20-24)</tax:p>
+        <tax:p>Holotype Worker: TL: 2.8 mm. HL: 0.73 mm, HW: 0.58 mm, SL: 0.4 mm, ML: 0,35 mm, FCD: 0.18 mm, PW: 0.40 mm, WL: 0.82 mm, CI: 80, MI: 49, SI: 69, FCI: 32, MSI: 49.</tax:p>
+        <tax:p>Head as in Figs. 5 and 20, lacunose sculpture, with flocculent hairs on cra- nium; in full face view, dorsolateral borders of head posteriorly with 3 pairs of long flagellate hairs. Mandible hook-like at extreme apex, slender in full face view, external margin convex very shallowly and evenly, internal margin almost straight; preapical teeth of mandible pro- minently spiniform or reduced (Fig. 5); apical fork with 2 spiniform teeth, with an intercalary denticle (Fig. 22). Anterior clypeal margin transverse. Antenna 6-se- gmented, in ratio of 10: 1.5: 1: 1: 2.5: 7 in length from base; scape lacunose, with flagellate hairs; 2nd segment 1.2 X as long as wide; 3rd and 4th segments each shorter than broad; 5th segment 2 X as long as wide; apical segment 3.3 X as long as wide. Eye relatively small, 0.06 mm in maximum diameter, consisting of 13 ommatidia.</tax:p>
+        <tax:p>Dorsum of- promesonotum with lacu- nose sculpture, and with flocculent hairs and 2 pairs of long flagellate hairs (Fig. 11). Mesopleuron and metapleuron smooth and shining in most part. Propo- deum with lacunose sculpture. Propodeal teeth acute and well developed; lamellae weakly developed.</tax:p>
+        <tax:p>Petiole peduncle long and node weak- ly developed, with lacunose sculpture and with long flagellate hairs. Spongiform appendages of pedicel segments well devc loped.</tax:p>
+        <tax:p>First gastral tergite smooth and shi ning with numerous, long flagellate hairs Body reddish brown. Paratype workers: Forty-three para type workers with the following measure ments and indices: TL: 2.80-3.00 mm. HL 0.70-0.75 mm, HW: 0.58-0.60 mm. SL 0.40-0.41 mm. ML: 0.35-0.36 mm. FCD 0.18-0.20 mm. PW: 0.39-0.41 mm. WL: 0.82 0.84 mm, CI: 77-86. MI: 47-51. SI: 67-71 ECI: 30-34, MSI: 46-49.</tax:p>
+        <tax:p>Paratype females: Two paratyp. females with the following measurement; and indices: TL: 3.36-3.38 mm. HL 0.78-0.82 mm. HW: 0.70-0.72 mm. SL 0.45-0.46 mm. ML: 0.36-0.37 mm. FCD 0.22-0.23 mm. PW: 0.50-0.51 mm. WL: 1.00 1.02 mm. CI: 85-92. MI: 44-47, SI: 63-66 FCI: 31-32. MSI: 50.</tax:p>
+        <tax:p>General shape of head and mesosoma as shown in Figs. 23-24. Head and antenn- al scapes with lacunose sculpture, floccu- lent hairs on cranium; dorsolateral bo rders of head posteriorly with 3 pairs of long flagellate hairs in full face view Compound eye large. Ocelli relatively large, each with blackened callus.</tax:p>
+        <tax:p>Mesosoma in profile moderately con- vex dorsally, arching from anteriormost of mesonotum to posteriormost of meta- notum (Fig. 24). Propodeal teeth acute, well developed; lamellae weakly deve- loped. Dorsum of mesosoma with floccu- lent hairs. Long flagellate hairs present on dorsa of mesosoma, petiole, postpetiole and 1st gastral tergite. Body reddish brown.</tax:p>
+        <tax:p>Holotype: Worker. TAIPEI HSIEN: Chuchih, 26. V.1988, CCL.</tax:p>
+        <tax:p>Paratypes: NANTOU HSIEN: Chi- tou, 1 female, 32 workers, 29.XI.1992, CCL; Lienhuachih, 1 worker, 31.X.1988, YCS. TAIPEI HSIEN: 1 female, 9 work- ers, 26. V. 1988, CCL (from the same nest as the holotype). TAITUNG HSIEN: Li-</tax:p>
+        <tax:p>-------------------------------- page break --------------------------------</tax:p>
+        <tax:p>chia, 1 worker, 29.III.1995, CCL, Type depository: The holotype is preserved in the NTU, and paratypes in NTU and TARI.</tax:p>
+        <tax:p>Distribution: Taiwan.</tax:p>
+        <tax:p>Etymology: The name of the new species refers to the lacunose sculptures on the head, mesosoma, petiole and postpetiole.</tax:p>
+        <tax:p>Remarks: This species is easily dis- tinguished from the other known species of the genus by the lacunose sculpture and flocculent hairs on the head, meso- soma, petiole and postpetiole. In different nests this species had 2 mandible-types in the preapical tooth, either spiniform or reduced.</tax:p>
+        <tax:p>Strumigenys lichiaensis sp. nov. (Figs. 25-29)</tax:p>
+        <tax:p>Holotype Worker: TL: 2.10 mm, HL: 0.63 mm, HW: 0.49 mm, SL: 0.44 mm, ML: 0.31 mm, FCD: 0.18 mm, PW: 0.29 mm, WL: 0.66 mm, CI: 78, MI: 49, SI: 90, FCI: 37. MS1: 44.</tax:p>
+        <tax:p>Head as in Fig. 25, microreticulate sculpture, with short, narrowly spatulate hairs on cranium. Posterior and dorsolateral borders of head posteriorly with slightly clavate erect hairs. Man- dible hook-like at extreme apex, slender in full face view; external margin very shallowly and evenly convex, internal margin almost straight. Preapical teeth of mandible prominently spiniform: apical fork with 2 spiniform teeth and 2 inter- calary denticles (Fig. 27). Anterior clype- al margin transverse. Antenna 6-segme- nted, in ratio of 15: 2.7: 1: 1: 5: 11 in length from base: scape microreticulate, with a row of narrowly spatulate hairs; 2nd segment 1.2 X as long as wide; 3rd and 4th segments each shorter than broad; 5th segment 2.5 X as long as wide: apical segment 3.6 X as long as wide. Eye relatively small. 0.07 mm in maximum diameter, consisting of 13 ommatidia.</tax:p>
+        <tax:p>Dorsum of promesonotum microre- ticulate sculpture, with short, narrowly spatulate hairs. Stout slightly clavate hairs present on the dorsum of mesosoma (Fig. 26). Mesopleuron and metapleuron smooth and shining in most part. Propo- deum microreticulate sculpture. Propode- al lamellae well developed.</tax:p>
+        <tax:p>Petiole peduncle long and node con- vex, microreticulate sculpture, with stout erect hairs. Spongiform appendages of pedicel segments well developed.</tax:p>
+        <tax:p>First gastral tergite smooth and shi- ning with numerous, stout and slightly clavate erect hairs.</tax:p>
+        <tax:p>Body yellow.</tax:p>
+        <tax:p>Paratype workers: One paratype worker with the following measurements and indices: TL: 2.14 mm, HL: 0.64 mm, HW: 0.49 mm, SL: 0.45 mm, ML: 0.31 mm, FCD: 0.19 mm, PW: 0.29 mm, WL: 0.66 mm, CI: 77, MI: 48, SI: 92, FCI: 39, MSI: 44.</tax:p>
+        <tax:p>Paratype female: One paratype fe- male with the following measurement and indices: TL: 2.78 mm, HL: 0.68 mm, HW: 0. 54 mm, SL: 0.47 mm, ML: 0.32 mm, FCD: 0.23 mm, PW: 0.38 mm, WL: 0.82 mm, CI: 78, MI: 47, SI: 87, FCI: 43, MSI: 46.</tax:p>
+        <tax:p>General shape of head and mesosoma as shown in Figs. 28-29. Head and antenn- al scapes microreticulate sculpture. Head with narrowly spatulate hairs on cra- nium; posterior and dorsolateral borders of head posteriorly with numerous, slight- ly clavate erect hairs. Compound eye large. Ocelli relatively large, each with blackened callus.</tax:p>
+        <tax:p>Mesosoma in profile relatively more even dorsally, arching from the ante- riormost of mesonotum to posteriormost of metanotum (Fig. 29). Propodeal lame- llae well developed. Dorsum of mesosoma with numerous, short erect hairs. Stout and slightly clavate erect hairs present on dorsa of mesosoma, petiole, postpetiole and 1st gastral tergite.</tax:p>
+        <tax:p>Body yellow.</tax:p>
+        <tax:p>Holotype: Worker. TAITUNG HSIEN: Lichia. 24. IV. 1995. CCL.</tax:p>
+        <tax:p>Revision of the Ant Genus Strumigenys</tax:p>
+        <tax:p>147</tax:p>
+        <tax:p>-------------------------------- page break --------------------------------</tax:p>
+        <tax:p>Paratypes: TAITUNG HSIEN: Li- chia. 1 female. 1 worker, 24.IV. 1995. CCL (from the same nest as the holotype).</tax:p>
+        <tax:p>Type depository: The types are preserved in the NTU.</tax:p>
+        <tax:p>Distribution: Taiwan.</tax:p>
+        <tax:p>Etymology: Named after Lichia. the type locality of this new species.</tax:p>
+        <tax:p>Remarks: This new species resembles S. liukueiensis Terayama &amp; Kubota from Taiwan. Both species are easily separated from the other Taiwanese congeners by the presence of numerous, stout erect hairs on dorsa of mesosoma and 1st gastral tergite. It is distinguished from the latter by the relatively small size in worker (TL&lt;2.2 mm in lichiaensis, TL&gt; 2.5 mm in liukueiensis) and the absence of erect hairs on the frontal area of head in worker and female.</tax:p>
+        <tax:p>Strumigenys liukueiensis Terayama &amp; Kubota (Figs. 6, 12)</tax:p>
+        <tax:p>Strumigenys liukueiensis Terayama &amp; Ku- bota. 1989. Jap. J. Entomol. 57: 785.</tax:p>
+        <tax:p>Material examined: KEELUNG CITY: Paommgsu, 2 workers, 26.VI. 1992, CCL.</tax:p>
+        <tax:p>Distribution: Taiwan.</tax:p>
+        <tax:p>Remarks: The species resembles S. solifontis Brown from Taiwan and Japan. However, it is distinguished from solifo- ntis (Figs. 8, 14) by the head and mesosoma with much more abundant, long erect hairs (Figs. 6. 12) and in female, the dorsal outline of mesosoma in profile relatively more even.</tax:p>
+        <tax:p>Strumigenys minutula Terayama &amp; Kubota (Fig. 7)</tax:p>
+        <tax:p>Strumigenys minutula Terayama &amp; Kubo- ta, 1989. Jap. J. Entomol. 57: 782</tax:p>
+        <tax:p>Material examined: KAOHSIUNG HSIEN: Maolin, 1 female, 87 workers, 19. XII.1992, CCL. PINTUNG HSIEN: Chia- leshui, 2 females. 33 workers. 18.XII 1992. CCL. TAITUNG HSIEN: Lanyu. 10 workers. 6.XI.1989. YCS.</tax:p>
+        <tax:p>Distribution: Taiwan. Japan.</tax:p>
+        <tax:p>Remarks: The species is easily dis tinguished from the other known specie; of the genus by its small size (TL 1.70-1.96 mm, in worker caste) and relatively shori and strongly arcuate mandibles (Fig. 7) This species is distributed in Taiwan anc Lanyu (Orchid Is.).</tax:p>
+        <tax:p>Strumigenys nanzanensis sp. nov (Figs. 13, 30-34)</tax:p>
+        <tax:p>Holotype Worker: TL: 2.22 mm. HL 0.60 mm. HW: 0.47 mm. SL: 0.38 mm. ML 0.27 mm. FCD: 0.18 mm. PW: 0.32 mm WL: 0.62 mm. CL 78. MI: 45, SI: 81. FCI 38. MSI: 52.</tax:p>
+        <tax:p>Head as in Fig. 30. microreticulate sculpture, with short, narrowly spatulate hairs on cranium: in full face view, dorsolateral borders of head posteriorly with a pair of long flagellate hairs. Mandible hook-like at extreme apex, sle- nder in full face view, external margin convex very shallowly and evenly, intern- al margin almost straight. Preapical teeth of mandible prominently spiniform; apical fork with 2 spiniform teeth and an intercalary denticle (Fig. 32). Anterior clypeal margin transverse. Antenna 6-se- gmented, in ratio of 15: 2.7: 1: 1: 5: 11 in length from base; scape microreticulate. with a row of narrowly spatulate hairs: 2 nd segment 1.2 X as long as wide: 3rd and 4th segments each shorter than broad; 5th segment 2.5 X as long as wide: apical segment 3.6 X as long as wide. Eye relatively large, 0.08 mm in maximum diameter, consisting of 30 ommatidia.</tax:p>
+        <tax:p>Dorsum of promesonotum microre- ticulate sculpture, with numerous, short curved hairs and narrowly spatulate hairs (Fig. 13). Long flagellate hairs present on dorsum of mesosoma (Fig. 31). Meso- pleuron and metapleuron smooth and shining in most part. Propodeum with</tax:p>
+        <tax:p>-------------------------------- page break --------------------------------</tax:p>
+        <tax:p>microreticulate sculpture. Propodeal la- mellae well developed: posterodorsal cor- ner rounded, not forming angle in lateral view.</tax:p>
+        <tax:p>Petiole peduncle long and node con- vex, microreticulate sculpture, with long flagellate hairs. Spongiform appendages of pedicel segments well developed.</tax:p>
+        <tax:p>First gastral tergite smooth and shi- ning with numerous, long flagellate hairs.</tax:p>
+        <tax:p>Body yellow.</tax:p>
+        <tax:p>Paratype workers: Six paratype workers with the following measurements and indices: TL: 2.20-3.22 mm, HL: 0.60-0.63 mm, HW: 0.46-0.47 mm, SL: 0.37-0.38 mm, ML: 0.27-0.28 mm, FCD: 0.18-0.20 mm. PW: 0.30-0.32 mm, WL: 0.60- 0.63 mm, CI: 73-78. MI: 43-47. SI: 79-83. FCI: 38-39, MSI: 49-52.</tax:p>
+        <tax:p>Paratype females: Three paratype females with the following measurements and indices: TL: 2.55-2.58 mm, HL: 0.63-0.64 mm. HW: 0.55-0.55 mm, SL: 0.40-0.41 mm. ML: 0.32-0.34 mm, FCD: 0.18-0.19 mm. PW: 0.37-0.40 mm, WL: 0.78- 0.79 mm. CI: 86-87. MI: 51-53. SI: 72-74. FCI: 33-34. MSI: 47-51.</tax:p>
+        <tax:p>General shape of head and mesosoma as shown in Figs. 33-34. Head and antenn- al scape microreticulate sculpture. Head with narrowly spatulate hairs on cra- nium; in full face view, dorsolateral borders of head posteriorly with a pair of long flagellate hairs. Compound eye la- rge. Ocelli relatively large, each with blackened callus.</tax:p>
+        <tax:p>Mesosoma in profile more convex dorsally. arching from anteriormost of mesonotum to posteriormost of meta- notum (Fig. 34). Propodeal lamellae well developed. Dorsum of mesosoma with numerous, short curved hairs and narrow- ly spatulate hairs. Long flagellate hairs present on the dorsa of mesosoma, petiole, postpetiole and 1st gastral tergite. Body yellow.</tax:p>
+        <tax:p>Holotype: Worker. PINTUNG HSIEN": Nanzanshan. 17.XII. 1992. CCL. Paratypes: PINTUNG HSIEN: Na- nzanshan, 3 females, 6 workers. 17.XII.1992, CCL (from the same nest as the holotype).</tax:p>
+        <tax:p>Type depository: The holotype is preserved in the NTU, and paratypes in NTU and TARI.</tax:p>
+        <tax:p>Distribution: Taiwan.</tax:p>
+        <tax:p>Etymology: Named after Nanza- nshan, the type locality.</tax:p>
+        <tax:p>Remarks: This new species resembles S. minutula Terayama &amp; Kubota from Taiwan and Japan. However, it is dis- tinguished from the latter by the meso- soma with much more abundant, short narrowly spatulate hairs and the almost straight mandibular shafts. In female, dorsal outline of mesosoma in profile is more strongly convex than that of S. minutula.</tax:p>
+        <tax:p>Strumigenys solifontis Brown (Figs. 8, 14)</tax:p>
+        <tax:p>Strumigenys solifontis Brown, 1949. Mushi 20: 18.</tax:p>
+        <tax:p>Material examined: HUALIEN HSIEN: Liyuchih, 2 females, 18 workers, 12.XI.1994, CCL. ILAN HSIEN: Fushan, 1 worker, 10.VII.1991, CCL; Nanao, 1 worker. 7.VI.1992, CCL. KAOHSIUNG HSIEN: Chuyunshan, 7 workers. 24.1.1994. CCL. Shanping, 6 workers. 9.V.1992. CCL. KEELUNG City: Paomingsu. 6 workers, 26. VI.1992, CCL. NANTOU HSIEN: Chi- tou, 2 females. 86 workers. 29.XI.1992. CCL; Lienhuachih, 12 workers. 10.VII. 1992. CCL; 6 females, 24 workers, 12.XI.1992, CCL: 1 female, 20 workers, 12.XI.1992. CCL: 4 females. 29 workers. 12.XI.1992. CCL: 2 females. 23 workers. 12.XI.1992. CCL; 2 females. 47 workers, 12.XI. 1992. CCL; 1 female. 54 workers. 30.XI.1992. CCL: Nanshanchi. 1 female. 15 workers. 9. V.1994. CCL. TAICHUNG HSIEN: Chia- paotai. 1 worker, 16. V. 1992. ISS. TAIPEI HSIEN: Chiuhsiunglin, 1 female. 2 work- ers. 2.VI. 1992. CCL: Chuchih. 1 worker. 26. II.1992. CCL: 19 females. 68 workers. 1.</tax:p>
+        <tax:p>
+Revision of the Ant Genus Strumigenys 
+149</tax:p>
+        <tax:p>-------------------------------- page break --------------------------------</tax:p>
+        <tax:p>X.1992, CCL; Hsintien, 7 workers, 4.V.1992, CCL; 6 workers, 4.V.1992, CCL; 6 workers, 4.V.1992, CCL; 6 females, 16 workers, 4.V.1992, CCL; 8 workers. 4, V.1992, CCL; 3 workers, 4.V.1992, CCL; 1 female, 4 workers, 11.VI.1992, CCL; 2 females, 45 workers, 24.VII. 1992. CCL; 1 female. 22 workers. 24.VII.1992, CCL; Wu- lai, 12 females, 16 workers, 2.X.1992, CCL; 1 worker, 2.X.1992. CCL; 2 workers, 9.IX.1994, CCL. TAITUNG HSIEN: Chi- hpen, 1 female, 9 workers, 5.XI.1994, CCL; Chinshuiying, 2 females, 10 workers, 19.IV.1994, CCL; Hsinchangshan, 1 female, 12 workers, 27.IV.1994, CCL; Lichia, 3 workers, 28.III.1994, CCL. Yenping, 3 workers, 29.VTf.1992, CCL; 9 workers, 29.VTI.1992, CCL; 18 workers, 29.VII.1992, CCL; 4 workers, 31.VII.1992, CCL; 1 fema- le, 5 workers, 29.VII.1992, CCL. TAOYUAN HSIEN: Hsiaowulai, 2 work- ers, 29. LX.1994, CCL.</tax:p>
+        <tax:p>Distribution: Taiwan, Japan.</tax:p>
+        <tax:p>Remarks: As S. formosensis, this species is a pleistoendemic species of the genus in Taiwan and widely distributed on the island.</tax:p>
+        <tax:p>Strumigenys trada sp. nov. (Figs. 35-37)</tax:p>
+        <tax:p>Holotype Worker: TL: 2.27 mm, HL: 0.66 mm, HW: 0.46 mm, SL: 0.42 mm, ML: 0.31 mm. FCD: 0.20 mm, PW: 0.28 mm, WL: 0.66 mm, CI: 70, MI: 47. SI: 91, FCI: 43, MSI: 42.</tax:p>
+        <tax:p>Head as in Fig. 35, microreticulate sculpture, with short, narrowly spatulate hairs on cranium; in full face view, dorsolateral borders of head posteriorly with a pair of long flagellate hairs in full face view. Mandible hook-like at extreme apex, slender in full face view, external margin very shallowly and evenly convex; internal margin almost straight. Preapical teeth of mandible prominently spiniform; apical fork with 2 spiniform teeth and 2 intercalary denticles (Fig. 37). Anterior clypeal margin transverse. Antenna 6-se- gmented, in ratio of 15: 3.2: 1: 1: 4.8: 11 in length from base; scape mircoreticulate. with a row of narrowly spatulate hairs; 2 nd segment 2 X as long as wide; 3rd and 4 th segments each shorter than broad; 5th segment 2.8 X as long as wide; apical segment 5 X as long as wide. Eye relatively small, 0.04 mm in maximum diameter, consisting of 6 ommatidia.</tax:p>
+        <tax:p>Dorsum of promesonotum smooth and shining in most part and with sparse, short curved hairs and narrowly spatulate hairs. Two pairs of long flagellate hairs present on dorsum of pronotum (Fig. 36). Mesopleuron, metapleuron and mota- notum smooth and shining in most part Propodeal lamellae well developed; poste- rior border straight and posterodorsal corner dull angulate in lateral view.</tax:p>
+        <tax:p>Petiole peduncle long and node con- vex, microreticulate sculpture, with erect hairs. Spongiform appendages of pedicel segments well developed.</tax:p>
+        <tax:p>First gastral tergite smooth and shi- ning with more than 5 pairs of erect hairs.</tax:p>
+        <tax:p>Body yellowish brown.</tax:p>
+        <tax:p>Holotype: Worker, TAIPEI HSIEN. Wulai, 2.X.1992. CCL.</tax:p>
+        <tax:p>Type depository: The holotype is preserved in the NTU.</tax:p>
+        <tax:p>Distribution: Taiwan.</tax:p>
+        <tax:p>Etymology: The species is named from the Latin "trade", which means change.</tax:p>
+        <tax:p>Remarks: This new species is closely related to S. godeffroyi Mayr, but is separable from it by the following charac- ters: (1) smaller size (TL&gt;2.35 mm in godeffroyi, TL&gt;2.22 mm in trada); (2) pronotum, mesonotum and propodeum smooth and shining in most part (micro- reticulate in godeffroyi); (3) 1st gastral tergite without long flagellate hairs, erect hairs present (with about 7 pairs of hairs in godeffroyi); (4) eye relatively small and consisting of 6 ommatidia (more than 10 ommatidia in godeffroyi). Only 1 specimen was collected from Wulai in</tax:p>
+        <tax:p>-------------------------------- page break --------------------------------</tax:p>
+        <tax:p>northern Taiwan.</tax:p>
+        <tax:p>Acknowledgments</tax:p>
+        <tax:p>We wish to thank Dr. B. Bolton, British Museum of Natural History, and Dr. M. Terayama, University of Tokyo, for reviewing the manuscript. This work was funded by the National Science Council, Republic of China (NSC-82-0409- B-002-070 &amp; NSC-84-2321-B-002-119).</tax:p>
+        <tax:p>References</tax:p>
+        <tax:p>Bolton, B. 1983. The Afrotropical daceti- ne ants (Formicidae). Bull. Br. Mus. Nat. Hist. (Entomol.) 46: 267-416.</tax:p>
+        <tax:p>Bolton, B. 1995. A taxonomic and zoo- geographical census of the extant ant taxa (Hymenoptera: Formicidae). J. Natur. Hist. 29: 1037-1056.</tax:p>
+        <tax:p>Brown, W. L, Jr. 1948. A preliminary generic revision of the higher Daceti- ni. Trans. Amer. Entomol. Soc. 74: 101-109!</tax:p>
+        <tax:p>Brown, W. L, Jr. 1949. Revision of the ant tribe Dacetini. I. Fauna of Japan, China and Taiwan. Mushi 20: 1-25.</tax:p>
+        <tax:p>Brown, W. L. Jr. 1953. Revisionary studies; in the ant tribe Dacetini. Amer. Midi. Natur. 50: 1-137.</tax:p>
+        <tax:p>Brown, W, L, Jr. 1954. The ant genus Strumigenys Fr. Smith in the Ethio- pian and Malagasy regions. Bull. Mus. Comp. Zool. Harvard College 112: 1-34.</tax:p>
+        <tax:p>Brown, W. L, Jr. 1956. The Indo- Australian species of the ant genus Strumigenys Fr. Smith: three new Philippine species. Psyche 63: 113-118. Brown, W. L, Jr. 1959. The In- do-Australian species of the ant ge- nus Strumigenys Fr. Smith: group of S. godeffroyi in Borneo. Psyche 65: 81- 89.</tax:p>
+        <tax:p>Brown, W. L, Jr. 1973. The In- do-Australian species of the ant ge- nus Strumigenys: groups of horvathi, mayri and wallacei. Pacif. Insects 15: 259-269.</tax:p>
+        <tax:p>Brown, W. L. Jr., and E. O. Wilson.</tax:p>
+        <tax:p>1959. The evolution of the dacetine ants. Quart. Rev. Biol. 34: 278-294. Dlussky, G. M. 1994. Ants (Hymen- optera, Formicidae) of Fiji. Tonga. Samoa and the problem of formation of island fauna. Entomol. Rev. 73: 110-122.</tax:p>
+        <tax:p>Forel, A. 1912. H. Sauter's Formosa- Ausbeute. Formicidae (Hymen- optera). Entomol. Mitt. 1: 45-61, 67-81.</tax:p>
+        <tax:p>Terayama, M., and S. Kubota. 1989. The ant tribe Dacetini (Hymen- optera: Formicidae) of Taiwan, with descriptions of three new species. Jap. J. Entomol. 57: 778-792</tax:p>
+        <tax:p>Wheeler, W. M. 1929. Ants collected by Professor F. Silvestri in Formosa, the Malay Peninsula and the Philippines. Boll. Lab. Zool. Gen. Agrar. Portici 24: 27-64.</tax:p>
+        <tax:p>Received for publication June 22. 1996;</tax:p>
+        <tax:p>Revised manuscript accepted August 19, 1996.</tax:p>
+    </tax:taxonxBody>
+</tax:taxonx>
