@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?><tax:taxonx xmlns:dc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.taxonx.org/schema/v1 http://www.taxonx.org/schema/v1/taxonx1.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-1.xsd http://digir.net/schema/conceptual/darwin/2003/1.0 http://digir.net/schema/conceptual/darwin/2003/1.0/darwin2.xsd">
+    <tax:taxonxHeader>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>A new ant genus from the southwestern United States.</mods:title>
+            </mods:titleInfo>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:name type="personal">
+                <mods:role>
+                    <mods:roleTerm>Author</mods:roleTerm>
+                </mods:role>
+                <mods:namePart>Cover, S. P.</mods:namePart>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:role>
+                    <mods:roleTerm>Author</mods:roleTerm>
+                </mods:role>
+                <mods:namePart>Deyrup, M.</mods:namePart>
+            </mods:name>
+            <mods:relatedItem type="host">
+                <mods:titleInfo>
+                    <mods:title>Advances in ant systematics (Hymenoptera: Formicidae): Homage to E.O. Wilson - 50 years of contributions.</mods:title>
+                </mods:titleInfo>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Snelling, R. R.</mods:namePart>
+                </mods:name>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Fisher, B. L.</mods:namePart>
+                </mods:name>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Ward, P. S.</mods:namePart>
+                </mods:name>
+                <mods:originInfo>
+                    <mods:dateIssued>2007</mods:dateIssued>
+                    <mods:publisher>Memoirs of the American Entomological Institute, 80</mods:publisher>
+                </mods:originInfo>
+                <mods:part>
+                    <mods:extent unit="page">
+                        <mods:start>89</mods:start>
+                        <mods:end>99</mods:end>
+                    </mods:extent>
+                </mods:part>
+            </mods:relatedItem>
+            <mods:identifier type="HNS-PUB">21276</mods:identifier>
+            <mods:location>
+                <mods:url>http://plazi.org:8080/dspace/handle/10199/15367</mods:url>
+            </mods:location>
+        </mods:mods>
+    </tax:taxonxHeader>
+    <tax:taxonxBody>
+        <tax:p>A NEW ANT GENUS FROM THE SOUTHWESTERN UNITED STATES</tax:p>
+        <tax:p>Stefan Cover</tax:p>
+        <tax:p>Department of Entomology</tax:p>
+        <tax:p>Museum of Comparative Zoology</tax:p>
+        <tax:p>26 Oxford Street, Cambridge</tax:p>
+        <tax:p>MA 02138. USA</tax:p>
+        <tax:p>cover @ oeb. harvard. edu</tax:p>
+        <tax:p>and</tax:p>
+        <tax:p>Mark Deyrup Archbold Biological Station,</tax:p>
+        <tax:p>P. O. Box 2057</tax:p>
+        <tax:p>Lake Placid, FL 33852. USA</tax:p>
+        <tax:p>MDeyrup @ archbold-station. org</tax:p>
+        <tax:p>ABSTRACT</tax:p>
+        <tax:p>
+A new ant, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223487" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Dolopomyrmex</dc:Genus>
+                    <dc:Species>pilatus</dc:Species>
+                </tax:xmldata>Dolopomyrmex pilatus</tax:name>
+(
+new genus
+, 
+new species
+), is described from the southwestern United States. The ant belongs to the subfamily 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+and is placed in the tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2312" source="HNS"/>Solenopsidini</tax:name>
+, as defined by Bolton (1987, 2003). Within the tribe it seems closer to the Old World genera 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2343" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Anillomyrma</dc:Genus>
+                </tax:xmldata>Anillomyrma</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24894" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Bondroitia</dc:Genus>
+                </tax:xmldata>Bondroitia</tax:name>
+, rather than the New World genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24872" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Tranopelta</dc:Genus>
+                </tax:xmldata>Tranopelta</tax:name>
+, as previously suggested by some. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223487" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Dolopomyrmex</dc:Genus>
+                    <dc:Species>pilatus</dc:Species>
+                </tax:xmldata>D. pilatus</tax:name>
+appears to be almost exclusively subterranean, which may account for the rarity with which it has been collected. Brief observations on a living colony fragment revealed that the workers fed only on termite nymphs and the brood of other ants.
+</tax:p>
+        <tax:p>
+Key words: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2312" source="HNS"/>Solenopsidini</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223486" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Dolopomyrmex</dc:Genus>
+                </tax:xmldata>Dolopomyrmex</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24872" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Tranopelta</dc:Genus>
+                </tax:xmldata>Tranopelta</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2343" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Anillomyrma</dc:Genus>
+                </tax:xmldata>Anillomyrma</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24894" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Bondroitia</dc:Genus>
+                </tax:xmldata>Bondroitia</tax:name>
+, desert, new genus, new species, United States, Mexico.
+</tax:p>
+        <tax:p>INTRODUCTION</tax:p>
+        <tax:p>
+Although the ant fauna of North America north of the Mexican border is diverse, consisting of an estimated 800 - 900 species, no new ant genus has been described from material collected in the United States or Canada since 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2392" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Mycetosoritis</dc:Genus>
+                </tax:xmldata>Mycetosoritis</tax:name>
+, described by William Morton Wheeler in 1907. The new genus described herein was first discovered in the southwestern United States, in the Madrean Archipelago region of southern Arizona, known as the “ Sky Islands. ” The exuberant ant fauna of this area is but a northern extension of the enormous, yet still poorly understood fauna of the Sierra Madre Occidentale of Mexico, and we expect other discoveries of comparable importance will be made as the ants of this region become better known. Additional collections of the new genus have been made in New Mexico and California from community types that, like the type locality, are clearly derived from the mountain and desert ecosystems of northern Mexico.
+</tax:p>
+        <tax:p>MATERIALS AND METHODS</tax:p>
+        <tax:p>Specimens were examined and measured using a Wild (now Leica) M- 5 A with micrometer. Measurement conventions and indices are as defined in Bolton (1987), with the exception of AL (alitrunk length), here recorded as ML (mesosoma length).</tax:p>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223486" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Dolopomyrmex</dc:Genus>
+                    </tax:xmldata>Dolopomyrmex</tax:name>
+, 
+new genus</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 1 - 3</tax:p>
+            </tax:div>
+            <tax:div type="diagnosis">
+                <tax:p>Diagnosis of Worker. Monomorphic subterranean myrmicine ants with the following combination of characters:</tax:p>
+                <tax:p>1) Palp formula 3,2</tax:p>
+                <tax:p>2) Mandible with 4 teeth and strongly oblique cutting margin, the largest gap between mandibular teeth separating the basal tooth from the third subapical tooth.</tax:p>
+                <tax:p>3) Clypeus ecarinate. Median clypeal seta absent, instead anterior margin with pair of long, ventrally curved setae, one on each side of the midpoint, flanked laterally by fringe of 5 - 6 long, forward-projecting setae on each side of the clypeal margin.</tax:p>
+                <tax:p>4) Median portion of clypeus narrow, strongly elevated, antennal insertions closely approximated.</tax:p>
+                <tax:p>5) Frontal lobes small, subtriangular, fully covering condylar bulbs of antennae. Frontal carinae absent.</tax:p>
+                <tax:p>6) Eyes vestigial or entirely absent, when present, consisting only of the remnant of a single ommatidium.</tax:p>
+                <tax:p>7) Antennae 11 segmented, with an enormous 3 segmented apical club longer than the remainder of the funiculus.</tax:p>
+                <tax:p>8) Mesosoma elongate, in profile, compressed laterally at promesonotal juncture with propodeum giving it a distinctive hourglass shape in dorsal view.</tax:p>
+                <tax:p>9) Metanotal impression present, propodeum lacking teeth or spines, in profile dorsally convex, with flat posterior face in side view.</tax:p>
+                <tax:p>10) Propodeal spiracle circular, of moderate size. Metapleural gland well-developed. Metapleural lobes small, rounded and inconspicuous.</tax:p>
+                <tax:p>11) Petiole with short, indistinct peduncle, node low, rounded, suborbicular in dorsal view. Subpetiolar process absent. Spiracle circular, located laterally on the anterior slope of the node.</tax:p>
+                <tax:p>12) Postpetiole low and rounded in profile, lacking a ventral projection or tooth, suborbicular in dorsal view.</tax:p>
+                <tax:p>
+13) Tergite and sternite of the fourth abdominal segment meeting to produce an angulate corner on each side of the postpetiole seen in dorsal view, as in the unrelated myrmicine genus 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24885" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pheidole</dc:Genus>
+                        </tax:xmldata>Pheidole</tax:name>
+.
+</tax:p>
+                <tax:p>14) Sting simple, robust.</tax:p>
+                <tax:p>15) Outer surfaces of middle and hind tibiae and tarsomeres with abundant stiff, spine-like, erect to suberect setae.</tax:p>
+                <tax:p>Diagnosis of Queen. As in worker except:</tax:p>
+                <tax:p>1) Enormous in comparison with worker caste. ML always&gt; TL of largest workers.</tax:p>
+                <tax:p>2) Mandible with strongly oblique cutting margin and 4 teeth that decrease progressively in size from apical to basal.</tax:p>
+                <tax:p>3) Submedian ventrally curved setae on anterior clypeal margin not clearly separable from other setae present.</tax:p>
+                <tax:p>4) Ventral surface of head with abundant, curved, delicate erect setae.</tax:p>
+                <tax:p>5) Compound eyes large, with scattered very short, stubble-like, erect setae. Ocelli welldeveloped but small.</tax:p>
+                <tax:p>6) Antennae 11 segmented as in worker, 3 segmented apical club present, but less pronounced.</tax:p>
+                <tax:p>7) Body in general somewhat flattened, probably as an adaptation for subterranean life.</tax:p>
+                <tax:p>8) Mesosoma massive, with full complement of sclerites associated with the presence of wings.</tax:p>
+                <tax:p>9) Petiolar node subrectangular, wider than long, in dorsal view. Postpetiole subelliptic in dorsal view.</tax:p>
+                <tax:p>10) Spine-like erect setae abundant on outer surface of hind tibia, especially abundant on the outer tibial surface of the middle leg.</tax:p>
+                <tax:p>Diagnosis of Male.</tax:p>
+                <tax:p>1) Palpal formula 2,1. Palps very short.</tax:p>
+                <tax:p>2) Mandible strap-like, with strongly oblique cutting margin and 4 teeth, decreasing progressively in size from the apex. Rarely, 1 - 2 teeth may be absent, leaving only the apical and subapical teeth present.</tax:p>
+                <tax:p>3) As in worker caste, clypeus ecarinate, median clypeal seta absent, paired submedian ventrally curved setae present.</tax:p>
+                <tax:p>4) Median portion of clypeus narrow, elevated, antennal insertions closely approximated.</tax:p>
+                <tax:p>5) Frontal lobes small, only partly covering the condylar bulbs, frontal carinae absent.</tax:p>
+                <tax:p>6) Compound eyes large, with short erect setae as in queen. Ocelli well-developed but small.</tax:p>
+                <tax:p>7) Antennae 11 segmented, with large 3 segmented club. First antennal segment greatly enlarged to form distinct scape longer than the apical club.</tax:p>
+                <tax:p>8) Mesosoma massive, alate, wing venation as in Fig. 3. Propodeum lacking teeth or spines, spiracle lenticular, metapleural lobes very small.</tax:p>
+                <tax:p>9) Petiolar node low and rounded in profile, peduncle absent. Petiolar spiracles located at the tips of large, laterally projecting connules.</tax:p>
+                <tax:p>10) Postpetiole unique, as in Fig. 3. Attachment to fourth abdominal segment extraordinarily broad, spiracles as in petiole, located at the tips of large, laterally projecting connules.</tax:p>
+                <tax:p>11) Erect or suberect setae present on outer surfaces of middle and hind tibiae, but neither stiff and spine-like, nor as abundant as in the female castes.</tax:p>
+            </tax:div>
+            <tax:nomenclature>
+Type species: 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223487" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Dolopomyrmex</dc:Genus>
+                        <dc:Species>pilatus</dc:Species>
+                    </tax:xmldata>Dolopomyrmex pilatus Cover &amp; Deyrup</tax:name>
+, 
+new species
+.
+</tax:nomenclature>
+            <tax:div type="etymology">
+                <tax:p>Etymology: Dolops, Dolopos (ancient Greek, “ lurker in ambush ”) + myrmex, myrmekos (Greek, “ ant ”).</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223487" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Dolopomyrmex</dc:Genus>
+                        <dc:Species>pilatus</dc:Species>
+                    </tax:xmldata>Dolopomyrmex pilatus</tax:name>
+, 
+new species</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 1 - 3</tax:p>
+                <tax:p>Holotype worker: TL 2.0, HL 0.54, HW 0.49, CI 91, SL 0.33, SI 67, PW 0.33, ML 0.70.</tax:p>
+                <tax:p>With characters of the generic diagnosis and as illustrated in Fig. 1. Head broadly rectangular, posterior corners rounded, posterior margin flat, entire dorsal surface covered with coarse setigerous foveolae, generally separated by 1 - 2 × their diameters. Spaces between foveolae smooth and shining. Eye remnant barely visible; unpigmented. Numerous short, decumbent to appressed setae present on dorsal surface of head, sparse appressed setae present on ventral cephalic surface. Antennal scapes in repose extending about 3 / 4 the distance towards the posterior corners of the head, with numerous erect or suberect hairs on outer surfaces. Body surfaces generally smooth and shining on mesosoma, petiole, postpetiole, and remainder of abdomen. Numerous, short, curved erect hairs present on promesonotum, longer erect hairs present on propodeal dorsum, petiolar node, and postpetiole, respectively. Remainder of abdomen (= gaster) with evenly spaced erect hairs as in Fig. 1. Color pale yellow.</tax:p>
+                <tax:p>Paratype workers: TL 1.6 - 2.4, HL 0.47 - 0.56, HW 0.42 - 0.51, CI 89 - 91, SL 0.27 - 0.34, SI 67 - 68, PW 0.26 - 0.33, ML 0.59 - 0.74.</tax:p>
+                <tax:p>Paratype queen: TL 9.5, HL 1.27, HW 1.49, CI 117, SL 0.79, SI 53, ML 3.2. With characters in generic diagnosis and as illustrated in Fig. 2. Head broader than long, posterior margin flat, dorsal surface foveolate, foveolae larger and much sparser on posterior half of head. Spaces between foveolae smooth and shining, except on anterior half, where weak striae are present surrounding the antennal sockets and near the mandibular insertions. Clypeus foveolate, except for smooth median strip, erect setae numerous. Antennal scape in repose against head with many erect setae on outer surfaces. Mesosoma largely smooth and shining, sparsely and finely foveolate on most surfaces, coarser foveolae present on mesopleuron. Petiole and postpetiole smooth and shining with scattered fine foveolae, each with a tuft of long, erect setae on ventral surface. Remainder of abdomen smooth and shining with sparse, very fine foveolae and moderately abundant, short erect hairs. Outer surfaces of middle and hind tibiae with abundant, coarse, setigerous foveolae. Color: body generally light to medium yellowish-brown, appendages a lighter brownish yellow. Posterior dorsal surface of head with large, dark brown spot centering on the ocelli.</tax:p>
+                <tax:p>Paratype male: TL 5.0, HL 0.68, HW 0.72, CI 106, SL 0.45, SI 62, ML 1.85. With characters in generic diagnosis and as illustrated in Fig. 3. Head with fine striate sculpture over most of dorsal surface, except for smooth median clypeal strip and two lateral smooth, shining patches between the ocelli and compound eyes. Mesosoma generally unsculptured and shining with widely spaced very fine setigerous foveolae, except for some coarser foveolae on the mesopleuron, and fine striate sculpture on the mesopleuron and the propodeal sides. Petiole and postpetiole with small tuft of long, erect setae on ventral surface. Remainder of abdomen with widely-spaced, very fine setigerous foveolae, erect hairs sparse and short. Color: head and mesoscutum blackish brown, Mesosoma, petiole, and postpetiole variably light to medium yellowish brown. Legs light yellowish brown, antennae pale yellow.</tax:p>
+            </tax:div>
+            <tax:div type="etymology">
+                <tax:p>
+Etymology: “ pilum ” is Latin for the short, but powerful throwing spear of the Roman legionaries. So 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223487" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Dolopomyrmex</dc:Genus>
+                            <dc:Species>pilatus</dc:Species>
+                        </tax:xmldata>Dolopomyrmex pilatus</tax:name>
+is the “ spear-bearing ambush ant. ”
+</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>
+Type Locality: 
+USA
+, 
+Arizona
+: 
+Cochise Co
+.
+Chiricahua Mtns
+. 
+0.8 mi NW Jct. Forest Service Road 42 on FSR 42 B
+(
+Paradise Road
+). 
+31 ° 55.24 ’ N
+, 
+109 ° 09.67 ’ W
+. elevation 4700 ’ (1432 m.). Broad, grazed wash dominated by mesquite and acacia to 3 m. tall. Fine-textured, densely compacted, sandy soil with some clay. Note: this is privately owned land adjacent to the Coronado National Forest
+
+.
+</tax:p>
+                <tax:p>
+Type Series: holotype worker (SP Cover 1441) and the following paratypes: 22 workers, 13 males, 15 queens [3 - VIII- 1988, SPC 1441], 9 workers, 12 queens [4 - VIII- 1988, SPC 1454], 6 workers [17 - VIII- 1989, SPC 2173], 13 workers [17 - VIII- 1989, SPC 2174], 4 workers [3 - VIII- 1990, SPC 2530]. Holotype and paratypes deposited in the Museum of Comparative Zoology (Cambridge, Mass., 
+USA
+). Additional paratypes will be deposited in the Natural History Museum (London, U. K), the Natural History Museum of Los Angeles County (Los Angeles, California), the National Museum of Natural History (Washington, DC), the California Academy of Sciences (San Francisco, CA), the Museu de Zoologia (Sao Paolo, 
+Brazil
+), the Australian National Insect Collection (Canberra, 
+Australia
+), the University of California (Davis, California) and in the collection of William P. Mackay. Note: images of the holotype will be available on the online 
+MCZ
+Type Database [http: // mcz- 28168. oeb. harvard. edu / default. htm] and images of paratypes on AntWeb [http: // www. antweb. org].
+</tax:p>
+                <tax:p>
+Additional specimens examined: 
+USA
+, 
+California
+: 
+Los Angeles Co
+.
+Saddleback Butte
+. 
+23 - IX- 1989.
+coll. 
+G. C. Snelling
+(2 males, 2 dealate females) [
+LACM
+]
+
+. 
+New Mexico
+: 
+Dona Ana Co
+.
+
+, 
+45 km NELas Cruces. Jornada
+LTER. 
+3 - X- 1970
+. colls. 
+G. Richardson and C. W. O ’ Brien
+(3 alate females, 1 dealate) [
+LACM
+]
+
+; 
+Socorro Co
+.
+Servilleta National Wildlife Refuge
+. Date unknown (not seen by the authors, but cited in Mackay and Mackay (2002)
+
+.
+</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>DISCUSSION</tax:p>
+                <tax:p>
+It is possible the California collections may represent a second species of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223486" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Dolopomyrmex</dc:Genus>
+                        </tax:xmldata>Dolopomyrmex</tax:name>
+. The two queens are somewhat larger than those from Arizona and New Mexico and exhibit some differences in morphology and pilosity. The two males taken with them, however, closely resemble males from the type series. These specimens are tentatively assigned to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223487" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Dolopomyrmex</dc:Genus>
+                            <dc:Species>pilatus</dc:Species>
+                        </tax:xmldata>D. pilatus</tax:name>
+pending the collection of workers, upon which their status should be re-evaluated.
+</tax:p>
+                <tax:p>
+The type locality is a desert wash with highly compacted, sandy soil located at the border between relatively flat desert and the foothills of the Chiricahua Mountains. It is a very arid, sunbaked habitat for most of the year. Ant species found at the site include: 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:28348" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Crematogaster</dc:Genus>
+                            <dc:Species>opuntiae</dc:Species>
+                        </tax:xmldata>Crematogaster opuntiae</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:133860" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Aphaenogaster</dc:Genus>
+                            <dc:Species>albisetosa</dc:Species>
+                        </tax:xmldata>Aphaenogaster albisetosa</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:34335" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pogonomyrmex</dc:Genus>
+                            <dc:Species>barbatus</dc:Species>
+                        </tax:xmldata>Pogonomyrmex barbatus</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:34353" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pogonomyrmex</dc:Genus>
+                            <dc:Species>imberbiculus</dc:Species>
+                        </tax:xmldata>P. imberbiculus</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33708" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pheidole</dc:Genus>
+                            <dc:Species>desertorum</dc:Species>
+                        </tax:xmldata>Pheidole desertorum</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33980" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pheidole</dc:Genus>
+                            <dc:Species>rugulosa</dc:Species>
+                        </tax:xmldata>P. rugulosa</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:28872" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Dorymyrmex</dc:Genus>
+                            <dc:Species>insanus</dc:Species>
+                        </tax:xmldata>Dorymyrmex insanus</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236902" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Forelius</dc:Genus>
+                            <dc:Species>maccooki</dc:Species>
+                        </tax:xmldata>Forelius maccooki</tax:name>
+, and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:135350" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>fragilis</dc:Species>
+                        </tax:xmldata>Camponotus fragilis</tax:name>
+, all desert or desert foothills ants common throughout much of the American Southwest. The following notes summarize the circumstances of each collection at the type locality. SPC 1441 was collected when a single worker was seen entering a minute, nearly invisible hole with a trace of excavated soil around it, in bare soil between mesquite clumps a day after rain. Chambers containing winged queens, males, some brood, and workers were found between 30 - 50 cm. deep. SPC 1454 was found in soil “ while excavating a nest of another species ” and included winged queens as well as workers. SPC 2173, 2174 and 2530 are all small series of workers taken 15 - 25 cm deep in soil when excavating nests of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:34353" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pogonomyrmex</dc:Genus>
+                            <dc:Species>imberbiculus</dc:Species>
+                        </tax:xmldata>Pogonomyrmex imberbiculus</tax:name>
+after rain at the type locality. The 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24869" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pogonomyrmex</dc:Genus>
+                        </tax:xmldata>Pogonomyrmex</tax:name>
+nests were all located in bare soil between mesquite clumps. SPC 1441 was maintained alive for about a week in a large plastic petri dish with a plaster bottom and moist cotton in it. The workers fed intermittently on fresh ant brood and termite nymphs, but ignored other dead insects and sweet substances. Mackay &amp; Mackay (2002) report this ant (as 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24872" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Tranopelta</dc:Genus>
+                        </tax:xmldata>Tranopelta</tax:name>
+sp.) from “ Creosotebush scrub and mesquite dominant zones, often near desert playas or arroyos, sometimes in open desert or in forest meadows. Occasionally they are found in salt flats or saltbush communities. ”
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223486" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Dolopomyrmex</dc:Genus>
+                        </tax:xmldata>Dolopomyrmex</tax:name>
+fits comfortably within the myrmicine tribe 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2312" source="HNS"/>Solenopsidini</tax:name>
+, as newly expanded by Bolton (2003). Its affinities within the tribe are the subject of some disagreement. Since the discovery of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223486" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Dolopomyrmex</dc:Genus>
+                        </tax:xmldata>Dolopomyrmex</tax:name>
+in 1988, several myrmecologists have suggested informally that it is most likely an undescribed species of the exclusively New World myrmicine genus 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24872" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Tranopelta</dc:Genus>
+                        </tax:xmldata>Tranopelta</tax:name>
+. Indeed, Mackay &amp; Mackay (2002) place the ant in that genus (without formally describing it) and summarize the reasons for doing so. The hypothesis makes some sense. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223486" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Dolopomyrmex</dc:Genus>
+                        </tax:xmldata>Dolopomyrmex</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24872" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Tranopelta</dc:Genus>
+                        </tax:xmldata>Tranopelta</tax:name>
+share important character states. The workers of both lack a bicarinate clypeus and a median clypeal seta, and instead possess a pair of subparallel setae that straddle the clypeal midpoint. The antennae of both are 11 segmented with a prominent 3 segmented apical club. The queens and males also share some notable similarities. Both 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223486" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Dolopomyrmex</dc:Genus>
+                        </tax:xmldata>Dolopomyrmex</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24872" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Tranopelta</dc:Genus>
+                        </tax:xmldata>Tranopelta</tax:name>
+have fully subterranean life-histories, workers yellow in color and with highly reduced eyes, and sexual forms far larger than the corresponding workers. In addition, the geographic range of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24872" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Tranopelta</dc:Genus>
+                        </tax:xmldata>Tranopelta</tax:name>
+extends north into southern Mexico, so it is not impossible that a species might occur in the extreme southwestern United States.
+</tax:p>
+                <tax:p>
+In our opinion, however, a closer examination reveals differences that not only preclude the inclusion of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223487" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Dolopomyrmex</dc:Genus>
+                            <dc:Species>pilatus</dc:Species>
+                        </tax:xmldata>D. pilatus</tax:name>
+in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24872" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Tranopelta</dc:Genus>
+                        </tax:xmldata>Tranopelta</tax:name>
+, but also in fact, reveal that the two genera are not closely related. For example, in the worker caste of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223486" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Dolopomyrmex</dc:Genus>
+                        </tax:xmldata>Dolopomyrmex</tax:name>
+the clypeus is narrow, the median portion strongly elevated, and the antennal sockets closely approximated (clypeus broad, median portion weakly elevated, antennal sockets well-separated in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24872" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Tranopelta</dc:Genus>
+                        </tax:xmldata>Tranopelta</tax:name>
+), the cutting edge of the mandible is strongly oblique (more or less transverse in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24872" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Tranopelta</dc:Genus>
+                        </tax:xmldata>Tranopelta</tax:name>
+), the petiolar node is low, rounded, and nearly circular in dorsal view (strongly upright and wider than long in dorsal view in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24872" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Tranopelta</dc:Genus>
+                        </tax:xmldata>Tranopelta</tax:name>
+), the petiolar spiracle is located on the anterior side of the node (on the welldeveloped peduncle in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24872" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Tranopelta</dc:Genus>
+                        </tax:xmldata>Tranopelta</tax:name>
+), and a subpetiolar process is lacking (one, sometimes two present in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24872" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Tranopelta</dc:Genus>
+                        </tax:xmldata>Tranopelta</tax:name>
+). In addition, compound eyes are vestigial or lacking in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223486" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Dolopomyrmex</dc:Genus>
+                        </tax:xmldata>Dolopomyrmex</tax:name>
+(present, with at least several well-defined and pigmented ommatidia in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24872" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Tranopelta</dc:Genus>
+                        </tax:xmldata>Tranopelta</tax:name>
+), and the workers are monomorphic (weakly polymorphic in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24872" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Tranopelta</dc:Genus>
+                        </tax:xmldata>Tranopelta</tax:name>
+). Lastly, the males are strikingly different. Those of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223486" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Dolopomyrmex</dc:Genus>
+                        </tax:xmldata>Dolopomyrmex</tax:name>
+possess a true antennal scape nearly as long as the funiculus, and the petiolar and postpetiolar spiracles are located at the tips of unique lateral connules. In 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24872" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Tranopelta</dc:Genus>
+                        </tax:xmldata>Tranopelta</tax:name>
+males, the first antennal segment is very short, no longer than the following two funicular segments taken together, and the petiolar and postpetiolar spiracles are normal in configuration.
+</tax:p>
+                <tax:p>
+Instead, within the 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2312" source="HNS"/>Solenopsidini</tax:name>
+Dolopomyrmex appears to be closer to two exclusively Old World solenopsidine genera, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2343" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Anillomyrma</dc:Genus>
+                        </tax:xmldata>Anillomyrma</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24894" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Bondroitia</dc:Genus>
+                        </tax:xmldata>Bondroitia</tax:name>
+. A comparison of the workers is instructive and striking. All three genera share a closely similar structure of the clypeus, frontal lobes, and antennae, strongly oblique mandibular cutting margins with 4 teeth (3 teeth in one 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2343" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Anillomyrma</dc:Genus>
+                        </tax:xmldata>Anillomyrma</tax:name>
+species), and similar petiolar structures, most notably having the spiracle located anterolaterally on the side of the node, reduced palpal counts, and vestigial or absent compound eyes. The only truly discordant note is the absence of a median clypeal seta in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223486" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Dolopomyrmex</dc:Genus>
+                        </tax:xmldata>Dolopomyrmex</tax:name>
+, present in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2343" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Anillomyrma</dc:Genus>
+                        </tax:xmldata>Anillomyrma</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24894" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Bondroitia</dc:Genus>
+                        </tax:xmldata>Bondroitia</tax:name>
+, and most other Solenopsidine genera. The presence of a median clypeal seta was once thought to be a diagnostic character for the 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2312" source="HNS"/>Solenopsidini</tax:name>
+(Bolton, 1987), but is presently seen to be more variable and less important than previously thought. Bolton ’ s (2003) recent redefinition of the tribe reflects this change. We look forward to future discoveries that will help further clarify the phylogeny within this important and interesting group of genera. With respect to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223486" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Dolopomyrmex</dc:Genus>
+                        </tax:xmldata>Dolopomyrmex</tax:name>
+in particular, we need better collections of the sexual forms of both 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2343" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Anillomyrma</dc:Genus>
+                        </tax:xmldata>Anillomyrma</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24894" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Bondroitia</dc:Genus>
+                        </tax:xmldata>Bondroitia</tax:name>
+. Two damaged males and a fragmentary queen of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26056" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Bondroitia</dc:Genus>
+                            <dc:Species>lujae</dc:Species>
+                        </tax:xmldata>Bondroitia lujae</tax:name>
+at the 
+MCZ
+collection show important similarities, as well as some notable differences, with the comparable castes of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223486" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Dolopomyrmex</dc:Genus>
+                        </tax:xmldata>Dolopomyrmex</tax:name>
+. See also the figures of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26056" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Bondroitia</dc:Genus>
+                            <dc:Species>lujae</dc:Species>
+                        </tax:xmldata>Bondroitia lujae</tax:name>
+in Bolton (1987).
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:p>
+To facilitate recognition of the new genus we present a modified version of the portion of Bolton ’ s (1987) key to the workers of the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2312" source="HNS"/>Solenopsidini</tax:name>
+that separates genera in which the antennae have eleven segments. In addition to 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223486" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Dolopomyrmex</dc:Genus>
+                </tax:xmldata>Dolopomyrmex</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24872" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Tranopelta</dc:Genus>
+                </tax:xmldata>Tranopelta</tax:name>
+is added to the key.
+</tax:p>
+        <tax:p>7 Propodeal spiracle notably enlarged ..................................................................................... 8</tax:p>
+        <tax:p>-- Propodeal spiracle normal in size ......................................................................................... 9</tax:p>
+        <tax:p>
+8 Median clypeal seta present. Eyes absent ......................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24894" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Bondroitia</dc:Genus>
+                </tax:xmldata>Bondroitia</tax:name>
+(Afrotropical)
+</tax:p>
+        <tax:p>
+-- Median clypeal seta absent. Eyes present, consisting of at least several distinct, pigmented ommatidia ......................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24872" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Tranopelta</dc:Genus>
+                </tax:xmldata>Tranopelta</tax:name>
+(Neotropical)
+</tax:p>
+        <tax:p>
+9 Antennal club 2 segmented. Head almost circular in full-face view. Eyes posterior to cephalic midlength .......................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24902" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Phacota</dc:Genus>
+                </tax:xmldata>Phacota</tax:name>
+(Spain)
+</tax:p>
+        <tax:p>-- Antennal club 3 segmented. Head not almost circular in full-face view. Eyes, when present, at or anterior to cephalic midline ........................................................................................ 10</tax:p>
+        <tax:p>10 Propodeum in profile sharply angulate to bidentate ............................................................ 11</tax:p>
+        <tax:p>-- Propodeum in profile evenly rounded .................................................................................. 12</tax:p>
+        <tax:p>
+11 [Couplet as in Bolton, which leads to 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24901" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Oxyepoecus</dc:Genus>
+                </tax:xmldata>Oxyepoecus</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2335" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Allomerus</dc:Genus>
+                </tax:xmldata>Allomerus</tax:name>
+(in part), both Neotropical genera]
+</tax:p>
+        <tax:p>12 Median portion of clypeus distinctly elevated. In profile, postpetiole less voluminous than petiolar node, postpetiole narrowly attached to abdominal segment IV in dorsal view ....... 13</tax:p>
+        <tax:p>
+-- Median portion of clypeus evenly transversely convex, not distinctly elevated. In profile, postpetiole more voluminous than petiolar node, postpetiole broadly attached to abdominal segment IV in dorsal view ........................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24896" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Diplomorium</dc:Genus>
+                </tax:xmldata>Diplomorium</tax:name>
+(Afrotropical)
+</tax:p>
+        <tax:p>
+13 Clypeus strongly or weakly bicarinate. Median clypeal seta present .... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+(in part)
+</tax:p>
+        <tax:p>
+-- Clypeus lacking carinae. Median clypeal seta absent, instead clypeus with pair of long, ventrally curving setae that straddle the midpoint .......................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223486" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Dolopomyrmex</dc:Genus>
+                </tax:xmldata>Dolopomyrmex</tax:name>
+(Nearctic)
+</tax:p>
+        <tax:p>
+In conclusion, Ed Wilson once remarked (context and exact wording now scrambled in declining memory of first author) that the soil was perhaps the final frontier of biodiversity exploration. Ants like 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223486" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Dolopomyrmex</dc:Genus>
+                </tax:xmldata>Dolopomyrmex</tax:name>
+are just a hint of the diversity that remains to be discovered if we can improve methods for finding the invertebrates that apparently abound in the middle and lower soil horizons, at present safely hidden from our sight.
+</tax:p>
+        <tax:p>DEDICATION</tax:p>
+        <tax:p>The authors dedicate this paper to Edward O. Wilson on the occasion of his “ golden jubilee ” year as a publishing ant systematist. Much will rightly be said concerning the importance of his many scientific accomplishments. Here we wish to honor his service to myrmecology as a friend to all interested in ants, as an encourager and supporter of myrmecological research and education, and as a mentor, teacher, companion, and guide to all of us called to the honorable study of the little creatures that rule the world.</tax:p>
+        <tax:p>ACKNOWLEDGMENTS</tax:p>
+        <tax:p>We wish to thank Barry Bolton, Phil Ward, Bill Mackay, and Roy Snelling for thoughtful and valuable discussions and for the loan of important specimens, and Phil Ward and Roy Snelling for much appreciated comments on the manuscript. We also thank Wade and Emily Sherbrooke, then at the Southwestern Research Station (Portal, Arizona), for abundant kindness, good cheer, and logistical support. This research was made possible by funding from the Museum of Comparative Zoology, and the Theodore Roosevelt Fund at the American Museum of Natural History.</tax:p>
+        <tax:p>LITERATURE CITED</tax:p>
+        <tax:p>
+Bolton, B. 1987. A review of the Solenopsis genus-group and revision of Afrotropical 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+Mayr (Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Bulletin of the British Museum of Natural History. Entomology Series 54: 263 - 452.
+</tax:p>
+        <tax:p>
+Bolton, B. 2003. Synopsis and classification of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+. Memoirs of the American Entomological Institute 71: 1 - 370.
+</tax:p>
+        <tax:p>
+Mackay, W. &amp; Mackay, E. 2002. The Ants of New Mexico (Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). The Edwin Mellen Press, Ltd., Lewiston, New York, 398 pp.
+</tax:p>
+        <tax:figure>
+            <tax:p>
+Figure 1. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223487" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Dolopomyrmex</dc:Genus>
+                        <dc:Species>pilatus</dc:Species>
+                    </tax:xmldata>Dolopomyrmex pilatus</tax:name>
+, Worker habitus.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figure 2. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223487" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Dolopomyrmex</dc:Genus>
+                        <dc:Species>pilatus</dc:Species>
+                    </tax:xmldata>Dolopomyrmex pilatus</tax:name>
+, Queen habitus.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figure 3. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223487" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Dolopomyrmex</dc:Genus>
+                        <dc:Species>pilatus</dc:Species>
+                    </tax:xmldata>Dolopomyrmex pilatus</tax:name>
+, Male habitus.
+    </tax:p>
+        </tax:figure>
+    </tax:taxonxBody>
+</tax:taxonx>

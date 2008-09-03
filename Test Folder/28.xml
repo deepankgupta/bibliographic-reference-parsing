@@ -1,0 +1,2408 @@
+<?xml version="1.0" encoding="UTF-8"?><tax:taxonx xmlns:dc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.taxonx.org/schema/v1 http://www.taxonx.org/schema/v1/taxonx1.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-1.xsd http://digir.net/schema/conceptual/darwin/2003/1.0 http://digir.net/schema/conceptual/darwin/2003/1.0/darwin2.xsd">
+    <tax:taxonxHeader>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>A review of the arboreal Afrotropical ant genus Axinidris.</mods:title>
+            </mods:titleInfo>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:name type="personal">
+                <mods:role>
+                    <mods:roleTerm>Author</mods:roleTerm>
+                </mods:role>
+                <mods:namePart>Snelling, R. R.</mods:namePart>
+            </mods:name>
+            <mods:relatedItem type="host">
+                <mods:titleInfo>
+                    <mods:title>Advances in ant systematics (Hymenoptera: Formicidae): Homage to E.O. Wilson - 50 years of contributions.</mods:title>
+                </mods:titleInfo>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Snelling, R. R.</mods:namePart>
+                </mods:name>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Fisher, B. L.</mods:namePart>
+                </mods:name>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Ward, P. S.</mods:namePart>
+                </mods:name>
+                <mods:originInfo>
+                    <mods:dateIssued>2007</mods:dateIssued>
+                    <mods:publisher>Memoirs of the American Entomological Institute, 80</mods:publisher>
+                </mods:originInfo>
+                <mods:part>
+                    <mods:extent unit="page">
+                        <mods:start>551</mods:start>
+                        <mods:end>579</mods:end>
+                    </mods:extent>
+                </mods:part>
+            </mods:relatedItem>
+            <mods:identifier type="HNS-PUB">21291</mods:identifier>
+            <mods:location>
+                <mods:url>http://atbi.biosci.ohio-state.edu/HymOnline/reference-full.html?id=21291</mods:url>
+            </mods:location>
+        </mods:mods>
+    </tax:taxonxHeader>
+    <tax:taxonxBody>
+        <tax:p>
+A REVIEW OF THE ARBOREAL AFROTROPICAL ANT GENUS 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2369" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                </tax:xmldata>AXINIDRIS</tax:name>
+        </tax:p>
+        <tax:p>Roy R. Snelling</tax:p>
+        <tax:p>Natural History Museum of Los Angeles County</tax:p>
+        <tax:p>900 Exposition Boulevard</tax:p>
+        <tax:p>Los Angeles, CA 90007, U. S. A.</tax:p>
+        <tax:p>antmanrs @ nhm. org</tax:p>
+        <tax:p>ABSTRACT</tax:p>
+        <tax:p>
+The species of the Afrotropical genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2369" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                </tax:xmldata>Axinidris</tax:name>
+are here reviewed. The type species is recharacterized following the discovery that the two type specimens have been artificially abraded of almost all pilosity. Thirteen species were recognized by Shattuck (1991) in his revision of the genus. New data extend the ranges of several previously described species and eight new species are described: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236917" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>gabonica</dc:Species>
+                </tax:xmldata>A. gabonica</tax:name>
+(Gabon), 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236918" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>icipe</dc:Species>
+                </tax:xmldata>A. icipe</tax:name>
+(Kenya), 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236919" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>lignicola</dc:Species>
+                </tax:xmldata>A. lignicola</tax:name>
+(South Africa), 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236920" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>luhya</dc:Species>
+                </tax:xmldata>A. luhya</tax:name>
+(Kenya), 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236921" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>mlalu</dc:Species>
+                </tax:xmldata>A. mlalu</tax:name>
+(Central African Republic), 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236922" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>namib</dc:Species>
+                </tax:xmldata>A. namib</tax:name>
+(Namibia), 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236923" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>okekai</dc:Species>
+                </tax:xmldata>A. okekai</tax:name>
+(Kenya) and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236924" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>stageri</dc:Species>
+                </tax:xmldata>A. stageri</tax:name>
+(Tanzania). 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Technomyrmex</dc:Genus>
+                    <dc:Species>hypoclinoides</dc:Species>
+                </tax:xmldata>Technomyrmex hypoclinoides Santschi</tax:name>
+is here transferred to 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2369" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                </tax:xmldata>Axinidris</tax:name>
+(new combination) with 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25963" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>parvus</dc:Species>
+                </tax:xmldata>A. parvus Shattuck</tax:name>
+as a junior synonym (new synonymy). A key is given for the separation of the workers of all known species and the new species are illustrated.
+</tax:p>
+        <tax:p>
+KEY WORDS: Hymenoptera, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2250" source="HNS"/>Dolichoderinae</tax:name>
+, systematics, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2369" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                </tax:xmldata>Axinidris</tax:name>
+, Afrotropical.
+</tax:p>
+        <tax:p>INTRODUCTION</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2369" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                </tax:xmldata>Axinidris</tax:name>
+is an exclusively Afrotropical genus of arboreal ants, first described by Weber (1941) for a single bizarre Sudanese species, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25952" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>acholli</dc:Species>
+                </tax:xmldata>A. acholli Weber</tax:name>
+. The genus was recharacterized by Shattuck (1991), two species were transferred from Engramma Forel, 1905 (subsequently treated as a synonym of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2485" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Technomyrmex</dc:Genus>
+                </tax:xmldata>Technomyrmex Mayr</tax:name>
+, 1872, by Shattuck, 1992), and ten new species were described. An additional eight species are described below and it thus seems likely that the actual diversity of this genus is not yet fully realized, given that most species remain known either from type specimens and / or from only one or two localities.
+</tax:p>
+        <tax:p>
+Species of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2369" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                </tax:xmldata>Axinidris</tax:name>
+appear to nest exclusively within hollow plant stems, both living and dead, and in rotten wood. They are found in forested areas throughout the Afrotropical region, but are most abundant and diverse in the moist equatorial forests. Workers are primarily arboreal foragers, but may occasionally forage in ground litter.
+</tax:p>
+        <tax:p>SPECIMENS EXAMINED</tax:p>
+        <tax:p>The material on which this study is based has come from the following institutional collections:</tax:p>
+        <tax:p>Alexander Koening Research Institute and Museum of Zoology, Bonn, Germany (AKRI)</tax:p>
+        <tax:p>California Academy of Sciences, San Francisco, USA (CASC)</tax:p>
+        <tax:p>Museum of Comparative Zoology, Harvard University, Cambridge, USA (MCZC)</tax:p>
+        <tax:p>Natural History Museum of Los Angeles County, Los Angeles, USA (LACM)</tax:p>
+        <tax:p>Naturhistorisches Museum, Basle, Switzerland (NHMB)</tax:p>
+        <tax:p>South African Museum, Cape Town, South Africa (SAMC)</tax:p>
+        <tax:p>The Natural History Museum, London, UK (BMNH)</tax:p>
+        <tax:p>Voucher specimens of my field work have been placed in most of these institutions, as well as:</tax:p>
+        <tax:p>International Centre of Insect Physiology and Ecology, Nairobi, Kenya (ICIPE) National Museum of Kenya, Nairobi, Kenya (NMKC)</tax:p>
+        <tax:p>MEASUREMENTS AND DEFINITIONS</tax:p>
+        <tax:p>Measurements of morphological features were made at 50 x using a Leitz stereo microscope, with a dual-axis stage micrometer wired to Autometronics digital readouts. Measurements were recorded in thousandths of a millimeter, bur are here expressed to the nearest hundredth. Head measurements were made in full-face (frontal) view, as in Shattuck (1991).</tax:p>
+        <tax:p>The Scanning Electron Microscope (SEM) images were made using a Hitachi S- 3000 SEM.</tax:p>
+        <tax:p>Terms for surface sculpture follow those of Harris (1979). Shattuck (1991) utilized the same terminology and defined the varieties of surface sculpture as follows: colliculate: continuously covered with low, rounded elevations; coriarious: leather-like, with minute cracks; imbricate: appearing similar to shingles on a roof, i. e., slightly overlapping; punctate: with small pits; scabriculous: with fine and regular, short sharp wrinkles and / or projections; strigulate: with numerous short, fine raised lines. To these may be added: smooth: with no apparent surface sculpture other than punctures; rugae: coarse, raised lines or ridges, sometimes parallel, sometimes irregularly anastamosing, forming coarse reticulae or foveae.</tax:p>
+        <tax:p>Descriptive terminology employed here differs somewhat from that of Shattuck in the following particulars. I consider the ant head to be hypognathous rather than prognathous, so the vertex (see below) is dorsal and the mandibles are ventral. Mesosomal length (ML) is substituted for Shattuck's " alitrunk length or AL ". Ocular Index (OI) is an established term in ant systematics and is substituted for REL (Relative Eye Length). Instead of the morphologically incorrect " occiput " (as noted by Bolton, 1994) employed by Shattuck I use vertex. Appropriate changes are thus necessary for several anagrams used by Shattuck (see below). In the descriptions below, the expression " distance between [propodeal] spines " means the distance across the apices of the spines. Reference to the profile of the medial carina of the propodeum is to its appearance at the summit of the declivity.</tax:p>
+        <tax:p>Cephalic Index (CI): (HW / HL) (100). Note: This is the conventional definition of CI and expressed as a whole number rather than as a fraction as in Shattuck's revision.</tax:p>
+        <tax:p>Clypeal Notch Depth (CND): measured from midpoint of a line drawn across ventral-most projecting points of the clypeus to the dorsal-most point of the concavity.</tax:p>
+        <tax:p>Clypeal Notch Index (CNI): (CND / CNW) (100). Note: This is a modification of Shattuck's method, allowing the expression as a whole, rather than fractional, number.</tax:p>
+        <tax:p>Clypeal Notch Width (CNW): measured between the ventral-most projecting points of the clypeal notch (contact areas of a line drawn across notch opening.</tax:p>
+        <tax:p>Eye Length (EL): measured in full face (frontal) view.</tax:p>
+        <tax:p>Eye Width (EW): measured in full face view.</tax:p>
+        <tax:p>Head Length (HL): measured in full face view, from uppermost margin of vertex to free margin of clypeus.</tax:p>
+        <tax:p>Mesosomal Length (ML): measured from anterior-most point of the pronotum (exclusive of neck) to the posterior-most point of the propodeal processes (= AL of Shattuck).</tax:p>
+        <tax:p>Ocular Index (OI): (EL / HL) (100) (= REL of Shattuck); this is the conventional anagram.</tax:p>
+        <tax:p>Oculo-vertexal Distance (OVD): Distance between upper eye margin and a line drawn across the dorsal margin of the vertex (= OOD of Shattuck).</tax:p>
+        <tax:p>Pronotal Width (PNW): maximum width of pronotum in dorsal view. Note: Most of the borrowed types had been returned before I discovered that Shattuck's measurements did not include PNW; in the measurements given below, in such cases I have indicated after PNW n / a (not available).</tax:p>
+        <tax:p>Propodeal Width (PPW): maximum width of propodeum in dorsal view. (Note: after I had returned most of the type specimens borrowed, I found that Shattuck (1991) had not included this measurement among those that he had made; in such cases PPW is annotated n / a)</tax:p>
+        <tax:p>Scape Index (SI): (SL / HW) (100) (= ScI of Shattuck); this is the conventional anagram.</tax:p>
+        <tax:p>Scape Length (SL): maximum length of scape, excluding basal condyle.</tax:p>
+        <tax:p>SYSTEMATICS</tax:p>
+        <tax:p>
+Workers and queens of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2369" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                </tax:xmldata>Axinidris</tax:name>
+may be recognized among the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2250" source="HNS"/>Dolichoderinae</tax:name>
+by the following suite of characters: clypeus with distinct median notch on free margin; metapleural gland opening large, approximately circular and surrounded by long, stiff straight hairs; propodeum armed with spines or tubercles located near the dorsal margin of the declivitous face, generally short and rounded but may be reduced to mere angles, or more strongly developed as elongate spines that are curved dorsad; propodeal spiracle near dorsal face of propodeum and with at least anterior margin raised on a slight to strong projection, spiracular opening thus directed more or less distad; propodeum usually with elongate median ridge or carina, sometimes sharply elevated and compressed; petiolar node reclinate, narrowly rounded to subacute dorsally, strongly inclined posteriorly; in worker and queen, gaster with only four exposed terga in dorsal view, tergum 5 situated beneath tergum 4. Males are similar to those of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2485" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Technomyrmex</dc:Genus>
+                </tax:xmldata>Technomyrmex</tax:name>
+, from which they differ in the evenly arched profile of the petiolar node, which is not concealed by the first gastral segment as seen in dorsal view.
+</tax:p>
+        <tax:p>
+KEY TO 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2369" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                </tax:xmldata>AXINIDRIS</tax:name>
+WORKERS
+</tax:p>
+        <tax:p>1 Propodeal ridge cariniform or absent; pronotal dorsum evenly rounded at sides ............ 2</tax:p>
+        <tax:p>
+-- Propodeal ridge compressed and strongly elevated, axiniform (Fig. 11); pronotal dorsum submarginate at side (Sudan; Kenya) .......................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25952" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>acholli</dc:Species>
+                </tax:xmldata>acholli Weber</tax:name>
+        </tax:p>
+        <tax:p>2 (1) Pronotum and antennal scape shaft without erect hairs; gastral terga usually without erect hairs ................................................................................................................................. 3</tax:p>
+        <tax:p>-- Pronotum with at least two erect hairs (caution: one or both, if only two are normally present, may be broken off or lying on the surface); antennal scape shaft and gastral terga with or without erect hairs ............................................................................................. 10</tax:p>
+        <tax:p>3 (2) Medial carina present at least on posterior half of dorsal face &amp; at least slightly elevated at summit of declivity; propodeal spines various, but often more elongate and with surface between them concave in dorsal view ............................................................................. 4</tax:p>
+        <tax:p>
+-- Medial carina absent from entire length of dorsal face; propodeal spines triangular in dorsal view and surface between them straight ........................................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25953" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>bidens</dc:Species>
+                </tax:xmldata>bidens Shattuck</tax:name>
+(part)
+</tax:p>
+        <tax:p>4 (3) Pronotal dorsum conspicuously imbricate and only slightly shiny; mesonotum, mesepisternum and propodeum duller, finely and contiguously punctate; dorsal surfaces with abundant prostrate pubescence; distance between outer margins of propodeal spines subequal to width of propodeum at spiracles .................................................................. 5</tax:p>
+        <tax:p>-- Pronotum and mesepisternum smooth and shiny, contrasting sharply with finely and contiguously punctate propodeum; pronotum with scattered prostrate pubescence; distance between outer margins of propodeal spines much less than width of propodeum at spiracles .. .. .......................................................................................................................... 7</tax:p>
+        <tax:p>5 (4) Vertex without erect hairs; gastral terga without erect hairs ............................................ 6</tax:p>
+        <tax:p>
+-- Vertex with one pair of short erect hairs below dorsal margin; gastral terga 3 and 4 each with several erect hairs (Liberia) ..................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25961" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>occidentalis</dc:Species>
+                </tax:xmldata>occidentalis Shattuck</tax:name>
+        </tax:p>
+        <tax:p>
+6 (5) Head longer than broad; head and body dark brown, lower half of clypeus, mandibles, most of scape yellowish red; meso- and metatarsi whitish (Kenya) .............. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236918" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>icipe</dc:Species>
+                </tax:xmldata>icipe</tax:name>
+, 
+new species</tax:p>
+        <tax:p>
+-- Head broader than long; head and body black, hypostomal area, head below, mandibles and legs reddish black; tarsi dark yellowish red (Kenya) .................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25957" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>kakamegensis</dc:Species>
+                </tax:xmldata>kakamegensis Shattuck</tax:name>
+        </tax:p>
+        <tax:p>7 (4) Propodeal carina low and right-angular to obtuse in profile (Figs. 17, 18) ...................... 8</tax:p>
+        <tax:p>
+-- Propodeal carina elevated and acute in profile (Malawi; South Africa) .. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25964" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>tridens</dc:Species>
+                </tax:xmldata>tridens (Arnold)</tax:name>
+        </tax:p>
+        <tax:p>8 (7) At least fourth gastral tergum with at least 2 erect hairs; head and body light to dark brown. .. ............................................................................................................................. 9</tax:p>
+        <tax:p>
+-- Third and fourth gastral terga without erect hairs; head and mesosoma light reddish, petiole and first gastral segment yellowish (Central African Republic) .......... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236921" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>mlalu</dc:Species>
+                </tax:xmldata>mlalu</tax:name>
+, 
+new species</tax:p>
+        <tax:p>
+9 (8) Hypostomal area without erect or suberect hairs; longest hair on fourth tergum about 0.10 mm long and vertex hair about 0.66 x length of that on frontal lobe (Kenya; Cameroun) ............ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236923" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>okekai</dc:Species>
+                </tax:xmldata>okekai</tax:name>
+, 
+new species</tax:p>
+        <tax:p>
+-- Hypostomal area with several short erect and suberect hairs; longest hair on fourth tergum about 0.06 mm long and longest vertexal hairs about 0.60 x length of that on frontal lobe (Namibia) ............................................................................................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236922" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>namib</dc:Species>
+                </tax:xmldata>namib</tax:name>
+, 
+new species</tax:p>
+        <tax:p>10 (2) Propodeum without medial carina and lateral spines virtually absent in dorsal view; pronotum with one pair of long erect hairs and propodeal spines each with similar hair; clypeal notch broad and shallow (CNI less than 75) ...................................................... 11</tax:p>
+        <tax:p>-- Propodeum with distinct medial carinae which, at summit of declivity, is usually a low obtuse lobe, less often sharply elevated or dentiform; pilosity various, but usually not as above; clypeal notch relatively narrow, CNI usually over 100, but if as little as 80, then medial carina sharply defined ........................................................................................ 12</tax:p>
+        <tax:p>
+11 (10) Head and body medium to dark brown; gena distinctly finely imbricate; larger species, HW consistently over 0.50 mm (Ghana; Cameroun; Kenya) .................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25953" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>bidens</dc:Species>
+                </tax:xmldata>bidens Shattuck</tax:name>
+(part)
+</tax:p>
+        <tax:p>
+-- Head and body light reddish yellow, gaster sometimes slightly darker; gena smooth and shiny, sometimes weakly imbricate; smaller species, HW usually less than 0.50 mm, but may range up to 0.52 mm (Liberia; Democratic Republic of Congo; Kenya) ... .................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230093" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>hypoclinoides</dc:Species>
+                </tax:xmldata>hypoclinoides (Santschi)</tax:name>
+        </tax:p>
+        <tax:p>12 (10) Distance between outer margins of propodeal spines, in dorsal view, equal to or exceeding width of propodeum at spiracles; pronotum dull and closely pubescent, surface coarsely imbricate or punctate ..................................................................................................... 13</tax:p>
+        <tax:p>-- Distance between outer margins of propodeal spines, in dorsal view, distinctly less than width of propodeum at spiracles and / or pronotum shiny and sparsely pubescent, surface weakly imbricate ............................................................................................................ 14</tax:p>
+        <tax:p>
+13 (12) Erect hairs of head and mesosoma brown, coarse and seta-like; propodeal spines short, no longer than thick in profile (Ghana) ....................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25960" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>nigripes</dc:Species>
+                </tax:xmldata>nigripes Shattuck</tax:name>
+        </tax:p>
+        <tax:p>
+-- Erect hairs of head and mesosoma yellowish and fine, not seta-like; propodeal spines distinctly longer than thick in profile (Kenya) ..................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236920" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>luhya</dc:Species>
+                </tax:xmldata>luhya</tax:name>
+, 
+new species</tax:p>
+        <tax:p>14 (12) Mesonotum either smooth and shiny between several short longitudinal rugae or slightly shiny and coarsely rugulose .......................................................................................... 15</tax:p>
+        <tax:p>-- Mesonotum moderately shiny, anteriorly finely imbricate, posteriorly duller and densely punctulate ..................................................................................................................... 16</tax:p>
+        <tax:p>
+15 (14) Mesonotum smooth and shiny between short longitudinal rugae; head and body light reddish brown (Tanzania) .................................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236924" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>stageri</dc:Species>
+                </tax:xmldata>stageri</tax:name>
+, 
+new species</tax:p>
+        <tax:p>
+-- Mesonotum slightly shiny and coarsely rugulose; head and body dark brown (South Africa) .............. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236919" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>lignicola</dc:Species>
+                </tax:xmldata>lignicola</tax:name>
+, 
+new species</tax:p>
+        <tax:p>16 (14) Scape shaft with fine prostrate pubescence, but no suberect to erect hairs; front of head, exclusive of clypeus, with six hairs (two along each frontal carina and two on upper frons) ....................................................................................................................................... 17</tax:p>
+        <tax:p>-- Scape shaft with at least one or two short erect hairs in addition to appressed pubescence; front of head, exclusive of clypeus, with two hairs along each frontal carina and four or more on frons ................................................................................................................. 19</tax:p>
+        <tax:p>17 (16) Distance between outer margins of propodeal spine apices distinctly less than width of propodeum at level of spiracles; frons and vertex moderately shiny, weakly imbricate and with scattered weak punctures; gaster concolorous with mesosoma .............................. 18</tax:p>
+        <tax:p>-- Distance between outer margins of propodeal spine apices at least equal to width of propodeum at level of spiracles; frons and vertex weakly shiny, contiguously finely punctate and strigulate; mesosoma brown, gaster yellowish red (Ghana) ............................................................................................</tax:p>
+        <tax:p>
+........................................................................................................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25962" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>palligastrion</dc:Species>
+                </tax:xmldata>palligastrion Shattuck</tax:name>
+        </tax:p>
+        <tax:p>
+18 (17) Medial carina broadly rounded in profile; second gastral tergum moderately shiny and densely punctate (Republic of Congo) ............................................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25954" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>denticulata</dc:Species>
+                </tax:xmldata>denticulata (Wheeler)</tax:name>
+        </tax:p>
+        <tax:p>
+-- Medial carina subacute in profile; second gastral tergum shiny between sparse punctures (Ghana) ............................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25955" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>ghanensis</dc:Species>
+                </tax:xmldata>ghanensis Shattuck</tax:name>
+        </tax:p>
+        <tax:p>19 (16) Pronotum with at least two fully erect hairs in addition to humeral pair; frons slightly shiny to shiny, varying from finely colliculate to weakly coriarious and scabriculous ........... 20</tax:p>
+        <tax:p>
+-- Pronotum with only two long fully erect hairs, one at each humerus; frons shiny, varying from smooth to obscurely coriarious (Gabon) ............................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236917" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>gabonica</dc:Species>
+                </tax:xmldata>gabonica</tax:name>
+, 
+new species</tax:p>
+        <tax:p>20 (19) Scape shaft distinctly with six or more short erect hairs; frons slightly shiny, finely colliculate to imbricate ................................................................................................... 21</tax:p>
+        <tax:p>
+-- Scape shaft with only one or two very short erect hairs; frons shiny, weakly coriarious (Nigeria) ................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25958" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>kinoin</dc:Species>
+                </tax:xmldata>kinoin Shattuck</tax:name>
+        </tax:p>
+        <tax:p>
+21 (20) Body color reddish yellow; gaster yellow, similar in color to posterior portion of petiole (Ghana) ............................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25956" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>hylekoites</dc:Species>
+                </tax:xmldata>hylekoites Shattuck</tax:name>
+        </tax:p>
+        <tax:p>
+-- Entire head and body reddish brown, gaster darker than posterior portion of petiole (Cameroun; Ghana; Kenya) .................................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25959" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                    <dc:Species>murielae</dc:Species>
+                </tax:xmldata>murielae Shattuck</tax:name>
+        </tax:p>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25952" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>acholli</dc:Species>
+                    </tax:xmldata>Axinidris acholli Weber</tax:name>
+            </tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 1, 11, 21</tax:p>
+            </tax:div>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25952" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>acholli</dc:Species>
+                        </tax:xmldata>Axinidris acholli Weber</tax:name>
+, 1941: 193 (w). SUDAN: Imatong Mountains, 4800 and 6200 ft. (N. A. Weber) (MCZC) examined. Shattuck, 1991: 109 - 111; figs. 5 - 7, 35.
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="diagnosis">
+                <tax:p>Worker diagnosis. Pronotal disc with 8 - 10 coarse rugae that more or less diverge behind; mesepisternum with 4 or 5 coarse longitudinal to oblique rugae; medial propodeal carina compressed and conspicuously higher than long and longer dorsally than at base; head and body with abundant long, slender whitish hairs.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker measurements (mm) (n = 12). HW 0.79 - 0.90; HL 0.91 - 1.01; SL 0.79 - 0.88; EL 0.18 - 0.23; EW 0.11 - 0.13; OVD 0.36 - 0.42; PNW 0.46 - 0.59; PPW 0.33 - 0.40; WL 1.08 - 1.29. Indices. CI 85 - 91; CNI 71 - 87; OI 23 - 26; SI 95 - 103.</tax:p>
+                <tax:p>Worker description. The worker caste has been adequately described by Shattuck (1991), except for the presence of numerous long flexuous hairs as noted above in the diagnosis.</tax:p>
+                <tax:p>Queen and male unknown.</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>SPECIMENS EXAMINED</tax:p>
+                <tax:p>
+In addition to the lectotype and lectoparatype, I have collected numerous workers from 
+KENYA
+, 
+Kakamega District
+, 
+Isecheno
+, 
+Kakamega Forest
+(00.24 ° N 034.85 ° E), 1550 - 1600 m (
+LACM
+),
+
+running on vines, except two in litter. All specimens were in dense forest as opposed to being on trees at the edge of a clearing.
+</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>DISCUSSION</tax:p>
+                <tax:p>
+The bizarrely developed propodeal structures (Figs. 11, 21) are sufficient to separate 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25952" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>acholli</dc:Species>
+                        </tax:xmldata>A. acholli</tax:name>
+from all the known remaining species. Additionally, no other species is known that has such an abundance of long, flexuous white hairs. Only 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236919" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>lignicola</dc:Species>
+                        </tax:xmldata>A. lignicola</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236924" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>stageri</dc:Species>
+                        </tax:xmldata>A. stageri</tax:name>
+are almost as hairy, but in both the propodeal structures are much less extreme, the hairs are shorter and straighter, and the antennal scapes are proportionately much shorter.
+</tax:p>
+                <tax:p>
+I had originally regarded the Kenyan specimens as a previously undescribed species. When I examined the two type specimens of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25952" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>acholli</dc:Species>
+                        </tax:xmldata>A. acholli</tax:name>
+, however, I began to doubt that this was correct. The only difference that I could discern was that the Kenyan specimens were abundantly hairy while the 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25952" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>acholli</dc:Species>
+                        </tax:xmldata>A. acholli</tax:name>
+types were almost completely devoid of hairs. The type specimens, lectotype and lectoparatype, consist of fragments mounted on points. The lectotype head has only a single antenna. The lectoparatype is in even worse condition: the head lacks antennae, the mesosoma is partly broken, and only a single detached hind leg is present. Both specimens appear to be severely abraded, lacking hairs where all other species possess hairs (e. g., the mandibles, clypeus, frontal carinae). Once it was clear that these poor specimens had been artificially denuded, it was obvious that my fresh Kenyan samples were conspecific.
+</tax:p>
+                <tax:p>
+In addition to Sudan and Kenya, I expect that 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25952" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>acholli</dc:Species>
+                        </tax:xmldata>A. acholli</tax:name>
+will also be found in Uganda and the Democratic Republic of Congo, at the very least.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25953" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>bidens</dc:Species>
+                    </tax:xmldata>Axinidris bidens Shattuck</tax:name>
+            </tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 2, 12, 22</tax:p>
+            </tax:div>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25953" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>bidens</dc:Species>
+                        </tax:xmldata>Axinidris bidens Shattuck</tax:name>
+, 1991: 111 - 112; figs. 8 - 10, 35 (w). 
+GHANA
+: 
+Tafo
+(
+C. Campbell
+) (
+BMNH
+) examined.
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="diagnosis">
+                <tax:p>Worker diagnosis. Pronotal humeri and propodeal spines each with a single long fully erect hair, mesosoma otherwise without erect hairs; antennal scape shaft without erect hairs; medial carina absent and propodeal spines distinct.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker measurements (mm) (n = 12). HW 0.51 - 0.62; HL 0.62 - 0.70; SL 0.42 - 0.50; EL 0.14 - 0.19; OVD 0.24 - 0.29; PNW 0.33 - 0.38; PPW 0.18 - 0.26; WL 0.79 - 0.92. Indices. CI 80 - 89; CNI 50 - 80; OI 26 - 34; SI 75 - 85.</tax:p>
+                <tax:p>Worker description. The worker caste has been adequately described by Shattuck (1991).</tax:p>
+                <tax:p>Queen measurements (mm) (n = 4). HW 0.62 - 0.63; HL 0.77 - 0.81; SL 0.50 - 0.51; EL 0.21 - 0.23; OVD 0.29 - 0.32; PNW 0.51 - 0.58; PPW 0.37; WL 1.05 - 1.17. Indices. CI 76 - 82; CNI 80; OI 33 - 38; SI 80 - 83.</tax:p>
+                <tax:p>Queen description. Generally similar to worker but a little larger and with more elongate head; mesosoma fully developed for flight; interocular distance 1.61 - 1.87 x EL; interocellar distance 3 x diameter of median ocellus; ocellocular distance about 6 x diameter of median ocellus; medial carina absent; sculpture and pilosity similar to those of worker; mesonotum and metanotum each with a single long erect hair on each side; gastral pilosity about as in worker, but appressed pubescence sparser; total length about 2.5 mm.</tax:p>
+                <tax:p>Male unknown.</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>SPECIMENS EXAMINED</tax:p>
+                <tax:p>
+In addition to the three type specimens I have examined samples from the following localities. 
+CAMEROUN
+, 
+Southwest Prov.
+, 
+Big Ngwandi
+, 
+Rumpi Hills
+(
+LACM
+).
+CENTRAL AFRICAN REPUBLIC
+, 
+Res. Dzanga-Sangha
+(
+CASC
+).
+KENYA
+, 
+Kakamega Distr.
+, 
+Buyangu
+, 
+Isecheno and Kisere
+, all in 
+Kakamega Forest
+, 1550 - 1600 m (AKRI, 
+LACM
+).
+</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>DISCUSSION</tax:p>
+                <tax:p>
+The samples from Cameroun were collected from living stems of Leonardoxa africana. At Isecheno I collected workers running on a fallen tree trunk. One colony collected at Isecheno, on 30 April 2003 from a living stem of Acanthus eminens consisted of a single queen and 44 workers in addition to 19 pupae (17 workers). Alate queens were collected from colony samples in Cameroun during the month of November. This species has been collected by Thomas Wagner while fogging Teclea nobilis, a common forest tree species. Other fogging samples, collected by W. Freund, included some from Heinsenia diervillioides, in addition to T. nobilis. These data suggest that 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25953" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>bidens</dc:Species>
+                        </tax:xmldata>A. bidens</tax:name>
+, and probably all species of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2369" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                        </tax:xmldata>Axinidris</tax:name>
+, are able to utilize stems or branches of a wide variety of plant species as nesting sites.
+</tax:p>
+                <tax:p>
+Automontage images of this species (as 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2369" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                        </tax:xmldata>Axinidris</tax:name>
+sp. 3) may be viewed at www. antweb. org.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25954" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>denticulata</dc:Species>
+                    </tax:xmldata>Axinidris denticulata (Wheeler)</tax:name>
+            </tax:nomenclature>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:134323" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Engramma</dc:Genus>
+                            <dc:Species>denticulatum</dc:Species>
+                        </tax:xmldata>Engramma denticulatum Wheeler</tax:name>
+, 1922: 205; fig. 51 (w). DEMOCRATIC REPUBLIC OF CONGO, between Lukolela and Basoko (H. O. Lang) (MCZC) examined.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236925" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>denticulatum</dc:Species>
+                        </tax:xmldata>Axinidris denticulatum</tax:name>
+: Shattuck, 1991: 112 - 114; figs. 11 - 13, 35.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25954" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>denticulata</dc:Species>
+                        </tax:xmldata>Axinidris denticulata</tax:name>
+: Bolton, 1995: 77.
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="diagnosis">
+                <tax:p>Worker diagnosis. Antennal scape without and pronotum with erect hairs; medial carina present and distance between spines less than PPW; mesonotum without rugae; medial carina rounded in profile; gastral tergum 2 densely punctate.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker measurements (mm) (n = 1). HW 0.71; HL 0.79; SL 0.62; EL 0.19; OVD 0.30; PNW 0.44; PPW 0.37; WL 0.91. Indices. CI 90; CNI 153; OI 27; SI 88.</tax:p>
+                <tax:p>Worker description. The worker caste has been adequately redescribed by Shattuck (1991).</tax:p>
+                <tax:p>Queen and male unknown.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>DISCUSSION</tax:p>
+                <tax:p>This species is still known only from the three type specimens. Shattuck (1991) selected as lectotype the only specimen that is in fair condition; the two lectoparatypes are so covered with mold that they are nearly worthless for diagnostic purposes.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236917" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>gabonica</dc:Species>
+                    </tax:xmldata>Axinidris gabonica</tax:name>
+, 
+new species</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 3, 13, 23</tax:p>
+            </tax:div>
+            <tax:div type="diagnosis">
+                <tax:p>Worker diagnosis. Antennal scape with sparse short erect hairs; upper frons and pronotum each with two long erect hairs; gastral terga 3 - 4 each with one pair of long erect hairs; propodeal spines short and thick; head and body mostly shiny.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker measurements (mm) (n = 3). HW 0.77 - 0.83; HL 0.83 - 0.90; SL 0.72; EL 0.21 - 0.22; OVD 0.28 - 0.30; PNW 0.50 - 0.56; PPW 0.36 - 0.40; WL 1.01 - 1.10. Indices. CI 91 - 94; CNI 117 - 140; OI 25 - 26; SI 86 - 93.</tax:p>
+                <tax:p>Worker description. Head shiny, frons weakly coriarious between sparse distinct punctures, more strongly sculptured on frontal area; gena and malar area shinier and almost smooth. Antennal scape shafts with a few widely spaces fine erect hairs; frons, below vertex, with 1 pair of long erect hairs and a shorter pair near upper end of frontal carinae and a still shorter pair at lower end of carinae; clypeus with about 6 long erect hairs.</tax:p>
+                <tax:p>Pronotum shiny and nearly smooth between distinct sparse punctures and with a single long erect hair near each humerus (Fig. 13). Mesonotum similar to pronotum, but narrowly contiguously punctate posteriorly. Metanotal spiracles elevated but appressed to base of propodeum, not conspicuous in profile. Mesepisternum largely smooth and shiny anteriorly, becoming duller and contiguously punctate posteriorly. Propodeum slightly shiny, contiguously to subcontiguously punctate; spiracular prominence weak and spiracular opening directed distad; medial carina present on posterior half of dorsal face, absent from declivitous face, slightly elevated at summit of declivity and low and broadly rounded in profile; propodeal spines short and blunt, obtuse in dorsal view with straight outer margins, distance between outer margins of apices distinctly less than distance between spiracles.</tax:p>
+                <tax:p>Gastral terga shiny, smooth to weakly coriarious; T 3 - T 4 each with a single long erect hair on each side; appressed pubescence sparse.</tax:p>
+                <tax:p>Head blackish, body dark brown; distal portion of mandible yellowish, with reddish yellow teeth; legs brown, distitarsi yellowish; petiole mostly whitish.</tax:p>
+                <tax:p>Queen and male unknown.</tax:p>
+            </tax:div>
+            <tax:nomenclature>TYPE MATERIAL
+Holotype worker, 
+GABON
+, 
+Prov. Ogoove-Maritime
+, 
+Reserve des Mons Doudou
+, 25.2 km 304 ° NW 
+Doussala
+(
+2 ° 13.63 ' S10 ° 23.67 ' E
+), 660 m, 17 
+March
+2000 (
+S. van Noort
+)
+
+, sweeping in coastal lowland rainforest. Paratypes: 2 workers, same data as holotype, 2 workers, same except 16 March 2000. Holotype and 2 paratypes in 
+CASC
+; 1 paratype in 
+LACM
+.
+</tax:nomenclature>
+            <tax:div type="etymology">
+                <tax:p>ETYMOLOGY</tax:p>
+                <tax:p>The name is derived from that of the country of origin.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>DISCUSSION</tax:p>
+                <tax:p>
+This species will run to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25959" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>murielae</dc:Species>
+                        </tax:xmldata>A. murielae Shattuck</tax:name>
+in the key by Shattuck (1991), but is immediately separable by the scarcity of erect hairs on the vertex and frons. The general habitus is similar, but 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236917" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>gabonica</dc:Species>
+                        </tax:xmldata>A. gabonica</tax:name>
+is darker, and in both species the punctures of the frons and pronotum are relatively coarse.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25955" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>ghanensis</dc:Species>
+                    </tax:xmldata>Axinidris ghanensis Shattuck</tax:name>
+            </tax:nomenclature>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25955" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>ghanensis</dc:Species>
+                        </tax:xmldata>Axinidris ghanensis Shattuck</tax:name>
+, 1991: 114; fig. 35 (w). 
+GHANA
+, 
+Mampong
+(
+P. Room
+) (
+BMNH
+) examined.
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="diagnosis">
+                <tax:p>Worker diagnosis. Antennal scape without and pronotum with erect hairs; medial carina present and subacute in profile; distance between spines less than PPW; gastral tergum 2 shiny and sparsely punctate.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker measurements (mm) (n = 1). HW 0.76; HL 0.83; SL 0.66; EL 0.21; OVD 0.30; PNW n / a; PPW 0.34; WL 0.98. Indices. CI 91; CNI 150; OI 28; SI 86.</tax:p>
+                <tax:p>Worker description. The worker caste has been adequately described by Shattuck (1991).</tax:p>
+                <tax:p>Queen and male unknown.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>DISCUSSION</tax:p>
+                <tax:p>
+This species is known only from the single worker holotype. Nothing is known of its biology, although it is assumed to be arboreal. The most similar species is 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236920" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>luhya</dc:Species>
+                        </tax:xmldata>A. luhya</tax:name>
+, described below, from which it differs as detailed under that species.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25956" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>hylekoites</dc:Species>
+                    </tax:xmldata>Axinidris hylekoites Shattuck</tax:name>
+            </tax:nomenclature>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25956" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>hylekoites</dc:Species>
+                        </tax:xmldata>Axinidris hylekoites Shattuck</tax:name>
+, 1991: 114; figs. 14 - 16 (w, q). 
+GHANA
+, 
+Tafo
+(
+B. Bolton
+) (
+BMNH
+) examined.
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="diagnosis">
+                <tax:p>Worker diagnosis. Head and mesosoma reddish, gaster yellow; scape and pronotum each with 4 or more erect hairs; medial carina present; distance between spines less than PPW.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker measurements (mm) (n = 4). HW 0.69; HL 0.76 - 0.79; SL 0.57 - 0.61; OVD 0.25 - 0.27; PNW n / a; PPW 0.32 - 0.33; WL 0.71 - 0.92. Indices. CI 88 - 91; CNI 77 - 119; OI 25 - 28; SI 83 - 88.</tax:p>
+                <tax:p>Worker and Queen have been adequately described by Shattuck; the male caste remains unknown.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>DISCUSSION</tax:p>
+                <tax:p>This species is known only from the several specimens comprising the type series. They were collected from a nest in a rotten tree branch.</tax:p>
+                <tax:p>
+As Shattuck (1991) originally noted it is most similar to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25959" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>murielae</dc:Species>
+                        </tax:xmldata>A. murielae</tax:name>
+but differs in the lighter body color. The surface sculpture of the head is slightly coarser and the propodeal spines slightly wider; this latter difference is almost certainly sufficiently variable as to be of little value.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230093" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>hypoclinoides</dc:Species>
+                    </tax:xmldata>Axinidris hypoclinoides (Santschi)</tax:name>new combination</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 9, 19, 29</tax:p>
+            </tax:div>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36819" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Technomyrmex</dc:Genus>
+                            <dc:Species>hypoclinoides</dc:Species>
+                        </tax:xmldata>Technomyrmex hypoclinoides Santschi</tax:name>
+, 1919: 89 - 90; (w). 
+
+DEMOCRATIC REPUBLIC OF 
+CONGO
+(= 
+
+Belgian 
+Congo
+, 
+Avakubi
+, 6 Jan. (
+J. Bequaert
+) (
+NHMB
+).
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25963" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>parvus</dc:Species>
+                        </tax:xmldata>Axinidris parvus Shattuck</tax:name>
+, 1991: 118; fig. 35 (w). LIBERIA, Paiata (= Payeta) (J. Bequaert) (MCZC) examined. NEW SYNONYMY (B. Bolton, pers. comm.).
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="diagnosis">
+                <tax:p>Worker diagnosis. Antennal scape shaft without erect hairs and pronotum (Fig. 19) with 1 pair of long erect hairs and each propodeal spine with 1 long erect hair; head (excluding clypeus) with 2 pairs of erect hairs; medial propodeal carina absent; first tergum with 2 long erect hairs; gena shiny and finely imbricate; head and body yellow.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker measurements (mm) (n = 10). HW 0.45 - 0.52; HL 0.53 - 0.62; SL 0.38 - 0.42; EL 0.13 - 0.17; OVD 0.21 - 0.27; PNW 0.31 - 0.35; PPW 0.21 - 0.26; WL 0.72 - 0.78. Indices. CI 81 - 88; CNI 67 - 75; OI 28 - 32; SI 79 - 83.</tax:p>
+                <tax:p>Worker description. The worker has been adequately described by Shattuck (1991).</tax:p>
+                <tax:p>Queen and male unknown.</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>SPECIMENS EXAMINED</tax:p>
+                <tax:p>
+I have examined the two type specimens of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25963" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>parvus</dc:Species>
+                        </tax:xmldata>A. parvus</tax:name>
+and others from the following localities. 
+GABON
+, 
+Ogooue Prov.
+, 
+Maritime Res. Mons Doudou
+(
+CASC
+)
+
+;
+KENYA
+, 
+Kakamega Forest
+, 
+Isecheno and Isiukhu
+(AKRI, 
+LACM
+).
+</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>DISCUSSION</tax:p>
+                <tax:p>
+The type of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36819" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Technomyrmex</dc:Genus>
+                            <dc:Species>hypoclinoides</dc:Species>
+                        </tax:xmldata>Technomyrmex hypoclinoides Santschi</tax:name>
+was examined by B. Bolton who informed me that it is a senior synonym of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25963" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>parvus</dc:Species>
+                        </tax:xmldata>A. parvus</tax:name>
+. Both the 
+new combination
+and new synonymy should be attributed to Mr. Bolton.
+</tax:p>
+                <tax:p>
+The few additional specimens available somewhat amplify the range of size variation, but otherwise are in good agreement with the type specimens and with Shattuck's original description. The presence of a single pair of relatively long erect hairs on the pronotal disc and a single such hair at the apex of each propodeal spine is an unusual feature shared only with 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25953" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>bidens</dc:Species>
+                        </tax:xmldata>A. bidens</tax:name>
+, a larger and darker species. Both species are present in the Kakamega forest of Kenya, but 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25953" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>bidens</dc:Species>
+                        </tax:xmldata>A. bidens</tax:name>
+is encountered much more frequently.
+</tax:p>
+                <tax:p>
+Photomontage images are available at www. antweb. org as 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2369" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                        </tax:xmldata>Axinidris</tax:name>
+sp. 1.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236918" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>icipe</dc:Species>
+                    </tax:xmldata>Axinidris icipe</tax:name>
+, 
+new species</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 4, 14, 24</tax:p>
+            </tax:div>
+            <tax:div type="diagnosis">
+                <tax:p>Worker diagnosis. Antenna scape shaft, pronotal disc and all gastral terga without erect hairs; each frontal carina with a single erect hair and frons with none; medial carina subacute in profile; pronotal disc slightly shiny and distinctly coriarious.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker measurements (n = 10). HW 0.60 - 0.68; HL 0.73 - 0.77; SL 0.44 - 0.49; EL 0.14 - 0.17; OVD 0.32 - 0.33; PNW 0.37 - 0.42; PPW 0.26 - 0.28; WL 0.77 - 0.90. Indices. CI 84 - 90; CNI 60 - 80; OI 22 - 28; SI 67 - 76.</tax:p>
+                <tax:p>Worker description. Frons slightly shiny, weakly coriarious and densely micropunctate; gena similar but becoming smooth and shiny toward mandible; lower frontal area and clypeus dull and sharply sculptured. Frons and vertex without erect hairs; one erect hair on each frontal carina above level of antennal insertion; clypeus with one pair of long erect hairs; scape shaft without erect hairs.</tax:p>
+                <tax:p>Mesosomal dorsum (Fig. 14) without erect hairs. Pronotum slightly shiny and sharply coriarious. Mesonotum finely reticulopunctate; mesepisternum and side of propodeum similar but more sparsely punctate and interspaces shinier. Metanotal spiracles low and barely visible in profile.</tax:p>
+                <tax:p>Spiracular prominence of propodeum low and inconspicuous, spiracular opening directed distad; medial carina present on posterior half of dorsal face, continuing onto declivitous face, carina right-angular to obtuse in profile at summit; spines blunt in dorsal view, distance between their outer apices greater than width of propodeum at spiracles.</tax:p>
+                <tax:p>Gastral terga shiny between close fine piligerous punctures and without erect hairs.</tax:p>
+                <tax:p>Head and body dark blackish brown, lower half of clypeus, mandibles, most of scape yellowish red; meso- and metatarsi dirty whitish.</tax:p>
+                <tax:p>Queen and male unknown.</tax:p>
+            </tax:div>
+            <tax:nomenclature>TYPE MATERIAL
+Holotype worker and 20 worker paratypes, 
+KENYA
+, 
+Kakamega Dist.
+, 
+Isiukhu
+, 
+Kakamega Forest
+(0.27 ° N 34.88 ° E), 
+January
+2003 (
+W. Freund and C. Schmidt
+), fogging 
+Teclea nobilis. Holotype
+in 
+LACM
+; paratypes in AKRI, 
+BMNH
+, 
+LACM
+, MCZC, NMKC, and 
+United States
+National Museum of Natural History (
+USNM
+).
+</tax:nomenclature>
+            <tax:div type="etymology">
+                <tax:p>ETYMOLOGY</tax:p>
+                <tax:p>The name is derived from the anagram for the International Centre of Insect Physiology and Ecology, Nairobi; it here used as a noun in apposition.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>DISCUSSION</tax:p>
+                <tax:p>
+This species may be confused with 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25957" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>kakamegensis</dc:Species>
+                        </tax:xmldata>A. kakamegensis</tax:name>
+, a species still known only from the type specimen. It shares with that species the extreme reduction in erect pilosity; i. e., the lack of erect hairs on the antennal scapes, frons, mesosomal dorsum and gastral terga. It differs from 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25957" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>kakamegensis</dc:Species>
+                        </tax:xmldata>A. kakamegensis</tax:name>
+in the narrow head (longer than broad), the lack of strigulate sculpturing on the frons and malar area, and the lack of erect hairs between the frontal lobes; the clypeus has only a single pair of erect hairs (several present in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25957" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>kakamegensis</dc:Species>
+                        </tax:xmldata>A. kakamegensis</tax:name>
+). 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236918" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>icipe</dc:Species>
+                        </tax:xmldata>Axinidris icipe</tax:name>
+is also a notably smaller species in which the head width is less than 0.70 mm versus 0.97 mm in the type of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25957" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>kakamegensis</dc:Species>
+                        </tax:xmldata>A. kakamegensis</tax:name>
+.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25957" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>kakamegensis</dc:Species>
+                    </tax:xmldata>Axinidris kakamegensis Shattuck</tax:name>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25957" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>kakamegensis</dc:Species>
+                    </tax:xmldata>Axinidris kakamegensis Shattuck</tax:name>
+, 1991: 115; figs. 17 - 19, 35 (w). 
+KENYA
+, 
+Kakamega Forest
+(
+A. E. Stubbs
+) (
+BMNH
+) examined.
+</tax:nomenclature>
+            <tax:div type="diagnosis">
+                <tax:p>Worker diagnosis. Scape and pronotum without erect hairs; head broader than long and vertex without erect hairs; distance between spines greater than PPW.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker measurements (mm) (n = 1). HW 0.97; HL 0.96; SL 0.69; EL 0.24; OVD 0.37; PNW n / a; PPW 0.40; WL 1.10. Indices. CI 102; CNI 161; OI 24; SI 71.</tax:p>
+                <tax:p>Worker description. The worker has been adequately described by Shattuck (1991).</tax:p>
+                <tax:p>Queen and male unknown.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>DISCUSSION</tax:p>
+                <tax:p>Known only from the worker type specimen from an unspecified locality in the Kakamega Forest.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25958" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>kinoin</dc:Species>
+                    </tax:xmldata>Axinidris kinoin Shattuck</tax:name>
+            </tax:nomenclature>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25958" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>kinoin</dc:Species>
+                        </tax:xmldata>Axinidris kinoin Shattuck</tax:name>
+, 1991: 115 - 116; figs. 20 - 22, 35 (w). 
+NIGERIA
+, " specific locality not given, probably 
+Gambari Experiment Station
+) (
+B. Taylor
+) - (
+BMNH
+) examined.
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="diagnosis">
+                <tax:p>Worker diagnosis. Pronotum with erect hairs and scape with 1 or 2 short erect hairs; mesonotum without rugae; medial carina present; distance between spines less than PPW; head and body reddish brown.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker measurements (mm) (n = 2). HW 0.75 - 0.76; HL 0.83 - 0.86; SL 0.68 - 0.69; EL 0.22; OVD 0.26 - 0.28; PNW n / a; PPW 0.37 - 0.38; WL 1.01. Indices. CI 88 - 91; CNI 128 - 131; OI 29; SI 91.</tax:p>
+                <tax:p>Worker description. The worker has been adequately described by Shattuck (1991).</tax:p>
+                <tax:p>Queen and male unknown.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>DISCUSSION</tax:p>
+                <tax:p>
+This species remains known only from the two type specimens from an unspecified locality in Nigeria, but assumed to be the Gambari Experiment Station (Shattuck, 1991). It is most similar to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25954" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>denticulata</dc:Species>
+                        </tax:xmldata>A. denticulata</tax:name>
+from which it differs as noted in the key.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236919" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>lignicola</dc:Species>
+                    </tax:xmldata>Axinidris lignicola</tax:name>
+, 
+new species</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 5, 15, 25</tax:p>
+            </tax:div>
+            <tax:div type="diagnosis">
+                <tax:p>Worker diagnosis. Antennal scape shaft without erect hairs and pronotum with 12 + short suberect hairs and 4 - 6 longer erect hairs; propodeal spines short, dentiform; propodeal dorsum obliquely elevated distad; medial carina strongly elevated, obtuse in profile; first gastral tergum with erect discal hairs and marginal row of suberect hairs.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker measurements (mm) (n = 12). HW 0.76 - 0.92; HL 0.83 - 0.99; SL 0.73 - 0.81; EL 0.19 - 0.28; OVD 0.29 - 0.33; PNW 0.49 - 0.58; PPW 0.32 - 0.37; WL 0.95 - 1.09. Indices. CI 88 - 96; CNI 100 - 170; OI 24 - 30; SI 86 - 100.</tax:p>
+                <tax:p>Worker description. Front of head smooth to weakly coriarious between fine subcontiguous punctures; gena and malar area distinctly coriarious between well-spaced punctures, many of which are smaller than on frons. Frons with 4 - 5 pairs of erect hairs, uppermost pair longest; vertex with 1 pair of suberect hairs subequal in length to longest frontal pair. Pubescence short, mostly appressed but some on side of head, especially on malar area, subappressed to reclinate. Shaft of antennal scape with appressed pubescence only.</tax:p>
+                <tax:p>Pronotum moderately shiny and coriarious between well-separated fine piligerous punctures. Mesonotum irregularly rugulose and moderately shiny. Mesepisternum moderately shiny between short, weak, more or less longitudinal rugae anteriorly, becoming duller and colliculate posteriorly and ventrad. Propodeal dorsum so coarsely rugulose that medial carina is obscured; medial carina at summit of declivity a short, strongly elevated obtuse lobe; spiracle on well developed prominence, opening directed posterolaterad; propodeal spines short and nearly right-angular in dorsal view, distance between their outer apices less than distance between spiracles. Pronotum (Fig. 15) with 4 - 5 pairs of short erect hairs; mesonotum and dorsum of propodeum with variable number of suberect to erect hairs of variable length.</tax:p>
+                <tax:p>Gastral tergum 1 moderately shiny and weakly coriarious, following segments less shiny and more distinctly sculptured. Terga 1 - 2 with marginal band of suberect hairs; terga 2 - 4 with short suberect discal hairs and all segments with abundant coarse subappressed pubescence.</tax:p>
+                <tax:p>Head and body dark brown; lateral lobes of clypeus and transverse stripe at base of mandibular teeth yellowish.</tax:p>
+                <tax:p>Queen and male unknown.</tax:p>
+            </tax:div>
+            <tax:nomenclature>TYPE MATERIAL
+Holotype worker and numerous worker paratypes, 
+SOUTH AFRICA
+, 
+Western Cape
+, 
+Grootvadersbosch
+(
+38 ° 59 ' S20 ° 49 ' E
+), 16 
+September
+1995 (
+H. G. Robertson
+)
+
+, " in centre of dead tree trunk c 2.5 cm dia., 1 m above ground ", in indigenous forest. Holotype and most paratypes in 
+SAMC
+; paratypes also in 
+BMNH
+, 
+CASC
+, 
+LACM
+and MCZC.
+</tax:nomenclature>
+            <tax:div type="etymology">
+                <tax:p>ETYMOLOGY</tax:p>
+                <tax:p>Wood-dweller, from L., lignum (wood) + L., colo (inhabit).</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>DISCUSSION</tax:p>
+                <tax:p>
+In addition to the type series I have seen one worker, also in 
+SAMC
+, collected by 
+A. J. Prins
+at the same locality, 
+October
+1985 and provided with an unpublished name by 
+Prins and Roux
+.
+</tax:p>
+                <tax:p>The strongly elevated medial carina at the summit of the propodeal declivity, as well as the abundance of suberect to erect pilosity in combination with the lack of erect hairs on the scape shaft, will serve to distinguish this species from all others known to me.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236920" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>luhya</dc:Species>
+                    </tax:xmldata>Axinidris luhya</tax:name>
+, 
+new species</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 6, 16, 26</tax:p>
+            </tax:div>
+            <tax:div type="diagnosis">
+                <tax:p>Worker diagnosis. Erect hairs present on pronotal disc but absent from scape shaft; propodeal spines thick and directed posterolaterally, distance between their apices greater than propodeal width; metanotal spiracles prominent in profile and base of propodeum abruptly elevated behind metanotal suture; propodeum dull and contiguously minutely punctate.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker measurements (mm) (n = 12). HW 0.99 - 1.04; HL 1.00 - 1.09; SL 0.69 - 0.74; EL 0.23 - 0.28; OVD 0.37 - 0.42; PNW 0.60 - 0.68; PPW 0.38 - 0.46; WL 1.13 - 1.26. Indices. CI 92 - 100; CNI 12 - 15; OI 22 - 28; SI 69 - 74.</tax:p>
+                <tax:p>Worker description. Head slightly shiny, with fine strigulate sculpture, interspaces contiguously finely punctate; clypeal disc and malar area with fine longitudinal rugae. Vertex with 0 - 3 pairs of short stiff hairs; frons with 6 - 8 widely spaced hairs of variable length in addition to much longer pair along each frontal carina; entire head with abundant short coarse subappressed to appressed pubescence. Shaft of antennal scape without erect or suberect hairs.</tax:p>
+                <tax:p>Entire mesosoma contiguously punctate and slightly shiny and with abundant coarse subappressed to appressed pubescence; mesepisternum and side of propodeum also with weak irregular longitudinal rugae. Pronotal disc (Fig. 16) with 2 - 3 pairs of long erect hairs and a variable number (but fewer than 12) of much shorter erect hairs; 1 - 3 short erect hairs on each propodeal spine. Mesonotum flat in profile; metanotal spiracles prominent. Propodeum abruptly elevated behind metanotal suture; disc nearly flat; propodeal spiracle on well-developed prominence and spiracular opening directed distad; medial carina low; propodeal spines thick, their apices subacute in profile; spines broad in dorsal view and direct posterolaterally, their outer margins straight and distance between their apices about equal to width of propodeum at spiracles; 4 - 10 fine erect hairs present, including on spines.</tax:p>
+                <tax:p>Gastral terga slightly shiny and weakly imbricate, with abundant minute piligerous punctures; terga with close coarse appressed pubescence and discs of two basal segments also usually with scattered short erect hairs; T 3 - 4 with 2 - 4 longer erect hairs.</tax:p>
+                <tax:p>Head and body blackish, antennae and legs dark brownish, tarsi reddish brown; yellowish spot on head between eye and antennal socket; mandibles largely reddish, but blackish at base and apex.</tax:p>
+                <tax:p>Queen and male unknown.</tax:p>
+            </tax:div>
+            <tax:nomenclature>TYPE MATERIAL
+Holotype worker: 
+KENYA
+, 
+Kakamega Distr.
+, 
+Isecheno
+, 19 
+March
+2002 (
+R. R. Snelling
+, # 02 - 156)
+
+, on tree trunk. Numerous additional worker paratypes from Isecheno, collected by R. R. Snelling, various dates, mostly on trunk of Solanum mauritiana. Holotype in 
+LACM
+; paratypes in AKRI, 
+BMNH
+, 
+CASC
+, ICIPE, 
+LACM
+, MCZC, NMKC, 
+SAMC
+, and 
+USNM
+.
+</tax:nomenclature>
+            <tax:div type="etymology">
+                <tax:p>ETYMOLOGY</tax:p>
+                <tax:p>This species is named for the Luhya people who live in the Kakamega area and, in particular, for those at Isecheno who made me feel welcome there; the name is a noun in apposition.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>DISCUSSION</tax:p>
+                <tax:p>
+Additional specimens (not types) are from Yala and " Colobus Trail ", Kakamega Forest, both taken while fogging Teclea nobilis, by W. Freund. There is also a single worker collected in 
+GABON
+: 
+Prov. Ogoove-Maritime
+, 
+Reserve des Monts Doudou
+, 24.3 km 307 ° NW 
+Doussala
+, 
+2 ° 13.35 ' S10 ° 24. 35 ' E
+, 370 m, 7. iii. 2000, 
+S. van Noort
+(
+CASC
+),
+
+on vegetation in lowland rainforest.
+</tax:p>
+                <tax:p>The erect hairs of the antennal scape are pale, very fine and short, about 0.05 mm long, and are widely and irregularly distributed along the length of the shaft. The number varies from 2 to 6, but one specimen was examined that lacked erect hairs on one scape, but had 4 on the other. Also variable is the number of erect hairs on the mesosomal dorsum. Although the pronotum often has but a single pair of long (up to 0.10 mm) hairs, the number varies from 0 (2 specimens) to 8 within a nest series. Occasionally, 1 or 2 short erect hairs may be present on the propodeal dorsum in the vicinity of the spiracles; 1 or 2 similar hairs are present on each spine rising above the sometimes suberect pubescence.</tax:p>
+                <tax:p>
+This appears to be an eastern sister species to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25961" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>occidentalis</dc:Species>
+                        </tax:xmldata>A. occidentalis</tax:name>
+, currently known only from Liberia. The two are similar is size, head shape, mesosomal profile and in most details of sculpture, but 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236920" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>luhya</dc:Species>
+                        </tax:xmldata>A. luhya</tax:name>
+has the mesosoma more coarsely sculptured and there are long erect hairs on both the upper frons (usually) and pronotal disc. In general habitus 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236920" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>luhya</dc:Species>
+                        </tax:xmldata>A. luhya</tax:name>
+might also be confused with 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25955" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>ghanensis</dc:Species>
+                        </tax:xmldata>A. ghanensis</tax:name>
+, but in that species the distance between the outer margins of the propodeal spines is no greater than that between the spiracles, the pronotum has only a single pair of erect hairs and none are present on the propodeum and on gastral tergum 3.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236921" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>mlalu</dc:Species>
+                    </tax:xmldata>Axinidris mlalu</tax:name>
+, 
+new species</tax:nomenclature>
+            <tax:div type="diagnosis">
+                <tax:p>Worker diagnosis. Scape shaft, pronotum and gastral terga without erect hairs; distance between apices of propodeal spines less than distance between propodeal spiracles; gastral tergum 1 yellow, segments 2 - 4 dark brown.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker measurements (mm) (n - 1). HW 0.74; HL 0.86; SL 0.68; EL 0.21; OVD 0.31; PNW 0.49; PPW 0.36; WL 1.03. Indices. CI 87; CNI 100; SI 91; OI 28.</tax:p>
+                <tax:p>Worker description. Front of head moderately shiny, weakly coriarious and strigulate between sparse minute punctures; gena shinier and with few strigulae, malar area more strongly coriarious. Antennal scape without erect hairs; each frontal carina with 1 pair of long erect hairs; upper frons with a single submedian pair of long hairs below vertex margin.</tax:p>
+                <tax:p>Mesosomal dorsum without erect hairs. Pronotal disc smooth and shiny. Mesonotum shiny, anteriorly smooth, posteriorly sharply punctate. Mesepisternum shiny, with faint longitudinal rugae. Metepisternum densely and relatively coarsely punctate. Propodeum contiguously finely punctate; dorsal face slightly convex in profile; medial carina absent from dorsal face except at summit of declivity, where it is low and broadly rounded; medial carina present on declivitous face; spiracular prominence well-developed, spiracular opening directly obliquely distad; propodeal teeth short and distance between their bases less than distance between spiracles.</tax:p>
+                <tax:p>Gastral terga shiny and unsculptured except for close fine piligerous punctures; all terga without erect hairs.</tax:p>
+                <tax:p>Head light brownish with yellowish clypeus and mandibles; mesosoma light brownish, paler on pronotum and sides; gaster dark brown but tergum 1 yellow, concolorous with petiole.</tax:p>
+                <tax:p>Queen and male unknown.</tax:p>
+            </tax:div>
+            <tax:nomenclature>TYPE MATERIAL
+Holotype worker, 
+CENTRAL AFRICAN REPUBLIC
+, 
+Songha-Mbaere Pref.
+, 
+Parc National
+Dzanga-Ndoki, " 37.9 km 169 ° S " 
+Lidjombo
+, 
+2 ° 22 ' N16 ° 10 ' E
+, 360 m, 20 - 28 
+May
+2000 (
+B. L. Fisher
+, # 4128), beating low vegetation, rainforest, in 
+CASC
+.
+</tax:nomenclature>
+            <tax:div type="etymology">
+                <tax:p>ETYMOLOGY</tax:p>
+                <tax:p>The name is an arbitrary combination to be treated as a noun in apposition.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>DISCUSSION</tax:p>
+                <tax:p>
+The sharply contrastingly bicolored gaster and lack of erect hairs on both the mesosomal and gastral dorsa are distinctive for this species. Photomontage images are available at www. antweb. org as 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2369" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                        </tax:xmldata>Axinidris</tax:name>
+sp. 2.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25959" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>murielae</dc:Species>
+                    </tax:xmldata>Axinidris murielae Shattuck</tax:name>
+            </tax:nomenclature>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25959" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>murielae</dc:Species>
+                        </tax:xmldata>Axinidris murielae Shattuck</tax:name>
+, 1991: 116 - 117; figs. 23 - 25, 35 (w, q). 
+CAMEROUN
+, 
+Nkoemvon
+(
+D. Jackson
+) (
+BMNH
+) examined.
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="diagnosis">
+                <tax:p>Worker diagnosis. Antennal scape with more than 5 and pronotum with 2 erect hairs; pronotum mostly smooth and shiny; medial carina present and obtuse in profile; distance between spines less than PPW; head and body reddish brown.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker measurements (mm) (n = 2). HW 0.66 - 0.81; HL 0.76 - 0.91; SL 0.56 - 0.66; EL 0.20 - 0.26; OVD 0.24 - 0.31; PNW n / a; PPW 0.31 - 0.46; WL 0.89 - 1.30. Indices. CI 87 - 89; CNI 90 - 129; OI 26 - 34; SI 80 - 85.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>DISCUSSION</tax:p>
+                <tax:p>Worker and queen have been adequately described by Shattuck (1991); the male remains unknown.</tax:p>
+                <tax:p>
+The two species 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236917" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>gabonica</dc:Species>
+                        </tax:xmldata>A. gabonica</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25959" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>murielae</dc:Species>
+                        </tax:xmldata>A. murielae</tax:name>
+are similar and may ultimately prove to belong to a single somewhat variable species. For the present the two are separable as noted in the key: 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25959" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>murielae</dc:Species>
+                        </tax:xmldata>A. murielae</tax:name>
+has 4 - 6 erect hairs on the pronotum (only 2 in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236917" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>gabonica</dc:Species>
+                        </tax:xmldata>A. gabonica</tax:name>
+) and numerous erect hairs on the front of the head (only 4 in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236917" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>gabonica</dc:Species>
+                        </tax:xmldata>A. gabonica</tax:name>
+) and also with erect hairs on gastral terga 2 - 4 (one in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236917" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>gabonica</dc:Species>
+                        </tax:xmldata>A. gabonica</tax:name>
+).
+</tax:p>
+                <tax:p>
+The types of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25959" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>murielae</dc:Species>
+                        </tax:xmldata>A. murielae</tax:name>
+are from Cameroun; Shattuck (1991) also recorded specimens from Ghana. I have also seen a few specimens from the vicinity of Busumbuli in the Kakamega Forest of Kenya. Both samples were taken by tree fogging, one from Teclea nobilis and one from Heinsenia diervillioides.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236922" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>namib</dc:Species>
+                    </tax:xmldata>Axinidris namib</tax:name>
+, 
+new species</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 7, 17, 27</tax:p>
+            </tax:div>
+            <tax:div type="diagnosis">
+                <tax:p>Worker diagnosis. Scape shaft and pronotum and gastral terga 1 - 3 without erect hairs; hypostomal area with erect hairs; mesepisternum with distinct longitudinal rugae; medial carina present on posterior half of dorsal face of propodeum and continued down declivitous face.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker measurements (mm) (n = 1). HW 0.81; HL 0.86; SL 0.64; El 0.24; OVD 0.31; PNW 0.51; PPW 0.36; WL 1.03. Indices. CI 94; CNI 100; SI 79; OI 30.</tax:p>
+                <tax:p>Worker description. Frons and vertex moderately shiny, finely longitudinally strigulate between close minute punctures; gena shinier, finely coriarious between sparse shallow punctures; malar area shiny, sharply strigulate and sparsely punctate. Each frontal carina with a single erect hair at lower and upper ends; frons with a pair of very short submedian hairs below summit of vertex; scape shaft without erect hairs; hypostomal area with several short erect hairs on each side.</tax:p>
+                <tax:p>Dorsum of mesosoma without erect hairs. Pronotal disc moderately shiny and coriarious to strigulate between sparse minute punctures. Mesonotum smooth and shiny anteriorly, posterior three-fourths moderately shiny and with sparse fine longitudinal rugae. Mesepisternum shiny between relatively coarse more or less longitudinal rugae. Propodeal dorsum weakly shiny, contiguously punctate and with irregular short, fine rugae, side (below spiracle) shiny between sparse, short rugae; spiracular prominence distinct, spiracular opening directed obliquely distad; medial carina present on posterior half of dorsal face and on declivitous face, low and broadly rounded in profile at summit of declivity; propodeal spines short and nearly right-angular in dorsal view, distance between their apices less than distance between spiracles.</tax:p>
+                <tax:p>Gastral terga moderately shiny, coriarious between close minute punctures; terga 1 - 3 without erect hairs, 4 with one submedian pair near base.</tax:p>
+                <tax:p>Head and mesosoma reddish brown, mesosomal dorsum slightly darker; gaster darker reddish brown; clypeus and mandibles more yellowish.</tax:p>
+                <tax:p>Queen and male unknown.</tax:p>
+            </tax:div>
+            <tax:nomenclature>TYPE MATERIAL
+Holotype worker, 
+NAMIBIA
+(" S. W. AFRICA "), 
+Keetmans Dist.
+, 1 km W 
+Mata Mata
+, 
+Welverdiend Farm No.
+328 (
+25 ° 47 ' S19 ° 59 ' E
+), 19 
+October
+1972 (
+C. L. Hogue
+), in 
+LACM
+.
+</tax:nomenclature>
+            <tax:div type="etymology">
+                <tax:p>ETYMOLOGY</tax:p>
+                <tax:p>The name is derived from that of the country of origin and is here a noun in apposition.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>DISCUSSION</tax:p>
+                <tax:p>
+The presence of a number of short erect hairs on the hypostomal area is unusual among the species of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2369" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                        </tax:xmldata>Axinidris</tax:name>
+, but does occur in several other species (
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25952" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>acholli</dc:Species>
+                        </tax:xmldata>acholli</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236919" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>lignicola</dc:Species>
+                        </tax:xmldata>lignicola</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236924" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>stageri</dc:Species>
+                        </tax:xmldata>stageri</tax:name>
+). From 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25952" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>acholli</dc:Species>
+                        </tax:xmldata>A. acholli</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236922" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>namib</dc:Species>
+                        </tax:xmldata>A. namib</tax:name>
+differs by its much smaller size and the less spectacularly developed medial carina and propodeal spines. Both 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236919" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>lignicola</dc:Species>
+                        </tax:xmldata>A. lignicola</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236924" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>stageri</dc:Species>
+                        </tax:xmldata>A. stageri</tax:name>
+possess conspicuous erect pronotal hairs.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25960" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>nigripes</dc:Species>
+                    </tax:xmldata>Axinidris nigripes Shattuck</tax:name>
+            </tax:nomenclature>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25960" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>nigripes</dc:Species>
+                        </tax:xmldata>Axinidris nigripes Shattuck</tax:name>
+, 1991: 117 - 118; fig. 35 (w). 
+GHANA
+, 
+Aburi
+(
+P. Room
+) (
+BMNH
+) examined.
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="diagnosis">
+                <tax:p>Worker diagnosis. Scape and pronotum with erect hairs; medial carina present; distance between spines exceeding PPW; hairs of head and mesosoma brown, coarse and seta-like.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker measurements (mm) (n = 1). HW 0.97; HL 1.06; SL 0.78; EL 0.30; OVD 0.33; PNW n / a; PPW 0.50; WL 1.27. Indices. CI 91; CNI 195; OI 31; SI 80.</tax:p>
+                <tax:p>Worker description. The worker has been adequately described by Shattuck (1991).</tax:p>
+                <tax:p>Queen and male unknown.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>DISCUSSION</tax:p>
+                <tax:p>
+This species is similar to both 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236920" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>luhya</dc:Species>
+                        </tax:xmldata>A. luhya</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25962" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>palligastrion</dc:Species>
+                        </tax:xmldata>A. palligastrion</tax:name>
+. It differs from the latter in its larger size, deeper clypeal notch and differing color pattern, the gaster being darker than the head and mesosoma, the reverse of the pattern in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25962" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>palligastrion</dc:Species>
+                        </tax:xmldata>A. palligastrion</tax:name>
+. From 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236920" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>luhya</dc:Species>
+                        </tax:xmldata>A. luhya</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25960" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>nigripes</dc:Species>
+                        </tax:xmldata>A. nigripes</tax:name>
+differs by the coarser, darker mesosomal hairs (fine and yellowish in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236920" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>luhya</dc:Species>
+                        </tax:xmldata>A. luhya</tax:name>
+.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25961" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>occidentalis</dc:Species>
+                    </tax:xmldata>Axinidris occidentalis Shattuck</tax:name>
+            </tax:nomenclature>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25961" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>occidentalis</dc:Species>
+                        </tax:xmldata>Axinidris occidentalis Shattuck</tax:name>
+, 1991: 118; figs. 26 - 28, 35 (w). LIBERIA, Paiata (= Payeta) (J. Bequaert) (MCZC) examined.
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="diagnosis">
+                <tax:p>Worker diagnosis. Scape and pronotum without erect hairs; pronotum weakly shiny, sharply sculptured and densely pubescent; medial carina present; T 3 - T 4 each with several erect hairs.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker measurements (mm) (n = 4). HW 0.88 - 0.96; HL 0.88 - 0.95; SL 0.57 - 0.65; EL 0.21 - 0.23; OVD 0.31 - 0.35; PNW 0.53 - 0.58; PPW 0.34 - 0.41; WL 1.02 - 1.10. Indices. CI 99 - 101; CNI 133 - 153; OI 23 - 25; SI 64 - 69.</tax:p>
+                <tax:p>Worker description. The worker has been adequately described by Shattuck (1991).</tax:p>
+                <tax:p>Queen and male unknown.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>DISCUSSION</tax:p>
+                <tax:p>
+In 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25961" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>occidentalis</dc:Species>
+                        </tax:xmldata>A. occidentalis</tax:name>
+the pronotum lacks erect hairs, but they are present on gastral terga 3 and 4, and the distance across the propodeal spines is subequal to the propodeal width, a combination of features unique to this western species.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236923" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>okekai</dc:Species>
+                    </tax:xmldata>Axinidris okekai</tax:name>
+, 
+new species</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 8, 18, 28</tax:p>
+            </tax:div>
+            <tax:div type="diagnosis">
+                <tax:p>Worker diagnosis. Antennal scape shaft and pronotal disc (Fig. 18) without erect hairs and gastral terga 3 - 4 each with 2 - 4 moderately long erect hairs; upper frons with 2 hairs; propodeal spines (dorsal view) short and right-angular, obtuse in profile; base of propodeum convex in profile, medial carina obtusely angulate at declivity; pronotum polished between sparse piligerous punctures.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker measurements (mm) (n = 11). HW 0.67 - 0.78; HL 0.73 - 0.87; SL 0.55 - 0.67; EL 0.17 - 0.22; OVD 0.24 - 0.30; PNW 0.44 - 0.54; PPW 0.29 - 0.38; WL 0.85 - 1.03. Indices. CI 85 - 95; CNI 67 - 114; OI 25 - 30; SI 81 - 91.</tax:p>
+                <tax:p>Worker description. Frons moderately shiny, with sparse, fine irregular longitudinal strigulae between contiguous minute punctures; vertex shiny between sparse piligerous punctures; gena shiny and weakly imbricate to smooth and malar area closely strigulate. Upper frons with 1 pair of erect hairs, each about as long as maximum width of first funicular segment; frontal area with 1 pair of erect hairs and each frontal carina with 2 pairs. Front of head with sparse, short appressed brownish hairs. Shaft of antennal scape without erect hairs, but with sparse, short appressed brownish hairs.</tax:p>
+                <tax:p>Pronotal disc polished and shiny between sparse minute piligerous punctures; anterior half of mesonotum similar, posterior half reticulose; mesepisternum shiny and weakly sculptured anteriorly, becoming contiguously, but shallowly, punctate behind; metanotal spiracle prominent in profile, but set so close to base of propodeum that it is not readily visible. Propodeum slightly shiny and contiguously finely punctate; base face convex in profile; spiracular prominence weak, opening directed posterolaterally; medial carina present only at summit of declivity, low and obtusely angulate in profile; propodeal spines short, in dorsal view right-angular and distance between their outer margins much less than width of propodeum at spiracles; spines obtuse to right-angular in profile.</tax:p>
+                <tax:p>Gastral terga shiny and weakly imbricate between sparse, minute piligerous punctures bearing short, brownish appressed hairs; terga 1 - 2 without erect hairs, 3 - 4 each with 2 - 4 erect hairs.</tax:p>
+                <tax:p>Head and body dark brownish, mesosoma slightly paler than head; mandibles yellowish at base of teeth.</tax:p>
+                <tax:p>Queen and male unknown.</tax:p>
+            </tax:div>
+            <tax:nomenclature>TYPE MATERIAL
+Holotype and 6 worker paratypes: 
+KENYA
+, 
+Kakamega Distr.
+, 
+Isecheno
+, 21 
+March
+2002 (
+R. R. Snelling
+, # 02 - 162), on vines. 
+Additional
+paratypes
+
+: 
+
+2 workers, 
+Kakamega Forest
+, 7 - 11 
+February
+1999 (
+T. Wagner
+), ex fogging 
+Teclea
+nobilis
+
+; 
+
+2 workers, " 
+Colobus Trail
+", 
+Kakamega Forest
+, 
+Sept
+. - Oct. 2001 (
+W. Freund &amp; C. Schmidt
+), ex fogging 
+Heinsenia
+diernilliodes.
+
+Holotype and several paratypes in 
+LACM
+; paratypes also in AKRI, 
+BMNH
+, MCZC and NMKC.
+</tax:nomenclature>
+            <tax:div type="etymology">
+                <tax:p>ETYMOLOGY</tax:p>
+                <tax:p>This species is dedicated to my friend, Wilberforce Okeka of KEEP (Kakamega Environmental Education Programme, Isecheno), who was so helpful during my visits to Kakamega Forest.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>DISCUSSION</tax:p>
+                <tax:p>
+In addition to the above material, I have seen a single worker that appears to belong to this species: 
+CAMEROUN
+, 
+Mbalmayo
+, Nov. 1993 (
+N. Stark
+; 
+BMNH
+). It differs from the types in being more reddish, the mandibles largely yellowish; the head and pronotum are less closely sculptured.
+</tax:p>
+                <tax:p>
+The few specimens in the type series are consistent in their features. In stature and color it is most like 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25953" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>bidens</dc:Species>
+                        </tax:xmldata>A. bidens</tax:name>
+but is immediately separable by the lack of erect hairs on the pronotal humeri and propodeal spines.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25962" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>palligastrion</dc:Species>
+                    </tax:xmldata>Axinidris palligastrion Shattuck</tax:name>
+            </tax:nomenclature>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25962" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>palligastrion</dc:Species>
+                        </tax:xmldata>Axinidris palligastrion Shattuck</tax:name>
+, 1991: 118; figs. 29 - 31; fig. 35 (w). 
+GHANA
+, 
+Nswam
+(= 
+Nsawam
+) (
+P. Room
+) (
+BMNH
+) examined.
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="diagnosis">
+                <tax:p>Worker diagnosis. Scape without and pronotum with erect hairs; medial carina present; distance between spines equal to PPW; pronotum smooth and shiny; mesonotum without rugae; gaster yellowish red, not concolorous with mesosoma.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker measurements (mm) (n = 5). HW 0.81 - 0.85; HL 0.87 - 0.93; SL 0.61 - 0.67; EL 0.26 - 0.30; OVD 0.29 - 0.32; PNW n / a; PPW 0.42 - 0.45; WL 1.05 - 1.16. Indices. CI 91 - 94; CNI 107 - 134; OI 31 - 35; SI 72 - 78.</tax:p>
+                <tax:p>Worker description. The worker has been adequately described by Shattuck (1991).</tax:p>
+                <tax:p>Queen and male unknown.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>DISCUSSION</tax:p>
+                <tax:p>
+Although similar to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25960" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>nigripes</dc:Species>
+                        </tax:xmldata>A. nigripes</tax:name>
+, this species is separable as noted in the discussion of that species. The gaster is distinctly lighter in color than the head and mesosoma, but is not distinctly bicolored as in the otherwise similar 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236921" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>mlalu</dc:Species>
+                        </tax:xmldata>A. mlalu</tax:name>
+, a species that lacks erect pronotal hairs (present in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25962" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>palligastrion</dc:Species>
+                        </tax:xmldata>A. palligastrion</tax:name>
+).
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236924" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>stageri</dc:Species>
+                    </tax:xmldata>Axinidris stageri</tax:name>
+, 
+new species</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 10, 20, 30</tax:p>
+            </tax:div>
+            <tax:div type="diagnosis">
+                <tax:p>Worker diagnosis. Apex of scape distinctly surpassing vertex margin; scape and pronotum with numerous erect hairs; medial carina profile elevated and acute at apex, continued down propodeal declivity.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker measurements (mm) (n = 3). HL 0.81 - 0.89; HW 0.20 - 0.22; SL 0.68 - 0.76; EL 0.11 - 0.13; OVD 0.28 - 0.34; PNW 0.49 - 0.58; PPW 0.33 - 0.38; WL 0.97 - 1.11. Indices. CI 96 - 98; CNI 5 - 6; OI 25 - 26; SI 87 - 88.</tax:p>
+                <tax:p>Worker description. Head shiny between dense minute punctures; gena weakly imbricate and with scattered minute punctures; malar area polished and unsculptured. Apex of antennal scape exceeding vertex by more than greatest width of scape. Numerous suberect hairs on head margins in frontal view, especially above eyes; front of head and vertex with numerous short to moderately long suberect and erect hairs; scape shaft with sparse long erect hairs and numerous short suberect hairs.</tax:p>
+                <tax:p>Pronotal disc shiny and weakly imbricate. Mesonotum shiny, with coarse irregular longitudinal rugae evenly sloping in profile and metanotal spiracle clearly projecting. Mesepisternum shiny, with finer longitudinal rugae. Propodeal dorsum less shiny than pronotum, coarsely imbricate; side shiny and irregularly longitudinally rugose; spiracular tubercle prominent in dorsal view, anterior edge of spiracle moderately elevated so that opening is directed obliquely distad; medial carina sharp, strongly elevated behind and acute in profile, continued ventrad on posterior face; propodeal spines reduced to minute teeth, distance between their apices much less than propodeal width at spiracles. Pronotum (Fig. 20) with 20 + erect hairs; mesonotum and propodeum each with 10 + similar hairs.</tax:p>
+                <tax:p>Gastral terga subpolished and weakly imbricate; all terga with scattered erect and suberect hairs in addition to sparse appressed pubescence.</tax:p>
+                <tax:p>Head and body uniformly yellowish red, appendages paler.</tax:p>
+                <tax:p>Queen and male unknown.</tax:p>
+            </tax:div>
+            <tax:nomenclature>TYPE MATERIAL
+Holotype and two paratype workers, 
+TANZANIA
+, 
+Bunduki
+, 
+Uluguru Mts.
+, 6 - 15 
+January
+1964 (
+K. E. Stager
+), all in 
+LACM
+.
+</tax:nomenclature>
+            <tax:div type="etymology">
+                <tax:p>ETYMOLOGY</tax:p>
+                <tax:p>
+This species is dedicated to Dr. Kenneth E. Stager, former Curator of Ornithology at the 
+LACM
+, in appreciation for the many samples of ants that he collected for me in various parts of the world.
+</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>DISCUSSION</tax:p>
+                <tax:p>
+This species is easily recognized by the abundance of erect pilosity on the body and appendages and by its reddish color. Morphologically it is most similar to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25964" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>tridens</dc:Species>
+                        </tax:xmldata>A. tridens</tax:name>
+, but the medial carina is higher than in available material of that species. Additionally, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25964" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>tridens</dc:Species>
+                        </tax:xmldata>A. tridens</tax:name>
+is much less hairy, with no erect hairs on the antennal scapes and the gastral terga.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25964" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>tridens</dc:Species>
+                    </tax:xmldata>Axinidris tridens (Arnold)</tax:name>
+            </tax:nomenclature>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:134324" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Engramma</dc:Genus>
+                            <dc:Species>tridens</dc:Species>
+                        </tax:xmldata>Engramma tridens Arnold</tax:name>
+, 1946: 58 (w). 
+MALAWI
+, 
+Mlanje
+(= 
+Mulanje
+) (
+SAMC
+)
+
+. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25964" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                            <dc:Species>tridens</dc:Species>
+                        </tax:xmldata>Axinidris tridens</tax:name>
+: Shattuck, 1991: 119 - 120.
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="diagnosis">
+                <tax:p>Worker diagnosis. Antennal scape shaft, pronotum and gastral terga without erect hairs; pronotum densely pubescent; medial carina acute in profile.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker measurements (mm) (n = 2). HW 0.81 - 0.88; HL 0.86 - 0.95; SL 0.72 - 0.82; OVD 0.33; PNW n / a; PPW 0.31 - 0.34; WL 1.07. Indices. CI 93 - 94; CNI 64 - 95; OI 24 - 28; SI 88 - 93.</tax:p>
+                <tax:p>Worker description. The worker has been adequately redescribed by Shattuck (1991).</tax:p>
+                <tax:p>Queen and male unknown.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>DISCUSSION</tax:p>
+                <tax:p>
+Shattuck (1991) removed this species from 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:146930" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Engramma</dc:Genus>
+                        </tax:xmldata>Engramma</tax:name>
+to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2369" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Axinidris</dc:Genus>
+                        </tax:xmldata>Axinidris</tax:name>
+. He also reported one worker from St. Lucia Estuary, Natal, SOUTH AFRICA. This is the only specimen known, other than the types.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:p>ACKNOWLEDGEMENTS</tax:p>
+        <tax:p>
+For the loan of specimens in their care, I am deeply indebted to Barry Bolton (BMNH), Stefan Cover (MCZC), Brian Fisher (CASC) and Hamish Robertson (SAMC). My field work in Kenya was facilitated and encouraged by Scott Miller. Hans Herren, Susan Kimani, Nixon Onyimbo and Lucie Rogo, all of ICIPE, greatly aided my field work in Kenya, with further assistance at Isecheno from Wilberforce Okeka, Boniface Omolo, Andrew Chiapya and David Makonjio. Numerous canopy fogging samples from Kakamega Forest that yielded 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2369" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                </tax:xmldata>Axinidris</tax:name>
+specimens were contributed by Marcell Peters and Thomas Wagner (AKRI). Thanks are also extended to Giar-Ann Kung for her patient assistance during my sessions with the scanning electron microscope.
+</tax:p>
+        <tax:p>DEDICATION</tax:p>
+        <tax:p>This paper is dedicated to Ed Wilson, not only in recognition of his contributions to ant taxonomy, but also for the advances in understanding the biogeography and ecology of ants and of his many stimulating contributions toward understanding social behavior, from insects to humans.</tax:p>
+        <tax:p>LITERATURE CITED</tax:p>
+        <tax:p>Arnold, G. 1946. New species of African Hymenoptera. No. 6. Occasional Papers of the National Museum of Southern Rhodesia 2: 49 - 97.</tax:p>
+        <tax:p>Bolton, B. 1994. Identification guide to the ant genera of the world. Harvard University Press, Cambridge, MA. 222 pp.</tax:p>
+        <tax:p>Bolton, B. 1995. A new general catalogue of the ants of the world. Harvard University Press, Cambridge, MA. 504 pp.</tax:p>
+        <tax:p>Forel, A. 1905. Miscellanea myrmecologiques, 2. (1905) Annales de la Societe Entomologique de Belgique 49: 155 - 185.</tax:p>
+        <tax:p>Harris, R. A. 1979. A glossary of surface sculpturing. Occasional Papers in Entomology, California Department of Food and Agriculture 28: 1 - 31.</tax:p>
+        <tax:p>
+Mayr, G. 1872. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+Borneenses collectae a J. Doria et O. Beccari in territorio Sarawak annis 1865 - 1867. Annali del Museo Civico di Storia Naturale de Genova 2: 133 - 155.
+</tax:p>
+        <tax:p>Santschi, F. 1919. Nouvelles fourmis du Congo Belge du Musee du Congo Belge, a Tervueren. Revue Zoologique Africaine 7: 79 - 91.</tax:p>
+        <tax:p>
+Shattuck, S. O. 1991. Revision of the dolichoderine ant genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2369" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Axinidris</dc:Genus>
+                </tax:xmldata>Axinidris</tax:name>
+(Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). SystematicEntomology 16: 105 - 120.
+</tax:p>
+        <tax:p>
+Shattuck S. O. 1992. Generic revision of the ant subfamily 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2250" source="HNS"/>Dolichoderinae</tax:name>
+(Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Sociobiology 21: 1 - 181.
+</tax:p>
+        <tax:p>
+Weber, N. A. 1941. Four new genera of Ethiopian and Neotropical 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+. Annals of the Entomological Society of America 21: 183 - 194.
+</tax:p>
+        <tax:p>Wheeler, W. M. 1922. Ants of the American Museum Congo Expedition. A contribution to the myrmecology of Africa. II. The ants collected by the American Museum Congo Expedition. Bulletin of the American Museum of Natural History 45: 39 - 269.</tax:p>
+        <tax:figure>
+            <tax:p>
+Figures 1 - 4. Frontal view of head of: 1, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25952" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>acholli</dc:Species>
+                    </tax:xmldata>Axinidris acholli</tax:name>
+; 2, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25953" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>bidens</dc:Species>
+                    </tax:xmldata>A. bidens</tax:name>
+; 3, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236917" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>gabonica</dc:Species>
+                    </tax:xmldata>A. gabonica</tax:name>
+; 4, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236918" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>icipe</dc:Species>
+                    </tax:xmldata>A. icipe</tax:name>
+.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 5 - 8. Frontal view of head of: 5, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236919" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>lignicola</dc:Species>
+                    </tax:xmldata>A. lignicola</tax:name>
+; 6, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236920" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>luhya</dc:Species>
+                    </tax:xmldata>A. luhya</tax:name>
+; 7, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236922" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>namib</dc:Species>
+                    </tax:xmldata>A. namib</tax:name>
+; 8, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236923" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>okekai</dc:Species>
+                    </tax:xmldata>A. okekai</tax:name>
+.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 9 - 10. Frontal view of head of: 9, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230093" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>hypoclinoides</dc:Species>
+                    </tax:xmldata>A. hypoclinoides</tax:name>
+; 10, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236924" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>stageri</dc:Species>
+                    </tax:xmldata>A. stageri</tax:name>
+. Figures 11 - 13. Lateral view of mesosoma of: 11, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25952" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>acholli</dc:Species>
+                    </tax:xmldata>A. acholli</tax:name>
+; 12, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25953" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>bidens</dc:Species>
+                    </tax:xmldata>A. bidens</tax:name>
+; 13, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236917" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>gabonica</dc:Species>
+                    </tax:xmldata>A. gabonica</tax:name>
+.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 14 - 19. Lateral view of mesosoma of: 14, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236918" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>icipe</dc:Species>
+                    </tax:xmldata>A. icipe</tax:name>
+; 15, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236919" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>lignicola</dc:Species>
+                    </tax:xmldata>A. lignicola</tax:name>
+; 16, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236920" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>luhya</dc:Species>
+                    </tax:xmldata>A. luhya</tax:name>
+; 17, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236922" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>namib</dc:Species>
+                    </tax:xmldata>A. namib</tax:name>
+; 18, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236923" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>okekai</dc:Species>
+                    </tax:xmldata>A. okekai</tax:name>
+; 19, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230093" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>hypoclinoides</dc:Species>
+                    </tax:xmldata>A. hypoclinoides</tax:name>
+.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figure 20. Lateral view of mesosoma of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236924" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>stageri</dc:Species>
+                    </tax:xmldata>A. stageri</tax:name>
+. Figures 21 - 24. Dorsal view of mesosoma of: 21, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25952" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>acholli</dc:Species>
+                    </tax:xmldata>A. acholli</tax:name>
+; 22, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25953" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>bidens</dc:Species>
+                    </tax:xmldata>A. bidens</tax:name>
+; 23, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236917" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>gabonica</dc:Species>
+                    </tax:xmldata>A. gabonica</tax:name>
+; 24, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236918" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>icipe</dc:Species>
+                    </tax:xmldata>A. icipe</tax:name>
+.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 25 - 30. Dorsal view of mesosoma of: 25, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236919" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>lignicola</dc:Species>
+                    </tax:xmldata>A. lignicola</tax:name>
+; 26, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236920" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>luhya</dc:Species>
+                    </tax:xmldata>A. luhya</tax:name>
+; 27, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236922" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>namib</dc:Species>
+                    </tax:xmldata>A. namib</tax:name>
+; 28, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236923" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>okekai</dc:Species>
+                    </tax:xmldata>A. okekai</tax:name>
+; 29, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230093" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>hypoclinoides</dc:Species>
+                    </tax:xmldata>A. hypoclinoides</tax:name>
+; 30, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:236924" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Axinidris</dc:Genus>
+                        <dc:Species>stageri</dc:Species>
+                    </tax:xmldata>A. stageri</tax:name>
+.
+      </tax:p>
+        </tax:figure>
+    </tax:taxonxBody>
+</tax:taxonx>

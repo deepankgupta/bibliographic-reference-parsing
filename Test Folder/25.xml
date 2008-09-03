@@ -1,0 +1,1947 @@
+<?xml version="1.0" encoding="UTF-8"?><tax:taxonx xmlns:dc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.taxonx.org/schema/v1 http://www.taxonx.org/schema/v1/taxonx1.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-1.xsd http://digir.net/schema/conceptual/darwin/2003/1.0 http://digir.net/schema/conceptual/darwin/2003/1.0/darwin2.xsd">
+    <tax:taxonxHeader>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Identification of the species of Gnamptogenys Roger in the Americas.</mods:title>
+            </mods:titleInfo>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:name type="personal">
+                <mods:role>
+                    <mods:roleTerm>Author</mods:roleTerm>
+                </mods:role>
+                <mods:namePart>Lattke, J. E.</mods:namePart>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:role>
+                    <mods:roleTerm>Author</mods:roleTerm>
+                </mods:role>
+                <mods:namePart>Fernández, F.</mods:namePart>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:role>
+                    <mods:roleTerm>Author</mods:roleTerm>
+                </mods:role>
+                <mods:namePart>Palacio G., E. E.</mods:namePart>
+            </mods:name>
+            <mods:relatedItem type="host">
+                <mods:titleInfo>
+                    <mods:title>Advances in ant systematics (Hymenoptera: Formicidae): Homage to E.O. Wilson - 50 years of contributions.</mods:title>
+                </mods:titleInfo>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Snelling, R. R.</mods:namePart>
+                </mods:name>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Fisher, B. L.</mods:namePart>
+                </mods:name>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Ward, P. S.</mods:namePart>
+                </mods:name>
+                <mods:originInfo>
+                    <mods:dateIssued>2007</mods:dateIssued>
+                    <mods:publisher>Memoirs of the American Entomological Institute, 80</mods:publisher>
+                </mods:originInfo>
+                <mods:part>
+                    <mods:extent unit="page">
+                        <mods:start>254</mods:start>
+                        <mods:end>270</mods:end>
+                    </mods:extent>
+                </mods:part>
+            </mods:relatedItem>
+            <mods:identifier type="HNS-PUB">21283</mods:identifier>
+            <mods:location>
+                <mods:url>http://hdl.handle.net/10199/15358</mods:url>
+            </mods:location>
+        </mods:mods>
+    </tax:taxonxHeader>
+    <tax:taxonxBody>
+        <tax:p>
+IDENTIFICATION OF THE SPECIES OF 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2495" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                </tax:xmldata>GNAMPTOGENYS</tax:name>
+ROGER IN THE AMERICAS
+</tax:p>
+        <tax:p>John E. Lattke</tax:p>
+        <tax:p>Instituto de Zoologia Agricola</tax:p>
+        <tax:p>Universidad Central de Venezuela</tax:p>
+        <tax:p>Apartado 4579</tax:p>
+        <tax:p>Maracay 2101 - A, Venezuela</tax:p>
+        <tax:p>piquihuye @ hotmail. com</tax:p>
+        <tax:p>Fernando Fernandez</tax:p>
+        <tax:p>Instituto de Ciencias Naturales</tax:p>
+        <tax:p>Universidad Nacional de Colombia</tax:p>
+        <tax:p>Apartado 7495</tax:p>
+        <tax:p>Bogota D. C., Colombia</tax:p>
+        <tax:p>ffernandez @ unal. edu. co</tax:p>
+        <tax:p>and</tax:p>
+        <tax:p>Edgard E. Palacio</tax:p>
+        <tax:p>Fundacion Nova Hylaea</tax:p>
+        <tax:p>Apartado Aereo 7954</tax:p>
+        <tax:p>Santafe de Bogota D. C., Colombia</tax:p>
+        <tax:p>parasitoideus @ yahoo. com</tax:p>
+        <tax:p>ABSTRACT</tax:p>
+        <tax:p>
+A dichotomous key is presented for identifying workers of recent species of the genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2495" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                </tax:xmldata>Gnamptogenys</tax:name>
+in the Americas. Included are 81 species with their known distribution. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238260" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>wilsoni</dc:Species>
+                </tax:xmldata>G. wilsoni Lattke</tax:name>
+, 
+n. sp.
+, is described.
+</tax:p>
+        <tax:p>
+Key words: Hymenoptera, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2495" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                </tax:xmldata>Gnamptogenys</tax:name>
+, taxonomy, identification key, Americas.
+</tax:p>
+        <tax:p>
+Resumen: Se presenta una clave dicotomica para identificar a las especies recientes de obreras del genero 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2495" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                </tax:xmldata>Gnamptogenys</tax:name>
+en America. Se incluyen 81 especies con su distribucion conocida. Se describe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238260" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>wilsoni</dc:Species>
+                </tax:xmldata>G. wilsoni Lattke</tax:name>
+, 
+n. sp.</tax:p>
+        <tax:p>
+Palabras claves: Hymenoptera, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2495" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                </tax:xmldata>Gnamptogenys</tax:name>
+, taxonomia, clave para identificacion, America
+</tax:p>
+        <tax:p>INTRODUCTION</tax:p>
+        <tax:p>
+Ants, in accordance with their ecological importance, numerical dominance, and considerable diversity are becoming ever more present in studies as biological indicators (Alonso, 2000). The genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2495" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                </tax:xmldata>Gnamptogenys</tax:name>
+is one of the larger groups with more than 120 species worldwide, of which over 80 are known from the New World. It ranks fifth place amongst the poneromorph subfamilies in number of species (Bolton, 1995) and tenth place amongst the ant genera recovered in Neotropical leaf litter samples (Ward, 2000). Most species inhabit mesic forested areas, nesting in decomposing wood on the ground and hunting their prey on the soil and amongst the leaf litter. The New World fauna was recently revised by Lattke (1995) but subsequent work has increased the number of species, and some new synonyms have been determined (Lattke, 2002; Lattke et al., 2004; Pacheco et al., 2004). Given these changes, a new version of the key for identifying the species is presented. The results should be confronted with descriptions in order to support the conclusions. The unnamed taxa ¨ species A, B, and C ¨ are included in the key but not in the species list, and will be described in a future paper.
+</tax:p>
+        <tax:p>
+LIST OF RECENT NEW WORLD 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2495" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                </tax:xmldata>GNAMPTOGENYS</tax:name>
+SPECIES
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29286" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>acuminata</dc:Species>
+                </tax:xmldata>G. acuminata Emery</tax:name>
+: Tropical South America
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29287" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>acuta</dc:Species>
+                </tax:xmldata>G. acuta (Brown)</tax:name>
+: Colombia to Bolivia
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29289" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>alfaroi</dc:Species>
+                </tax:xmldata>G. alfaroi Emery</tax:name>
+: Costa Rica to Ecuador
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29290" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>ammophila</dc:Species>
+                </tax:xmldata>G. ammophila Lattke</tax:name>
+: southeastern Venezuela
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229782" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>andina</dc:Species>
+                </tax:xmldata>G. andina Lattke</tax:name>
+: Colombia - Ecuador
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29291" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>annulata</dc:Species>
+                </tax:xmldata>G. annulata Mayr</tax:name>
+: Costa Rica to Tropical South America
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29294" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>banksi</dc:Species>
+                </tax:xmldata>G. banksi (Wheeler)</tax:name>
+: Panama to Ecuador
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:181630" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>biquetra</dc:Species>
+                </tax:xmldata>G. biquetra</tax:name>
+Lattke: Panama
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29298" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>bispinosa</dc:Species>
+                </tax:xmldata>G. bispinosa (Emery)</tax:name>
+: Costa Rica to Colombia
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29299" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>bisulca</dc:Species>
+                </tax:xmldata>G. bisulca Kempf</tax:name>
+and Brown: Costa Rica to Ecuador, Andes
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229789" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>boliviensis</dc:Species>
+                </tax:xmldata>G. boliviensis Lattke</tax:name>
+: northern Bolivia
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29300" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>bruchi</dc:Species>
+                </tax:xmldata>G. bruchi (Santschi)</tax:name>
+: northern Argentina
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229792" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>brunnea</dc:Species>
+                </tax:xmldata>G. brunnea Lattke</tax:name>
+: western Colombia
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29301" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>bufonis</dc:Species>
+                </tax:xmldata>G. bufonis (Mann)</tax:name>
+: southern Mexico - Nicaragua
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29302" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>caelata</dc:Species>
+                </tax:xmldata>G. caelata Kempf</tax:name>
+: Colombia - southern Brazil
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29304" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>concinna</dc:Species>
+                </tax:xmldata>G. concinna (F. Smith)</tax:name>
+: Mexico to Tropical South America
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29305" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>continua</dc:Species>
+                </tax:xmldata>G. continua Mayr</tax:name>
+: Mexico to Tropical South America
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229797" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>cuneiforma</dc:Species>
+                </tax:xmldata>G. cuneiforma</tax:name>
+Lattke: Panama
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29312" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>curvoclypeata</dc:Species>
+                </tax:xmldata>G. curvoclypeata Lattke</tax:name>
+: Venezuela to Colombia
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229800" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>ejuncida</dc:Species>
+                </tax:xmldata>G. ejuncida</tax:name>
+Lattke: Colombia
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229803" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>enodis</dc:Species>
+                </tax:xmldata>G. enodis Fernandez</tax:name>
+Colombia
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229804" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>ericae</dc:Species>
+                </tax:xmldata>G. ericae Forel</tax:name>
+: northern South America
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229806" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>extra</dc:Species>
+                </tax:xmldata>G. extra</tax:name>
+Lattke: western Colombia - Ecuador
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:181633" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>falcaria</dc:Species>
+                </tax:xmldata>G. falcaria</tax:name>
+Lattke: Hispaniola
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29318" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>falcifera</dc:Species>
+                </tax:xmldata>G. falcifera Kempf</tax:name>
+: northern South America
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29319" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>fernandezi</dc:Species>
+                </tax:xmldata>G. fernandezi Lattke</tax:name>
+: Venezuela to Ecuador
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29320" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>fieldi</dc:Species>
+                </tax:xmldata>G. fieldi Lattke</tax:name>
+: north-central Venezuela
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:184333" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>flava</dc:Species>
+                </tax:xmldata>G. flava Pacheco</tax:name>
+, MacKay &amp; Morgan: Bolivia
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229809" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>gentryii</dc:Species>
+                </tax:xmldata>G. gentryii</tax:name>
+Lattke: southwestern Colombia
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29321" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>gracilis</dc:Species>
+                </tax:xmldata>G. gracilis (Santschi)</tax:name>
+: Guyana Shield
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29323" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>haenschi</dc:Species>
+                </tax:xmldata>G. haenschi Emery</tax:name>
+: Costa Rica - Tropical South America
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29324" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>hartmanni</dc:Species>
+                </tax:xmldata>G. hartmanni (Wheeler)</tax:name>
+: southern U. S. - northern South America
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29325" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>haytiana</dc:Species>
+                </tax:xmldata>G. haytiana (Wheeler &amp; Mann)</tax:name>
+: Hispaniola
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>horni</dc:Species>
+                </tax:xmldata>G. horni Santschi</tax:name>
+: Panama to Bolivia
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229810" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>ilimani</dc:Species>
+                </tax:xmldata>G. ilimani</tax:name>
+Lattke: Bolivian Andes
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29327" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>ingeborgae</dc:Species>
+                </tax:xmldata>G. ingeborgae Brown</tax:name>
+: Colombia
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:181634" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>insularis</dc:Species>
+                </tax:xmldata>G. insularis Lattke</tax:name>
+: Hispaniola
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29328" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>interrupta</dc:Species>
+                </tax:xmldata>G. interrupta Mayr</tax:name>
+: Mexico to Tropical South America, Jamaica
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29330" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>kempfi</dc:Species>
+                </tax:xmldata>G. kempfi Lenko</tax:name>
+: Brazil &amp; Peru
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29332" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>lanei</dc:Species>
+                </tax:xmldata>G. lanei Kempf</tax:name>
+: lower Amazon watershed
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229812" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>laticephala</dc:Species>
+                </tax:xmldata>G. laticephala Lattke</tax:name>
+: Ecuador
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:181635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>lavra</dc:Species>
+                </tax:xmldata>G. lavra</tax:name>
+Lattke: SE Brazil
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29334" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>lineolata</dc:Species>
+                </tax:xmldata>G. lineolata Brown</tax:name>
+: Hispaniola
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29335" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>lucaris</dc:Species>
+                </tax:xmldata>G. lucaris Kempf</tax:name>
+: southern Brazil
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29342" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>mecotyle</dc:Species>
+                </tax:xmldata>G. mecotyle Brown</tax:name>
+: Panama - Tropical South America
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29343" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>mediatrix</dc:Species>
+                </tax:xmldata>G. mediatrix Brown</tax:name>
+: Cuenca Amazonica
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29345" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>menozzii</dc:Species>
+                </tax:xmldata>G. menozzii Borgmeier</tax:name>
+: southern Brazil
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29346" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>mina</dc:Species>
+                </tax:xmldata>G. mina (Brown)</tax:name>
+: northern South America
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29347" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>minuta</dc:Species>
+                </tax:xmldata>G. minuta (Emery)</tax:name>
+: Belize - Brazil
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29348" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>moelleri</dc:Species>
+                </tax:xmldata>G. moelleri (Forel)</tax:name>
+: Tropical South America
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29349" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>mordax</dc:Species>
+                </tax:xmldata>G. mordax (F. Smith)</tax:name>
+: Mexico to Tropical South America
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29350" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>nana</dc:Species>
+                </tax:xmldata>G. nana Kempf</tax:name>
+: Brazil &amp; northern Argentina
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>nigrivitrea</dc:Species>
+                </tax:xmldata>G. nigrivitrea</tax:name>
+Lattke: Colombia
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29353" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>perspicax</dc:Species>
+                </tax:xmldata>G. perspicax Kempf &amp; Brown</tax:name>
+: Colombia to Ecuador
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29354" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>petiscapa</dc:Species>
+                </tax:xmldata>G. petiscapa Lattke</tax:name>
+: northwestern Venezuela
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229826" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>pilosa</dc:Species>
+                </tax:xmldata>G. pilosa Lattke</tax:name>
+: western Colombia
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29355" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>pittieri</dc:Species>
+                </tax:xmldata>G. pittieri Lattke</tax:name>
+: north central Venezuela
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29356" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>pleurodon</dc:Species>
+                </tax:xmldata>G. pleurodon (Emery)</tax:name>
+: Tropical South America
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29357" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>porcata</dc:Species>
+                </tax:xmldata>G. porcata (Emery)</tax:name>
+: Honduras to Bolivia
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29360" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>rastrata</dc:Species>
+                </tax:xmldata>G. rastrata (Mayr)</tax:name>
+: southern Brazil
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29361" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>regularis</dc:Species>
+                </tax:xmldata>G. regularis Mayr</tax:name>
+: Mexico to Paraguay
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29362" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>reichenspergeri</dc:Species>
+                </tax:xmldata>G. reichenspergeri (Santschi)</tax:name>
+: Orinoco - Amazon watershed
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29363" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>relicta</dc:Species>
+                </tax:xmldata>G. relicta (Mann)</tax:name>
+: Orinoco - Amazon watershed
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29364" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>rimulosa</dc:Species>
+                </tax:xmldata>G. rimulosa (Roger)</tax:name>
+: southern Brazil
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:181636" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>rumba</dc:Species>
+                </tax:xmldata>G. rumba</tax:name>
+Lattke: Cuba
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29366" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>schmitti</dc:Species>
+                </tax:xmldata>G. schmitti (Forel)</tax:name>
+: Hispaniola
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29368" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>semiferox</dc:Species>
+                </tax:xmldata>G. semiferox Brown</tax:name>
+: Hispaniola
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229839" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>siapensis</dc:Species>
+                </tax:xmldata>G. siapensis</tax:name>
+Lattke: southern Venezuela
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29370" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>simulans</dc:Species>
+                </tax:xmldata>G. simulans (Emery)</tax:name>
+: Costa Rica
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229845" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>stellae</dc:Species>
+                </tax:xmldata>G. stellae</tax:name>
+Lattke: Costa Rica, Colombia
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29373" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>striatula</dc:Species>
+                </tax:xmldata>G. striatula Mayr</tax:name>
+: Mexico to northern Argentina, Caribbean
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29374" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>strigata</dc:Species>
+                </tax:xmldata>G. strigata (Norton)</tax:name>
+: Mexico to Colombia
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29375" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>striolata</dc:Species>
+                </tax:xmldata>G. striolata (Borgmeier)</tax:name>
+: southwestern Brazil
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29376" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>sulcata</dc:Species>
+                </tax:xmldata>G. sulcata (F. Smith)</tax:name>
+: Mexico to tropical South America
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29380" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>tortuolosa</dc:Species>
+                </tax:xmldata>G. tortuolosa (F. Smith)</tax:name>
+: Amazon - Orinoco watershed
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229849" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>transversa</dc:Species>
+                </tax:xmldata>G. transversa Lattke</tax:name>
+: Panama
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29381" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>triangularis</dc:Species>
+                </tax:xmldata>G. triangularis Mayr</tax:name>
+: Florida, USA.; Costa Rica to Argentina
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29384" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>vriesi</dc:Species>
+                </tax:xmldata>G. vriesi Brandao &amp; Lattke</tax:name>
+: Ecuador
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238260" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>wilsoni</dc:Species>
+                </tax:xmldata>G. wilsoni Lattke</tax:name>
+, n. sp: southeastern Brazil
+</tax:p>
+        <tax:p>
+KEY TO THE NEW WORLD SPECIES OF 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2495" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                </tax:xmldata>GNAMPTOGENYS</tax:name>
+(workers)
+</tax:p>
+        <tax:p>1 Frontal carina not covering all of base of scape, at least neck visible; petiolar spiracle facing ventrolaterally, not in depression; promesonotal suture well marked, totally interrupting dorsal mesosomal sculpture ......................................................................... 2</tax:p>
+        <tax:p>-- Frontal carina not totally covering base of scape, at least neck visible; petiolar spiracle facing ventrolaterally, not in depression; promesonotal suture absent to well-impressed but never interrupting dorsal mesosomal sculpture .............................................................. 25</tax:p>
+        <tax:p>-- Frontal carina in dorsal view covering all of scape base, including condyle and neck; petiolar spiracle facing ventrally, located in depression; promesonotal suture absent to lightly impressed, never interrupting dorsal mesosomal sculpture ................................ 75</tax:p>
+        <tax:p>2 (1) Petiolar node with semiparallel anterior and posterior margins in lateral view, both forming approximate right angles with the dorsal margin (Fig. 1); cephalic vertex usually smooth and shining, sometimes with weak transverse striae ........................................................ 3</tax:p>
+        <tax:p>-- Petiolar node with a single curved anterodorsal margin or anterior and dorsal margins separated by a blunt angle (Figs. 2 - 4); cephalic vertex usually with sculpturing ........... 6</tax:p>
+        <tax:p>3 (2) Mesosomal dorsum with large smooth and shining areas ................................................ 4</tax:p>
+        <tax:p>-- Mesosomal dorsum totally sculptured, usually costulate or rugulose .............................. 5</tax:p>
+        <tax:p>
+4 (3) Metanotal groove well-impressed, interrupting dorsal mesosomal sculpture; metacoxal dorsum unarmed; propodeal declivity lacking lobes ................................................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29363" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>relicta</dc:Species>
+                </tax:xmldata>relicta</tax:name>
+        </tax:p>
+        <tax:p>
+-- Metanotal groove absent; metacoxal dorsum with a lobe or denticle; propodeal declivity with anterolateral lobes ............................................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29362" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>reichenspergeri</dc:Species>
+                </tax:xmldata>reichenspergeri</tax:name>
+        </tax:p>
+        <tax:p>
+5 (3) Postpetiolar dorsum transversely rugulose; body yellowish ................................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29325" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>haytiana</dc:Species>
+                </tax:xmldata>haytiana</tax:name>
+        </tax:p>
+        <tax:p>
+-- Postpetiolar dorsum longitudinally costulate; body black to dark brown .................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29346" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>mina</dc:Species>
+                </tax:xmldata>mina</tax:name>
+        </tax:p>
+        <tax:p>6 (2) Propodeal spiracle separated from declivitous margin by more than one diameter in lateral view; metacoxal dorsum unarmed ............................................................................. lavra</tax:p>
+        <tax:p>-- Propodeal spiracle separated from declivitous margin by less than one diameter; metacoxal dorsum with a lobe or denticles ....................................................................................... 7</tax:p>
+        <tax:p>7 (6) Mesosomal dorsum with a well defined metanotal groove .............................................. 8</tax:p>
+        <tax:p>-- Metanotal groove absent ................................................................................................ 12</tax:p>
+        <tax:p>
+8 (7) Dorsum of abdominal tergites III and IV smooth and shining ................................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229809" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>gentryi</dc:Species>
+                </tax:xmldata>gentryi</tax:name>
+        </tax:p>
+        <tax:p>Dorsum of abdominal tergites III and IV longitudinally costulate .................................. 9</tax:p>
+        <tax:p>9 (8) Subpetiolar process subquadrate in lateral view, with a posterior angle ........................ 10</tax:p>
+        <tax:p>-- Subpetiolar process forming an anterior projecting lobe, without a posterior angle ...... 11</tax:p>
+        <tax:p>
+10 (9) Area between promesonotal suture and metanotal groove narrow and of uniform width; anterior mesonotal margin convex .......................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29299" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>bisulca</dc:Species>
+                </tax:xmldata>bisulca</tax:name>
+        </tax:p>
+        <tax:p>-- Area between promesonotal suture and metanotal groove wide and ovaloid; anterior mesonotal margin forms a blunt angle ............................................................... species A</tax:p>
+        <tax:p>
+11 (9) Anterior margin of clypeal lamella bluntly angular; cephalic vertex longitudinally costulate ............................................................................................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229792" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>brunnea</dc:Species>
+                </tax:xmldata>brunnea</tax:name>
+        </tax:p>
+        <tax:p>-- Anterior margin of clypeal lamella evenly convex; cephalic vertex with less than five transverse costulae ............................................................................................. species B</tax:p>
+        <tax:p>12 (7) Petiolar node erect in lateral view, the dorsal margin separated from the anterior and posterior margins by blunt angles (Fig. 2) ..................................................................... 13</tax:p>
+        <tax:p>-- Petiolar node posteriorly inclined in lateral view, with a broadly curved anterodorsal margin contrasting with the angle separating the dorsal margin from the posterior margin (Figs. 3 - 4) ...................................................................................................................... 15</tax:p>
+        <tax:p>13 (12) SL &lt;1.1 mm .................................................................................................................. 14</tax:p>
+        <tax:p>
+-- SL&gt; 1.1 mm .......................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29348" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>moelleri</dc:Species>
+                </tax:xmldata>moelleri</tax:name>
+        </tax:p>
+        <tax:p>
+14 (13) Propodeal declivity with 5 - 11, sometimes fewer, longitudinal costulae between spiracles and 1 - 3 transverse costulae between each spiracle and the longitudinal costulae (Fig. 6); scapes with sparse pilosity, less than six decumbent and semi-erect hairs ........... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29373" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>striatula</dc:Species>
+                </tax:xmldata>striatula</tax:name>
+        </tax:p>
+        <tax:p>
+-- Propodeal declivity with 13 - 16 longitudinal costulae between spiracles and no transverse costulae between each spiracle and the longitudinal costulae (Fig. 5); scapes with dense, uniformly decumbent pilosity, more than six decumbent and semi-erect hairs ......................................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29290" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>ammophila</dc:Species>
+                </tax:xmldata>ammophila</tax:name>
+        </tax:p>
+        <tax:p>15 (12) Petiolar node with blunt or pointed apex overhanging posterior margin in lateral view; subpetiolar process in ventral view with edge of mostly uniform width, widening only at union with sternite (Fig. 7) ............................................................................................ 16</tax:p>
+        <tax:p>-- Petiolar node with apex barely overhanging posterior margin; subpetiolar process in ventral view cuneiform, anteriorly of uniform width, widening posteriorly into a bifurcate process (Fig. 8) ........................................................................................................................... 22</tax:p>
+        <tax:p>16 (15) Petiolar node with a blunt apex in lateral view .............................................................. 17</tax:p>
+        <tax:p>
+-- Petiolar node with an acute apex .............................................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29287" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>acuta</dc:Species>
+                </tax:xmldata>acuta</tax:name>
+        </tax:p>
+        <tax:p>
+17 (16) Postpetiolar sternite with a median smooth and shining area; vertex usually with 4 - 5 transverse costulae next to vertexal carina (Fig. 9) ................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29321" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>gracilis</dc:Species>
+                </tax:xmldata>gracilis</tax:name>
+        </tax:p>
+        <tax:p>-- Postpetiolar sternite totally costulate or striate; cephalic vertex usually with a single, occasionally more than three, transverse costulae next to vertexal carina (Fig. 10) ...... 18</tax:p>
+        <tax:p>18 (17) Scape in frontal view with more than 10 erect hairs along its posterior margin, not including basal pilosity (Fig. 12) ................................................................................... 19</tax:p>
+        <tax:p>-- Scape in frontal view with fewer than 10 erect hairs along its posterior margin (Fig. 11) ....................................................................................................................................... 20</tax:p>
+        <tax:p>
+19 (18) Body and legs brown; body striate or costulate, with abundant decumbent pubescence; subpetiolar process forming a rounded lobe, without sharp angles in lateral view ........... ............................................................................................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229800" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>ejuncida</dc:Species>
+                </tax:xmldata>ejuncida</tax:name>
+        </tax:p>
+        <tax:p>
+-- Body black and legs ferruginous; body usually costate, with sparse decumbent pubescence; subpetiolar process usually with a sharp anterior angle, blunt in Central American specimens .............................................................................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29357" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>porcata</dc:Species>
+                </tax:xmldata>porcata</tax:name>
+        </tax:p>
+        <tax:p>20 (18) Tibiae and scapes with 5 or more erect hairs ................................................................. 21</tax:p>
+        <tax:p>-- Tibiae and scapes with 1 or no semi-erect or semi-decumbent hairs ......................... extra</tax:p>
+        <tax:p>
+21 (20) Propodeal declivity with transverse costulae; petiolar node slightly pedunculate (Fig. 4) ........................................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29356" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>pleurodon</dc:Species>
+                </tax:xmldata>pleurodon</tax:name>
+        </tax:p>
+        <tax:p>-- Propodeal declivity with longitudinal costulae; petiolar node sessile (Fig. 13) ................. .......................................................................................................................... nigrivitrea</tax:p>
+        <tax:p>22 (15) Postpetiolar sternite with well-defined costulae or striae; propodeal dorsum not depressed below level of mesonotum in lateral view; dorsal and declivitous propodeal faces confluent in lateral view ................................................................................................................ 23</tax:p>
+        <tax:p>
+-- Postpetiolar sternite with weakly-defined rugulae; propodeal dorsum depressed below level of mesonotum in lateral view; dorsal and declivitous propodeal faces separated by ridge in lateral view ............................................................................................................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29355" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>pittieri</dc:Species>
+                </tax:xmldata>pittieri</tax:name>
+        </tax:p>
+        <tax:p>23 (22) Scape with moderate to scarce pubescence, with 5 or more erect hairs ........................ 24</tax:p>
+        <tax:p>
+-- Scape with dense white pubescence, with 0 - 2 erect hairs ..................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229810" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>ilimani</dc:Species>
+                </tax:xmldata>ilimani</tax:name>
+        </tax:p>
+        <tax:p>
+24 (23) HW&gt; 0.84 mm, WL&gt; 0.35 mm; OI &lt;0.16 ........................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229782" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>andina</dc:Species>
+                </tax:xmldata>andina</tax:name>
+        </tax:p>
+        <tax:p>
+-- HW &lt;0.84 mm, WL &lt;0.35 mm; OI&gt; 0.16 .......................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29374" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>strigata</dc:Species>
+                </tax:xmldata>strigata</tax:name>
+        </tax:p>
+        <tax:p>25 (1) Scape not reaching the preoccipital margin in dorsal view ............................................ 26</tax:p>
+        <tax:p>-- Scape surpassing preoccipital margin by at least one apical width ................................ 42</tax:p>
+        <tax:p>26 (26) Mandibular dorsum with striae, costulae or rugulae on at least one-fourth of its length ... ....................................................................................................................................... 27</tax:p>
+        <tax:p>-- Mandibular dorsum totally smooth and shining, with sparse punctures ........................ 29</tax:p>
+        <tax:p>27 (26) Body with regular striae or costulae; mandibles triangular or semi-triangular; not found in Antilles .......................................................................................................................... 28</tax:p>
+        <tax:p>-- Body with irregular costulae; mandibles falcate; Antillean (Hispaniola) ............. falcaria</tax:p>
+        <tax:p>28 (27) Metacoxal dorsum unarmed; eye small (OI &lt;0.1); mandibular dorsal surface densely striate ............................................................................................................... haenschi (in part)</tax:p>
+        <tax:p>
+-- Metacoxal dorsum with lobe; eye large (OI&gt; 0.2); mandibular dorsal surface costulate on basal fourth or less, the rest smooth and shining ................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29324" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>hartmanni</dc:Species>
+                </tax:xmldata>hartmanni</tax:name>
+(in part)
+</tax:p>
+        <tax:p>29 (26) Propodeal dorsum mostly transversely striate ................................................................ 30</tax:p>
+        <tax:p>-- Propodeal dorsum mostly longitudinally striate or costulate ......................................... 32</tax:p>
+        <tax:p>30 (29) Head subquadrate in dorsal view (CI&gt; 0.78); body brown to dark brown .................... 31</tax:p>
+        <tax:p>
+-- Head rectangular, (CI &lt;0.78); body black ............................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29289" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>alfaroi</dc:Species>
+                </tax:xmldata>alfaroi</tax:name>
+        </tax:p>
+        <tax:p>
+31 (30) Mesosoma and petiole costulate; both propodeum and metacoxal dorsum edentate ......... ................................................................................................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29330" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>kempfi</dc:Species>
+                </tax:xmldata>kempfi</tax:name>
+        </tax:p>
+        <tax:p>
+-- Mesosoma and petiole finely striate; both propodeum and metacoxal dorsum dentate ..... ............................................................................................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29291" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>annulata</dc:Species>
+                </tax:xmldata>annulata</tax:name>
+        </tax:p>
+        <tax:p>32 (29) Clypeal lamella laterally rounded in dorsal view, never angular; subpetiolar process usually rounded in lateral view, rarely with a posterior tooth .................................................... 33</tax:p>
+        <tax:p>-- Clypeal lamella with sharp lateral angles; subpetiolar process with a posterior tooth in lateral view .................................................................................................................... 39</tax:p>
+        <tax:p>33 (32) Mandible semi-triangular to semi-falcate in dorsal view; metanotal groove well-defined ....................................................................................................................................... 34</tax:p>
+        <tax:p>
+-- Mandible triangular; metanotal groove absent ........................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29350" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>nana</dc:Species>
+                </tax:xmldata>nana</tax:name>
+        </tax:p>
+        <tax:p>34 (33) Metacoxal dorsum unarmed, at most with a low tubercle or swelling ........................... 35</tax:p>
+        <tax:p>-- Metacoxal dorsum with a lobe or tooth ......................................................................... 36</tax:p>
+        <tax:p>
+35 (34) Body striate; clypeal lamella laterally with blunt angles in dorsal view, medially anteriorly projecting and with a small median concavity ......................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229845" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>stellae</dc:Species>
+                </tax:xmldata>stellae</tax:name>
+        </tax:p>
+        <tax:p>
+-- Body costulate; clypeal lamella with a broad median concavity and laterally rounded in dorsal view ........................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29370" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>simulans</dc:Species>
+                </tax:xmldata>simulans</tax:name>
+        </tax:p>
+        <tax:p>36 (34) Metacoxal dorsum with a low triangular lobe; HW &lt;1.12 mm, WL &lt;1.81 mm .......... 37</tax:p>
+        <tax:p>
+-- Metacoxal dorsum with a slender and parallel-sided lobe or tooth; HW&gt; 1.12, WL&gt; 1.81 mm ....................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29349" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>mordax</dc:Species>
+                </tax:xmldata>mordax</tax:name>
+        </tax:p>
+        <tax:p>
+37 (36) Propodeal spiracle separated from declivity by less than its diameter in lateral view .......
+................................................................................................................................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238260" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>wilsoni</dc:Species>
+                </tax:xmldata>wilsoni</tax:name>
+        </tax:p>
+        <tax:p>-- Propodeal spiracle separated from declivity by more than its diameter ......................... 38</tax:p>
+        <tax:p>
+38 (37) Cephalic dorsum striate; propodeal declivity inclined and relatively straight in lateral view; with weakly developed lateral lobes ................................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229789" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>boliviensis</dc:Species>
+                </tax:xmldata>boliviensis</tax:name>
+        </tax:p>
+        <tax:p>
+-- Cephalic dorsum costulate; propodeal declivity with a posterior concavity formed by welldeveloped anterolateral lobes ............................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29305" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>continua</dc:Species>
+                </tax:xmldata>continua</tax:name>
+        </tax:p>
+        <tax:p>39 (32) Metanotal groove well-defined, visible in any angle; subpetiolar process without a posterior tooth in lateral view ....................................................................................................... 40</tax:p>
+        <tax:p>-- Metanotal groove weakly defined, visible only in limited angles; subpetiolar process with posterior tooth in lateral view ........................................................................................ 41</tax:p>
+        <tax:p>
+40 (39) Anterior margin of clypeal lamella straight in dorsal view; metacoxal dorsum with a lobe ............................................................................................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29364" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>rimulosa</dc:Species>
+                </tax:xmldata>rimulosa</tax:name>
+        </tax:p>
+        <tax:p>
+-- Anterior margin of clypeal lamella with a bluntly angular concavity; metacoxal dorsum unarmed ................................................................................................................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:181630" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>biquetra</dc:Species>
+                </tax:xmldata>biquetra</tax:name>
+        </tax:p>
+        <tax:p>
+41 (39) Propodeal declivity with longitudinal costulae that converge posteriorly; anterior face of petiolar node transversely costulate; mesometapleural suture absent or weakly impressed ................................................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>horni</dc:Species>
+                </tax:xmldata>horni</tax:name>
+        </tax:p>
+        <tax:p>
+-- Propodeal declivity with parallel longitudinal costulae; most of anterior face of petiolar node longitudinally costulate, but frequently with a basal strip of transverse costulae that occasionally covers all of anterior face; mesometapleural suture well-impressed ............. ............................................................................................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29361" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>regularis</dc:Species>
+                </tax:xmldata>regularis</tax:name>
+        </tax:p>
+        <tax:p>42 (25) Mandible elongate, falcate or semi-falcate in dorsal view, with just the apex touching or overlapping the opposite mandible when totally closed ................................................ 43</tax:p>
+        <tax:p>-- Mandible triangular or semi-triangular in dorsal view, with a fourth or more of the masticatory border overlapping the opposite mandible when closed ............................. 48</tax:p>
+        <tax:p>43 (42) Propodeal declivity with teeth or denticles; metacoxal dorsum with tooth; mostly continental species ......................................................................................................... 44</tax:p>
+        <tax:p>-- Propodeal declivity rounded, without teeth or denticles; metacoxal dorsum unarmed; endemic to Hispaniola ................................................................................................... 47</tax:p>
+        <tax:p>-- Propodeal declivity with teeth or denticles; metacoxal dorsum unarmed; Cuban endemic ................................................................................................................................. rumba</tax:p>
+        <tax:p>44 (43) Mandible with short triangular tooth on basal internal margin ...................................... 45</tax:p>
+        <tax:p>
+-- Mandible with a lobe or broad convexity on basal internal margin .................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29343" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>mediatrix</dc:Species>
+                </tax:xmldata>mediatrix</tax:name>
+        </tax:p>
+        <tax:p>
+45 (44) Clypeus with a lobe anterior to each antennal fossa; each lobe partially covers the clypeal lamella in dorsal view; mesonotal spiracle in depression below level of surrounding integument ....................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229812" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>laticephala</dc:Species>
+                </tax:xmldata>laticephala</tax:name>
+        </tax:p>
+        <tax:p>-- Clypeus without lobes between antennal fossae and lamella; mesonotal spiracles at same level as surrounding integument .................................................................................... 46</tax:p>
+        <tax:p>46 (45) Antennal scape surpasses posterior cephalic margin by at least twice its maximum width; preoccipital lamella visible, with a median convexity in cephalic dorsal view .................. ............................................................................................................................ species C</tax:p>
+        <tax:p>
+-- Antennal scape surpasses posterior cephalic margin by no more than one maximum diameter ................................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29294" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>banksi</dc:Species>
+                </tax:xmldata>banksi</tax:name>
+        </tax:p>
+        <tax:p>
+47 (43) Mandible elongate and slender; propodeal dorsal surface with smooth transverse costulate ............................................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29366" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>schmitti</dc:Species>
+                </tax:xmldata>schmitti</tax:name>
+        </tax:p>
+        <tax:p>
+-- Mandible shorter and thicker; propodeal dorsal surface with vermiculate longitudinal costulae ............................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29368" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>semiferox</dc:Species>
+                </tax:xmldata>semiferox</tax:name>
+        </tax:p>
+        <tax:p>48 (42) Mandibular dorsal surface mostly smooth and shining, sometimes with striae or costulae extending not beyond the basal third; mesosomal dorsum usually without transverse sutures, if otherwise, then the ant is ferruginous and finely striate ................................ 49</tax:p>
+        <tax:p>-- Mandibular dorsal surface mostly striate or rugulose; metanotal groove well-impressed. ....................................................................................................................................... 62</tax:p>
+        <tax:p>49 (48) HW&gt; 1.4 mm; WL&gt; 2.3 mm ........................................................................................ 50</tax:p>
+        <tax:p>-- HW &lt;1.4 mm; WL &lt;2.3 mm ........................................................................................ 51</tax:p>
+        <tax:p>
+50 (49) Mesosoma costulate; metacoxal dorsum with dorsal tooth; apex of petiolar node ending in a blunt angle in lateral view; body black .............................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29380" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>tortuolosa</dc:Species>
+                </tax:xmldata>tortuolosa</tax:name>
+        </tax:p>
+        <tax:p>
+-- Mesosoma striate; metacoxal dorsum unarmed; apex of petiolar node ending in a blunt point; body ferruginous ........................................................................................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29304" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>concinna</dc:Species>
+                </tax:xmldata>concinna</tax:name>
+        </tax:p>
+        <tax:p>51 (49) Mesosoma striate; propodeal declivity with lateral longitudinal crests distinct from mesosomal striae ............................................................................................................ 52</tax:p>
+        <tax:p>-- Mesosoma costulate; propodeal declivity without crests distinct from mesosomal striae ....................................................................................................................................... 53</tax:p>
+        <tax:p>
+52 (51) Posterior face of petiolar node longitudinally costulate ....................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29324" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>hartmanni</dc:Species>
+                </tax:xmldata>hartmanni</tax:name>
+(in part)
+</tax:p>
+        <tax:p>
+-- Posterior face of petiolar node transversely costulate .............................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29300" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>bruchi</dc:Species>
+                </tax:xmldata>bruchi</tax:name>
+        </tax:p>
+        <tax:p>53 (51) Posterior face of petiolar node longitudinally costulate ................................................. 54</tax:p>
+        <tax:p>-- Posterior face of petiolar node transversely costulate .................................................... 58</tax:p>
+        <tax:p>54 (53) Clypeal lamella laterally angular; mandible semi-triangular, the internal and masticatory margins united by a broad convexity ............................................................................. 55</tax:p>
+        <tax:p>-- Clypeal lamella laterally rounded; mandible triangular, the internal and masticatory margins separated by an angle ....................................................................................... 57</tax:p>
+        <tax:p>
+55 (54) Petiolar node with a pointed apex in lateral view; propodeal declivity longitudinally costulate; body uniform brown ......................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29286" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>acuminata</dc:Species>
+                </tax:xmldata>acuminata</tax:name>
+        </tax:p>
+        <tax:p>-- Petiolar node sometimes with a posterior projection but never pointed; propodeal declivity usually transversely costulate, rarely longitudinal; color variable, usually with both brown and ferruginous parts, rarely totally brown .................................................................... 56</tax:p>
+        <tax:p>
+56 (55) Metacoxal tooth absent or vestigial; propodeal declivity without lateral lobes; body dark brown to bicolored .................................................................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29376" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>sulcata</dc:Species>
+                </tax:xmldata>sulcata</tax:name>
+        </tax:p>
+        <tax:p>
+-- Small metacoxal tooth present; propodeum with small lateral lobes; body yellow ... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:184333" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>flava</dc:Species>
+                </tax:xmldata>flava</tax:name>
+        </tax:p>
+        <tax:p>
+57 (54) Metacoxal dorsum with a lobe; clypeal lamella with two convexities; petiolar node with dorsal and posterior margins forming approximately a right angle in lateral view ............ ......................................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229849" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>transversa</dc:Species>
+                </tax:xmldata>transversa</tax:name>
+        </tax:p>
+        <tax:p>
+-- Metacoxal dorsum unarmed; clypeal lamella with a single convexity; petiolar node with an apical point that overhangs the posterior margin .............................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29319" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>fernandezi</dc:Species>
+                </tax:xmldata>fernandezi</tax:name>
+        </tax:p>
+        <tax:p>58 (53) Clypeal lamella laterally sharply angular ....................................................................... 59</tax:p>
+        <tax:p>-- Clypeal lamella laterally rounded or obtusely angular ................................................... 60</tax:p>
+        <tax:p>
+59 (58) HW &lt;1.1 mm; WL &lt;1.7 mm; clypeal lamella with a straight anterior margin ..... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229804" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>ericae</dc:Species>
+                </tax:xmldata>ericae</tax:name>
+        </tax:p>
+        <tax:p>
+-- HW&gt; 1.1 mm; WL&gt; 1.7 mm; clypeal lamella medially convex, laterally concave ......... ..................................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29312" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>curvoclypeata</dc:Species>
+                </tax:xmldata>curvoclypeata</tax:name>
+        </tax:p>
+        <tax:p>60 (58) Propodeal declivity longitudinally costulate; clypeal lamella straight medially and rounded laterally in frontal view; mandible semi-triangular, the internal and masticatory margins united by a broad convexity ........................................................................................... 61</tax:p>
+        <tax:p>-- Propodeal declivity transversely costulate; clypeal lamella medially concave, laterally convex laterally; mandible triangular, the internal and masticatory margins separated by an angle ...................................................................................................................... volcano</tax:p>
+        <tax:p>
+61 (60) Petiolar node with a more or less convex dorsal margin in lateral view; metacoxal dorsum with an acute tooth; subpetiolar process with sharp angles ................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29335" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>lucaris</dc:Species>
+                </tax:xmldata>lucaris</tax:name>
+        </tax:p>
+        <tax:p>-- Petiolar node with a straight dorsal margin; metacoxal dorsum with a triangular tooth; subpetiolar process with blunt angles .................................................................. siapensis</tax:p>
+        <tax:p>62 (48) Scape usually smooth and shining with sparse punctulae .............................................. 63</tax:p>
+        <tax:p>-- Scape rugulose or striate (sculpture sometimes attenuated) ........................................... 70</tax:p>
+        <tax:p>63 (62) Mandibular dorsal surface striate or rugulose; metacoxal dorsum toothed .................... 64</tax:p>
+        <tax:p>
+-- Mandibular dorsal surface smooth and shining; metacoxal dorsum unarmed ...... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:181634" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>insularis</dc:Species>
+                </tax:xmldata>insularis</tax:name>
+        </tax:p>
+        <tax:p>64 (63) Masticatory margin of mandible with distinct denticles ................................................ 65</tax:p>
+        <tax:p>-- Masticatory margin of mandible edentate or with indistinct denticulation .................... 66</tax:p>
+        <tax:p>
+65 (64) Propodeum unarmed; body striate ....................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29334" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>lineolata</dc:Species>
+                </tax:xmldata>lineolata</tax:name>
+        </tax:p>
+        <tax:p>
+-- Propodeum with denticles; body costulate ....................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29327" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>ingeborgae</dc:Species>
+                </tax:xmldata>ingeborgae</tax:name>
+        </tax:p>
+        <tax:p>66 (64) Scape surpasses posterior cephalic margin by at least twice its apical width; HW&gt; 1.1 mm; WL&gt; 1.6 mm ................................................................................................................. 67</tax:p>
+        <tax:p>-- Scape surpasses posterior cephalic margin by not more than its apical width; HW &lt;1.1</tax:p>
+        <tax:p>
+mm; WL &lt;1.6 mm ............................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29360" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>rastrata</dc:Species>
+                </tax:xmldata>rastrata</tax:name>
+        </tax:p>
+        <tax:p>
+67 (66) Petiolar node shorter than wide in dorsal view .......................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29332" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>lanei</dc:Species>
+                </tax:xmldata>lanei</tax:name>
+        </tax:p>
+        <tax:p>-- Petiolar node longer than wide in dorsal view ............................................................... 68</tax:p>
+        <tax:p>68 (67) Propodeal tooth longer than diameter of propodeal spiracle; subpetiolar process projecting anteriorly as a triangular lobe in lateral view ............................................. enodis (in part)</tax:p>
+        <tax:p>
+-- Propodeal tooth shorter than diameter of propodeal spiracle; subpetiolar process subquadrate .......................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29345" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>menozzii</dc:Species>
+                </tax:xmldata>menozzii</tax:name>
+        </tax:p>
+        <tax:p>69 (62) Propodeal teeth lacking .......................................................................... haenschi (in part)</tax:p>
+        <tax:p>-- Propodeal teeth present .................................................................................................. 70</tax:p>
+        <tax:p>70 (69) Anterior pronotal margin with at least 5 rugulae or transverse costulae; eyes prominent and protruding ...................................................................................................................... 71</tax:p>
+        <tax:p>
+-- Anterior pronotal margin with longitudinal costulae; eyes not prominent nor protruding, relatively flat ................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29381" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>triangularis</dc:Species>
+                </tax:xmldata>triangularis</tax:name>
+        </tax:p>
+        <tax:p>71 (70) Cephalic vertex with 4 - 5 transverse costulae; anterior half of postpetiolar tergite rugose ....................................................................................................................................... 72</tax:p>
+        <tax:p>-- Vertex longitudinally costulate; anterior half of postpetiolar tergite longitudinally costulate ....................................................................................................................................... 73</tax:p>
+        <tax:p>72 (71) Propodeal teeth at least as long as the distance between their bases; body ferruginous ....</tax:p>
+        <tax:p>
+........................................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29298" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>bispinosa</dc:Species>
+                </tax:xmldata>bispinosa</tax:name>
+        </tax:p>
+        <tax:p>
+-- Propodeal teeth shorter; body black .................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29353" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>perspicax</dc:Species>
+                </tax:xmldata>perspicax</tax:name>
+        </tax:p>
+        <tax:p>
+73 (71) Transverse costulae from the metanotum to the propodeum ............................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229797" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>cuneiforma</dc:Species>
+                </tax:xmldata>cuneiforma</tax:name>
+        </tax:p>
+        <tax:p>-- Longitudinal costulae from the metanotum to the propodeum, partially effaced on the propodeal declivity ........................................................................................................ 75</tax:p>
+        <tax:p>
+74 (73) Pronotum longitudinally costulate; subpetiolar process rectangular in lateral view ………. ............................................................................................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29342" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>mecotyle</dc:Species>
+                </tax:xmldata>mecotyle</tax:name>
+        </tax:p>
+        <tax:p>-- Pronotum with anterior strip of transverse costulae; subpetiolar process shaped a modest lobe, without angles ................................................................................... enodis (in part)</tax:p>
+        <tax:p>75 (1) Body sculpture mostly granulose and opaque; clypeus without anteromedian denticles ....................................................................................................................................... 76</tax:p>
+        <tax:p>-- Body finely striate, silky and shining; clypeus without anteromedian denticles ............ 78</tax:p>
+        <tax:p>-- Body rugulose or roughly costulate; clypeus with anteromedian denticles ................... 81</tax:p>
+        <tax:p>
+76 (75) Mandible falcate, the masticatory margin edentate and concave ............................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29320" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>fieldi</dc:Species>
+                </tax:xmldata>fieldi</tax:name>
+        </tax:p>
+        <tax:p>-- Mandible triangular, the masticatory margin fairly straight and denticulate .................. 77</tax:p>
+        <tax:p>
+77 (76) Metanotal groove well-impressed; spiracles of abdominal segments I and II shining and conspicuous ........................................................................................................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29354" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>petiscapa</dc:Species>
+                </tax:xmldata>petiscapa</tax:name>
+        </tax:p>
+        <tax:p>
+-- Metanotal groove absent; spiracles of abdominal segments I and II opaque and not conspicuous ............................................................................................................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29347" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>minuta</dc:Species>
+                </tax:xmldata>minuta</tax:name>
+        </tax:p>
+        <tax:p>78 (75) Metanotal groove well-impressed .................................................................................. 79</tax:p>
+        <tax:p>-- Metanotal groove absent or weakly impressed .............................................................. 80</tax:p>
+        <tax:p>
+79 (78) Clypeal lamella medially concave and with 2 angular lateral lobes; eyes prominent and globulose; WL&gt; 3.0 mm .......................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29384" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>vriesi</dc:Species>
+                </tax:xmldata>vriesi</tax:name>
+        </tax:p>
+        <tax:p>
+-- Clypeal lamella medially straight to slightly convex and laterally rounded; eyes not prominent; WL &lt;3.0 mm ...................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29301" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>bufonis</dc:Species>
+                </tax:xmldata>bufonis</tax:name>
+        </tax:p>
+        <tax:p>
+80 (78) Mandible triangular, masticatory margin with distinct teeth ................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29318" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>falcifera</dc:Species>
+                </tax:xmldata>falcifera</tax:name>
+        </tax:p>
+        <tax:p>
+-- Mandible falcate, masticatory margin edentate ................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29328" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>interrupta</dc:Species>
+                </tax:xmldata>interrupta</tax:name>
+        </tax:p>
+        <tax:p>
+81 (75) Postpetiolar tergite mostly with arched punctate-rugulae, longitudinally costulate posteromedially; meso- and metatibial spurs present ............................................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29375" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>striolata</dc:Species>
+                </tax:xmldata>striolata</tax:name>
+        </tax:p>
+        <tax:p>
+-- Postpetiolar tergite with rough longitudinal costulae; meso- and metatibial spurs absent ............................................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29302" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                    <dc:Species>caelata</dc:Species>
+                </tax:xmldata>caelata</tax:name>
+        </tax:p>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238260" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Gnamptogenys</dc:Genus>
+                        <dc:Species>wilsoni</dc:Species>
+                    </tax:xmldata>Gnamptogenys wilsoni Lattke</tax:name>
+, 
+new species</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 14, 15</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>TYPE MATERIAL</tax:p>
+                <tax:p>Holotype
+worker. 
+Brazil
+, 
+Bahia
+, 
+CEPC
+6. 
+Ilheus
+, 
+1986
+, 
+J. Delabie
+32. Deposited in 
+CEPEC
+, Ilheus, Brazil.
+</tax:p>
+            </tax:div>
+            <tax:div type="diagnosis">
+                <tax:p>DIAGNOSIS</tax:p>
+                <tax:p>Small (TL: 3 mm) with elongate and subfalcate mandible, internal margin and base of masticatory margin with convex lobe, mandibular apex broadly curved and tapering; propodeal spiracle slightly protruding posterad beyond propodeal declivity in lateral view.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>WORKER</tax:p>
+                <tax:p>Measurements: HL 0.59, HW 0.52, ML 0.46, SL 0.43, ED 0.09, WL 0.94 mm; CI 0.88, SI 0.83, MI 0.89, OI 0.17. Total Length: 3 mm.</tax:p>
+                <tax:p>Head subquadrate in dorsal view, posterior cephalic margin straight, lateral margin broadly convex; clypeal lamella laterally curved, anterior margin broadly concave. Cephalic dorsum, and vertex longitudinally costulate, individual costula slightly rugulose, not smooth. Scape failing to reach posterior cephalic border by one apical width, dorsum smooth and shining with sparse punctulae. Mandible elongate, semifalcate, with internal and masticatory margins joined by convexity followed by brief concavity then straight to apical tooth, masticatory margin with series of low blunt denticles, better observed in oblique ventral view of mandible; low strigulae present along lateral basal third of mandible, the rest mostly smooth. Cephalic vertexal face flat, meeting dorsum at blunt angle; eye small, set just anterad of cephalic mid-length in dorsal view; ventral cephalic face longitudinally costulate.</tax:p>
+                <tax:p>Mesosoma with mostly flat dorsal margin in lateral view, propodeal dorsum curving onto declivity, declivitous margin slightly interrupted by spiracle; propodeal spiracle on low tubercle, situated less than one diameter from propodeal dorsum. Mesosomal side longitudinally costate; mesopleuron roughly triangular with small dorsal lobe; mesometapleural suture well-impressed; metapeural B propodeal suture indistinct or absent. Anterior pronotal margin with 3 transverse costae; mesosomal dorsum and propodeal declivity longitudinally costate; promesonotal suture absent, metanotal groove shallow but distinct.</tax:p>
+                <tax:p>Petiole in lateral view low, subquadrate, anterior margin brief and irregular, dorsal margin broadly convex, anterior face with 3 transverse costae, laterally and dorsally with longitudinal costae; posterior margin bound by single transverse costa in dorsal view, posterior face narrow and smooth. Subpetiolar process in lateral view subquadrate with acute angles anterad and posterad, ventral margin concave. Gaster longitudinally costate, constriction of abdominal pretergite I longitudinally costae, postpetiolar anterior face with narrow smooth strip; postpetiolar sternite with costae slightly weakened posteromedially. Protarsus opposite protibial strigil with single stout seta; procoxa smooth and shining in lateral view; metacoxa with low dorsal tooth. Antennae, mandibles, legs ferruginous; head brown, thorax and abdomen ferruginous brown.</tax:p>
+                <tax:p>Queen, male. Unknown.</tax:p>
+            </tax:div>
+            <tax:div type="etymology">
+                <tax:p>ETYMOLOGY</tax:p>
+                <tax:p>The species is named in honor of Dr. Edward O. Wilson, in recognition of his outstanding professional career in myrmecology, tropical biology and biological diversity issues.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>COMMENTS</tax:p>
+                <tax:p>
+Based upon several morphological features (e. g., head shape, mandibular shape, laterally rounded clypeal lamella, absent promesonotal suture) this species seems closest the the mordax-group (Lattke, 1995) but differs due to the posterior position of the propodeal spiracle, in close proximity to the propodeal declivity, as in the striatula-group. It falls closest to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229789" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Gnamptogenys</dc:Genus>
+                            <dc:Species>boliviensis</dc:Species>
+                        </tax:xmldata>G. boliviensis</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29305" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Gnamptogenys</dc:Genus>
+                            <dc:Species>continua</dc:Species>
+                        </tax:xmldata>G. continua</tax:name>
+in the key. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238260" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Gnamptogenys</dc:Genus>
+                            <dc:Species>wilsoni</dc:Species>
+                        </tax:xmldata>G. wilsoni</tax:name>
+can be separated from 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229789" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Gnamptogenys</dc:Genus>
+                            <dc:Species>boliviensis</dc:Species>
+                        </tax:xmldata>G. boliviensis</tax:name>
+by the position of the propodeal spiracle, which is separated by several times its diameter from both the propodeal dorsum and declivity. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229789" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Gnamptogenys</dc:Genus>
+                            <dc:Species>boliviensis</dc:Species>
+                        </tax:xmldata>G. boliviensis</tax:name>
+is very finely costulate, the mandible lacks a convex lobe at the interface of the internal and masticatory margins, the apex remaining subparallel in dorsal view and ending abruptly, without an apical tooth. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29305" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Gnamptogenys</dc:Genus>
+                            <dc:Species>continua</dc:Species>
+                        </tax:xmldata>G. continua</tax:name>
+has a more narrow clypeal lamella than in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238260" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Gnamptogenys</dc:Genus>
+                            <dc:Species>wilsoni</dc:Species>
+                        </tax:xmldata>G. wilsoni</tax:name>
+, with a deeper median concavity; its mandible has more developed denticles and no convex lobe along the internal margin; the cephalic vertex is smooth; and the propodeal spiracle is separated from the declivity by at least its diameter, and from the dorsal margin by several diameters. The mesopleuron in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238260" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Gnamptogenys</dc:Genus>
+                            <dc:Species>wilsoni</dc:Species>
+                        </tax:xmldata>G. wilsoni</tax:name>
+seems to be constituted mostly by the katepisternum, with the anepisternum reduced to a small dorsal lobe.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:p>LITERATURE CITED</tax:p>
+        <tax:p>Alonso, L. E. 2000. Ants as indicators of diversity. Pp. 80 - 88; in Agosti, D., Majer, J., Alonso, L. &amp;</tax:p>
+        <tax:p>Schulz, T. (eds.). Ants, Standard methods for measuring and monitoring biodiversity: 280 pp. Smithsonian Institution Press, Washington, D. C.</tax:p>
+        <tax:p>Bolton, B. 1994. Identification guide to the ant genera of the world: 222 pp. Harvard University Press, Cambridge, Mass.</tax:p>
+        <tax:p>
+Bolton, B. 1995. A taxonomic and zoogeographical census of the extant ant taxa (Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Journal of Natural History 29: 1037 - 1056.
+</tax:p>
+        <tax:p>
+Brown, W. L., Jr. 1992. Two new species of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2495" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                </tax:xmldata>Gnamptogenys</tax:name>
+, and an account of millipede predation by one of them. Psyche 99: 275 - 289.
+</tax:p>
+        <tax:p>
+Lattke, J. E. 1995 Revision of the ant genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2495" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                </tax:xmldata>Gnamptogenys</tax:name>
+in the New World (Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Journal of Hymenoptera Research 4: 137 - 193.
+</tax:p>
+        <tax:p>
+Lattke, J. E. 2002. Nuevas especies de 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2495" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                </tax:xmldata>Gnamptogenys</tax:name>
+Roger, 1863 de America (Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+). Entomotropica 17 (2): 135 - 144
+</tax:p>
+        <tax:p>
+Lattke, J. E., Fernandez, F., &amp; Palacio, E. E. 2004. Una nueva especie de 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2495" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                </tax:xmldata>Gnamptogenys</tax:name>
+(Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+) con lista comentada de las especies de Colombia y Ecuador. Iheringia (Series Zoologica) 43: 341 - 349.
+</tax:p>
+        <tax:p>
+Pacheco, J., MacKay, W. &amp; Morgan, C. 2004. A new species of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2495" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Gnamptogenys</dc:Genus>
+                </tax:xmldata>Gnamptogenys</tax:name>
+Roger of the sulcata group (Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+) from Bolivia. Proceedings of the Entomological Society of Washington 106: 434 - 437
+</tax:p>
+        <tax:p>Ward, P. S. 2000. Broad scale patterns of diversity in leaf litter communities, pp. 99 - 121; in Agosti, D., Majer, J., Alonso, L. &amp; Schulz, T. (eds.). Ants, Standard methods for measuring and monitoring biodiversity: 280 pp. Smithsonian Institution Press, Washington, D. C.</tax:p>
+        <tax:figure>
+            <tax:p>
+Figures 1 - 4. Lateral view of petiole, (1) 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29363" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Gnamptogenys</dc:Genus>
+                        <dc:Species>relicta</dc:Species>
+                    </tax:xmldata>G. relicta</tax:name>
+, (2) 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29348" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Gnamptogenys</dc:Genus>
+                        <dc:Species>moelleri</dc:Species>
+                    </tax:xmldata>G. moelleri</tax:name>
+, (3) 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29287" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Gnamptogenys</dc:Genus>
+                        <dc:Species>acuta</dc:Species>
+                    </tax:xmldata>G. acuta</tax:name>
+, (4) 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29356" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Gnamptogenys</dc:Genus>
+                        <dc:Species>pleurodon</dc:Species>
+                    </tax:xmldata>G. pleurodon</tax:name>
+. Figures 5 - 6. View of declivitous propodeal face, (5) 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29290" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Gnamptogenys</dc:Genus>
+                        <dc:Species>ammophila</dc:Species>
+                    </tax:xmldata>G. ammophila</tax:name>
+, (6) 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29373" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Gnamptogenys</dc:Genus>
+                        <dc:Species>striatula</dc:Species>
+                    </tax:xmldata>G. striatula</tax:name>
+.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 7 - 8. Ventral view of subpetiolar process, (7) 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29321" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Gnamptogenys</dc:Genus>
+                        <dc:Species>gracilis</dc:Species>
+                    </tax:xmldata>G. gracilis</tax:name>
+, (8) 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:229782" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Gnamptogenys</dc:Genus>
+                        <dc:Species>andina</dc:Species>
+                    </tax:xmldata>G. andina</tax:name>
+. Figures 9 - 10. Cephalic vertex (9) 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29321" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Gnamptogenys</dc:Genus>
+                        <dc:Species>gracilis</dc:Species>
+                    </tax:xmldata>G. gracilis</tax:name>
+, (10) 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29357" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Gnamptogenys</dc:Genus>
+                        <dc:Species>porcata</dc:Species>
+                    </tax:xmldata>G. porcata</tax:name>
+.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 11 - 12. Frontal view of scape, (11) 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29290" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Gnamptogenys</dc:Genus>
+                        <dc:Species>ammophila</dc:Species>
+                    </tax:xmldata>G. ammophila</tax:name>
+, (12) 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29373" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Gnamptogenys</dc:Genus>
+                        <dc:Species>striatula</dc:Species>
+                    </tax:xmldata>G. striatula</tax:name>
+. Figure 13. Lateral view of mesosoma of G. nigrivitrea.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 14 - 15. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238260" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Gnamptogenys</dc:Genus>
+                        <dc:Species>wilsoni</dc:Species>
+                    </tax:xmldata>Gnamptogenys wilsoni</tax:name>
+, 
+n. sp.
+Scale bar = 0.5 mm, (14) Lateral view of body, (15) Dorsal view of head
+    </tax:p>
+        </tax:figure>
+    </tax:taxonxBody>
+</tax:taxonx>

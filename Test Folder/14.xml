@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="UTF-8"?><tax:taxonx xmlns:dc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.taxonx.org/schema/v1 http://www.taxonx.org/schema/v1/taxonx1.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-1.xsd http://digir.net/schema/conceptual/darwin/2003/1.0 http://digir.net/schema/conceptual/darwin/2003/1.0/darwin2.xsd">
+    <tax:taxonxHeader>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Le forme paleartiche del Camponotus maculatus F.</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal">
+                <mods:role>
+                    <mods:roleTerm>Author</mods:roleTerm>
+                </mods:role>
+                <mods:namePart>Emery, C.</mods:namePart>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:relatedItem type="host">
+                <mods:titleInfo>
+                    <mods:title>Rendiconto delle Sessioni della R. Accademia delle Scienze dell'Istituto di Bologna</mods:title>
+                </mods:titleInfo>
+                <mods:part>
+                    <mods:detail type="volume">
+                        <mods:number>9</mods:number>
+                    </mods:detail>
+                    <mods:extent unit="page">
+                        <mods:start>27</mods:start>
+                        <mods:end>44</mods:end>
+                    </mods:extent>
+                    <mods:date>1905</mods:date>
+                </mods:part>
+            </mods:relatedItem>
+            <mods:location>
+                <mods:url>http: // antbase. org / ants / publications / 11711 / 11711. pdf</mods:url>
+            </mods:location>
+            <mods:subject>
+                <mods:topic>Camponotus maculatus subsp. xanthomelas</mods:topic>
+                <mods:topic>Camponotus maculatus subsp. barbaricus</mods:topic>
+                <mods:topic>Camponotus maculatus subsp. intonsus</mods:topic>
+                <mods:topic>Camponotus maculatus subsp. liocnemis</mods:topic>
+            </mods:subject>
+            <mods:identifier type="HNS-PUB">11711</mods:identifier>
+        </mods:mods>
+    </tax:taxonxHeader>
+    <tax:taxonxBody>
+        <tax:p>
+Le forme paleartiche del 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26917" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>maculatus</dc:Species>
+                </tax:xmldata>Camponotus maculatus F.</tax:name>
+letta alla R. Accademia delle Sciente dell'Istituto di Bologna nella Sessione delti 18 Dicembre igo 4 -
+</tax:p>
+        <tax:p>Estratto dal R endiconto delle Sessioni- della R. Accademia delle Scienze deil' Istituto di Bologna. — Anno accademico 1904 - 1905</tax:p>
+        <tax:p>La conoscenza di un gruppo di forme viventi fra loro molto affini presenta talora una storia intricata e difficile a seguire, attraverso le sue trasformazioni successive. Finche il materiale, oggetto di studio, e scarsissimo, le specie sembrano bene definite e facili a discriminare. Successivamente il materiale cresce, si vengono a cono; scere nuove forme, delle quali talune intermedie forme quelle gia note; incomincia un periodo di confusiori crescente, finche rinnovati studi, fondati su materiali estesissimi vengano a ristabilire 1 ' ordine, ma un ordine molto diverso dalF ordine apparente dei primi tempi; questo era conseguenza dell' ignoranza, mentre 1 ' altro e il risultato di una conoscenza piu profonda delle cose. Un altro elemento puramente formale viene ancora spesso ad accrescei-e la confusione: intendo dire della sinonimia che diviene intricatissima, a cagione di errori commessi in precedenza, nella identificazione delle forme di cui il revisore critico del gruppo e in dovere di ricondurre il nomi al loro significato primitivo e solo legittimo.</tax:p>
+        <tax:p>
+Tutti questi elementi di confusione si trovano accu mulati nella storia del gruppo di formiche compreso, secondo il concetto attualmente corrente, sotto il nome specifico comune di 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26917" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>maculatus</dc:Species>
+                </tax:xmldata>Camponotus maculatus</tax:name>
+F. Sotto questo nome si raccolgono oggi, oltre la forma designata del Fabricio col nome di 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:135684" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Formica</dc:Genus>
+                    <dc:Species>maculata</dc:Species>
+                </tax:xmldata>Formica maculata</tax:name>
+, un gran numero di forme fra loro differentissime e abitanti tutti i continenti. Parte di queste forme erano state primitivamente descritte come specie distinte. Ma col suo lavoro sulle formiche del Viaggio di Fedtschenko pubblicato nel 1876, il Mayr, e poco dopo nel 1879 con le sue Etudes myrmecologiques il ForEl mostrarono che le forme descritte e conosciute sotto i nomi di 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:193717" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>silvaticus</dc:Species>
+                </tax:xmldata>Camponotus silvaticus</tax:name>
+Ol., 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26917" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>maculatus</dc:Species>
+                </tax:xmldata>maculatus</tax:name>
+F., 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:193267" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>cognatus</dc:Species>
+                </tax:xmldata>cognatus</tax:name>
+F. Sm., 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26179" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>aethiops</dc:Species>
+                </tax:xmldata>aethiops</tax:name>
+Latr. e altri ancora non potevano rigorosamente essere separate come specie, perche ricongiunte tra loro da forme intermedie; queste forme di passaggio il Forkl designava, talora anche senza descriverle piu esattamente, coi nomi per se stessi significativi (benche non di rado mendaci) di cognato-macilatus, silvatico-aethiops e simili. Piu tardi lo stesso Forel ripiglio lo studio del gruppo sulla base, di materiali piu copiosi di svariate provenienze ,, e ripetutamente ritorno sull' argomento per i 11 u- ... are le formiche raccolte dal von Oertzen in Grecia, quelle raccolte da lui medesimo nei suoi viaggi in Algeria e in Tunisia e altre ancora. Effetto di questi studi ripetuti del Forel fu di definire un numero sempre maggiore di tipi subspecifici, ciascuno dei quali connesso'a varieta; tipi aventi ciascuno un habitat determinato, sia geograficamente sia nel genere di vita deserticola, arbo-ricola, notturna o altra.
+</tax:p>
+        <tax:p>Pure riconoscendo 1 ' affinita, piu prossima di talune sottospecie fra loro, il Forel non si e occupato di raccogliere queste forme, divenute numerose, in gruppi com-plessivi che valessero a stabilire ordine nell insieme. Questo e precisamente, il compito che io mi propongo nel fpesente scritto, facendo seguito ad un primo tentativo di divisione di tutto il complesso delle forme del vecchio continente in due gruppi principali, 1 ' uno dei quali comprendente le forme che hanno le tibie fornite di aculei al margine flessorio, 1 ' altro quelle che ne sono prive. Questa divisione proposta da me fino dal 1887 mi sembra avere resistito alla prova del tempo e dell esperienza ed essere atta a servire di base ad ultJgHlkudi.</tax:p>
+        <tax:p>Ma prima di andare oltre, e ^^ H ^ Sprocedere a rettificare alcune denominazioni, divenute purtropppo tradizionali per designare forme differenti dasquelle per le quali furono proposte ' api loro autori.</tax:p>
+        <tax:p>
+Nel 1856 F. Smith " assegnava il nome di 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:135671" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Formica</dc:Genus>
+                    <dc:Species>cognata</dc:Species>
+                </tax:xmldata>Formica cognata</tax:name>
+ad un 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2414" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                </tax:xmldata>Camponotus</tax:name>
+dell'Africa australe. Mayr, Forel e io stesso abbiamo creduto poter applicare il nome smithiano ad una forma diffusa nella zona mediterranea dell'Africa. Per essere certi della esattezza della determinazione, era d' uopo assicurarsi che la forma mediterranea esistesse nell'Africa australe e corrispondesse precisamente ai tipi descritti dallo Smith, e questo non era stato fatto finora.
+</tax:p>
+        <tax:p>
+Secondo lo Smith, il 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:193267" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>cognatus</dc:Species>
+                </tax:xmldata>C. cognatus</tax:name>
+differisce dal 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26917" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>maculatus</dc:Species>
+                </tax:xmldata>C. maculatus</tax:name>
+(forma tipica) per l'addome scuro senza macchie. Ad una forma cosi colorata e che ho ricevuto da diverse localita dell'Africa australe ben si adatta la descrizione, e percio credetti riconoscere in essa il vero cognatus; pero m'ingannavo: questa forma, riconoscibile dalle guance fornite di peli ritti e che percio chiamo 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26917" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>maculatus</dc:Species>
+                </tax:xmldata>C. maculatus</tax:name>
+intonsus (1) e differente ^ dal cognatus. In fatti il ten. colon. C. T. Bingham, che dietro mia preghiera ebbe la cortesia di esaminare il tipo di Smith conservato al Museo Britannico, mi scrive che ha le guance prive di peli e non differisce dal 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26917" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>maculatus</dc:Species>
+                </tax:xmldata>maculatus</tax:name>
+, fuorche per l' assenza delle macchie gialle sull' addome. Anche il 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:193425" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>lacteipennis</dc:Species>
+                </tax:xmldata>C. lacteipennis F. Sm.</tax:name>
+, come risulta dall'esame dei tipi fatiq " Virali) o stesso- Bingham, non differisce per caratteri di stutturea dal 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26917" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>maculatus</dc:Species>
+                </tax:xmldata>maculatus</tax:name>
+tipico. Avevo erroneamente creduto riconoscere questa specie in una forma del 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26917" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>maculatus</dc:Species>
+                </tax:xmldata>C. muculutvs</tax:name>
+diffusa nell'Africa australe e a Mada-gascar, caratterizzata per 1 ' assenza di aculei al margine flessorio delle tibie, per cui la designo-oggi col nome di 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:227021" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>maculatus</dc:Species>
+                    <dc:Subspecies>liocnemis</dc:Subspecies>
+                </tax:xmldata>C. maculatus liocnemis</tax:name>
+(1).
+</tax:p>
+        <tax:p>
+Il 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:193267" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>cognatus</dc:Species>
+                </tax:xmldata>C. cognatus</tax:name>
+auct. (non F. Smith) non' e stato finora definito con precisione. Sotto questo nome sono state confuse diverse forme aventi in comune il colore scuro, la statura grande e robusta e le tibie piu omeno prismatiche. Non mi e possibile discutere il valore di tutte le formiche di diverse provenienze che trovo designate coi nome di cognatus in diverse note faunistiche di varie date. Mi limitero per ora a definire una di queste forme, abitatrice delle oasi nell'Algeria secondo le osservazioni di FOREL, alla quale daro il nome di:
+</tax:p>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:134649" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Camponotus</dc:Genus>
+                        <dc:Species>maculatus</dc:Species>
+                        <dc:Subspecies>barbaricus</dc:Subspecies>
+                    </tax:xmldata>C. maculatus barbaricus</tax:name>subsp. nov.</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>La colorazione delle operaie e oscura, il torace piu chiaro ielle piccole, le tibie con carena dorso-mediale e solco dorsale marcato, numerosi aculei al margine ventrale; guance fornite di peli ritti; la pubescenza delle tibie e scapi brevissima e totalmente aderente. Antenne e zampe corti. In un esemplare massimo di 12 mai., il capo (senza le mandibole) misura 3.8 X 3.5 mm., lo scapo 3.2, la tibia posteriore 3.7 mm.</tax:p>
+                <tax:p>Esemplari di Gibraltar e di Siviglia sono piu gracili, con le zampe piu lunghe. In un individuo di 12 mm., lo scapo misura 3.5, la tibia posteriore 4 mm.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>
+Le misure dello scapo e dei membri hanno molto valore per distinguere le singole forme del 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26917" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>maculatus</dc:Species>
+                        </tax:xmldata>C. maculatus</tax:name>
+. Pero i risultati ottenuti sul materiale scarso che ho a mia disposizione, mi sembrano relativamente costanti si. atte a fornire caratteri rigorosamente definibili. &amp; # 9632;
+</tax:p>
+                <tax:p>
+I peli ritti alle guance si ritrovano nelle sottospecie 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:27055" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>pilicornis</dc:Species>
+                        </tax:xmldata>pilicornis</tax:name>
+Rog., 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:27138" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>samius</dc:Species>
+                        </tax:xmldata>samius</tax:name>
+For., 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26179" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>aethiops</dc:Species>
+                        </tax:xmldata>aethiops</tax:name>
+Latr. e 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:27011" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>oertzeni</dc:Species>
+                        </tax:xmldata>oertzeni</tax:name>
+For .. Di questi i tre. ultimi sono forme ben note; del primo passo ora ad occuparmi. Il 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26481" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>festai</dc:Species>
+                        </tax:xmldata>C. festai Emery</tax:name>
+deve essere separato come specie distinta.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230038" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Camponotus</dc:Genus>
+                        <dc:Species>maculatus</dc:Species>
+                        <dc:Subspecies>pilicornis</dc:Subspecies>
+                    </tax:xmldata>C. maculatus pilicornis</tax:name>
+Rog.
+</tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>
+Roger descrisse nel 1859 una forma di Spagna che chiamo 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:134557" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Formica</dc:Genus>
+                            <dc:Species>marginata</dc:Species>
+                        </tax:xmldata>Formica marginata</tax:name>
+vai \ pilicornis e che disse differire dalla 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:134557" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Formica</dc:Genus>
+                            <dc:Species>marginata</dc:Species>
+                        </tax:xmldata>F. marginata</tax:name>
+per i peluzzi che vi si osservano sullo scapo delle antenne. Questa descrizione e tutt' altro che chiara e ha indotto Forel e me stesso a riferire alla var. pilicornis una forma orientale del 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26917" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>maculatus</dc:Species>
+                        </tax:xmldata>C. maculatus</tax:name>
+di cui mi occupero fra poco. Per eliminare ogni dubbio, ho confrontato dei tipi della collezione Roger comunicatimi dal Museo di Berlino, ed ho potuto " convincermi che veri peli ritti sulle antenne non esistono fuorche alla estremita, dello scapo, come in altre forme; ma la pubescenza ordinaria e piu lunga che nella var. marginata del 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223624" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>maculatus</dc:Species>
+                            <dc:Subspecies>aethiops</dc:Subspecies>
+                        </tax:xmldata>C. maculatus aethiops</tax:name>
+e debolmente staccata, benche molto meno che nel 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223614" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>maculatus</dc:Species>
+                            <dc:Subspecies>samius</dc:Subspecies>
+                        </tax:xmldata>C. maculatus samius</tax:name>
+. Questa forma si trova anche in Portogallo. Essa differisce dal 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:134649" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>maculatus</dc:Species>
+                            <dc:Subspecies>barbaricus</dc:Subspecies>
+                        </tax:xmldata>C. maculatus barbaricus</tax:name>
+per la forma piu snella e le tibie senza carena dorso-mediale ne solco dorsale. Il capo delle operaie massime e meno largo: in un individuo di 12 mm., 3,5 X 3.1 mm.; i membri relativamente piu corti: scapo 3, tibia posi 3.5 mm.
+</tax:p>
+                <tax:p>Una forma quasi identica si trova in Sicilia (Palermo); la pubescenza e piu corta, le tibie offrono una debole Carena dorsomediale, ma non hanno solco dorsale.</tax:p>
+                <tax:p>
+Riferisco come varieta alla sottospecie pilicornis la forma descritta da Forel nel 1894 col nome di 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223633" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>maculatus</dc:Species>
+                            <dc:Subspecies>dichrous</dc:Subspecies>
+                        </tax:xmldata>C. maculatus dichrous var. massiliensis</tax:name>
+. Essa ne ha tutti i caratteri e ne differisce soltanto per la colorazione.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223629" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Camponotus</dc:Genus>
+                        <dc:Species>maculatus</dc:Species>
+                        <dc:Subspecies>silvaticus</dc:Subspecies>
+                    </tax:xmldata>C. maculatus silvaticus</tax:name>
+Ol.
+</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Questa forma della Francia meridionale differisce dalle precedenti per 1 ' assenza dei peli alle guance; le tibie hanno una carena dorsomediale distinta, le zampe sono molto corte e robuste. In un esemplare di 11 mm., il capo misura 3.5 X 3.1, lo scapo 2.8, la tibia posi 3.1.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>Vengo ora alla critica' delle forme mediterranee descritte col nome di subsp. dichrous For:</tax:p>
+                <tax:p>
+La prima descrizione pubblicata dal Forel nel 1879 fu fatta sopra due esemplari della mia collezione, che conservo- ancora e che il ForeL non rivide mai piu. Non e quindi da stupirsi, vista l'imperfezione delle conoscenze di allora, che, ritrovando dei 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2414" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                        </tax:xmldata>Camponotus</tax:name>
+alge-riani slmilmente colorati, egli li riferisse alla stessa sottospecie dalla quale sono pero differenti. Ne parlero piu innanzi. I due esemplari tipici sono identici per le proporzioni del corpo alte, forma che Forel, ha poi chiamata oasium, da cui differiscono soltanto per la colorazione. Le forme oasium e dichrous For., come la mia var. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26477" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>fellah</dc:Species>
+                        </tax:xmldata>fellah</tax:name>
+e ancora la forma asiatica descritta ultimamente dal Forel col nome di cognato-compressus mi sembrano potersi riunire come varieta alla 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:134873" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Formica</dc:Genus>
+                            <dc:Species>carinata</dc:Species>
+                        </tax:xmldata>Formica carinata Brul</tax:name>
+. delle isole Canarie, in una sottospecie che designero col nome di:
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223642" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Camponotus</dc:Genus>
+                        <dc:Species>maculatus</dc:Species>
+                        <dc:Subspecies>carinatus</dc:Subspecies>
+                    </tax:xmldata>C. maculatus carinatus</tax:name>
+Brul.
+</tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>
+Questo gruppo comprende le piu grandi tra le forme mediterranee e iraniche della specie .. La statura massima delle operaie raggiunge 13 — 15 mm.; le antenne e le zampe sono assolutamente e relativamente piu lunghe che nelle altre forme. Nelle var. xerxes, oasium e di-chroa, la tibia posteriore raggiunge 5 mm.; nel 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:193249" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>carinatus</dc:Species>
+                        </tax:xmldata>carinatus</tax:name>
+4.8; la var. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26477" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>fellah</dc:Species>
+                        </tax:xmldata>fellah</tax:name>
+ha i membri piu corti e la tibia post. ha per massima lunghezza 4.3 — 4.5 mm. — In tutte queste forme le tibie sono fornite di cresta dor-somediale e di solco dorsale; non vi sono peli sulle guance, e la faccia inferiore del capo e priva di peli o ne ha pochi (var. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26477" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>fellah</dc:Species>
+                        </tax:xmldata>fellah</tax:name>
+), prescindendo dai lunghi peli che si trovano in avanti, vicino alla bocca.
+</tax:p>
+                <tax:p>
+Sostituisco il nome di var. xerxes (Forel in litt.) (1) a quello di cognato-compressus, sotto il quale Forbl ha descritto questa forma. Il nome di cognato-compressus fu proposto dal Forel nel 1886 per designare un complesso di forme indefinite, da lui ritenute intermedie tra la razza cognatus e il 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26359" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>compressus</dc:Species>
+                        </tax:xmldata>C. compressus</tax:name>
+dell' India. Piu tardi, nel descrivere la forma oasium (1890), disse essere quella la formica da lui designata col nome di cognato-com-pressus, asserzione che contradice quanto piu recentemente egli stesso dichiara, descrivendo come cognato-compressus (1904) la forma scura iranica. Percio il nome di cognato-compressus non potrebbe essere • legittima-meute applicato, fuorche alla forma oasium, o, a parer mio, piu convenientemente abbandonato, sostituendovi per la forma iranica il nome di xerxes proposto dallo stesso Forel.
+</tax:p>
+                <tax:p>
+La var. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26477" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>fellah</dc:Species>
+                        </tax:xmldata>fellah</tax:name>
+con le sue zampe piu brevi potrebbe essere considerata in qualche modo come un primo grado di passaggio alla sottospecie:
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230039" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Camponotus</dc:Genus>
+                        <dc:Species>maculatus</dc:Species>
+                        <dc:Subspecies>sanctus</dc:Subspecies>
+                    </tax:xmldata>C. maculatus sanctus</tax:name>
+For.,
+</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>forma asiatica recentemente istituita, nella quale la tibia posteriore, anche in esemplari massimi di 13 mm., non raggiunge, mai 4 mm.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:134648" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Camponotus</dc:Genus>
+                        <dc:Species>maculatus</dc:Species>
+                        <dc:Subspecies>xanthomelas</dc:Subspecies>
+                    </tax:xmldata>C. maculatus xanthomelas</tax:name>
+nom. nov.
+</tax:nomenclature>
+            <tax:ref_group>
+                <tax:p>
+{
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223632" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>maculatus</dc:Species>
+                            <dc:Subspecies>dichrous</dc:Subspecies>
+                        </tax:xmldata>C. maculatus dichrous</tax:name>
+For. 1890, non 1879).
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="description">
+                <tax:p>
+Il mutamento di nome e giustificato da quanto ho detto sopra a pag. 33. La forma che designo sotto il nuovo nome differisce da 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26241" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>barbaricus</dc:Species>
+                        </tax:xmldata>barbaricus</tax:name>
+e pilicornis per le guance senza peli ritti, da quest'ultimo e dalle sue varieta per le tibie fornite di carena e solco. Le misure corrispondono ali' incirca a quelle del 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26917" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>maculatus</dc:Species>
+                        </tax:xmldata>maculatus</tax:name>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26241" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>barbaricus</dc:Species>
+                        </tax:xmldata>barbaricus</tax:name>
+, pero i massimi esemplari visti da me sono piu snelli, con la testa meno grossa di quella del 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26241" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>barbaricus</dc:Species>
+                        </tax:xmldata>barbaricus</tax:name>
+.
+</tax:p>
+                <tax:p>
+Ritengo che si debbano separare dalla sottospecie 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:134648" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>maculatus</dc:Species>
+                            <dc:Subspecies>xanthomelas</dc:Subspecies>
+                        </tax:xmldata>xanthomelas</tax:name>
+le forme a tibie non carenate, come m as-siliensis For., 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26238" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>baldaccii</dc:Species>
+                        </tax:xmldata>baldaccii</tax:name>
+Emery e' 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:205813" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>kattensis</dc:Species>
+                        </tax:xmldata>kattensis</tax:name>
+Fqr., considerate dal Forel come varieta del suo dichrous. Ho riferito la prima come varieta al pilicornis; la seconda costituisce una sottospecie propria dell' Oriente (Creta e Asia minore) e ben distinta per la scultura debole che lascia il capo lucido; in quanto alla terza, essa non ha aculei alle tibie ed ha le guance pelose; per questi caratteri e per le proporzioni del corpo (esemplari massimi 9 mm., tibia posteriore 2.7) ritengo debba riferirsi al gruppo del 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26946" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>mitis</dc:Species>
+                        </tax:xmldata>C. mitis F. Sm.</tax:name>
+, come sottosueecie distinta (1).
+</tax:p>
+                <tax:p>
+Resta la forma imalaiana censiderata dal Forel come identica al dichrous tipico. Anche questa e molto piu piccola del tipo 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:134648" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>maculatus</dc:Species>
+                            <dc:Subspecies>xanthomelas</dc:Subspecies>
+                        </tax:xmldata>xanthomelas</tax:name>
+(massimo 9 mm. tibia posteriore 2.9). Ha le tibie scanalate e le guance senza peli. Senza volere formulare un giudizio definitivo, vista la scarsezza del mio materiale di confronto, mi sembra che quella forma si avvicini molto al 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:136165" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>maculatus</dc:Species>
+                            <dc:Subspecies>basalis</dc:Subspecies>
+                        </tax:xmldata>C. maculatus basalis</tax:name>
+F .. Sm. (
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:227018" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>lobinieri</dc:Species>
+                        </tax:xmldata>lobinieri</tax:name>
+For.) di cui si potrebbe considerare come varieta di colore.
+</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>
+In conclusione il 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223632" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>maculatus</dc:Species>
+                            <dc:Subspecies>dichrous</dc:Subspecies>
+                        </tax:xmldata>C. maculatus dichrous</tax:name>
+For. costituisce un complesso artificiale di forme aventi in comune soltanto la colorazione, ma differenti per caratteri di struttura e riferibili percio a gruppi naturali disparati.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223614" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Camponotus</dc:Genus>
+                        <dc:Species>maculatus</dc:Species>
+                        <dc:Subspecies>samius</dc:Subspecies>
+                    </tax:xmldata>C. maculatus samius</tax:name>
+For.
+</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Il tipo della sottospecie e ben definito e distinto per la pubescenza lunga e staccata dello scapo e delle tibie, combinata con la statura grande e la presenza di aculei al margine flessorio delle tibie che sono fornite di cresta e solco dorsale. Il tipo dell' isola di Samo ha il torace e le zampe rossi. Una forma molto piu scura, ma del resto identica, si trova nel Peloponneso.</tax:p>
+                <tax:p>Una varieta con scultura piu debole, e per conseguenza piu lucida in tutte le sue parti si trova anch' essa</tax:p>
+                <tax:p>
+(1) L' affinita di questa forma col gruppo del 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26946" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>mitis</dc:Species>
+                        </tax:xmldata>C. mitis</tax:name>
+aveva colpito anche Forel, quando la descrisse nel 1892.
+</tax:p>
+                <tax:p>in Grecia. Ad essa si riferiscono gli esemplari raccolti da Alessandro Spagnolini nell' isola dei Principi nel Mare di Marmara e attribuiti a torto, come dissi' sopra al pilicornis Rog. Colore rosso bruno con capo e gastro neri. Designero questa varieta col nome di var. spagno-linii in memoria del compianto collettore.</tax:p>
+                <tax:p>Tanto nel tipo quanto nella varieta, le guance sono fornite di peli ritti; lo scapo non ha vere setole ritte.</tax:p>
+                <tax:p>
+Ho descritto nel 1901 una 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:135501" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>mitis</dc:Species>
+                        </tax:xmldata>var. ionia</tax:name>
+proveniente da Cefalonia. Alle differenze' di colore noverate nella mia descrizione, bisogna aggiungere che le guance non hanno peli ritti e che qualche setola isolata si vede sullo scapo: Non conoscevo ailora altri che esemplari mezzani; un esemplare massimo proveniente dell' isola di Karpathos presso Creta mi viene comunicato dal Museo di Berlino come tipo della forma determinata da Forel e noverata tra le specie raccolte dal v. Oertzen (ma non descritta) col nome significativo, per quanto improprio, di cognato-pilicornis. Questa varieta meriterebbe forse di essere separata come sottospecie a se.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223624" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Camponotus</dc:Genus>
+                        <dc:Species>maculatus</dc:Species>
+                        <dc:Subspecies>aethiops</dc:Subspecies>
+                    </tax:xmldata>C. maculatus aethiops</tax:name>
+Latr.
+</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>
+Questa e tra le forme piu sicure e ben definite. Mentre tutte quelle considerate nelle pagine precedenti sono tra le maggiori della specie, questa apre la serie delle minori, con statura non superiore ai 9.5 mm. e tibia posteriore non raggiungente mai la lunghezza di 3 mm. Le guance di questa sottospecie e dell' affine oertzeni For. sono fornite di peli ritti piu o meno numerosi, e questo carattere e costante anche nelle varieta a zampe rosse che corrispondono alla 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:134557" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Formica</dc:Genus>
+                            <dc:Species>marginata</dc:Species>
+                        </tax:xmldata>Formica marginata</tax:name>
+del Latreille. Questa non puo a nessun titolo essere considerata come intermedia tra 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:193717" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>silvaticus</dc:Species>
+                        </tax:xmldata>silvaticus</tax:name>
+e 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:134552" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Formica</dc:Genus>
+                            <dc:Species>aethiops</dc:Species>
+                        </tax:xmldata>aethiops</tax:name>
+(silvatico-aethiops nel senso di Forel): un intermedio che meriti questo nome composto non esiste.
+</tax:p>
+                <tax:p>
+Alla varieta a zampe rosse dell'Europa media deve essere restituito il nome di marginata Latr. che ha portato legittimamente per tanto tempo, essendo fuori dubbio che ad essa corrisponde l'operaia della descrizione di Latreille. E la specie designata dagli autori recenti col nome di 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:193569" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>marginatus</dc:Species>
+                        </tax:xmldata>C. marginatus</tax:name>
+ripigliera il nome di 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26470" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>fallax</dc:Species>
+                        </tax:xmldata>C. fallax Nyl</tax:name>
+(= 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:193569" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>marginatus</dc:Species>
+                        </tax:xmldata>marginatus</tax:name>
+Latr. &amp; # x 2640;, non &amp; # x 263 F;). Anche questo e uno spiacevole ma necessario mutamento della nomenclatura.
+</tax:p>
+                <tax:p>
+Le forme paleartiche con tibie prive di aculei al margine flessorio sono ben distinte l'una dall' altra e non possono dare luogo a discussione. Alle sottospecie 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223608" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>hesperius</dc:Species>
+                        </tax:xmldata>hesperius</tax:name>
+Emery, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26216" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>atlantis</dc:Species>
+                        </tax:xmldata>atlantis</tax:name>
+For., 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:193639" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>pallens</dc:Species>
+                        </tax:xmldata>pallens</tax:name>
+Nyl., 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26191" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>alii</dc:Species>
+                        </tax:xmldata>alii</tax:name>
+For., 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:27269" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>turkestanicus</dc:Species>
+                        </tax:xmldata>turkestanicus</tax:name>
+Emery e 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26476" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>fedtschenkoi</dc:Species>
+                        </tax:xmldata>fedtschenkoi</tax:name>
+Mayr, converra aggiungere 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223618" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>jalensis</dc:Species>
+                        </tax:xmldata>jalensis</tax:name>
+For., staccandolo come sottospecie da oertzeni che ha le tibie armate di aculei.
+</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>
+Se consideriamo la condizione aculeata delle tibie come primitiva, potremo pensare che le forme a tibie inermi siano derivate polifileticamente dalla serie aculeata. Cosi jalensis sembra connettersi col gruppo aethiops-oertzeni. L' origine delle altre forme mediterranee e tuttavia oscura. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26476" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>fedtschenkoi</dc:Species>
+                        </tax:xmldata>C. fedtschenhoi</tax:name>
+si connette al numeroso gruppo indo-australiano del 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223590" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>maculatus</dc:Species>
+                            <dc:Subspecies>mitis</dc:Subspecies>
+                        </tax:xmldata>C. maculatus mitis</tax:name>
+F. Sm. (1).
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:148386" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Camponotus</dc:Genus>
+                        <dc:Species>maculatus</dc:Species>
+                        <dc:Subspecies>maculatus</dc:Subspecies>
+                    </tax:xmldata>C. maculatus maculatus</tax:name>
+F.
+</tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>Mi rivolgo in ultimo alla forma tipo della specie che, diffusa in gran parte dell' Africa, apparisce quasi come un'intrusa nella regione mediterranea, seguendo le sponde del mar Rosso e la valle 1 del Nilo. Essa non ha affinita strette con nessuna forma mediterranea, mentre in Africa ha connessioni molteplici e in parte tuttora mal conosciute.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>
+Dal C. maculatus ritengo che si parta un numeroso gruppo di forme a tibie non aculeate, gruppo che incomincia nell'Africa australe col 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:227021" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>maculatus</dc:Species>
+                            <dc:Subspecies>liocnemis</dc:Subspecies>
+                        </tax:xmldata>C. maculatus liocnemis</tax:name>
+descritto sopra e si continua in Madagascar con un labirinto di forme difficili a discriminare (hova, radamae, boivini etc), studiate e descritte dal Forel. Ne mancano altre forme affini nel continente africano, come 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26759" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>guttatus</dc:Species>
+                        </tax:xmldata>guttatus</tax:name>
+Emery di Kamerun e 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:148696" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>pictiventris</dc:Species>
+                        </tax:xmldata>pictiventris</tax:name>
+Mayr del Capo di Buona Speranza.
+</tax:p>
+                <tax:p>
+Ne il sistema delle forme piu o meno affidi al tipico 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26917" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>maculatus</dc:Species>
+                        </tax:xmldata>maculatus</tax:name>
+si limita a questo gruppo relativamente omogeneo. L'Africa possiede un gran numero di forme dal- 1 " addome macchiato, in parte descritte, in parte no ,, delle quali rinunzio a fare, la critica, mancando per questo un, materiale, sufficiente. Parte di queste forme ' sembra costituire una serie intermedia fra il tipico 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26917" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>maculatus</dc:Species>
+                        </tax:xmldata>maculatus</tax:name>
+e il gigantesco liengmei For. Attualmente la conoscenza sistematica di questo e di altri gruppi africani appartenenti al - complesso 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26917" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>maculatus</dc:Species>
+                        </tax:xmldata>maculatus</tax:name>
+si trova in quel periodo caotico in cui vent' anni addietro si trovava quella delle forme mediterranee.
+</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>
+Una critica accurata di queste ultime, quale ho tentato di fare nelle pagine precedenti, fa riconoscere che piu ci si addentra nella conoscenza delle singole forme, e meglio esse appariscono definite morfologicamente e geograficamente. Le forme intermedie che, ad un esame superficiale, sembravano ricongiungerle fra loro si rivelano almeno in parte, quando siano meglio conosciute, quali forme determinate e proprie. Cosi le forme mediterranee credute intermedie, il cui nome nella nomenclatura composta primitiva del Forel conteneva P elemento « 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26917" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>maculatus</dc:Species>
+                        </tax:xmldata>maculatus</tax:name>
+» sono scomparse, per far luogo ai nomi di sanctus e 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:134648" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>maculatus</dc:Species>
+                            <dc:Subspecies>xanthomelas</dc:Subspecies>
+                        </tax:xmldata>xanthomelas</tax:name>
+(
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:193305" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>dichrous</dc:Species>
+                        </tax:xmldata>dichrous</tax:name>
+For. pari); il silvatico-cognatus viene eliminato come non esistente, la forma sedicente tale essendo, a mio avviso, una varieta minore del 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26241" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>barbaricus</dc:Species>
+                        </tax:xmldata>barbaricus</tax:name>
+(
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:193267" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>cognatus</dc:Species>
+                        </tax:xmldata>cognatus</tax:name>
+auct.); il cognato-pilicornis orientale si riannoda al samius; il silvatico-aethiops si stacca totalmente dal 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:193717" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>silvaticus</dc:Species>
+                        </tax:xmldata>silvaticus</tax:name>
+e deve essere considerato come varieta dell' 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26179" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>aethiops</dc:Species>
+                        </tax:xmldata>aethiops</tax:name>
+.
+</tax:p>
+                <tax:p>
+Affermando questo, non intendo negare che ci siano vere forme intermedie a gradazioni insensibili, come p. es. quelle noverate dal Forel tra xerxes e 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26359" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>compressus</dc:Species>
+                        </tax:xmldata>compressus</tax:name>
+e tra 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:27011" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>oertzeni</dc:Species>
+                        </tax:xmldata>oertzni</tax:name>
+e 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26179" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>aethiops</dc:Species>
+                        </tax:xmldata>aethiops</tax:name>
+. Pero queste non si troveranno dovunque e tra qualsiasi coppia o gruppo di forme, ma soltanto tra quelle geograficamente limitrofe e filogeneticamente affini. Questo concetto teorico, che risulta dalla sintesi consecutiva ali' analisi critica delle singole forme, si accorda. coi principii della dottrina dell' evoluzione; non dubito che. esso reggera alla prova della esperienza. Alla luce di questo concetto teorico, il caos si trasforma in un complesso intricatissimo, ma coordinato dalle affinita morfologiche e corologiche. E queste, presentano fra loro strette relazioni, come. mostrano le due piccole carte annesse a questo scritto; esse sono tanto eloquenti nella loro forma grafica, da. non abbisognare di ulteriore commento.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:p>
+Carle della distribuzione geografica di alcune sottospecie del 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26917" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>maculatus</dc:Species>
+                </tax:xmldata>Camponotus maculatus</tax:name>
+.
+</tax:p>
+        <tax:p>Pero le connessioni filetiche delle singole forme rimangono finora-oscure, e qualsiasi aggruppamento delle stesse si voglia fare sulla base delle loro rassomiglianze sara sempre in gran parte arbitrario. Quello che sono per proporre, ponendo i confini dei gruppi laddove. mi sembra che esistano le piu grandi differenze, non e dunque altro che l'espressione del mio sentimento personale.</tax:p>
+        <tax:p>
+a) Un primo gruppo comprende nella fauna paleartica il solo 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26917" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>maculatus</dc:Species>
+                </tax:xmldata>C. maculatus</tax:name>
+tipico, che si connette in Africa e Madagascar con la forma 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:227021" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>liocnemis</dc:Species>
+                </tax:xmldata>liocnemis</tax:name>
+e altre affini dalle tibie prive di aculei.
+</tax:p>
+        <tax:p>
+b) Un secondo gruppo sarebbe costituito dal 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223614" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>maculatus</dc:Species>
+                    <dc:Subspecies>samius</dc:Subspecies>
+                </tax:xmldata>C. maculatus samius</tax:name>
+con le sue varieta ...
+</tax:p>
+        <tax:p>
+e) II terzo gruppo abbraccia le sottospecie 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:193249" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>carinatus</dc:Species>
+                </tax:xmldata>carinatus</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:27140" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>sanctus</dc:Species>
+                </tax:xmldata>sanctus</tax:name>
+., 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26448" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>erigens</dc:Species>
+                </tax:xmldata>erigens</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:134648" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>maculatus</dc:Species>
+                    <dc:Subspecies>xanthomelas</dc:Subspecies>
+                </tax:xmldata>xanthomelas</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26241" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>barbaricus</dc:Species>
+                </tax:xmldata>barbaricus</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:27055" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>pilicornis</dc:Species>
+                </tax:xmldata>pilicornis</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:193717" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>silvaticus</dc:Species>
+                </tax:xmldata>sllvaticus</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26238" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>baldaccii</dc:Species>
+                </tax:xmldata>baldaccii</tax:name>
+e 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:27270" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>turkestanus</dc:Species>
+                </tax:xmldata>turkestanus</tax:name>
+, con le loro varieta ...
+</tax:p>
+        <tax:p>
+d) Le sottospecie 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26179" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>aethiops</dc:Species>
+                </tax:xmldata>aethiops</tax:name>
+e oertzeni formano un gruppo a se, al quale si connette ancora jalensis che non ha aculei alle tibie.
+</tax:p>
+        <tax:p>Questa partizione riguarda principalmente le forme con tibie aculeate. Quelle con tibie inermi mi sembrano separate le une dalle altre per differenze rilevanti, per cui ciascuna costituisce quasi un gruppo a se, almeno se si considerano soltanto le forme paleartiche.</tax:p>
+        <tax:p>
+Ma la sottospecie 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26476" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>fedtschenkoi</dc:Species>
+                </tax:xmldata>fedtschenkoi</tax:name>
+, come, ho detto sopra, rappresenta 1 ' estrema propaggine verso N. 0. del numeroso gruppo indo-australiano delle forme affini al 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223590" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>maculatus</dc:Species>
+                    <dc:Subspecies>mitis</dc:Subspecies>
+                </tax:xmldata>C. maculatus mitis</tax:name>
+.
+</tax:p>
+        <tax:p>
+Le forme finora descritte del 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26917" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>maculatus</dc:Species>
+                </tax:xmldata>C. maculatus</tax:name>
+, e certamente ancora una parte di quelle da scoprirsi, sono. distinte fra loro, almeno nell'aspetto esterno, per un piccolo numero di caratteri, associati in combinazioni calei-doscopiche.
+</tax:p>
+        <tax:p>Si possono distinguere:</tax:p>
+        <tax:p>
+5 tipi di colorazione che definiro dal nome di forme in cui si riscontrano: tipo 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26917" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>maculatus</dc:Species>
+                </tax:xmldata>maculatus</tax:name>
+, tipo 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:134648" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>maculatus</dc:Species>
+                    <dc:Subspecies>xanthomelas</dc:Subspecies>
+                </tax:xmldata>xanthomelas</tax:name>
+tipo 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26241" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>barbaricus</dc:Species>
+                </tax:xmldata>barbaricus</tax:name>
+, tipo 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26359" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>compressus</dc:Species>
+                </tax:xmldata>compressus</tax:name>
+, tipo 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:193639" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>pallens</dc:Species>
+                </tax:xmldata>pallens</tax:name>
+.
+</tax:p>
+        <tax:p>3 tinte delle parti chiare: giallo ,, rosso ferruginoso, bruno. 2 tipi di pubescenza delle tibie e scapi: cortissima e aderente, o lunga e piu o meno staccata. 3 tipi di struttura delle tibie: senza carena dorso laterale, con carena dorsolaterale, con carena e solco dorsale. g condizioni del margine flessorio delle tibie; con aculei e senza aculei. •</tax:p>
+        <tax:p>2 condizioni delle guance: con e senza peli ritti.</tax:p>
+        <tax:p>Il calcolo delle combinazioni varie tra questi soli caratteri conduce alla cifra assai rilevante di 240 casi; e questa cifra, va moltiplicata se si tien conto della statura normale (massima e minima), della lunghezza relativa dei membri, della forma del capo nelle operaie massime e nelle minime e di altre condizioni particolari, scultura del tegumento in varie regioni, pubescenza del tronco ecc.</tax:p>
+        <tax:p>Siffatti elementi strutturali e pigmentali o caratteri elementari che si vogliano dire devono considerarsi come espressione visibile di proprieta elementar o unita primitive dell' idioplasma (determinanti del Weismann, pangeni del de Vries) dalla cui esistenza o assenza, attivita o latenza « dipendono le proprieta degli organismi formati.</tax:p>
+        <tax:p>
+Le stesse, considerazioni si possono fare relativamente ad altri gruppi di forme del genere 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2414" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                </tax:xmldata>Camponotus</tax:name>
+che, presentano, come quello studiato in queste pagine, una serie di combinazioni caleidoscopiche di caratteri elementari. Esse conducono a fare applicare a quei gruppi il concetto teorico delle mutazioni nel senso determinato dal de Vries e a rendere probabile che le forme attualmente fissate siano sorte in periodi successivi di mutabilita di una forma stipite.
+</tax:p>
+        <tax:p>Ma lo studio delle collezioni non rivela che i caratteri morfologici o apparenti, i quali non sempre corrispondono a quelli da cui dipende la sorte delle forme specifiche e subspecifiche nella lotta per l'esistenza. Questo valore spetta soltanto a quei caratteri che sono in relazione con le condizioni speciali di esistenza, e che determinano l' adattamento all' ambiente; in altri termini a quelli che sono espressione necessaria diretta q indiretta di sviluppo funzionale dell' organismo o di determinate parli di esso; - altri caratteri invece sono effetto di funzioni o espressione di modificazioni indifferenti dell'organismo. Discriminare il vero significato dei caratteri morfologici e il loro valore etologico eccede il potere di chi studia soltanto materiale morto. La conoscenza delle specie, sottospecie e varieta non sara esauriente se non completata e corroborata dalla ricerca etologica. E questa, a sua volta, richiede per essere fruttifera una previa analisi morfologica, senza la quale lo studio etologico delle questioni relative alla variazione e alla filogenia non. e possibile.</tax:p>
+        <tax:p>BIBLIOGRAFIA</tax:p>
+        <tax:p>Emery, C. 1887. Catalogo delle formiche esistenti nelle collezioni del Museo Civico di Genova. Parte terza. Formiche della regione indo-malese e dell'Australia, in: Ann. Mus. Genova (2) voi. 4.</tax:p>
+        <tax:p>— 1894. Alcune formiche dell'isola di Creta, in: Bull. Soc. ent. Hai., v. 26. Resoc. (C. baldaceii).</tax:p>
+        <tax:p>Forel, A. 1879. Etudes myrmecologiques en 1879, in: Bull. Soc. vaudoise sc. n. (2) vol. 16. "</tax:p>
+        <tax:p>— 1887. Etudes myrmecologiques en 1886, in: Ann. Soc ent. Belgique v. 30.</tax:p>
+        <tax:p>Forel, A. 1886. Nouyelles fourmis de Grece recoltees par M. E. von Oertzen. in: C. R. Soc. ent. Beigique.</tax:p>
+        <tax:p>— 1888. Ameisen aus den Sporadeu, Cykladen und Griechenland, gesammelt 1837 von Herrn v. Oertzen. in: Berlin, ent. Zeit. v. 32.</tax:p>
+        <tax:p>— 1890. Fourmis de Tunisie et de l'Algerie orientale, in: G. R. Soc. ent. Belgique.</tax:p>
+        <tax:p>— 1892. Les formicides de l'Empire des Indes et de Ceylan. Part. 1. in: Journ. Bombay nat. hist. Soc. voi. 7.</tax:p>
+        <tax:p>— 1894. Les formicides de la province d' Oran. in: Bull. Soc. vaudoise se. nat. v 30.</tax:p>
+        <tax:p>— 1904. Note sur les fourmis du Musee zoologique de l'Academie imperiale des Sciences de St. Petersbpurg, in: Annuaire Mus. zool. Acad. St. Petersb., v. 8.</tax:p>
+        <tax:p>Latreille, P. A. 1798. Essai sur l'histoire des fourmis de la France. Brive, l'an 6.</tax:p>
+        <tax:p>Mayr G. 1876. Viaggio di A. Fedtschenko nel Turkestan, Formiche, (in russo). Ripubblicato nel 1880, col titolo: Die Ameisen Turkestans gesammelt., von A Fedtschenko, in Tijdschr. v. entom., v. 23.</tax:p>
+        <tax:p>Roger. J. 1859. Beitraege zur Kenntniss der Ameisenfauna der Mittelmeerlaender. Erstes Stueck in: Berlin. ent. Zeit. v. 3.</tax:p>
+        <tax:p>Smith, Fr. 185 S, Catalogue of Hymenopterous Insects in the Collection of the British Museum. Part. VI. Formicidae.</tax:p>
+        <tax:note place="foot">
+            <tax:treatment>
+                <tax:nomenclature>
+1) 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:227020" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>maculatus</dc:Species>
+                            <dc:Subspecies>intonsus</dc:Subspecies>
+                        </tax:xmldata>C. maculatus intonsus</tax:name>
+n. subsp.
+</tax:nomenclature>
+                <tax:div type="description">
+                    <tax:p>
+Operaja. Statura del 
+<tax:name>
+                            <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26917" source="HNS"/>
+                            <tax:xmldata>
+                                <dc:Genus>Camponotus</dc:Genus>
+                                <dc:Species>maculatus</dc:Species>
+                            </tax:xmldata>C. maculalus</tax:name>
+tipico (lutigli, massima 12 1 / 2 mm.); la testa del soldato e meno larga (3.4 X 3.1 mm), le estremita piu corte (scapo al massimo 2.8, tibia post 3.5 miri.). Nelle operaie minime, i lati del capo convergono piu rettilinei, dagli occhi al margine occipitale, il quale e piu stretto che nel maculatus. La scultura e piu forte e il tegumento piu opaco in tutto il corpo. I lati del capo offrono piu distinti i punti sparsi, e questi portano brev setole ritte. Le tibie sono armate di aculei al margine flessorio. Colore interamente giallo pallido nelle operaie minime; in quelle piu grandi, il gastro e piu o meno bruno; nelle massime, il torace e ferrugineo, il capo piu scuro, 1 ' addome bruno o nero, senza macchie o pure con macchie indeterminate di un giallo bruno piu scuro che nel maculatus. - Colonia del Capo e Transwaal.
+</tax:p>
+                </tax:div>
+            </tax:treatment>
+            <tax:treatment>
+                <tax:nomenclature>
+(I) 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:227021" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>maculatus</dc:Species>
+                            <dc:Subspecies>liocnemis</dc:Subspecies>
+                        </tax:xmldata>C. maculatus liocnemis</tax:name>
+n. subsp.
+</tax:nomenclature>
+                <tax:div type="description">
+                    <tax:p>
+(
+<tax:name>
+                            <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223581" source="HNS"/>
+                            <tax:xmldata>
+                                <dc:Genus>Camponotus</dc:Genus>
+                                <dc:Species>maculatus</dc:Species>
+                                <dc:Subspecies>lacteipennis</dc:Subspecies>
+                            </tax:xmldata>C. maculatus lacteipennis</tax:name>
+(non P. Sm.). Emery in Ann. Soc. ent. France voi. 44, p. 46, 1895). Operaia. Piu piccolo del 
+<tax:name>
+                            <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26917" source="HNS"/>
+                            <tax:xmldata>
+                                <dc:Genus>Camponotus</dc:Genus>
+                                <dc:Species>maculatus</dc:Species>
+                            </tax:xmldata>C. maculatus</tax:name>
+tipico e piu gracile (lungh. mass. 10 1 / 2 mm). Capo del soldato meno largo (3.2 X 2.8 min.) con gli angoli occipitali piu rifondati; le tibie non hanno aculei e misurano al massimo 3 mm Scultura piu debole, per cui tutto V insetto e piu lucido. Colore come nel maculatus, ma il contrasto tra il giallo e il nero e ancora piu forte. Colonia del Capo e Transwaal. 
+<tax:name>
+                            <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:224943" source="HNS"/>
+                            <tax:xmldata>
+                                <dc:Genus>Camponotus</dc:Genus>
+                                <dc:Species>maculatus</dc:Species>
+                            </tax:xmldata>Var. madecassa</tax:name>
+n. var. L' operaia di questa varieta e piu grande e snella (Lungh. massima 13 mm.,) capo 3.5 X 3, tibia posteriore 3 5, del resto simile, al tipo della sottospecie. Madagascar. E questa la forma che Forel designa nell'opera di Grandidier come 
+<tax:name>
+                            <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26917" source="HNS"/>
+                            <tax:xmldata>
+                                <dc:Genus>Camponotus</dc:Genus>
+                                <dc:Species>maculatus</dc:Species>
+                            </tax:xmldata>C. maculatus</tax:name>
+i. sp.
+</tax:p>
+                </tax:div>
+            </tax:treatment>
+        </tax:note>
+        <tax:note place="foot">
+            <tax:p>
+(1) Dopo la presentazione. di questa nota, il nome di 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:134796" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Camponotus</dc:Genus>
+                        <dc:Species>maculatus</dc:Species>
+                    </tax:xmldata>C. maculatus xerxes</tax:name>
+e stato pubblicato dal Forel (Ann. soc. ent. Belgique voi. 48. p. 424, 1904).
+</tax:p>
+        </tax:note>
+        <tax:note place="foot">
+            <tax:p>(1) Quasi tutte le forme indiane si riferiscono a questo gruppo.</tax:p>
+        </tax:note>
+        <tax:figure>
+            <tax:p>
+Fig. 1 .. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230038" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Camponotus</dc:Genus>
+                        <dc:Species>maculatus</dc:Species>
+                        <dc:Subspecies>pilicornis</dc:Subspecies>
+                    </tax:xmldata>C maculatus pilicornis</tax:name>
+: tratteggio inclinato a. destra .. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:193227" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Camponotus</dc:Genus>
+                        <dc:Species>maculatus</dc:Species>
+                        <dc:Subspecies>barbarus</dc:Subspecies>
+                    </tax:xmldata>C maculatus barbarus</tax:name>
+; tratteggio inclinato a sinistra. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:148386" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Camponotus</dc:Genus>
+                        <dc:Species>maculatus</dc:Species>
+                        <dc:Subspecies>maculatus</dc:Subspecies>
+                    </tax:xmldata>C. maculatus maculatus</tax:name>
+; tratteggio orizzontale. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230039" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Camponotus</dc:Genus>
+                        <dc:Species>maculatus</dc:Species>
+                        <dc:Subspecies>sanctus</dc:Subspecies>
+                    </tax:xmldata>C- maculatus sanctus</tax:name>
+; tratteggio verticale. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223614" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Camponotus</dc:Genus>
+                        <dc:Species>maculatus</dc:Species>
+                        <dc:Subspecies>samius</dc:Subspecies>
+                    </tax:xmldata>C. maculatus samius</tax:name>
+: nero.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Fig. 2. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230041" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Camponotus</dc:Genus>
+                        <dc:Species>maculatus</dc:Species>
+                        <dc:Subspecies>carinatus</dc:Subspecies>
+                    </tax:xmldata>C. maculatus cannatus var. oasium</tax:name>
+e fellah: tratteggio verticale. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230042" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Camponotus</dc:Genus>
+                        <dc:Species>maculatus</dc:Species>
+                        <dc:Subspecies>carinatus</dc:Subspecies>
+                    </tax:xmldata>C. maculatus carimalus var. xerxes</tax:name>
+: tratteggio obliquo. ' 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230040" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Camponotus</dc:Genus>
+                        <dc:Species>maculatus</dc:Species>
+                        <dc:Subspecies>baldaccii</dc:Subspecies>
+                    </tax:xmldata>C. maculatus baldaccii</tax:name>
+; nero.
+      </tax:p>
+        </tax:figure>
+    </tax:taxonxBody>
+</tax:taxonx>

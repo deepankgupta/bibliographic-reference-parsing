@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8"?><tax:taxonx xmlns:dc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.taxonx.org/schema/v1 http://www.taxonx.org/schema/v1/taxonx1.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-1.xsd http://digir.net/schema/conceptual/darwin/2003/1.0 http://digir.net/schema/conceptual/darwin/2003/1.0/darwin2.xsd">
+    <tax:taxonxHeader>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Contributo alla conoscenza del genere Amblyopone Erichson (Hymenoptera: Formicidae).</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal">
+                <mods:role>
+                    <mods:roleTerm>Author</mods:roleTerm>
+                </mods:role>
+                <mods:namePart>Baroni Urbani, C.</mods:namePart>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:relatedItem type="host">
+                <mods:titleInfo>
+                    <mods:title>Mitteilungen der Schweizerischen Entomologischen Gesellschaft</mods:title>
+                </mods:titleInfo>
+                <mods:part>
+                    <mods:detail type="volume">
+                        <mods:number>51</mods:number>
+                    </mods:detail>
+                    <mods:extent unit="page">
+                        <mods:start>39</mods:start>
+                        <mods:end>51</mods:end>
+                    </mods:extent>
+                    <mods:date>1978</mods:date>
+                </mods:part>
+            </mods:relatedItem>
+            <mods:subject>
+                <mods:topic>Amblyopone besucheti</mods:topic>
+                <mods:topic>Amblyopone gaetulica</mods:topic>
+                <mods:topic>Amblyopone ophthalmica</mods:topic>
+                <mods:topic>Amblyopone pertinax</mods:topic>
+            </mods:subject>
+            <mods:identifier type="HNS-PUB">6323</mods:identifier>
+            <mods:location>
+                <mods:url>http://atbi.biosci.ohio-state.edu/HymOnline/reference-full.html?id=6323</mods:url>
+            </mods:location>
+        </mods:mods>
+    </tax:taxonxHeader>
+    <tax:taxonxBody>
+        <tax:p>MITTEILUNGEN DER SCHWEIZERISCHEN ENTOMOLOGISCHEN GESELLSCHAFT BULLETIN DE LA SOCIETE ENTOMOLOGIQUE SUISSE</tax:p>
+        <tax:p>
+Contributo alla conoscenza del genere 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2336" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Amblyopone</dc:Genus>
+                </tax:xmldata>Amblyopone Erichson</tax:name>
+(Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+) *
+</tax:p>
+        <tax:p>Cesare Baroni Urbani</tax:p>
+        <tax:p>Naturhistor ¡ sches Museum, Augustinergasse 2, CH- 4051 Basel</tax:p>
+        <tax:p>
+Contribution to the knowledge of the genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2336" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Amblyopone</dc:Genus>
+                </tax:xmldata>Amblyopone Erichson</tax:name>
+(Hym. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+) - Six species of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2336" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Amblyopone</dc:Genus>
+                </tax:xmldata>Amblyopone</tax:name>
+(two of which new to science) are recognized in the Mediterranean region and a key based on the workers is given for their identification. The material considered in the present study originated from the following countries: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25172" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Amblyopone</dc:Genus>
+                    <dc:Species>denticulata</dc:Species>
+                </tax:xmldata>A. denticulata (Roger)</tax:name>
+from Italy, Greece, Bulgaria, Turkey and Lebanon; 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25187" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Amblyopone</dc:Genus>
+                    <dc:Species>impressifrons</dc:Species>
+                </tax:xmldata>A. impressifrons (Emery)</tax:name>
+from Italy; 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25201" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Amblyopone</dc:Genus>
+                    <dc:Species>ophthalmica</dc:Species>
+                </tax:xmldata>A ophthalmica</tax:name>n. sp.
+from Israel; 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25200" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Amblyopone</dc:Genus>
+                    <dc:Species>normandi</dc:Species>
+                </tax:xmldata>A. normandi (Santschi)</tax:name>
+from Tunesia and Israel (first record for this country); 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25175" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Amblyopone</dc:Genus>
+                    <dc:Species>emeryi</dc:Species>
+                </tax:xmldata>A. emeryi (Saunders)</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25181" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Amblyopone</dc:Genus>
+                    <dc:Species>gaetulica</dc:Species>
+                </tax:xmldata>A. gaetulica</tax:name>n. sp.
+both from Morocco. Moreover, two new exotic species of particular interest are described: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25206" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Amblyopone</dc:Genus>
+                    <dc:Species>pertinax</dc:Species>
+                </tax:xmldata>A. pertinax</tax:name>n. sp.
+, taken at 2200 m altitude in the Darjeeling district (India), which represents the northern record for the genus in Central Asia and the highest altitudinal record for the genus as a whole. This species shows no morphological relationships with other Indian species, but is comparable with 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25195" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Amblyopone</dc:Genus>
+                    <dc:Species>minuta</dc:Species>
+                </tax:xmldata>A. minuta (Forel)</tax:name>
+from Sumatra. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25165" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Amblyopone</dc:Genus>
+                    <dc:Species>besucheti</dc:Species>
+                </tax:xmldata>A. besucheti</tax:name>n. sp.
+is described from the island La Digue in the Seychelles. This is the smallest known species in the genus and it shows no considerable affinities with other species. It is regarded as palaeoendemic, also in view of the fact that no 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2336" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Amblyopone</dc:Genus>
+                </tax:xmldata>Amblyopone</tax:name>
+species are known to occur in Central and South Africa and Madagascar, a situation contrasting with the high species concentration in the Indoaustralian area.
+</tax:p>
+        <tax:p>
+Soprattutto grazie alia cortesia del Dr. Claude Besuchet del Museo di Storia Naturale di Ginevra, ho avuto l'opportunita di studiare numeroso nuovo materiale di 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2336" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Amblyopone</dc:Genus>
+                </tax:xmldata>Amblyopone</tax:name>
+, principalmente di provenienza mediterranea. Nel tentativo di giungere ad una determinazione corretta ho dovuto rivedere tutte le specie precedentemente note per questa regione. Ne fornisco qui una breve descrizione con particolare riferimento ai caratteri che mi sono sembrati piu utili alla discriminazione delle specie, assieme ad una tabella per la determinazione dei taxa da me riconosciuti. In questo descrivo anche due nuove specie esotiche del medesimo genere, di particolare interesse biogeografico.
+</tax:p>
+        <tax:p>
+Un particolare ringraziamento va d Sig. Barry Bolton del Museo Britannico per il generoso dono di due sintipi di 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25175" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Amblyopone</dc:Genus>
+                    <dc:Species>emeryi</dc:Species>
+                </tax:xmldata>Amblyopone emeryi (Saunders)</tax:name>
+.
+</tax:p>
+        <tax:p>Tutto il materiale citato nel presente lavoro proviene dalle poche collezioni seguenti, elencate con l'abbreviazione usata nel testo:</tax:p>
+        <tax:p>BMNH: British Museum of Natural History, Londra.</tax:p>
+        <tax:p>CK: Collezione H. Kutter (in deposito al Naturhistorisches Museum di Basilea).</tax:p>
+        <tax:p>MHNG: Museum d'Histoire Naturelle, Ginevra.</tax:p>
+        <tax:p>NHMB: Naturhistorisches Museum, Basilea.</tax:p>
+        <tax:p>Nel corso dello studio del materiale mi sono avvalso anche di alcune poche misure eseguite sempre con binoculare Leitz stereoscopico corredato di oculare 16 x ed obbiettivo 10 x e che saranno cosi abbreviate:</tax:p>
+        <tax:p>Lc = lunghezza massima del capo sul piano sagittale misurata dal margine occipitale al bordo anteriore del clipeo, denticoli esclusi.</tax:p>
+        <tax:p>lc = larghezza massima del capo nel punto di massima distanza tra i lati. Il piano su cui questa misura e stata eseguita puo quindi variare a seconda della specie e dell'esemplare.</tax:p>
+        <tax:p>Lsc = lunghezza massima dello scapo, condilo articulare basale escluso.</tax:p>
+        <tax:p>Lp = massima lunghezza del peziolo in visione dorsale.</tax:p>
+        <tax:p>lp = massima larghezza del peziolo in visione dorsale.</tax:p>
+        <tax:p>Sulla base di queste misure ho potuto calcolare anche i seguenti india: IC = indice cefalico = lc x 100 / Lc. ISC = indice dello scapo e del capo = Lsc x 100 / Lc. IP = indice del peziolo = lp x 100 / Lp.</tax:p>
+        <tax:p>LE SPECIE MEDITERRANEE DEL GENERE</tax:p>
+        <tax:p>
+I risultati presentati in questo lavoro sono basati esclusivamente sulla casta operaia. I maschi descritti dai diversi autori che si sono occupati del genere 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2336" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Amblyopone</dc:Genus>
+                </tax:xmldata>Amblyopone</tax:name>
+come pure quelli studiati nel materiale ricevuto possono essere attribuiti a un numero di taxa pari a quello qui riconosciuto sulla base delle operaie. Poiche nessuno di questi maschi e mai stato raccolto assieme alle operaie, la loro posizione tassonomica diventa pura speculazione.
+</tax:p>
+        <tax:p>Tabella per la determinazione delle specie</tax:p>
+        <tax:p>1. Mandibole armate di otto denti interpretabili come 1 basale, 1 apicale, 1 preapicale e 5 mediani Tutti i mediani ad eccezione del primo sono bifidi, esattamente sdoppiati in due denticoli di eguali dimensioni (fig. 1 e 2) ....... 2</tax:p>
+        <tax:p>Mandibole egualmente annate di otto denti che ricalcano lo stesso schema teste descritto, pero i denti mediani 2 e 3 non sono bifidi ma semplicemente appaiati ad un denticolo. di dimensioni molto minori o addirittura in parte semplici (fig. 3,4, 5 e 6) ...................................... 3</tax:p>
+        <tax:p>
+2. Metasterno armato di un paio di sporgenze spiniformi molto evidenti (fig. 8). Formula palpale 5: 3. Occhi relativamente grandi (fig. 2). Peziolo con sporgenza ventrale stretta ed allungata. IC &lt;100. Individui di grandi dimensioni .............................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25187" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Amblyopone</dc:Genus>
+                    <dc:Species>impressifrons</dc:Species>
+                </tax:xmldata>impressifrons (Emery)</tax:name>
+        </tax:p>
+        <tax:p>
+Metasterno inerme (fig. 7). Formula palpale 4: 3. Occhi minutissimi e composti di un solo ommatidio (fig. 1). Peziolo con sporgenza ventrale prospicente in direzione craniale. IC&gt; 100. Individui di dimensioni piu piccole ............................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25172" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Amblyopone</dc:Genus>
+                    <dc:Species>denticulata</dc:Species>
+                </tax:xmldata>denticulata (Roger)</tax:name>
+        </tax:p>
+        <tax:p>3. Solo l'ultimo dente mediano e bifido. Tegumento del capo lucidissimo senza o con pochissime tracce di striatum sovrapposta alle fossette piligere. Individui in generale di piccole dimensioni .............................. 4</tax:p>
+        <tax:p>Tutti e due gli ultimi denti mediani (4 e 5) sono bifidi. Scultura del capo notevolmente piu forte spesso intervallata a strie abbastanza evidenti. Individui di dimensioni maggiori ....................................... 5</tax:p>
+        <tax:p>
+4. Completamente priva di occhi. Sutura mesoepinotale assente. IC&gt; 105. IP &lt;117 ....................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25200" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Amblyopone</dc:Genus>
+                    <dc:Species>normandi</dc:Species>
+                </tax:xmldata>normandi (Santschi)</tax:name>
+        </tax:p>
+        <tax:p>
+Occhi molto grandi e ben sviluppati. Sutura mesoepinotale presente. Mesonoto separato dalla mesopleura per mezzo di una sutura. IC &lt;98. IP&gt; 118 ................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25201" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Amblyopone</dc:Genus>
+                    <dc:Species>ophthalmica</dc:Species>
+                </tax:xmldata>ophthalmica</tax:name>
+n. sp
+</tax:p>
+        <tax:p>
+5. Capo con deboli corrugazioni sovrapposte ai punti piligeri, ma senza strie vere e proprie. ISC &lt;58. IP&gt; 130 ....................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25181" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Amblyopone</dc:Genus>
+                    <dc:Species>gaetulica</dc:Species>
+                </tax:xmldata>gaetulica</tax:name>n. sp.</tax:p>
+        <tax:p>
+Capo vistosamente striato in senso trasversale sull'occipite ed in senso longitudinale sui lati. ISC&gt; 68. IP &lt;107 .............. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25175" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Amblyopone</dc:Genus>
+                    <dc:Species>emeryi</dc:Species>
+                </tax:xmldata>emeryi (Saunders)</tax:name>
+.
+</tax:p>
+        <tax:p>Descrizioni e corologie accertate per le singole specie</tax:p>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25172" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Amblyopone</dc:Genus>
+                        <dc:Species>denticulata</dc:Species>
+                    </tax:xmldata>Amblyopone denticulata (Roger)</tax:name>
+            </tax:nomenclature>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:133575" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Stigmatomma</dc:Genus>
+                            <dc:Species>denticulatum</dc:Species>
+                        </tax:xmldata>Stigmatomma denticulatum Roger</tax:name>
+, 1859, Berl. Ent. Z., 3: 251, tav. 7, fig. 2. [[ worker ]]. Monte Scapo (? = Monte Skopos), Isola Zante.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:133576" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>gheorghieffii</dc:Species>
+                        </tax:xmldata>Amblyopone gheorghieffii</tax:name>
+(sic!) Forel, 1892, Verh. zool. - bot. Ges. Wien, 42: 309. [[ male ]]. Sliven, Bulgaria.
+</tax:p>
+                <tax:p>Sinonimia di Emery, 1916, Bull. Soc. Ent. Ital., 47 (1915): 100.</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:133577" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Stigmatomma</dc:Genus>
+                            <dc:Species>denticulatum</dc:Species>
+                        </tax:xmldata>Stigmatomma denticulatum var. gracilicornis Menozzi</tax:name>
+, 1936, Boll. Lab. Zool. Gen. Agr. Portici, 29: 268. [[ worker ]]. Monte Profeta Elia (Rodi). Sinonimia di Brown, 1960, Bull. Mus. Comp. Zool., 122: 197.
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="description">
+                <tax:p>Operaia (fig. 1 e 7): Capo a lati quasi paralleli, debolmente arcuati e poco o nulla divergenti anteriormente. Margine occipitale debolmente incavato. Angoli genali acuti o debolmente spiniformi. Lo scapo delle antenne, ripiegato all'indietro, raggiunge circa i 2 / 3 della lunghezza del capo. Margine anteriore del clipeo armato di almeno 7 denticoli diversamente sviluppati e con i due in posizione esterna spesso bipartiti. Ne consegue che il conteggio degli apici e eguale a nove. Lamine frontali fortemente ravvicinate fra loro. Scapo debolmente curvato, gradatamente ingrossantesi verso l'apice. Funicolo ad articoli 2 - 5 piu larghi che lunghi. Occhi piccolissimi. Formula palpale 4: 3. Mandibole allungate e moderatamente incrassate nella porzione mediana. Esse sono armate, di norma, di un dente basale arrotondato, un apicale falciforme preceduto da un piccolo preapicde e 5 mediali. Almeno i denti mediali 2 - 5 sono doppi, ciascuno dei due denticoli essendo un dupllcato del proprio omologo per forma e per dimensioni.</tax:p>
+                <tax:p>Alitronco a profilo diritto, interrotto solo in corrispondenza delle suture promesonotale e mesoepinotale. Mesonoto separato dalla mesopleura per mezzo di una debole sutura. La faccia basale deU'epinoto passa in quella discendente con una stretta curvatura ad angolo debolmente ottuso.</tax:p>
+                <tax:p>Peziolo a superficie pianeggiante e lati arrotondati che passano gradatamente nella faccia anteriore, pure debolmente convessa. Sporgenza ventrale moderatamente sviluppata, senza o con debole accenno di fenestra.</tax:p>
+                <tax:p>Microscultura circolare densa sul capo, abbastanza regularmente ordinata in cordoni. Debolissima striatum longitudinale sull'area frontale, sul clipeo e, talora, alla base delle guanee. Mandibole abbastanza sensibilmente striate in senso longitudinale. La medesima microscultura circolare si ritrova, piu spaziata e meno profonda, sull'alltronco e sul peduncolo che risultano quindi ancora piu lucenti. Gastro interamente liscio e lucido.</tax:p>
+                <tax:p>Una breve pubescenza gialliccia subdecumbente e sparsa su gran parte della superficie corporea, leggermente piu sviluppata suUe appendici. Alcune poche setole piu robuste attorno alle regioni buccale, anale e sulle mandibole.</tax:p>
+                <tax:p>Lunghezza totale, mandibole escluse, 3,7 - 4,2 mm.</tax:p>
+                <tax:p>Dimensioni in mm ed indici: Lc 0,71 - 0,91; lc 0,59 - 0,82; Lsc 0,38 - 0,52; Lp 0,31 - 0,41; lp 035 - 0,47; IC 80,0 - 94,1; ISC 53,5 - 64,1; IP 102,6 - 120,5.</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>Materiale esaminato: Italia: Cazzano di Tramigna (Verona), 11.11.72, R. Pace leg., 2 [[ worker ]] [[ worker ]] (NHMB) (Pace 1975); Rimini, 3 [[ worker ]] [[ worker ]], 1 [[ queen ]] (NHMB, CK e MHNG); Capodimonte (Napoli), 12. X. 1871,1 [[ worker ]] (MHNG).</tax:p>
+                <tax:p>Grecia: Monte Skopos (Is. Zante), m 3300, 24. III. 71, B. Hauser leg., 1 [[ worker ]] (questo esemplare rappresenta verosimilmente un autentico topotipo. La localita indicata nella descrizione originale come Monte Scapo e probabilmente dovuta ad un errore di stampa e corrisponde al Mte Skopos da cui proviene il materiale qui citato) (MHNG); Vasilikon (Is. Zante), 22. IV. 72, 1 [[ worker ]] (MHNG); Isola Corfu, 12. IV. 72, B. HAuser leg., 1 [[ worker ]] (MHNG) e, stessa localita, 1 [[ worker ]], J. Sahlberg leg. (MHNG); Anoghi (Is. Itaca), m 500,19. IV. 72, vagliando sotto a delle quercie, 33 [[ worker ]] [[ worker ]]. (MHNG e NHMB); Strada verso Argostolion (Sami, Is. Cefalonia), vaglio nel sottobosco, 11 - 15. IV. 70, 6 [[ worker ]] [[ worker ]], 1 [[ queen ]] (MHNG e NHMB); tra Sophata e Tsakarisiatos (strada di Poros, Sami, Is. Cefalonia), vaglio sotto Quercus coccifera, 13. IV. 70,1 [[ worker ]] (MHNG); dintorni di Assos (Is. Cefalonia), 8. IV. 75, 1 [[ worker ]] (MHNG); presso il colle Agapidias (strada di Aenos, Sami, Is. Cefalonia), 700 m, vagliando nel sottobosco, 14. IV. 70, 2 [[ worker ]] [[ worker ]] (MHNG e NHMB); Aenos (Valsamata, Is. Cefalonia), m 200 - 300, 11. IV. 70, 2 [[ worker ]] [[ worker ]] (MHNG e NHMB); Gola di Kalavrita (Peloponneso), sotto ai sassi, 3. IV. 71 (MHNG), tutti leg. B. Hauser; Ioannina (Epiro), sotto una pietra in un oliveto, R. Argano leg., 1 [[ worker ]] (NHMB).</tax:p>
+                <tax:p>
+Bulgaria: Sliven, 10. III. 1891, 1 [[ male ]] (olotipo di 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:133576" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>gheorghieffi</dc:Species>
+                        </tax:xmldata>A. gheorghieffi</tax:name>
+For.) (MHNG).
+</tax:p>
+                <tax:p>Turchia: Goekova, 30. IV. 75,4 [[ worker ]] [[ worker ]] (MHNG); Bayir, 25 km da Antalya, 950 m, 3. V. 75, 1 [[ worker ]] (MHNG); Agamennon, 28. IV. 75, 1 [[ worker ]] (MHNG); Candiz, 23 km da Egridir, 6. V. 75 (MHNG); Kemer pr. Antalya, 11. V. 75, tutti leg. Cl. Besuchet e I. Loebl, 1 [[ worker ]] (MHNG).</tax:p>
+                <tax:p>Libano: Jeita, valle del Nahr el Kalb (= Lycus), 26. III. 75, vaglio di foglie morte di platano e quercia, Cl. Besuchet leg., 1 [[ worker ]] (MHNG).</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>Osservazioni: E noto dalla letteratura che questa specie proviene da diverse localita dell'Africa Minore, della penisola iberica e italiana e dai Balcani. E possibile che almeno parte di questi reperti debbano venire riferiti ad un altra specie. Per la Turchia, questa specie e stata segnalata di recente da Aktac (1976).</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25187" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Amblyopone</dc:Genus>
+                        <dc:Species>impressifrons</dc:Species>
+                    </tax:xmldata>Amblyopone impressifrons (Emery)</tax:name>
+            </tax:nomenclature>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:133589" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Stigmatomma</dc:Genus>
+                            <dc:Species>impressifrons</dc:Species>
+                        </tax:xmldata>Stigmatomma impressifrons Emery</tax:name>
+, 1869, Ann. Accad. Aspir. Natur., Napoli, 13, tav. 1, fig. 8. [[ worker ]] e [[ queen ]].
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="materials_examined">
+                <tax:p>Capodimonte (Napoli).</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>
+Operaia (fig. 2 e 8): Differisce da 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25172" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>denticulata</dc:Species>
+                        </tax:xmldata>A. denticulata</tax:name>
+per una importante serie di caratteri il piu vistoso dei quali e certamente rappresentato dalla taglia molto maggiore. Inoltre, il capo e piu largo in avanti e proporzionalmente piu corto, spine genali piu pronunciate, lamine frontali piu distanziate, funicolo a primi antennomeri allungati, occhi piu grandi. Formula palpale 5: 3. Presenza di un paio di spine metasternali ben sviluppate medialmente e cranialmente all'inserzione del terzo paio di coxe. Prominenza ventrale del peziolo piu stretta e piu aggettante, con un accenno di fenestra. Microscultura tegumentale piu marcata e piu regolare.
+</tax:p>
+                <tax:p>Lunghezza totale (secondo Emery) 6,0 - 7,5 mm. Lunghezza totale dell'esemplare da me esaminato, mandibole escluse, 5,8 mm.</tax:p>
+                <tax:p>Dimensioni in mm ed indici: Lc 1,21; lc 1,29; Lsc 0,79; Lp 0,61; lp 0,66; IC 106,6; ISC 65,3; IP 108,2.</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>Materiale esaminato: Una sola operaia paratipica di Capodimonte (Napoli) (MHNG).</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>Osservazioni: Questa specie e nota da diverse localita italiane tra l' Emilia e la Sicilia (comprese). Baroni Urbani (1971) ne da un elenco completo. Emery (1909) la cita anche per la prima volta della Grecia, pur senza ulteriori specificazioni, e questa segnalazione e stata poi riportata in numerosi altri cataloghi e monografie. Il fatto che questa specie non sia piu stata ritrovata in questa regione e che essa non sia rappresentata nel copioso materiale di provenienza greca esaminato nel corso di questo studio, permette di avanzare qualche dubbio sull'autenticita del reperto.</tax:p>
+                <tax:p>
+La presenza delle due vistose spine metasternali non era mai stata notata in precedenza per questa specie e tale carattere e tanto insolito nelle formiche che si potrebbe essere tentati di creare un genere monotipico per la sola 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25187" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>impressifrons</dc:Species>
+                        </tax:xmldata>A. impressifrons</tax:name>
+. L'habitus generale e tutti gli altri caratteri sono pero cosi palesemente di tipo 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2336" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                        </tax:xmldata>Amblyopone</tax:name>
+che una soluzione di questo genere non sembra necessaria al momento. Converra ricordare in proposito che 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25187" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>impressifrons</dc:Species>
+                        </tax:xmldata>A. impressifrons</tax:name>
+presenta anche il piu alto conteggio del numero di articoli dei palpi mascellari finora noto in questo genere.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25201" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Amblyopone</dc:Genus>
+                        <dc:Species>ophthalmica</dc:Species>
+                    </tax:xmldata>Amblyopone ophthalmica</tax:name>n. sp.</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>
+Operaia (fig. 3 e 9): Capo subtrapezoidde a lati arcuati e margine occipitale inciso. Spine genali molto ridotte. Lamine frontali ravvicinate. Antenne a scapo sottile e diritto. Funiculo ad antennomeri 3 - 5 subeguali, i rimanenti allungati. Occhi grandi, composti di 5 - 6 ommatidi normalmente sviluppati e situati a circa 2 / 3 dei lati del capo. Clipeo a margine anteriore caratteristico del genere, armato di 7 tubercoli molto piu sottili e prominenti che in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25172" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>denticulata</dc:Species>
+                        </tax:xmldata>A. denticulata</tax:name>
+od 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25187" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>impressifrons</dc:Species>
+                        </tax:xmldata>A. impressifrons</tax:name>
+. Formula palpale 4: 3 (conteggio eseguito senza dissezione). Mandibole lunghe e sottili, a margine esterno debolmente concavo. Margine masticatorio regularmente armato di un dente basale, un apicale, un preapicale e 5 mediani. I denti mediani 2 - 4 sono affiancati da un minuscolo denticolo in posizione esterna, mentre il quarto (piu piccolo) e esattamente replicato da un altro denticolo di eguali dimensioni.
+</tax:p>
+                <tax:p>Alitronco pianeggiante, vistosamente inteirotto in corrispondenza della sutura promesonotale e molto debolmente in corrispondenza di quella mesoepinotale. Mesonoto separato dalla mesopleura per mezzo di una sutura ben marcata. Spine metasternali assenti. Peziolo molto largo e tondeggiante; la sua faccia anteriore passa in quelle laterali con una curva continua. Sporgenza ventrale aggettante in avanti e sfuggente all'indietro, senza accenno di fenestra.</tax:p>
+                <tax:p>Microscultura tegumentale particularmente evidente sul capo dove e costituita da fossette piligere relativamente larghe e spaziate intervallate a debolissime rugosita superficiali. Questa struttura, regulare sul capo, si indebolisce progressivamente in direzione caudale, tanto da essere praticamente del tutto assente sul peziolo e sul gastro. Meso- e metapleure minutamente zigrinate. Mandibole ed appendici quasi interamente liscie.</tax:p>
+                <tax:p>Breve pubescenza suberetta o subdecumbente sparsa su quasi tutta la superficie dorsale. Alcuni pochi peli piu robusti attorno alle regioni buccale ed anale.</tax:p>
+                <tax:p>Colorito generale giallo bruniccio molto lucido.</tax:p>
+                <tax:p>Lunghezza totale, mandibole escluse, 3,1 - 3,3 mm.</tax:p>
+                <tax:p>Dimensioni in mm ed indici: Lc 0,64 - 0,71; lc 0,59 - 0,69; Lsc 0,43 - 0,51; Lp 0,25 - 0,32; lp 0,33 - 0,38; IC 92,2 - 97,2; ISC 67,2 - 71,8; IP 118,8 - 132,0.</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>Materiale esaminato: Due [[ worker ]] [[ worker ]] rispettivamente olotipo (MHNG) e paratipo (NHMB Nr. XXI. V. a. 872) provenienti da Ginosar (Galilea), 24. V. 73, raccolte al vaglio, I. Loebl leg.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>
+Osservazioni: Per lo sviluppo degli occhi questa specie differisce da tutte le altre finora note della sottoregione mediterranea. La dimensione e la struttura delie mandibole la avvicinano alla specie simpatrica 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25200" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>normandi</dc:Species>
+                        </tax:xmldata>A. normandi (Santschi)</tax:name>
+da cui differisce tra l'dtro per la diversa conformazione del capo, dell'alitronco e per alcuni dettagli microsculturali. I caratteri che la distinguono da quest'ultima specie (presenza di occhi, strutture cefaliche e toraciche) sono spesso legati alla differenza di casta e si potrebbe pensare che 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25201" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>ophthalmica</dc:Species>
+                        </tax:xmldata>A. ophthalmica</tax:name>
+altro non sia che la femmina ergatoide di 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25200" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>normandi</dc:Species>
+                        </tax:xmldata>A. normandi</tax:name>
+. Tuttavia, femmine ergatoidi non sono note per nessuna delle 52 specie del genere finora descritte e la presenza di un sia pure minuto carattere addizionale non legato al sesso corne la microscultura tegumentale mi ha indotto a descrivere questa specie. Inoltre, nella collezione del NHMB si trova un maschio raccolto in volo in Palestina che differisce notevolmente dai tre diversi maschi provenienti dal Maghreb e verosimilmente riferibili alle tre specie note sulla base delie operaie della medesima regione e che includono anche 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25200" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>normandi</dc:Species>
+                        </tax:xmldata>A. normandi</tax:name>
+. Maschi analoghi a quello da me esaminato della Palestina sono gia stati descritti, pur senza nominarli, sulla base di raccolte effettuate in Libano ed in Siria (Brown, 1960: 198). Sulla base di questi maschi si e voluto vedere la presenza di una nuova specie di 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2336" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                        </tax:xmldata>Amblyopone</tax:name>
+nel Medio Oriente e l'ipotesi piu probabile mi sembra proprio che tale specie coincida con 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25201" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>ophthalmica</dc:Species>
+                        </tax:xmldata>A. ophthalmica</tax:name>
+teste descritta della Galilea.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25200" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Amblyopone</dc:Genus>
+                        <dc:Species>normandi</dc:Species>
+                    </tax:xmldata>Amblyopone normandi (Santschi)</tax:name>
+            </tax:nomenclature>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:133597" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Stigmatomma</dc:Genus>
+                            <dc:Species>normandi</dc:Species>
+                        </tax:xmldata>Stigmatomma normandi Santschi</tax:name>
+, 1915, Bull. Soc. Hist. Nat. Afr. Nord, 7: 54. [[ worker ]]. Le Kef e Sousse (Tunisia).
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="description">
+                <tax:p>
+Operaia (fig. 4 e 10): Capo stretto ed allungato a lati subparalleli ed occipite quasi diritto. Angoli anteriori debolmente prominenti. Clipeo a margine anteriore armato di sette tubercoli di cui i due esterai notevolmente incrassati. Occhi nulli. Antenne a scapo sottile e debolmente curvato. Funicolo ad antennomeri 2 - 6 subeguali. Mandibole strette ed allungate, regularmente armate di una serie di otto denti; il 2 °, 3 ° e 4 ° mediano sono associati ad un minuscolo denticolo in posizione esterna. Formula palpale 4: 2. Alitronco a profilo molto debolmente gibboso, interrotto solo in corrispondenza della sutura promesonotale. Sutura mesoepinotale indistinguibile anche sulle pleure. Epinoto a faccia superiore pianeggiante lunga circa due volte quanto quella discendente. Spine metasternali assenti. Peziolo a lati arcuati, ancora piu tondeggianti che in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25201" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>ophthalmica</dc:Species>
+                        </tax:xmldata>A. ophthalmica</tax:name>
+. Per il resto, eguale a questa specie.
+</tax:p>
+                <tax:p>Tegumento lucidissimo, interrotto soltanto da fossette piligere poco profonde sul capo che sono quasi del tutto indistinguibili suU'alitronco. Nessuna traccia di striatum vera e propria ad eccezione di alcune deboli strie longitudinali sulle mandibole e, in qualche esemplare, minutissime corrugazioni trasversali sull'occipite.</tax:p>
+                <tax:p>Pochi e brevi peli suberetti o subdecumbenti sparsi su gran parte della superficie corporea. Setole leggermente piu lunghe attorno alla regione anale.</tax:p>
+                <tax:p>Colorito giallo testaceo (in esemplari neosfarfallati?) o bruno, sempre molto lucido.</tax:p>
+                <tax:p>Lunghezza totale, escluse le mandibole 2,7 - 3,5 mm.</tax:p>
+                <tax:p>Dimensioni in mm ed indici: Lc 0,63 - 0,80; lc 0,55 - 0,66; Lsc 0,40 - 0,54; Lp 0, 28 - 0,38; lp 0,31 - 0,35; IC 106,8 - 126,7; ISC 61,8 - 77,8; IP 84,2 - 116,7.</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>Materiale esaminato: 8 [[ worker ]] [[ worker ]] di Sousse (7 NHMB e 1 CK) e 2 di Le Kef (tutti in Tunisia e leg. Normand, NHMB). Benche quello qui citato debba rappresentare grosso modo tutto il materiale visto dal Santschi all'epoca della descrizione originale, solo 3 [[ worker ]] [[ worker ]] di Sousse portano Petichetta tipo scritta di pugno dell'autore (NHMB Nr. XXI. V. a. 65). Quattro [[ worker ]] [[ worker ]] di Ginosar (Galilea, 24. V. 73,1. Loebl leg.) (MHNG e NHMB).</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>Osservazioni: La specie e nota solo dalle localita qui citate. Gli esemplari di Galilea sono sensibilmente piu piccoli di quelli di Tunisia (ad esempio, Tunisia Lc&gt; 0,75 e Galilea Lc &lt;0,66), ma tale differenza scompare quasi del tutto negli indici (Tunisia IC&gt; 116 e Galilea IC &lt;115) e ritengo che potra venire del tutto annuUata con la raccolta di un materiale piu abbondante.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25175" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Amblyopone</dc:Genus>
+                        <dc:Species>emeryi</dc:Species>
+                    </tax:xmldata>Amblyopone emeryi (Saunders)</tax:name>
+            </tax:nomenclature>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:133584" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Stigmatomma</dc:Genus>
+                            <dc:Species>emeryi</dc:Species>
+                        </tax:xmldata>Stigmatomma emeryi Saunders</tax:name>
+, 1890, Ent. mon. Mag., 26: 203. [[ worker ]]. Tangeri (Marocco).
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="description">
+                <tax:p>Operaia (fig. 5 e 11): Capo a lati moderatamente curvati e debolmente inciso in corrispondenza deU'occipite. Angoli genali appuntiti e prominenti. Occhi piccoli ma distinti, composti di 2 - 4 ommatidi non bene delimitati. Scapo delle antenne piu lungo che nelle altre specie qui considerate. Funicolo ad articoli aUungati. Mandibole regolarmente armate di otto denti con il quarto ed il quinto mediale interamente sdoppiati mentre il secondo e terzo presentano solo un piccolo denticolo in posizione esterna. Formula palpale 3: 1 (conteggio probabilmente impreciso perche eseguito senza dissezione). Alitronco interrotto in corrispondenza deUe suture promesonotale e mesoepinotale. Mesonoto debolmente separato daUa mesopleura. Spine metasternali assenti. Peziolo allungato ed a lati subparalleli. Sporgenza ventrale aggettante notevolmente in avanti e sfuggente in senso caudale. Un debole accenno di fenestra nel lobo anteriore.</tax:p>
+                <tax:p>Microscultura circolare non molto profonda sul capo e quasi del tutto assente sulla rimanente superficie corporea che e lucidissima. Meso- e metapleure e urite del peziolo zigrinati. Tracce cospicue di striatura trasversale coprono gran parte dell'occipite e ripiegano verso le guance lungo i lati del capo. Mandibole discretamente striate nel senso delia lunghezza.</tax:p>
+                <tax:p>Brevi peli suberetti su quasi tutta la superficie dorsale e su quella ventrale del gastro, piu rari sulla faccia inferiore del capo.</tax:p>
+                <tax:p>Colorito bruno molto lucido con le mandibole, le zampe e le antenne piu chiare.</tax:p>
+                <tax:p>Lunghezza totale escluse le mandibole 4,1 - 4,5 mm.</tax:p>
+                <tax:p>Dimensioni in mm ed indici: Lc 0,94 - 0,95; lc 0,81 - 0,83; Lsc 0,64 - 0,67; Lp 0,46 - 0,47; lp 0,47 - 0,50; IC 86,2 - 87,4; ISC 68,1 - 70,5; IP 102,2 - 106,4.</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>Materiale esaminato: 3 sintipi [[ worker ]] [[ worker ]] etichettati « TANJ, JJW, E. Saunders coll., 1910. 266. » di cui due provenienti dal BMNH ed ora al NHMB (Nr. XXI. V. a. 64) ed 1 al MHNG. Un'altra [[ worker ]] di Tangeri al MHNG che non appartiene pero alia serie tipica.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>Osservazioni: Questa specie e nota soltanto delia localita classica. La striatura del capo e, se confermata, anche la formula palpale, la distingueranno agevolmente da tutte le congeneri qui citate.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25181" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Amblyopone</dc:Genus>
+                        <dc:Species>gaetulica</dc:Species>
+                    </tax:xmldata>Amblyopone gaetulica</tax:name>n. sp.</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Operaia (fig. 6 e 12): Capo subrettangolare non molto ristretto all'indietro ed a lati poco arcuati. Angoli genali prominenti. Lamine frontali relativamente distanti fra loro. Occhi minutissimi ma presenti. Antenne a scapo moderatamente allungato e funicolo ad antennomeri 2 - 5 poco piu iunghi che larghi. Mandibole regularmente armate di otto denti ma il basale ed i primi due medidi sono semplici. Il terzo mediale e associato ad un denticolo minore, mentre il quarto ed il quinto mediale sono esattamente sdoppiati. Formula palpale 4: 3.</tax:p>
+                <tax:p>Alitronco a dorso diritto e piatto, sensibilmente interrotto in corrispondenza delle suture promesonotale e mesoepinotale. Mesonoto debolmente separato dalla mesopleura per mezzo di un accenno di sutura. Spine metasternali assenti. Peziolo molto largo, a dorso subquadrato e leggermente convesso. Sporgenza ventrale con il solito lobo prominente in avanti e con un marcato accenno di lobo posteriore. Fenestra obsoleta.</tax:p>
+                <tax:p>Microscultura circolare piuttosto densa ed intervallata da deboli corrugazioni del tegumento su tutto il capo. La stessa struttura, meno accentuata, si riscontra anche su tutto Palitronco ed il peziolo per scomparire poi definitivamente sul gastro. Epipleure e mandibole debolmente striate in senso longitudinale.</tax:p>
+                <tax:p>Alcuni peli eretti relativamente lunghi su quasi tutta la superficie corporea. Colore bruno molto lucido con le appendici piu chiare. Lunghezza totale escluse le mandibole 3,5 mm.</tax:p>
+                <tax:p>Dimensioni in mm ed indici: Lc 0,76; lc 0,69; Lsc 0,44; Lp 0,33; lp 0,43; IC 90,8; ISC 57,9; IP 130,3.</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>Materiale esaminato: Un solo esemplare (olotipo) di Tangeri (Marocco), III. 1896 (ex Musaeo H. Vaucher) (NHMB Nr. XXI. V. a. 63).</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>
+Osservazioni: Questo esemplare, originariamente etichettato dal Santschi come « 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:133584" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Stigmatomma</dc:Genus>
+                            <dc:Species>emeryi</dc:Species>
+                        </tax:xmldata>Stigmatomma emeryi Saunders</tax:name>
+type », e stato poi incluso nella collezione
+</tax:p>
+                <tax:p>
+Santschi con il nome di 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:232194" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Stigmatomma</dc:Genus>
+                            <dc:Species>gaetulicum</dc:Species>
+                        </tax:xmldata>Stigmatomma gaetulicum Santschi</tax:name>
+1940 e non e mai stato descritto. La specie e separabile a colpo d'occhio da 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25175" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>emeryi</dc:Species>
+                        </tax:xmldata>A. emeryi</tax:name>
+per la diversa scultura del capo. Per contro puo insultare difficilmente distinguibile da 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25172" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>denticulata</dc:Species>
+                        </tax:xmldata>A. denticulata</tax:name>
+dell'Europa meridionale, da cui differisce purtuttavia per la dentazione delle mandibole, unica fra tutte le specie da me esaminate, per la conformazione del lobo ventrale del peziolo e per i valori dell'IP (
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25172" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>denticulata</dc:Species>
+                        </tax:xmldata>A. denticulata</tax:name>
+IP &lt;120; 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25181" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>gaetulica</dc:Species>
+                        </tax:xmldata>A. gaetulica</tax:name>
+IP&gt; 130). E verosimile che almeno parte delle vecchie segnalazioni di 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25172" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>denticulata</dc:Species>
+                        </tax:xmldata>A. denticulata</tax:name>
+per il Maghreb debbano, in realta, essere riferite a questa specie.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:p>DESCRIZIONI DI SPECIE NUOVE DI PARTICOLARE INTERESSE MORFOLOGICO E BIOGEOGRAFICO</tax:p>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25206" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Amblyopone</dc:Genus>
+                        <dc:Species>pertinax</dc:Species>
+                    </tax:xmldata>Amblyopone pertinax</tax:name>n. sp.</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Operaia (fig. 13 e 14): Capo subtrapezoidale, molto piu largo in avanti che all'indietro e con i lati sensibuemente curvati. Occipite debolmente incavato. Lamine frontali estremamente ravvicinate e divergenti verso Poccipite. Linea frontale ben marcata ed ininterrotta prolungantesi fino al bordo posteriore del capo. Clipeo a margine anteriore armato di otto denticoli prominenti. Angoli genali relativamente smussati. Antenne di 11 articoli a scapo corto: ripiegato all'indietro esso dista dal margine occipitale oltre 1 / 3 della sua lunghezza. Occhi assenti. Mandibole con il margine interno armato di quattro denticoli semplici e ricurvi all'indietro. Margine masticatorio vero e proprio con tre grossi denti che possono venire rispettivamente interpretati come un basde, un apicale ed un preapicde piu piccolo.</tax:p>
+                <tax:p>Alitronco piatto dorsdmente, interrotto solo dalla sutura promesonotale sul profilo. Sutura mesoepinotale del tutto assente. Mesonoto separato dalla mesopleura per mezzo di una sutura marcata. Peziolo corto e molto largo. Sporgenza ventrale prominente in avanti e senza accenno di fenestra.</tax:p>
+                <tax:p>Microscultura tondeggiante piuttosto marcata con superimposizione di deboli strie, uniformemente sparsa su tutto il capo e l'ditronco. La medisima struttura, meno accentuata, si ritrova anche sul peziolo e sul primo somite del gastro, mentre si indebolisce fino quasi a scomparire sugli ultimi somiti addominali. Appendici molto debolmente scolpite e sublucide.</tax:p>
+                <tax:p>Una breve pubescenza ispida e suberetta e sparsa su quasi tutta la superficie corporea. Colore giallo bruno abbastanza uniforme, leggermente piu chiaro sulle zampe.</tax:p>
+                <tax:p>Lunghezza totale senza le mandibole, 2 mm circa.</tax:p>
+                <tax:p>Dimensioni in mm ed indici: Lc 0,53; lc 0,54; Lsc 0,28; Lp 0,21; lp 0,29; IC 101,9; ISC 52,8; IP 138,1.</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>Materiale esaminato: Un solo esemplare (olotipo) di Chim Khona presso Ghum, 2200 m, 28. V. 75, al vaglio, W. Wittmer leg. (India, distretto di Darjeeling) (NHMB Nr. XXI. V. a. 873).</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>
+Osservazioni: Questa specie, che rappresenta il reperto piu settentrionale del genere nell' Asia centrale ed il record altimetrico del genere su scala mondiale, non ha alcuna affinita con le specie precedentemente note del subcontinente indiano, ma ricorda abbastanza da vicino 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25195" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>minuta</dc:Species>
+                        </tax:xmldata>A. minuta</tax:name>
+(Forel), endemico di Sumatra. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25206" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>pertinax</dc:Species>
+                        </tax:xmldata>A. pertinax</tax:name>
+differisce purtuttavia da questa specie per numerosi importanti caratteri tra cui bastera citare il minore sviluppo dei denti basale ed apicale nella specie di Sumatra, i denticoli del margine interno delle mandibole semplici in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25206" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>pertinax</dc:Species>
+                        </tax:xmldata>A. pertinax</tax:name>
+e doppi in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25195" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>minuta</dc:Species>
+                        </tax:xmldata>A. minuta</tax:name>
+, IC 101,9 (
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25206" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>pertinax</dc:Species>
+                        </tax:xmldata>A. pertinax</tax:name>
+) e IC 83,3 (in entrambi i sintipi di 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25195" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>minuta</dc:Species>
+                        </tax:xmldata>A. minuta</tax:name>
+da me esaminati).
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25165" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Amblyopone</dc:Genus>
+                        <dc:Species>besucheti</dc:Species>
+                    </tax:xmldata>Amblyopone besucheti</tax:name>n. sp.</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Operaia (fig. 15 e 16): Capo stretto ed allungato, a lati diritti e debolmente divergenti in avanti. Occipite pressoche diritto. Angoli genali smussati ma evidenti. Clipeo a margine anteriore armato di 7 denticoli di cui i tre centrali separati per mezzo di un leggero diastema dalle due coppie di laterali. Lamine frontali brevissime e molto divergenti. Area frontale appena accennata. Occhi nulli. Antenne di 10 articoli, a scapo corto ed ingrossato: ripiegato all'indietro esso dista dal margine occipitale oltre 1 / 2 delia sua lunghezza. Funicolo con il primo articolo molto sviluppato, piu lungo della somma dei tre seguenti e molto piu largo. Antennomeri del funicolo 2 - 6 trasversi; leggermente piu lunghi che larghi i due seguenti che, assieme all ' ultimo, formano una clava debolmente differenziata. Mandibole relativamente corte, armate di 8 denti di cui solo i due apicaU e preapicali so'no ben differenziati. Essi sono, come i primi due basali, semplici, mentre i denti 3 - 6 sono esattamente sdoppiati. Formula palpale 1: 2.</tax:p>
+                <tax:p>Alitronco abbastanza pianeggiante superiormente, vistosamente interrotto in corrispondenza deila sutura promesonotale. Sutura mesoepinotale debolmente accennata sulle pleure. Protorace, in visione dorsale, a lati arrotondati, senza « omeri » evidenti e molto piu largo dei somiti seguenti. Meso- metatorace ed epinoto a lati diritti e continui, debolmente divergenti in direzione caudde. Angolo epinotale largamente ottuso e smussato. La faccia basale dell' epinoto e lunga circa due volte quella discendente. Peziolo molto grosso e globoso, con sporgenza ventrale non molto pronunciata ed a decorso parallelo al maggiore asse corporeo. Facce laterali del peziolo diritte e parallele; faccia anteriore debolmente convessa.</tax:p>
+                <tax:p>Capo e mandibole sottilmente ma densamente striati in senso longitudinale. Alla striatura sono intercalati numerosissimi minuti punti piligeri. Tale striatum e quasi del tutto od interamente assente sulla rimanente superficie corporea che risulta, di conseguenza, molto piu lucida.</tax:p>
+                <tax:p>Brevi peli suberetti o subdecumbenti sparsi su quasi tutto il tegumento, piu radi sull' alitronco, piu folti e piu lunghi sulle regioni buccale ed anale e all'apice deUe antenne.</tax:p>
+                <tax:p>Colorito testaceo piuttosto uniforme.</tax:p>
+                <tax:p>Lunghezza totale, senza le mandibole, 1,6 - 1,7 mm.</tax:p>
+                <tax:p>Dimensioni in mm ed indici: Lc 0,36 - 0,37; lc 0,26 - 0,28; Lsc 0,17 - 0,18; Lp 0,12 - 0,14; lp 0,15 - 0,17; IC 72,2 - 75,7; ISC 47,2 - 50,0; IP 107,1 - 125,0.</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>Materiale esaminato: 10 operaie dell'isola La Digue (Arcipelago delle Seicelle), 28.1.75, P. Schauenberg leg. 1 operaia olotipo e 4 paratipi al MHNG, 4 paratipi al NHMB ed 1 paratipo al BMNH.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>
+Osservazioni: Questa specie, per la dimensione ridotta e per l'habitus generale, ricorda immediatamente 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25171" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>degenerata</dc:Species>
+                        </tax:xmldata>A. degenerata</tax:name>
+Borgmeier del Brasile. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25165" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>besucheti</dc:Species>
+                        </tax:xmldata>A. besucheti</tax:name>
+differisce pero da 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25171" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>degenerata</dc:Species>
+                        </tax:xmldata>A. degenerata</tax:name>
+per avere le mandibole con due file di denti invece che una sola, per le antenne di 10 articoli (in luogo di 7) e per molti altri dettagli di minore importanza. Sono del tutto incapace di trovare una autentica affinita tra questa specie ed una qualsiasi delle altre del genere finora note. L'interesse di questo reperto viene ulteriormente accresciuto dal fatto che, a tutt'oggi, non si conosce che una sola specie di 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2336" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                        </tax:xmldata>Amblyopone</tax:name>
+in tutta 1 ' Africa a Sud del Sahara, compreso il Madagascar. Questa unica specie, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25197" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>mutica</dc:Species>
+                        </tax:xmldata>A. mutica (Santschi)</tax:name>
+, e endemica della Nigeria ed e stata da alcuni autori classificata in un genere o sottogenere monotipico separate (Xymmer Santschi). Prescindendo dai criteri di valutazione generica indubbiamente soggettivi e diversi per i diversi autori, e indubbio che la specie nigeriana non presenta alcuna affinita con le altre finora incluse nel genere 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2336" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                        </tax:xmldata>Amblyopone</tax:name>
+in almeno tre strutture morfologiche importanti: ii peziolo peduncolato e privo di sporgenza ventrale, una notevole costrizione tra ii peziolo e il gastro, e il clipeo lobato e privo anteriormente di denticoli. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25165" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>besucheti</dc:Species>
+                        </tax:xmldata>A. besucheti</tax:name>
+dovrebbe quindi avere piu plausibilmente un'origine indoaustraliana.
+</tax:p>
+                <tax:p>Se si fosse disposti a escludere l'introduzione accidentale recente di questa specie ad opera di fattori metereologici o antropici (l'isola La Digue e stata pochissimo abitata in ogni epoca), si potrebbe pensare a un popolamento anteriore alla fine del Cretaceo, owero a un'epoca il cui unico fossile ben conservato presenta ancora un buon numero di caratteri estranei alla famiglia dei Formicidi quale e intesa anualmente. Pur senza voler necessariamente ammettere Pesistenza dei mitici continenti del Gondwana e della Lemuria, una tale origine non puo venire definitivamente esclusa sulla base dei dati geologici, poiche le Seicelle sono le sole isole non vulcaniche di questa parte dell'oceano Indiano ed in esse si trovano ancora affioramenti di un vecchio zoccolo continentale (Millot, 1952).</tax:p>
+                <tax:p>
+Mi sembra perianto ragionevole postulare un'origine comunque molto antica, anche se non necessariamente coincidente con un ipotetico continente precretaceo. Tale origine avrebbe permesso un notevole grado di evoluzione in loco, ma certamente a partire da un progenitore di tipo 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2336" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                        </tax:xmldata>Amblyopone</tax:name>
+gia ben differenziato.
+</tax:p>
+                <tax:p>
+L'apparente affinita con 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25171" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Amblyopone</dc:Genus>
+                            <dc:Species>degenerata</dc:Species>
+                        </tax:xmldata>A. degenerata</tax:name>
+del Brasile testimonia a favore di questa ipotesi di un progenitore amblyoponino molto antico e di una notevole pressione selettiva prolungata nel tempo ed in parte simile per le due specie.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:p>BIBLIOGRAFIA</tax:p>
+        <tax:p>Aktac, N. 1976. Studies on the myrmecofauna of Turkey I. Ants of Siirt, Bodrum and Trabzon. Instanbul Univ. Fen Fak. Mec. (Serie B) 41: 115 - 135.</tax:p>
+        <tax:p>
+Baroni Urbani, C. 1971. Catalogo delle specie di 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+d'ltalia (Studi sulla mirmecofauna d'ltalia - X). Mem. Soc. Ent. Ital. JO: 5 - 287.
+</tax:p>
+        <tax:p>Borgmeier, T. 1957. Myrmecologische Studien, I. An. Acad. Brasil. Cien. 29: 103 - 128.</tax:p>
+        <tax:p>
+Brown, W. L. Jr. 1960. Contributions toward a reclassification ofthe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+. III. Tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:230073" source="HNS"/>Amblyoponini</tax:name>
+(Hymenoptera). Bull. Mus. Comp. Zool. 122: 145 - 230.
+</tax:p>
+        <tax:p>Emery, C. 1869. Enumerazione dei Formicidi che rinvengonsi nei contorni di Napoli. Ann. Accad. Aspir. Natur., Napoli: 1 - 26.</tax:p>
+        <tax:p>
+Emery, C. 1909. Beitraege zur Monographie der Formiciden des palaearktischen Faunengebietes. VIII, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+. Deutsch. Ent. Z. 7: 355 - 376.
+</tax:p>
+        <tax:p>Emery, C. 1916. Fauna entomologica italiana. I. Hymenoptera-Formicidae. Bull. Soc. Ent. Ital. 47 (1915): 79 - 275.</tax:p>
+        <tax:p>Forel, A. 1892. Die Ameisenfauna Bulgariens (Nebst biologischen Beobachtungen). Verh. zool. - bot. Ges. Wien 42: 305 - 318.</tax:p>
+        <tax:p>Forel, A. 1913. Wissenschaftliche Ergebnisse einer Forschungsreise nach Ostindien, ausgefuehrt im Auftrage der Kgl. Preuss. Akademie der Wissenschaften zu Berlin von H. v. Buttel-Reepen. II. Ameisen aus Sumatra, Java, Malacca und Ceylon. Zool. Jahrb., Abt. Syst. Geogr. u. Biol. Tiere 63: 1 - 148.</tax:p>
+        <tax:p>Menozzi, C. 1936. Nuovi contributi alla conoscenza delta fauna delle isole italiane dell'egeo. VI. Hymenoptera-Formicidae. Boll. Lab. Zool. Gen. Agr. Portici 29: 262 - 311.</tax:p>
+        <tax:p>Millot, J. 1952. La faune malgache et le mythe gondwanien. Mem. Inst. Sci. Madagascar (A) 7: 1 - 36.</tax:p>
+        <tax:p>Pace, R. 1975. Due interessanti reperti mirmecologici per i Monti Lessini e per i Monti Berici. Boll. Soc. Ent. Ital. 107: 166 - 170.</tax:p>
+        <tax:p>Roger, J. 1859. Beitraege zur Kenntnis der A meisenfauna der Mittelmeerlaender. Berlin. Ent. Z. 3: 225 - 229.</tax:p>
+        <tax:p>Santschi, F. 1914. Formicides de l'Afrique occidentale et australe. Boll. Lab. Zool. Portici 8: 309 - 385.</tax:p>
+        <tax:p>Saunders, E. 1890. Aculeate Hymenoptera collected by J. J. Walker, Esq., R. N., F. L. S., at Gibraltar and in North Africa. (Part I-Heterogyna.). Ent. mon. Mag. 1 (26): 201 - 205.</tax:p>
+        <tax:note place="foot">
+            <tax:p>* Le illustrazioni di questo lavoro sono state eseguite dalla Sig. na Eva Weber grazie ad un contributo finanziario del Fondo Nazionale Svizzero per la Promozione della Ricerca Scientifica (Richiesta Nr. 3.785.72).</tax:p>
+        </tax:note>
+        <tax:figure>
+            <tax:p>
+Fig. 1 - 6: 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25172" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Amblyopone</dc:Genus>
+                        <dc:Species>denticulata</dc:Species>
+                    </tax:xmldata>Amblyopone denticulata</tax:name>
+, capo di un'operaia topotipica (1); 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25187" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Amblyopone</dc:Genus>
+                        <dc:Species>impressifrons</dc:Species>
+                    </tax:xmldata>A. impressifrons</tax:name>
+, capo di un'operaia sintipica (2); 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25201" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Amblyopone</dc:Genus>
+                        <dc:Species>ophthalmica</dc:Species>
+                    </tax:xmldata>A. ophthalmica</tax:name>
+, capo dell'operaia paratipica (3); 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25200" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Amblyopone</dc:Genus>
+                        <dc:Species>normandi</dc:Species>
+                    </tax:xmldata>A. normandi</tax:name>
+, capo di un'operaia di Ginosar (Galilea) (4); 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25175" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Amblyopone</dc:Genus>
+                        <dc:Species>emeryi</dc:Species>
+                    </tax:xmldata>A. emeryi</tax:name>
+, capo di un'operaia sintipica (5); 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25181" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Amblyopone</dc:Genus>
+                        <dc:Species>gaetulica</dc:Species>
+                    </tax:xmldata>A. gaetulica</tax:name>
+, capo dell'olotipo operaia (6).
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Fig. 7 - 12: 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25172" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Amblyopone</dc:Genus>
+                        <dc:Species>denticulata</dc:Species>
+                    </tax:xmldata>Amblyopone denticulata</tax:name>
+, profilo schematico di un'operaia topotipica (7); 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25187" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Amblyopone</dc:Genus>
+                        <dc:Species>impressifrons</dc:Species>
+                    </tax:xmldata>A. impressifrons</tax:name>
+, profilo schematico di un sintipo operaia (8); 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25201" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Amblyopone</dc:Genus>
+                        <dc:Species>ophthalmica</dc:Species>
+                    </tax:xmldata>A. ophthalmica</tax:name>
+, profilo schematico del paratipo operaia (9); 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25200" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Amblyopone</dc:Genus>
+                        <dc:Species>normandi</dc:Species>
+                    </tax:xmldata>A. normandi</tax:name>
+, profilo schematico di un'operaia di Ginosar (Galilea) (10); 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25175" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Amblyopone</dc:Genus>
+                        <dc:Species>emeryi</dc:Species>
+                    </tax:xmldata>A. emeryi</tax:name>
+, profilo schematico di un sintipo operaia (11); 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25181" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Amblyopone</dc:Genus>
+                        <dc:Species>gaetulica</dc:Species>
+                    </tax:xmldata>A. gaetulica</tax:name>
+, profilo schematico dell'operaia olotipo (12).
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Fig. 13 - 16: 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25206" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Amblyopone</dc:Genus>
+                        <dc:Species>pertinax</dc:Species>
+                    </tax:xmldata>Amblyopone pertinax</tax:name>
+, capo dell'olotipo in visione dorsale (13) e profilo schematico dell'olotipo operaia (14); 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:25165" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Amblyopone</dc:Genus>
+                        <dc:Species>besucheti</dc:Species>
+                    </tax:xmldata>A. besucheti</tax:name>
+, capo di un paratipo in visione dorsale (15) e profilo schematico di un'operaia paratipica (16).
+    </tax:p>
+        </tax:figure>
+    </tax:taxonxBody>
+</tax:taxonx>

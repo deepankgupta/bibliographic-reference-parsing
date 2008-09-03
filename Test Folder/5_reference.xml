@@ -2,7 +2,8 @@
 <References>
   <Reference>
     <Text>Bland in, P. (1977): Note sur la presence de Tetrablemma cambridgei Bryantau Mexique. - Rev. Arachnol., 1 (3): 85 - 88</Text>
-    <Offset>1608</Offset>
+    <StartOffset>15400</StartOffset>
+    <EndOffset>15555</EndOffset>
     <Authors>Bland in, P</Authors>
     <Year>1977</Year>
     <Title>Note sur la presence de Tetrablemma cambridgei Bryantau Mexique. -</Title>
@@ -12,7 +13,8 @@
   </Reference>
   <Reference>
     <Text>Brignoli, P. M. (1972): Some cavernicolous spiders from Mexico. - Quad. Acc. Naz. Lincei, 171: 129 - 155</Text>
-    <Offset>1652</Offset>
+    <StartOffset>15565</StartOffset>
+    <EndOffset>15565</EndOffset>
     <Authors>Brignoli, P. M</Authors>
     <Year>1972</Year>
     <Title>Some cavernicolous spiders from Mexico. -</Title>
@@ -22,7 +24,8 @@
   </Reference>
   <Reference>
     <Text>Brignoli, P. M. (1973): II popolamento di ragni nelle grotte tropicali. Int. J. Speleol., 5: 325 - 336</Text>
-    <Offset>1680</Offset>
+    <StartOffset>15687</StartOffset>
+    <EndOffset>15687</EndOffset>
     <Authors>Brignoli, P. M</Authors>
     <Year>1973</Year>
     <Title>II popolamento di ragni nelle grotte tropicali</Title>
@@ -32,17 +35,19 @@
   </Reference>
   <Reference>
     <Text>Crosby, C. R. (1934): An interesting two-eyed spider from Brazil. Bull. Brooklyn Ent. Soc, 29: 19 - 23; New York</Text>
-    <Offset>3579</Offset>
+    <StartOffset>16104</StartOffset>
+    <EndOffset>16104</EndOffset>
     <Authors>Crosby, C. R</Authors>
     <Year>1934</Year>
     <Title>An interesting two-eyed spider from Brazil</Title>
-    <Publication>Bull. Brooklyn Ent. Soc, 29: 19 - 23; New York</Publication>
+    <Publication>Bull. Brooklyn Ent. Soc</Publication>
     <PageNumbers>
     </PageNumbers>
   </Reference>
   <Reference>
     <Text>Gertsch, W. J. (1941): Report on some Arachnids from Barro Colorado Island, Canal Zone. Amer. Mus. Novit., 1146: 1 - 14</Text>
-    <Offset>4211</Offset>
+    <StartOffset>16234</StartOffset>
+    <EndOffset>16234</EndOffset>
     <Authors>Gertsch, W. J</Authors>
     <Year>1941</Year>
     <Title>Report on some Arachnids from Barro Colorado Island, Canal Zone</Title>
@@ -52,17 +57,19 @@
   </Reference>
   <Reference>
     <Text>Simon, E. (1891): On the spiders of the island of St. Vincent. Part 1. Proc. Zool. Soc. London (1891): 549 - 575; London</Text>
-    <Offset>4554</Offset>
+    <StartOffset>16482</StartOffset>
+    <EndOffset>16482</EndOffset>
     <Authors>Simon, E</Authors>
     <Year>1891</Year>
     <Title>On the spiders of the island of St</Title>
-    <Publication>Vincent. Part 1. Proc. Zool. Soc. London</Publication>
+    <Publication>Vincent. Part</Publication>
     <PageNumbers>
     </PageNumbers>
   </Reference>
   <Reference>
     <Text>Vellard, J. (1924): Etudes de Zoologie. Arch. Inst. V. Brazil 2: 121 - 170</Text>
-    <Offset>4801</Offset>
+    <StartOffset>16620</StartOffset>
+    <EndOffset>16620</EndOffset>
     <Authors>Vellard, J</Authors>
     <Year>1924</Year>
     <Title>Etudes de Zoologie</Title>
@@ -72,7 +79,8 @@
   </Reference>
   <Reference>
     <Text>Beck, L. (1971): Bodenzoologische Gliederung und Charakterisierung des amazonischen Regenwaldes. - Amazoniana, 3, (1): 69 — 132; Kiel</Text>
-    <Offset>1501</Offset>
+    <StartOffset>15247</StartOffset>
+    <EndOffset>15247</EndOffset>
     <Authors>Beck, L</Authors>
     <Year>1971</Year>
     <Title>Bodenzoologische Gliederung und Charakterisierung des amazonischen Regenwaldes</Title>
@@ -82,7 +90,8 @@
   </Reference>
   <Reference>
     <Text>Bryant, E. B. (1940): Cuban spiders in the Museum of Comparative Zoology. Bull. Mus. Comp. Zool. Harvard, 86 (7): 249 - 532; Harvard</Text>
-    <Offset>2668</Offset>
+    <StartOffset>15807</StartOffset>
+    <EndOffset>15807</EndOffset>
     <Authors>Bryant, E. B</Authors>
     <Year>1940</Year>
     <Title>Cuban spiders in the Museum of Comparative Zoology</Title>
@@ -92,7 +101,8 @@
   </Reference>
   <Reference>
     <Text>Chickering, A. M. (1969): The genus Stenoonopsin Panama and the West Indies. - Breviora, 339: 1 - 35</Text>
-    <Offset>2692</Offset>
+    <StartOffset>15957</StartOffset>
+    <EndOffset>16094</EndOffset>
     <Authors>Chickering, A. M</Authors>
     <Year>1969</Year>
     <Title>The genus Stenoonopsin Panama and the West Indies</Title>
@@ -102,7 +112,8 @@
   </Reference>
   <Reference>
     <Text>Hewitt, J. (1915): Descriptions of new South African Arachnida. Ree. Albany Mus., 3: 70 - 106</Text>
-    <Offset>4353</Offset>
+    <StartOffset>16371</StartOffset>
+    <EndOffset>16371</EndOffset>
     <Authors>Hewitt, J</Authors>
     <Year>1915</Year>
     <Title>Descriptions of new South African Arachnida</Title>

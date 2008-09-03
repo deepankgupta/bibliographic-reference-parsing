@@ -1,0 +1,2205 @@
+<?xml version="1.0" encoding="UTF-8"?><tax:taxonx xmlns:dc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.taxonx.org/schema/v1 http://www.taxonx.org/schema/v1/taxonx1.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-1.xsd http://digir.net/schema/conceptual/darwin/2003/1.0 http://digir.net/schema/conceptual/darwin/2003/1.0/darwin2.xsd">
+    <tax:taxonxHeader>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Revision of the ant genus Perissomyrmex with notes on the phylogeny of the tribe Myrmecinini.</mods:title>
+            </mods:titleInfo>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:name type="personal">
+                <mods:role>
+                    <mods:roleTerm>Author</mods:roleTerm>
+                </mods:role>
+                <mods:namePart>Ogata, K.</mods:namePart>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:role>
+                    <mods:roleTerm>Author</mods:roleTerm>
+                </mods:role>
+                <mods:namePart>Okido, H.</mods:namePart>
+            </mods:name>
+            <mods:relatedItem type="host">
+                <mods:titleInfo>
+                    <mods:title>Advances in ant systematics (Hymenoptera: Formicidae): Homage to E.O. Wilson - 50 years of contributions.</mods:title>
+                </mods:titleInfo>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Snelling, R. R.</mods:namePart>
+                </mods:name>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Fisher, B. L.</mods:namePart>
+                </mods:name>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Ward, P. S.</mods:namePart>
+                </mods:name>
+                <mods:originInfo>
+                    <mods:dateIssued>2007</mods:dateIssued>
+                    <mods:publisher>Memoirs of the American Entomological Institute, 80</mods:publisher>
+                </mods:originInfo>
+                <mods:part>
+                    <mods:extent unit="page">
+                        <mods:start>352</mods:start>
+                        <mods:end>369</mods:end>
+                    </mods:extent>
+                </mods:part>
+            </mods:relatedItem>
+            <mods:identifier type="HNS-PUB">21286</mods:identifier>
+            <mods:location>
+                <mods:url>http://hdl.handle.net/10199/15364</mods:url>
+            </mods:location>
+        </mods:mods>
+    </tax:taxonxHeader>
+    <tax:taxonxBody>
+        <tax:p>
+REVISION OF THE ANT GENUS 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>PERISSOMYRMEX</tax:name>
+, WITH NOTES ON THE PHYLOGENY OF THE TRIBE 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2294" source="HNS"/>MYRMECININI</tax:name>
+        </tax:p>
+        <tax:p>Kazuo Ogata</tax:p>
+        <tax:p>and</tax:p>
+        <tax:p>Hirofumi Okido 1</tax:p>
+        <tax:p>Institute of Tropical Agriculture, Kyushu University,</tax:p>
+        <tax:p>Fukuoka 812 - 8581, Japan</tax:p>
+        <tax:p>kogata @ agr. kyushu-u. ac. jp</tax:p>
+        <tax:p>ABSTRACT</tax:p>
+        <tax:p>
+The ant genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+is one of the four extant genera of the tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2294" source="HNS"/>Myrmecinini</tax:name>
+. The present study revises the genus including a definition of the taxon, a description of a 
+new species
+from China, discussions on the phylogenetic position in the tribe and biogeography. Our phylogenetic analysis based on morphological characters shows that (1) the tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2294" source="HNS"/>Myrmecinini</tax:name>
+is justified as a monophyletic taxon by the structures of the antennal base and the labrum, (2) the genera 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+are sister groups, sharing the short masticatory margin of the mandible nearly vertical to the long axis of the head and more or less raised structure on the basal margin of the mandibles, and (3) each of the genera is recognized as a monophyletic taxon. Our provisional conclusion of the phylogeny is (
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
++ (
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2320" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Acanthomyrmex</dc:Genus>
+                </tax:xmldata>Acanthomyrmex</tax:name>
++ (
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
++ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+))).
+</tax:p>
+        <tax:p>
+A key to the four species of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+is given. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33551" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                    <dc:Species>snyderi</dc:Species>
+                </tax:xmldata>P. snyderi</tax:name>
+from Central America is distinctive in having a subpetiolar process and three other Asian species are distinguishable by the dentition on the anterior clypeal margin and the shape of the ventral margin of the petiole. The disjunct distribution of the genus is also discussed. The discovery of a fourth species from SW China, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:226537" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                    <dc:Species>emarginatus</dc:Species>
+                </tax:xmldata>Perissomyrmex emarginatus</tax:name>
+, 
+n. sp.
+, suggests that the genus is an old temperate ant living in the boundary to northern zoogeographical regions. Judging from the sister group relation to 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+that occurs in the Old World tropics and from higher species diversity in Asia, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+would have originated in Asia. The fossil record of Ennaemerus in Baltic Amber suggests that the Proto-Perissomyrmex might have Arcto-Tertiary distribution, and the present distribution would be a relic of the old temperate range in Paleogene.
+</tax:p>
+        <tax:p>
+Key words: Hymenoptera, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+, 
+new species
+, phylogeny, biogeography
+</tax:p>
+        <tax:p>INTRODUCTION</tax:p>
+        <tax:p>
+The ant genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+is a small, rare taxon including only three known species occurring in the Oriental and Neotropical regions. The ant was first described from a quarantine specimen in the USA and the original locality of the specimen was supposed to be from Guatemala (Smith, 1947). This presumed original locality had been questioned because the genus shows a close affinity to the genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+, found exclusively in the Old World (Bolton, 1981). The discovery of the second species from Bhutan (Baroni Urbani &amp; de Andrade, 1993) encouraged speculation that 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+might not be native in Central America. However, the rediscovery of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+in Mexico and Guatemala (Longino &amp; Hartley, 1994) confirmed the disjunct distribution of the genus, although the relationships of the genus remained unclear.
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+is easily distinguished from the genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+in having 9 - segmented antennae and a small but distinct tooth on the basal margin of the mandible, all of which are apomorphic, while for 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+there have been no clear synapomorphies although Baroni Urbani &amp; Andrade (1993) cited the absence of the metanotal groove. Once 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+is recognized as a separate genus, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+would become a paraphyletic taxon. This might lead to a case of a possible junior synonym of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+under 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+. Practically, since there have been only two known species of the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+until 2000, the generic characters were not clear. Bolton (2003) diagnosed the tribal characters, but the generic relationship among the members of the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2294" source="HNS"/>Myrmecinini</tax:name>
+to which the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+belong is still unclear.
+</tax:p>
+        <tax:p>
+Thus, to summarize the taxonomic situation concerning 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+, the following questions exist: (1) the identities of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+, (2) phylogenetic relationships among the genera of the tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2294" source="HNS"/>Myrmecinini</tax:name>
+, and (3) disjunct distribution of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+. We have already given a brief discussion of this matter (Ogata &amp; Okido, 2002), with a report of an undescribed species from China.
+</tax:p>
+        <tax:p>
+Recently Radchenko (2003) described a 
+new species
+of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+from Nepal and India, which is different from our Chinese species. Now the genus includes four species and these allow insights into the taxonomic status of the genus and the tribe. The present study analyzes the phylogeny of the genera of the tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2294" source="HNS"/>Myrmecinini</tax:name>
+based on morphological characters. Finally, we clarify the taxonomic position of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+in relation to 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+, giving a key to the species, redescriptions of three known species and a description of a 
+new species
+of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+from southwestern China. Finally the biogeography of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+is discussed.
+</tax:p>
+        <tax:p>Measurements and indices</tax:p>
+        <tax:p>Total Length (TL). The total outstretched length of the individual, from mandibular apex to gastral apex.</tax:p>
+        <tax:p>Head Length (HL). The length of the head capsule, measured in a straight line from the midpoint of a line connecting the median paired teeth of the anterior clypeal margin to the midpoint of the preoccipital margin, in full-face view.</tax:p>
+        <tax:p>
+Head Width (HW). The maximum width of the head excluding eyes in full-face view; in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+broadest in the anterior part of head.
+</tax:p>
+        <tax:p>Cephalic Index (CI). HW / HL Ã— 100</tax:p>
+        <tax:p>Scape Length (SL). The maximum straight-line length of the antennal scape, excluding the basal condylar bulb.</tax:p>
+        <tax:p>Scape Index (SI). SL / HW Ã— 100</tax:p>
+        <tax:p>Eye Length (EL). The maximum diameter of the eye.</tax:p>
+        <tax:p>Pronotal Width (PW). The maximum width of the pronotal in dorsal view.</tax:p>
+        <tax:p>Mesosomal Length (ML). The diagonal length of the mesosoma (= alitrunk) in lateral view from the point at which the pronotum meets the cervical shield to the posterior base of the metapleural lobes or teeth.</tax:p>
+        <tax:p>Gastral Length (GL). The maximum straight-line length of the gaster in lateral view.</tax:p>
+        <tax:p>Gastral Width (GW). The maximum width of the gaster. All measurements are expressed in millimeters.</tax:p>
+        <tax:p>Abbreviations of museums</tax:p>
+        <tax:p>BMNH The Natural History Museum, London, U. K.</tax:p>
+        <tax:p>NMB Naturhistorisches Museum, Basel, Switzerland</tax:p>
+        <tax:p>KU Entomological Laboratory, Faculty of Agriculture, Kyushu University, Fukuoka, Japan</tax:p>
+        <tax:p>UCD University of California, Davis, California, U. S. A.</tax:p>
+        <tax:p>
+PHYLOGENY AND TAXONOMIC POSITION OF 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>PERISSOMYRMEX</tax:name>
+        </tax:p>
+        <tax:p>
+The tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2294" source="HNS"/>Myrmecinini</tax:name>
+and its monophyly
+</tax:p>
+        <tax:p>
+Presently the tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2294" source="HNS"/>Myrmecinini</tax:name>
+comprises 4 extant genera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2320" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Acanthomyrmex</dc:Genus>
+                </tax:xmldata>Acanthomyrmex</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+(Bolton, 2003). When Ashmead (1905) established the tribe, it included two genera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Podomyrma</dc:Genus>
+                </tax:xmldata>Podomyrma</tax:name>
+. Emery (1922) considered the tribe to include 10 genera, divided into two subgroups: subtribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2294" source="HNS"/>Myrmecinini</tax:name>
+including 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2320" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Acanthomyrmex</dc:Genus>
+                </tax:xmldata>Acanthomyrmex</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:146895" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Dacryon</dc:Genus>
+                </tax:xmldata>Dacryon</tax:name>
+; subtribe Podomyrmini including 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Podomyrma</dc:Genus>
+                </tax:xmldata>Podomyrma</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24913" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Lordomyrma</dc:Genus>
+                </tax:xmldata>Lordomyrma</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2365" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Atopomyrmex</dc:Genus>
+                </tax:xmldata>Atopomyrmex</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2515" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Dilobocondyla</dc:Genus>
+                </tax:xmldata>Dilobocondyla</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:146826" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Atopula</dc:Genus>
+                </tax:xmldata>Atopula</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2530" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Terataner</dc:Genus>
+                </tax:xmldata>Terataner</tax:name>
+. Although Wheeler (1922) did not recognize the subdivisions and did not include the genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:146826" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Atopula</dc:Genus>
+                </tax:xmldata>Atopula</tax:name>
+, his concept of the tribe was almost identical to Emery â€™ s. Later 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+was described and assigned to the tribe (Smith, 1947), 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:146895" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Dacryon</dc:Genus>
+                </tax:xmldata>Dacryon</tax:name>
+was synonymized with 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Podomyrma</dc:Genus>
+                </tax:xmldata>Podomyrma</tax:name>
+(Brown, 1973; Taylor &amp; Brown, 1985), and the latest concept of the tribe treats the subtribe Podomyrmini sensu Emery as an independent tribe (Dlussky &amp; Fedoseeva, 1987: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24913" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Lordomyrma</dc:Genus>
+                </tax:xmldata>Lordomyrma</tax:name>
+was removed to the tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2303" source="HNS"/>Pheidolini</tax:name>
+) or placed under the tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2284" source="HNS"/>Formicoxenini</tax:name>
+(Bolton 1994: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24913" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Lordomyrma</dc:Genus>
+                </tax:xmldata>Lordomyrma</tax:name>
+was removed to the tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2314" source="HNS"/>Stenammini</tax:name>
+). In any case 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Podomyrma</dc:Genus>
+                </tax:xmldata>Podomyrma</tax:name>
+and related genera are removed from the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2294" source="HNS"/>Myrmecinini</tax:name>
+and the tribe is presently diagnosed as follows (Bolton, 2003):
+</tax:p>
+        <tax:p>(1) Anterior margin of labrum angled abruptly downward preapically so that margin appears very thick in anterior view</tax:p>
+        <tax:p>(2) Labrum mediodorsally, at line of down curvature (apparent anterior margin), with a transverse cuticular raised ridge, or series of 2 - 3 small teeth, or both of these.</tax:p>
+        <tax:p>
+(3) Antennal sockets relatively close to anterior margin of head (except in major workers of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2320" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Acanthomyrmex</dc:Genus>
+                </tax:xmldata>Acanthomyrmex</tax:name>
+).
+</tax:p>
+        <tax:p>(4) Median portion of clypeus broad, broadly inserted between antennal sockets, the latter relatively widely separated.</tax:p>
+        <tax:p>(5) Lateral portion of clypeus usually raised into a ridge in front of toruli.</tax:p>
+        <tax:p>(6) Stridulum present on pretergite of abdominal segment IV.</tax:p>
+        <tax:p>(7) Antennae with 9, 11, or 12 segments, with a 3 - segmented club (12 - 13 segments in male).</tax:p>
+        <tax:p>Among the characters listed above, Bolton considered the first two to be synapomorphies but the phylogenetic relationship among the genera of the tribe has been left unchallenged.</tax:p>
+        <tax:p>The characters and the phylogenetic relationships among the genera</tax:p>
+        <tax:p>
+Taxonomic and biogeographic overview of the members of tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2294" source="HNS"/>Myrmecinini</tax:name>
+is as follows. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+includes 35 described species, but there are almost as many undescribed species in the Oriental and Australopapuan faunas, so we are estimating 60 - 70 species in the genus.
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2320" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Acanthomyrmex</dc:Genus>
+                </tax:xmldata>Acanthomyrmex</tax:name>
+is a relatively small genus including 16 described species from the Oriental and Indo-Australian regions. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+contains 52 species from the Afrotropical, Oriental, Australian and the Pacific regions (Wang, 2003). 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+comprises three known and one 
+new species
+described in this paper, showing disjunct distribution in Central America and Himalayan region.
+</tax:p>
+        <tax:p>We have examined the morphology of above genera and found the following characters as useful for constructing the phylogeny:</tax:p>
+        <tax:p>
+1) Frontal lobe: In most of the genera of the subfamily 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+, the frontal lobe covering antennal insertion is developed, as in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+(Fig. 1), but in the genera 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2320" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Acanthomyrmex</dc:Genus>
+                </tax:xmldata>Acanthomyrmex</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+, and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+, the structure is reduced, so that the toruli are exposed (as in Fig. 2). The character is a synapomorphy of those three genera.
+</tax:p>
+        <tax:p>
+2) Genal carina: The genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+has unique carinae originated from mandibular insertion, running parallel in the genal region, and connecting to the preoccipital carina (Fig. 3). This structure would be a reinforcement of the head capsule. A similar structure is also observed in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2531" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Vombisidris</dc:Genus>
+                </tax:xmldata>Vombisidris</tax:name>
+, but since the position is different, this would be homoplasous. In any case, the genal carina of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+is an autapomorphy of the genus.
+</tax:p>
+        <tax:p>
+3) Antennomere count: The number of antennal segments in worker and queen varies in genera: 12 in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2320" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Acanthomyrmex</dc:Genus>
+                </tax:xmldata>Acanthomyrmex</tax:name>
+, 11 in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+, and 9 in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+. Bolton (2003) showed the count 11 to 12 in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+, possibly the result of a miscount of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31950" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                    <dc:Species>cacabau</dc:Species>
+                </tax:xmldata>Myrmecina cacabau</tax:name>
+(see Brown, 1971), in which Taylor (1980) found the 3 rd antennal segment to be distinctly small and hairless. We have confirmed that this is true of all the species of the genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+and unique to the genus (Fig. 4). The reduction in size of the 3 rd antennal segment would be a synapomorphy of the genus. Judging from this situation, the reduction of the antennomere count in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+would be a loss of the original 3 rd antennal segment. And if the further trait on the reduction in size of an antennal segment were observed in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+, we could conclude a successive reduction of antennomere count in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+. But there is no such structure in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+, so we suppose the reduction occurred independently in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+.
+</tax:p>
+        <tax:p>
+4) Antennal scape base: Moffett (1986) showed that the basal end of the antennal scape in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2320" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Acanthomyrmex</dc:Genus>
+                </tax:xmldata>Acanthomyrmex</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+has a characteristic structure which forms a flange encircled by a groove (as in Fig. 5). We found the same structure in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+. The situation in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2294" source="HNS"/>Myrmecinini</tax:name>
+is unique and thus the flange is a synapomorphy of the tribe. The structure might be correlated with the reduction of the frontal lobe, since the flange sometimes develops to form a lamella covering the antennal insertion.
+</tax:p>
+        <tax:p>
+5) Labrum: The labrum of the tribe is also unique in having a ridge or teeth on the dorsal surface. In most cases the labrum is a simple flap-like structure covering the labio-maxillary complex. But in the tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2294" source="HNS"/>Myrmecinini</tax:name>
+as Bolton (2003) described, the anterior portion is sharply bent inward forming angled preapical margin. Along with transverse preapical margin a ridge or teeth are developed (Figs. 6). The presence of dorsal teeth on the labrum in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+was pointed out by Ogata (1991), and the transverse ridge in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+by Longino &amp; Hartley (1994) (â€˜ ledge â€™). In 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2320" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Acanthomyrmex</dc:Genus>
+                </tax:xmldata>Acanthomyrmex</tax:name>
+, the portion bears transverse ridge. The structure suggests a peculiar function, that is, they use the labrum not only for a cover of labiomaxillary complex but also for grasping or fixing an object with mandibles.
+</tax:p>
+        <tax:p>
+6) Mandible: The mandible of ants is typically subtriangular in shape, with basal shaft, basal margin, masticatory margin and outer margin in dorsal view. The terminology of the
+mandible and dentition is sometimes inconsistent. For example, in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+, Smith (1947) used â€œ superior border â€� in describing the basal margin, Baroni Urbani &amp; de Andrade (1993) interpreted the tooth on the basal margin as â€œ basal tooth â€�. Here we use the names of teeth only on the masticatory margin. In the genera 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+, the mandibles are sometimes referred to as elongate (e. g. Smith, 1947). This is due to the extension of the basal margin of the mandible and the masticatory margin becomes short and somewhat vertical to the long axis of the head. Figs. 7 and 8, where the left mandible is removed, show contrasting examples of the angle of masticatory margin in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2320" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Acanthomyrmex</dc:Genus>
+                </tax:xmldata>Acanthomyrmex</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+. In 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2320" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Acanthomyrmex</dc:Genus>
+                </tax:xmldata>Acanthomyrmex</tax:name>
+(Fig. 7), like in most of the genera of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+, the masticatory margin inclines from dorsal point that fits for anterior margin of the clypeus to ventral point, so that the masticatory margin is elongate, while in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+(Fig. 8) and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+the axis of the masticatory margin turns outward, which probably correlates with elongate basal shaft and basal margin. Although the elongation of the basal shaft of mandible is also observed in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+, the vertical masticatory margin is distinct and would be a synapomorphy of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+. In both genera, the basal margin has a protuberance in the middle; broadly produced and sometimes weak in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+(Wang, 2003) but forming a distinct tooth in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+.
+</tax:p>
+        <tax:p>
+7) Mesopleuron: Anterior free margin of lower part of mesopleuron sometimes expands to form a lamella partly covering the procoxa. This situation is observed in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+(Fig. 9). The expansion of the mesopleuron would be an apomorphy, but not a synapomorphy in both genera, because the situation occurs in many genera of different tribes such as 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24866" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Hylomyrma</dc:Genus>
+                </tax:xmldata>Hylomyrma</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24921" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Mayriella</dc:Genus>
+                </tax:xmldata>Mayriella</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24892" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Paedalgus</dc:Genus>
+                </tax:xmldata>Paedalgus</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24927" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Tetramorium</dc:Genus>
+                </tax:xmldata>Tetramorium</tax:name>
+. In his terminology of Bolton (1994), the mesopleuron was divided into upper anepisternum and lower katepisternum by a transverse groove. But this usage is not correct, because the groove is a secondary structure and not homologous with the paracoxal suture which separates the anepisternum from the katepisternum (Matsuda, 1970). The mesopleural part of ants is largely occupied by the anepisternum.
+</tax:p>
+        <tax:p>
+8) Spines on mesosoma: Spines are often developed on the pronotum in most 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+species, all the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2320" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Acanthomyrmex</dc:Genus>
+                </tax:xmldata>Acanthomyrmex</tax:name>
+species and some 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+. It is unclear whether this structure in the different genera is homologous or not. One of the unique characters of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+is paired metanotal teeth in front of the base of the propodeal spines, although not clearly developed in all the species.
+</tax:p>
+        <tax:p>
+9) Metanotal groove: The â€˜ propodeal suture â€™ mentioned by Baroni Urbani &amp; de Andrade (1993) is synonymous with the metanotal groove. They inferred that the loss of the suture would be an autapomorphy of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+. We confirmed their statement, but the loss also occurs in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+which would be a homoplasy.
+</tax:p>
+        <tax:p>
+10) Tibial spur on middle and hind legs: Smith (1947) mentioned that the absence of spurs on the middle and hind legs of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+is one of the characters to distinguish it from 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+. But actually 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+has no spurs and only 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2320" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Acanthomyrmex</dc:Genus>
+                </tax:xmldata>Acanthomyrmex</tax:name>
+has long and distinct spurs in the tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2294" source="HNS"/>Myrmecinini</tax:name>
+. The absence of the tibial spurs on middle and hind legs is found in many genera of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+.
+</tax:p>
+        <tax:p>
+11) Petiole: The petiole of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+is unique in shape. Most of the keys say " sessile " for describing the form (e. g. Bolton, 1994), but it would be interpreted that the node is depressed because the anterior oblique face corresponds to peduncle of the petiole (Fig. 11). This characteristic shape of the petiole is an autapomorphy of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+. In 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2320" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Acanthomyrmex</dc:Genus>
+                </tax:xmldata>Acanthomyrmex</tax:name>
+the petiolar node is consistently bispinose, which is an independant synapomorphy of the genus.
+</tax:p>
+        <tax:p>
+12) First gastral tergum: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2320" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Acanthomyrmex</dc:Genus>
+                </tax:xmldata>Acanthomyrmex</tax:name>
+has a unique ventral margin of the 1 st gastral tergum, forming a M-shaped line (Fig. 12), which is due to a characteristic constriction of the anterior part of the 1 st tergum. This is a synapomorphy of the genus.
+</tax:p>
+        <tax:p>
+Those characters discussed above are summarized in Table 1. Based on these, applying a classical Hennigian algorithm, the provisional phylogenetic relationships among four genera are shown in Fig. 13. Now it is clear that the genera 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+are each a monophyletic taxon justified by synapomorphies, and they together form a sister group within the tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2294" source="HNS"/>Myrmecinini</tax:name>
+.
+</tax:p>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Perissomyrmex</dc:Genus>
+                    </tax:xmldata>Perissomyrmex</tax:name>
+M. R. Smith
+</tax:nomenclature>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                        </tax:xmldata>Perissomyrmex</tax:name>
+M. R. Smith 1947: 281. Type-species: 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33551" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>snyderi</dc:Species>
+                        </tax:xmldata>Perissomyrmex snyderi</tax:name>
+, by original designation.
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="diagnosis">
+                <tax:p>DIAGNOSIS</tax:p>
+                <tax:p>Worker and Female</tax:p>
+                <tax:p>Monomorphic or polymorphic terrestrial myrmicine ants with the following combination of characters:</tax:p>
+                <tax:p>1. Head almost as broad as long in minor worker, or slightly broader in major worker, divergent anteriorly.</tax:p>
+                <tax:p>2. Eyes protruding, situated at about the midlength of the side of head, or slightly posteriorly.</tax:p>
+                <tax:p>3. Clypeus with a few paired teeth on the anterior margin; lateral portions reduced to a thin raised strip in front of the antennal insertions.</tax:p>
+                <tax:p>4. Frontal lobe absent; frontal carina poorly developed.</tax:p>
+                <tax:p>5. Antennal toruli exposed.</tax:p>
+                <tax:p>6. Antennae 9 - segmented, scape extending over posterior border of head, apical 3 segments forming a club.</tax:p>
+                <tax:p>7. Mandibles with long basal margin and short masticatory margin; basal margin with a distinct tooth; masticatory margin with one basal and two apical teeth separated by a diastema.</tax:p>
+                <tax:p>8. Labrum with transverse ridge at the preapical portion.</tax:p>
+                <tax:p>9. Palp formula 4,2.</tax:p>
+                <tax:p>10. Pronotum unarmed, promesonotal suture weakly impressed.</tax:p>
+                <tax:p>11. Lower part of mesopleuron not expanding to cover on procoxa.</tax:p>
+                <tax:p>12. Metanotal groove deeply impressed.</tax:p>
+                <tax:p>13. Propodeal spiracle rounded situated in the middle of lateral surface of propodeum.</tax:p>
+                <tax:p>14. Propodeal spine long and acute.</tax:p>
+                <tax:p>15. Propodeal lobe low and obtuse angled.</tax:p>
+                <tax:p>16. Petiole pedunculate with lateral projection, petiolar node rounded.</tax:p>
+                <tax:p>17. Postpetiole with rounded node.</tax:p>
+                <tax:p>Male Unknown.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>
+Of the four species of the genus, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33551" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>snyderi</dc:Species>
+                        </tax:xmldata>P. snyderi</tax:name>
+is easily diagnosed by the presence of a subpetiolar process in the workers, the dentition of the anterior margin of the clypeus and the coarse and irregular sculpturation on the head. This does not mean that the three Asian species comprise a monophyletic group. Because the loss of the subpetiolar process is frequently
+observed in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myrmecina</dc:Genus>
+                        </tax:xmldata>Myrmecina</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Pristomyrmex</dc:Genus>
+                        </tax:xmldata>Pristomyrmex</tax:name>
+, we do not confirm the polarity of the character state of the dentition and the sculpture. There is no strong evidence, however, that Central American 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33551" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>snyderi</dc:Species>
+                        </tax:xmldata>snyderi</tax:name>
+has a close relationship with any of the Asian species. The detailed phylogeny of the four species is not clear.
+</tax:p>
+                <tax:p>
+The polymorphism of the genus was reported by Longino &amp; Hartley (1994) in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33551" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>snyderi</dc:Species>
+                        </tax:xmldata>P. snyderi</tax:name>
+from Mexico. While no Asian species are known to be polymorphic, it is possible. Because the available materials were mostly from litter extractions, whole colony composition has not been clear.
+</tax:p>
+                <tax:p>
+It should be noted that the individuals of the 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                        </tax:xmldata>Perissomyrmex</tax:name>
+are highly variable in the morphology. In particular, projected structures, such as teeth on the mandibles, propodeal spines, lateral projections on the petiolar peduncle, are varying due to wearing down or polymorphism.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+species
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:226537" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                    <dc:Species>emarginatus</dc:Species>
+                </tax:xmldata>emarginatus</tax:name>n. sp.</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33550" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                    <dc:Species>monticola</dc:Species>
+                </tax:xmldata>monticola</tax:name>
+de Andrade
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:184349" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                    <dc:Species>nepalensis</dc:Species>
+                </tax:xmldata>nepalensis Radchenko</tax:name>
+        </tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33551" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                    <dc:Species>snyderi</dc:Species>
+                </tax:xmldata>snyderi Smith</tax:name>
+, M. R.
+</tax:p>
+        <tax:p>
+KEY TO 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>PERISSOMYRMEX</tax:name>
+SPECIES (workers)
+</tax:p>
+        <tax:p>
+1. Subpetiolar process small but distinct (Fig. 17 d); median paired teeth of anterior margin of clypeus distinct but base not forming differentiated tubercle so that outline of anterior clypeal margin is evenly convex (Fig. 16 g, h); body almost blackish; Central America ............................................................................................................................. ............................................................................................................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33551" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                    <dc:Species>snyderi</dc:Species>
+                </tax:xmldata>snyderi</tax:name>
+M. R. Smith
+</tax:p>
+        <tax:p>-- Subpetiolar process absent (Fig. 17 a-c); median paired teeth on anterior clypeal margin strongly protuberant so that there is a distinct median projection (Fig. 16 a-f); body color brownish; Asia ................................................................................................................. 2</tax:p>
+        <tax:p>
+2. Lateral paired teeth on anterior clypeal margin close to median pair, bases fused (Figs. 16 a-c); median notch of anterior margin of clypeus inverted U-shape (Fig. 16 a); SW China ........................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:226537" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                    <dc:Species>emarginatus</dc:Species>
+                </tax:xmldata>emarginatus</tax:name>n. sp.</tax:p>
+        <tax:p>-- Lateral paired teeth on anterior clypeal margin well isolated from median paired teeth (Figs. 16 d-f); median notch of anterior margin of clypeus inverted V-shape .................. 3</tax:p>
+        <tax:p>3 Ventral margin of propodeum mostly straight, curved in front of the area below spiracle</tax:p>
+        <tax:p>
+(Fig. 17 b); gaster reddish brown, contrasting with blackish mesosoma; Bhutan ............... ....................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33550" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                    <dc:Species>monticola</dc:Species>
+                </tax:xmldata>monticola</tax:name>
+de Andrade
+</tax:p>
+        <tax:p>
+-- Ventral margin of propodeum curved behind the area below the spiracle (Fig. 17 c); gaster concolorous with mesosoma, but lighter; Nepal &amp; NE India .................................. ...................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:184349" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                    <dc:Species>nepalensis</dc:Species>
+                </tax:xmldata>nepalensis Radchenko</tax:name>
+        </tax:p>
+        <tax:p>SPECIES ACCOUNTS</tax:p>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:226537" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Perissomyrmex</dc:Genus>
+                        <dc:Species>emarginatus</dc:Species>
+                    </tax:xmldata>Perissomyrmex emarginatus</tax:name>new species</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>DESCRIPTION</tax:p>
+                <tax:p>Worker: Holotype measurements (mm): TL 3.73, HL 0.86, HW 0.90 ,, SL 0.78, EL 0.10, PW 0.57, ML 0.98, GL 1.07, GW 0.86. Indices: CI 104.65, SI 86.67.</tax:p>
+                <tax:p>Paratype measurements (4 workers, 3 measured): TL 3.97 - 4.14, HL 0.86 - 0.96, HW 0.92 - 0.94, SL 0.74 - 0.78, PW 0.57 - 0.59, ML 0.90 - 1.11, GL 1.07 - 1.39, GW 0.86 - 0.90). Indices: CI 95.74 - 106.98, SI 82.22 - 86.67.</tax:p>
+                <tax:p>Head subrectangular, with slightly concave posterior border and rounded posterior corners; sides slightly diverging anteriorly. Eyes situated in the midlength of sides, comprising 15 - 18 ommatidia. Anterior margin of clypeus with four teeth; median paired teeth large and distinct, lateral paired teeth smaller and lower; the median paired ones separated by median notch, the lateral tooth located just in front of antennal insertion, and the median and lateral ones closely situated each other, sometimes fused at the base in each side; median notch distinct and deep, inverted U-shape, the bottom of notch reaching or exceeding level of anterior margin of lateral edge in front of antennal insertion. Frontal lobes almost reduced, frontal carina low, diverging posteriorly, reaching the level of eyes. Antennal toruli exposed, antennal insertion forming deep hollow forming distinct anterior edge. Mandible elongate with long basal margin and short masticatory margin; basal margin with one small but distinct tooth in the midlength; masticatory margin equipped with one apical and one subapical teeth followed by a diastema and one basal tooth. Antennae 9 segmented, scape exceeding posterior corner of head by its width; apical three segments forming club but obscure. Labrum with transverse preapical ridge; two small projections present on the dorsal surface in the middle.</tax:p>
+                <tax:p>Promesonotum raised, but the dorsal surface somewhat depressed; promesonotal suture weakly impressed. Anteroventral free margin of mesopleuron carinated but not forming expansion covering procoxa. Metanotal groove complete, deeply impressed. Dorsal outline of propodeum slightly raised. Spiracle circular and large, situated on lateral surface of propodeum in the middle. Propodeal spine straight, long and acute, directed backward and upward. Propodeal lobe low and rounded.</tax:p>
+                <tax:p>Petiole with anterior declivity, rounded tip and posterior face; ventral margin weakly sinuate but no subpetiolar process; anterior peduncle with distinct paired lateral projections in dorsal view, situated anterodorsal to the spiracle in lateral view. Postpetiole, in profile, with raised dorsal outline, anterior face convex, posterior face nearly vertical and in frontal view the crest rounded but pointed. Ventral margin to 1 st gastral segment not sinuate.</tax:p>
+                <tax:p>Head, mandible and mesosoma costate, lower part of mesopleuron and posterior part of propodeal spiracle unsculptured. Petiole mostly unsculptured. Anterior face of postpetiole smooth and shining, the rest finely punctate. Body dark yellowish brown, the appendages lighter.</tax:p>
+                <tax:p>Queen. TL 4.63 - 4.92, HL 1.07 - 1.19, HW 1.11 - 1.23, CI 103.36 - 110.81, SL 0.78 - 0.90, SI 68.91 - 73.17, PW 0.82 - 0.90, ML 1.31 - 1.39, GL 1.35 - 1.48, GW 1.11 - 1.19 (5 measured).</tax:p>
+                <tax:p>Similar to the worker, but the head wider than long with three ocelli. The dentition on mandibles and anterior clypeal margin basically same as in worker but tending to be worn down, so that the teeth are often low and obscure; the median portion of anterior clypeal margin produced with less distinct median notch and four teeth which are sometimes fused together. Mesosoma robust short and high, mesonotum thick, mesoscutellum overhanging metanotum, metanotum more of less convex in profile, propodeal spine robust directed backward. Petiole basically as in worker, but the ventral surface with distinct paired longitudinal keel originated
+from posterior end of the petiole running anteriorly and convergent at anterior 1 / 4 of petiole, lateral surface with longitudinal ridge from the portion above the spiracle to posterior end, and lateral projection more distinct. Apex of postpetiolar node pointed. Sculpture more distinct than that of worker. Coloration same as worker.</tax:p>
+            </tax:div>
+            <tax:nomenclature>TYPE MATERIALHolotype, Worker, Lianwangpo, Mt. Emeishan, Emeishan Shi, Sichuan Prov., CHINA, 2310 m alt., 4. x. 1996 (S. Nomura &amp; Zhao) (KU No. 3149). Paratypes (All from CHINA): 4 workers, 2 queens, same as holotype; 2 queens, Mt. Jiudingshan, Chapingshan Mts., Mao Xian, Sichuan Prov., 3670 m alt., 22. ix. 1996 (S. Nomura &amp; Zhao); 1 queen, Leidongping, Mt. Emeishan, Emeishan Shi, Sichuan Prov., 2310 - 2350 m alt., 4. x. 1996 (S. Nomura &amp; Zhao).</tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>Remarks</tax:p>
+                <tax:p>All the material was collected by Berlese funnel. Collecting site of Mt Emeishan is a road side of mixed coniferous forest, Dabei site is more like evergreen forest, and Mt Jiudingshan site is somewhat shrubby. The altitudinal range of collecting sites is from 2300 m to 3700 m elevation. The lateral projections of the petiolar peduncle are sometimes asymmetrically developed.</tax:p>
+                <tax:p>
+In the worker caste, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:226537" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>emarginatus</dc:Species>
+                        </tax:xmldata>P. emarginatus</tax:name>
+is distinguished from two other Asian species in having the deeper median notch on the anterior clypeal margin. The bottom of the notch reaches or even exceeds the level of anterior ridges in front of antennal insertions. The body of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:226537" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>emarginatus</dc:Species>
+                        </tax:xmldata>P. emarginatus</tax:name>
+has more sculptured surface and the color is more brownish than the two other Asian species. The propodeal spines, if they are fully developed, are also different from those of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33550" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>monticola</dc:Species>
+                        </tax:xmldata>P. monticola</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:184349" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>nepalensis</dc:Species>
+                        </tax:xmldata>P. nepalensis</tax:name>
+, being straight without upper curve. In the queen the median notch is shallower than that of the nonspecific workers, so that the depth and the shape cannot be used in separating species. Although we did not observe the queen of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:184349" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>nepalensis</dc:Species>
+                        </tax:xmldata>P. nepalensis</tax:name>
+, the dentition of the anterior clypeal margin is still useful; the 4 teeth are arranged closer together forming a blunt median projection in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:226537" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>emarginatus</dc:Species>
+                        </tax:xmldata>P. emarginatus</tax:name>
+, while the lateral paired teeth are small and separate from the median pair in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33550" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>monticola</dc:Species>
+                        </tax:xmldata>P. monticola</tax:name>
+.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33550" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Perissomyrmex</dc:Genus>
+                        <dc:Species>monticola</dc:Species>
+                    </tax:xmldata>Perissomyrmex monticola de Andrade</tax:name>
+            </tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 16 d, e, 17 b</tax:p>
+            </tax:div>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33550" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>monticola</dc:Species>
+                        </tax:xmldata>Perissomyrmex monticola de Andrade</tax:name>
+, in Baroni Urbani &amp; de Andrade 1993: 90. Holotype worker. Bhutan.
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="diagnosis">
+                <tax:p>Diagnosis</tax:p>
+                <tax:p>Worker, measurements (mm): TL 4.6, HL 1.12, HW 1.08, SL 0.92, PW 0.64, AL 1.24, GL 1.35, GW 0.96. Indices: CI 96.4 ,, SI 85.2,</tax:p>
+                <tax:p>Four teeth of anterior margin of clypeus well isolated; median paired teeth large and distinct; lateral paired teeth small and their tip not reaching the level of the bottom of median notch; median notch converted V shape; the bottom of notch not reaching the level of anterior margin of lateral ridge in front of antennal insertion; distance between a median teeth closer than that between a median tooth and a lateral tooth; position of lateral tooth just below in the middle of toruli. Promesonotum forming single raised convex. Propodeal spines long and acute, directing backward and curved upward. Propodeal lobe low and rounded. Following the restriction on anterior articulator portion to mesosoma, sides of petiole almost parallel in dorsal view.</tax:p>
+                <tax:p>Posterior face of postpetiolar node declined. Head capsule and mesosoma heavily striate. Mandibles very lightly striate. Mesopleural area, propodeum smooth and shining, petiole smooth and shining.</tax:p>
+                <tax:p>Body bicolored, with dark brown head and mesosoma and reddish gaster, antennae and legs yellowish.</tax:p>
+                <tax:p>Queen: TL 5.32, HL 1.20, HW 1.20; CI 100, SL 1.00, SI 75, PW 0.84, AL 1.52, GW 1.20, GL 1.56.</tax:p>
+                <tax:p>Dentition of anterior margin of clypeus and mandible as in worker, but robust and lower. Mesoscutellum overhanging metanotum, metanotum less convex in profile. Petiole as in worker but with low ventral keel and more distinct lateral projection.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>Remarks</tax:p>
+                <tax:p>
+Seemingly P. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33550" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>monticola</dc:Species>
+                        </tax:xmldata>monticola</tax:name>
+is distinct in having a bicolored body with blackish head and mesosoma and reddish gaster. The species is similar to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:184349" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>nepalensis</dc:Species>
+                        </tax:xmldata>P. nepalensis</tax:name>
+in having an inverted V shaped median notch on the anterior clypeal margin. The notch in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33550" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>monticola</dc:Species>
+                        </tax:xmldata>P. monticola</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:184349" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>nepalensis</dc:Species>
+                        </tax:xmldata>P. nepalensis</tax:name>
+is shallower than in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:226537" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>emarginatus</dc:Species>
+                        </tax:xmldata>P. emarginatus</tax:name>
+. The bottom of the notch in both species does not reach the level of anterior ridges in front of the antennal insertions. The teeth arrangement of the anterior clypeal margin is similar to that of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:184349" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>nepalensis</dc:Species>
+                        </tax:xmldata>P. nepalensis</tax:name>
+as well, showing that the lateral paired teeth are more spaced to the median paired teeth. The shape of the propodeal spines, upward curved profile, also show the similarity in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33550" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>monticola</dc:Species>
+                        </tax:xmldata>P. monticola</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:184349" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>nepalensis</dc:Species>
+                        </tax:xmldata>P. nepalensis</tax:name>
+. According to the key provided by Radochenko (2003) the species is distinct in having abundant short standing hairs on the antenna and legs, but the character is somewhat delicate and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:226537" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>emarginatus</dc:Species>
+                        </tax:xmldata>P. emarginatus</tax:name>
+also shows the same pilosity. It seems that the ventral profile of the petiole is more reliable.
+</tax:p>
+                <tax:p>
+Among the three Asian species, the sculpture of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33550" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>monticola</dc:Species>
+                        </tax:xmldata>P. monticola</tax:name>
+is the most distinct, and the unsculptured areas on the mesopleuron and propodeum are broadest. The species is known only from the type locality.
+</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>
+Specimens examined: 1 worker, 1 queen, 
+Nobding
+41 km O, Wangdi Ph. 2800 m, 
+Bhutan
+(
+NMB
+).
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:184349" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Perissomyrmex</dc:Genus>
+                        <dc:Species>nepalensis</dc:Species>
+                    </tax:xmldata>Perissomyrmex nepalensis Radchenko</tax:name>
+            </tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>(Figs. 16 f, 17 c)</tax:p>
+            </tax:div>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:184349" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>nepalensis</dc:Species>
+                        </tax:xmldata>Perissomyrmex nepalensis Radchenko</tax:name>
+2003: 12. Holotype worker. Nepal.
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="description">
+                <tax:p>Diagnosis</tax:p>
+                <tax:p>Worker, measurements (mm): TL 3.74 - 4.38, HL 0.90 - 1.10, HW 0.92 - 1.10, SL 0.8 - 0.9, PW 0.56 - 0.64, ML 1.00 - 1.10, GL 1.02 - 1.30, GW 0.80 - 0.96. Indices: CI 100 - 102, SI 82 - 87.</tax:p>
+                <tax:p>Four teeth on anterior margin of clypeus well isolated; median paired teeth large and distinct, lateral paired teeth small and spaced from the median teeth; median notch converted V shape; the bottom of notch not reaching anterior margin of lateral ridge in front of antennal insertion. Promesonotum raised but less convex. Propodeal spine directed backward and curved upward. Ventral margin of petiole nearly straight. Subpetiolar process absent. Costulation on head and pronotum low and spaced, unsculptured area on mesosoma and propodeum wider. Body color light reddish brown, antennae and legs yellowish.</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>
+Specimens examined: 2 workers, 
+W. Bengal, Darjeering, Tiger Hill
+, 2450 m, 
+28. viii. 1997
+, 
+India
+(
+BMNH
+).
+</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>Remarks</tax:p>
+                <tax:p>
+The dorsal outline of the promesonotal area varies in the size of workers. In minor worker the area is less raised but in major worker weakly convex in profile. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:184349" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>nepalensis</dc:Species>
+                        </tax:xmldata>P. nepalensis</tax:name>
+is distinguishable from 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33550" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>monticola</dc:Species>
+                        </tax:xmldata>P. monticola</tax:name>
+by the ventral profile of the petiole: nearly straight in the
+former, but widely convex in the latter. Sculpturation of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:184349" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>nepalensis</dc:Species>
+                        </tax:xmldata>P. nepalensis</tax:name>
+is weaker and more spaced than that of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:226538" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>montiocola</dc:Species>
+                        </tax:xmldata>P. montiocola</tax:name>
+. Radchenko (2003) noticed the standing hairs on the antennae and legs in distinguishing 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:184349" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>nepalensis</dc:Species>
+                        </tax:xmldata>P. nepalensis</tax:name>
+from 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33550" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>monticola</dc:Species>
+                        </tax:xmldata>P. monticola</tax:name>
+; short and abundant in the former, long and sparse in the latter.
+</tax:p>
+                <tax:p>The species was found in Himalayan region (Nepal and northeastern India) at the altitudinal range of 2450 to 3000 m, collected by pitfall traps (Radochenko, 2003).</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33551" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Perissomyrmex</dc:Genus>
+                        <dc:Species>snyderi</dc:Species>
+                    </tax:xmldata>Perissomyrmex snyderi Smith</tax:name>
+, M. R.
+</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 16 g, h, 17 d</tax:p>
+            </tax:div>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33551" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>snyderi</dc:Species>
+                        </tax:xmldata>Perissomyrmex snyderi Smith</tax:name>
+, M. R. 1947: 282. Holotype worker. Guatemala.
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="diagnosis">
+                <tax:p>Diagnosis.</tax:p>
+                <tax:p>Worker, TL 3.74 - 4.94, HL 0.88 - 1.24, HW 0.88 - 1.34, CI 100 - 108, SL 0.82 - 0.94, SI 73 - 93, PW 0.56 - 0.72, ML 0.98 - 1.20, GL 1.00 - 1.40, GW 0.80 - 1.06.</tax:p>
+                <tax:p>Polymorphic. Labrum with lamellate flange developed at basal part of curvature. Anterior clypeal margin with 3 pairs of projection, the shape and size varying to reduce or fused; basically, the median pair broad and robust, inner lateral pair smaller; outer lateral pair smallest, sometimes reduced or lost; the median notch roundly concave; in some case the median paired teeth fused without median notch in major worker. Propodeal spine straight or slightly curved upward. Subpetiolar process present anteriorly; ventral margin of petiole almost straight in profile; anterior portion of petiole diverging toward midlength of petiole in dorsal view. Sculpture on head and mesosoma irregularly costate. Body color blackish.</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>
+Specimens examined: 9 workers (including 1 major), 
+4 km N Union Juarez
+, 
+Volcan Tacann
+, Lower slopes 1950 m, 
+Chiapas
+, 
+Mexico
+(4 in 
+UCD
+, 5 in 
+BMNH
+).
+</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>Remarks</tax:p>
+                <tax:p>
+The species shows great variation in worker caste body size, the shape of spines and the teeth on the anterior clypeal margin, but the subpetiolar process is consistently present, which is unique among the four 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                        </tax:xmldata>Perissomyrmex</tax:name>
+species. In addition, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33551" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Perissomyrmex</dc:Genus>
+                            <dc:Species>snyderi</dc:Species>
+                        </tax:xmldata>P. snyderi</tax:name>
+is also unique in having coarser and more irregular sculptures on the head and mesosoma and dark color of the body. The degree of the protuberance of the anterior clypeal margin is less distinct than that in Asian species, even though variation exists.
+</tax:p>
+                <tax:p>The rediscovered individuals were collected from Berlese samples of a cloud forest floor of 1700 to 2000 m altitude in Chiapas, Mexico (Longino &amp; Hartley, 1995).</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:p>
+Biogeography of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+        </tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+has a unique biogeographic pattern showing a disjunct Oriental-Neotropical distribution (Fig. 15). According to Bolton â€™ s census data (1994) there are no genera showing such disjunct distribution in ants. Seemingly the genus is a tropical element, but the actual distribution records are restricted to higher elevation at moderate northern latitude; 1700 to 2000 m in Central America and over 2000 m in Asia. The species of Asia are never found in the tropical mountains nor in lowlands of temperate zones. The distribution range of the genus in Asia is shown in Fig. 18 with altitude and latitude forest zones. Their habitat includes LauroFagaceae forest, evergreen forest, temperate conifer &amp; deciduous forest. The genus cannot be a tropical element but might be a relic of an old temperate taxon.
+</tax:p>
+        <tax:p>
+Baroni Urbani &amp; de Andrade (1993) and Radchenko (2003) supposed the origin of the genera in Asia. This is supported by the present study as follows: (1) the sister group of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+is 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+, distributed in the Old World Tropics; (2) a clade of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
++ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+is closely related to 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2320" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Acanthomyrmex</dc:Genus>
+                </tax:xmldata>Acanthomyrmex</tax:name>
+, also distributed in tropical
+</tax:p>
+        <tax:p>
+Asia (Fig. 18), and (3) species diversity of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+is highest in Asia. Considering the present ecological distribution of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+, the speciation of the ancestor of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
++ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+might have occurred in temperate-tropical regions.
+</tax:p>
+        <tax:p>
+Longino &amp; Hartley (1994) discussed the origin of the disjunct distribution and mentioned that 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33551" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                    <dc:Species>snyderi</dc:Species>
+                </tax:xmldata>P. snyderi</tax:name>
+is not an accidental introduction to Central America but a relic of widely distributed taxon. If their hypothesis is correct, the Asian and Central American species would be different monophyletic species groups. Morphologically, the Asian species share several characters, e. g. the loss of the subpetiolar process, the distinct protuberance of the median portion of the anterior clypeal margin, and more or less parallel sculpturation on the head. But because of the difficulties of their polarities as mentioned above, we have not confirmed monophyly.
+</tax:p>
+        <tax:p>
+The evidence of vicariance might be in fossil records. There are two more extinct genera of the tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2294" source="HNS"/>Myrmecinini</tax:name>
+: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24822" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Stiphromyrmex</dc:Genus>
+                </tax:xmldata>Stiphromyrmex</tax:name>
+Wheeler and Ennaemerus Mayr of the Baltic Amber inclusions. Among them, the genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:226539" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Ennaemerus</dc:Genus>
+                </tax:xmldata>Ennaemerus</tax:name>
+has a 9 segmented antenna, as in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+. It should be noted that when Wheeler (1915) referred to the resemblance of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:226539" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Ennaemerus</dc:Genus>
+                </tax:xmldata>Ennaemerus</tax:name>
+to 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+was not discovered yet. If the tribal assignment of them is correct, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:226539" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Ennaemerus</dc:Genus>
+                </tax:xmldata>Ennaemerus</tax:name>
+would be a close relative of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+. And the â€˜ ProtoPerissomyrmex â€™ (
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:226539" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Ennaemerus</dc:Genus>
+                </tax:xmldata>Ennaemerus</tax:name>
++ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+) mights have a wide range of distribution. For reference of this pattern, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+, the early derivative of the tribe, shows wide range of distribution (Fig. 19). The difference is that 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+would be basically a tropical origin, while 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+is a temperate one.
+</tax:p>
+        <tax:p>
+Tiffney (1985) suggested that there are five major periods of migration between eastern Asia and eastern North America: pre-Tertiary, Early Eocene, Late Eocene-Oligocene, Miocene and Late Tertiary-Quaternary. Recent molecular analysis of Magnoliaceae (Azuma et al., 2001) showed that tropical disjunction occurred during the middle to late Eocene and that the temperate disjunction occurred in the Oligocene. General resemblance of the distribution pattern of that plant might be referential in considering the disjunction of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+. Since geological time of the Baltic Amber is thought to be the Late Eocene (e. g. Dlussky, 1999; Bolton, 2003), the â€˜ Proto-Perissomyrmex â€™ (
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:226539" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Ennaemerus</dc:Genus>
+                </tax:xmldata>Ennaemerus</tax:name>
++ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+) might have ArctoTertiary distribution, expanding their distribution from Eurasia to North America during one of the three possibilities of Tiffney â€™ s five periods of migrations: Late Eocene-Oligocene, Miocene and Late Tertiary-Quaternary. The present distribution would be a relic of the old temperate range in Paleogene. Molecular analysis would be needed to estimate the detailed phylogeny and diverging time of disjunction.
+</tax:p>
+        <tax:p>ACKNOWLEDGEMENTS</tax:p>
+        <tax:p>We thank Shuhei Nomura for providing samples from China; P. S. Ward, M. L. de Andrade, G. R. Else, and S. Ryder for their kindness in arranging loans of specimens; and R. Snelling for arranging publication. The study was partly supported by a Grant-in-Aid for an Overseas Research Project (No 14255016) from the Ministry of Education, Science, Technology, Sports and Culture, Japan.</tax:p>
+        <tax:p>LITERATURE CITED</tax:p>
+        <tax:p>
+Ashmead, W. H. 1905. A skeleton of a new arrangement of the families, subfamilies, tribes and genera of the ants, or the superfamily 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+. Canadian Entomologist 37: 381 - 384.
+</tax:p>
+        <tax:p>Azuma, H. Garcia-Franco, J. G., Rico-Gray, V. &amp; Thien, L. B. 2001. Molecular phylogeny of the Magnoliaceae: The biogeography of tropical and Temperate disjunctions. American Journal of Botany 88: 2275 - 2285.</tax:p>
+        <tax:p>
+Baroni Urbani, C. &amp; de Andrade, M. L. 1993. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33550" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                    <dc:Species>monticola</dc:Species>
+                </tax:xmldata>Perissomyrmex monticola</tax:name>n. sp.
+, from Bhutan: the first natural record for a presumed Neotropical genus with a discussion on its taxonomic status. Tropical Zoology 6: 89 - 95.
+</tax:p>
+        <tax:p>Bingham, C. T. 1903. The fauna of British India, including Ceylon and Burma. Hymenoptera 2. Ants and Cuckoo Wasps, 506 pp. London.</tax:p>
+        <tax:p>
+Bolton, B. 1981. A revision of six minor genera of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+in the Ethiopian zoogeographical region. Bulletin of the British Museum (Natural History) (Entomology) 43: 245 - 307.
+</tax:p>
+        <tax:p>Bolton, B. 1994. Identification Guide to the Ant Genera of the World: 222 pp. Cambridge, Mass.</tax:p>
+        <tax:p>
+Bolton, B. 2003. Synopsis and classification of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+. Memoirs of the American Entomological Institute 71: 1 - 370.
+</tax:p>
+        <tax:p>
+Brown, W. L., Jr. 1971. Characters and synonymies among the genera of ants. Part 4. Some genera of subfamily 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+. Breviora 365: 1 - 5.
+</tax:p>
+        <tax:p>Brown, W. L., Jr. 1973. A comparison of the Hylean and Congo-West African rain forest ant faunas. Pp. 161 - 185. in: Meggers, B. J., Ayensu, E. S. &amp; Duckworth, W. D. (eds). Tropical Forest Ecosystem in Africa and South America: a Comparative Review. 350 pp. Washington D. C.</tax:p>
+        <tax:p>Dlussky, G. M. 1997. Genera of ants from Baltic Amber. Paleontological Journal 31: 616 - 627.</tax:p>
+        <tax:p>
+Emery, C. 1922. In Wytsman, P. Genera Insectorum. Hymenoptera, Fam. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+, subfam. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+. Fasc. 174 C: 207 - 397. Bruxelles.
+</tax:p>
+        <tax:p>
+Longino, J. T. &amp; Hartley, D. A. 1994. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33551" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                    <dc:Species>snyderi</dc:Species>
+                </tax:xmldata>Perissomyrmex snyderi</tax:name>
+(Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+) is native to Central America and exhibits worker polymorphism. Psyche 101: 195 - 202.
+</tax:p>
+        <tax:p>Matsuda, R. 1970. Morphology and evolution of the insect thorax. Memoirs of the Entomological Society of Canada 76: 1 - 431.</tax:p>
+        <tax:p>
+Moffett, M. W. 1986. Revision of the myrmicine genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2320" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Acanthomyrmex</dc:Genus>
+                </tax:xmldata>Acanthomyrmex</tax:name>
+. Bulletin of the Museum of Comparative Zoology 151: 55 - 89.
+</tax:p>
+        <tax:p>
+Ogata, K. 1991. A generic synopsis of the poneroid complex of the family 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+(Hymenoptera). Part II. Subfamily 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+. Bulletin of the Institute of Tropical Agriculture, Kyushu University 14: 61 - 149.
+</tax:p>
+        <tax:p>
+Ogata, K. &amp; Okido, H. 2002. Taxonomy of the ant tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2294" source="HNS"/>Myrmecinini</tax:name>
+with special references to the enigmatic genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                </tax:xmldata>Perissomyrmex</tax:name>
+. Proceedings of the XIV International Congress of IUSSI, 27 July - 3 August 2002, Hokkaido University, Sapporo, Japan, p. 157.
+</tax:p>
+        <tax:p>Ohsawa, M. 1990. An interpretation of latitudinal patterns of forest limits in South and East Asian mountains. Journal of Ecology 78: 326 - 339.</tax:p>
+        <tax:p>
+Radchenko, A. 2003. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:184349" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Perissomyrmex</dc:Genus>
+                    <dc:Species>nepalensis</dc:Species>
+                </tax:xmldata>Perissomyrmex nepalensis</tax:name>sp. nov.
+- new evidence of Old World origin for the genus. Entomologica Basiliensia 25: 13 - 22.
+</tax:p>
+        <tax:p>
+Smith, M. R. 1947. A 
+new genus
+and species of ant from Guatemala. Journal of the New York Entomological Society 55: 281 - 284.
+</tax:p>
+        <tax:p>
+Taylor, R. W. 1980. The rare Fijian ant 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+(= 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:146818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Archaeomyrmex</dc:Genus>
+                </tax:xmldata>Archaeomyrmex</tax:name>
+) 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31950" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                    <dc:Species>cacabau</dc:Species>
+                </tax:xmldata>cacabau</tax:name>
+(Mann) rediscovered. New Zealand Entomologist 7: 122 - 123.
+</tax:p>
+        <tax:p>Taylor, R. W. &amp; Brown, D. R. 1985. Zoological Catalogue of Australia 2. Hymenoptera: Formicoidea, Vespoidea and Sphecoidea: 381 pp. Canberra</tax:p>
+        <tax:p>Tiffney, B. H. 1985 Perspectives on the origin of the floristic similarity between eastern Asia and eastern North America. Journal of the Arnold Arboretum 66: 243 - 273.</tax:p>
+        <tax:p>
+Wang, M. 2003 A monographic revision of the ant genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+(Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Bulletin of the Museum of Comparative Zoology 157: 383 - 542.
+</tax:p>
+        <tax:p>Wheeler, W. M. 1915. The ants of the Baltic Amber. Schriften der Physikalisch-Oekonomischen Gesellschaft zu Koenigsberg 55 (1914): 1 - 142.</tax:p>
+        <tax:p>Wheeler, W. M. 1922. The ants of the Belgian Congo. Bulletin of the American Museum of Natural History 45: 1 - 1139.</tax:p>
+        <tax:p>
+Figures 1 - 12. Characters of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2294" source="HNS"/>Myrmecinini</tax:name>
+: antennal insertion of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+(1), 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+(2); genal carina of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+(3); base of funiculus of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+(4), base of scape of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+(5); labrum of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+(6); masticatory margin of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2320" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Acanthomyrmex</dc:Genus>
+                </tax:xmldata>Acanthomyrmex</tax:name>
+(7), 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+(8); mesosoma of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24820" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pristomyrmex</dc:Genus>
+                </tax:xmldata>Pristomyrmex</tax:name>
+(9); propodeal spine of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+queen (10); petiole of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24818" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmecina</dc:Genus>
+                </tax:xmldata>Myrmecina</tax:name>
+(11); 1 st gastral tergum of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2320" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Acanthomyrmex</dc:Genus>
+                </tax:xmldata>Acanthomyrmex</tax:name>
+(12).
+</tax:p>
+        <tax:p># Apomorphic Characters</tax:p>
+        <tax:p>1 Preapical portion of labrum sharply bent inward</tax:p>
+        <tax:p>2 Transverse ridge or teeth on anterodorsal part of labrum</tax:p>
+        <tax:p>3 Basal fringe at antennal scape</tax:p>
+        <tax:p>4 Ventral carina on the head</tax:p>
+        <tax:p>5 Reduction of 3 rd antennal segment</tax:p>
+        <tax:p>6 Reduction of petiolar node</tax:p>
+        <tax:p>7 Loss of frontal lobe</tax:p>
+        <tax:p>8 M-shaped ventral margin of 1 st gastral tergum</tax:p>
+        <tax:p>9 Petiolar node bispinose</tax:p>
+        <tax:p>Short masticatory margin of mandible nearly vertical to long axis of 10</tax:p>
+        <tax:p>head</tax:p>
+        <tax:p>11 Protuberance on basal margin of mandible in the midway</tax:p>
+        <tax:p>12 11 - segmented antenna</tax:p>
+        <tax:p>13 Expansion of mesopleuron partly covering procoxa</tax:p>
+        <tax:p>14 Loss of metanotal groove</tax:p>
+        <tax:p>15 9 - segmented antenna</tax:p>
+        <tax:p>16 Distinct tooth on basal margin of mandible</tax:p>
+        <tax:p>17 Lateral projection on petiolar peduncle</tax:p>
+        <tax:note place="foot">
+            <tax:p>1 Present address: Kyushu Environmental Evaluation Association, 1 - 10 - 1 Matsukadai, Higashiku, Fukuoka 813 - 0004 Japan</tax:p>
+        </tax:note>
+        <tax:figure>
+            <tax:p>Figures 14, 16 a-c, 17 a</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Table 1. Characters in the tribe 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2294" source="HNS"/>Myrmecinini</tax:name>
+            </tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figure 13. Phylogenetic relationships of the genera of the tribe 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2294" source="HNS"/>Myrmecinini</tax:name>
+. Numbers on each clade show synapomorphies listed in Table 1.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Fig. 14. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:226537" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Perissomyrmex</dc:Genus>
+                        <dc:Species>emarginatus</dc:Species>
+                    </tax:xmldata>Perissomyrmex emarginatus</tax:name>n. sp.</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figure 15. Distribution of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Perissomyrmex</dc:Genus>
+                    </tax:xmldata>Perissomyrmex</tax:name>
+            </tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figure 16. Anterior clypeal margin of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Perissomyrmex</dc:Genus>
+                    </tax:xmldata>Perissomyrmex</tax:name>
+spp., worker of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:226537" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Perissomyrmex</dc:Genus>
+                        <dc:Species>emarginatus</dc:Species>
+                    </tax:xmldata>P. emarginatus</tax:name>
+(a), female of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:226537" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Perissomyrmex</dc:Genus>
+                        <dc:Species>emarginatus</dc:Species>
+                    </tax:xmldata>P. emarginatus</tax:name>
+(b-c), worker of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33550" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Perissomyrmex</dc:Genus>
+                        <dc:Species>monticola</dc:Species>
+                    </tax:xmldata>P. monticola</tax:name>
+(d), female of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33550" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Perissomyrmex</dc:Genus>
+                        <dc:Species>monticola</dc:Species>
+                    </tax:xmldata>P. monticola</tax:name>
+(e), worker of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:184349" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Perissomyrmex</dc:Genus>
+                        <dc:Species>nepalensis</dc:Species>
+                    </tax:xmldata>P. nepalensis</tax:name>
+(f), minor worker of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33551" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Perissomyrmex</dc:Genus>
+                        <dc:Species>snyderi</dc:Species>
+                    </tax:xmldata>P. snyderi</tax:name>
+(g), major worker of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33551" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Perissomyrmex</dc:Genus>
+                        <dc:Species>snyderi</dc:Species>
+                    </tax:xmldata>P. snyderi</tax:name>
+(h).
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figure 17. Petiole of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Perissomyrmex</dc:Genus>
+                    </tax:xmldata>Perissomyrmex</tax:name>
+workers in profile, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:226537" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Perissomyrmex</dc:Genus>
+                        <dc:Species>emarginatus</dc:Species>
+                    </tax:xmldata>P. emarginatus</tax:name>
+(a), 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33550" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Perissomyrmex</dc:Genus>
+                        <dc:Species>monticola</dc:Species>
+                    </tax:xmldata>P. monticola</tax:name>
+(b), 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:184349" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Perissomyrmex</dc:Genus>
+                        <dc:Species>nepalensis</dc:Species>
+                    </tax:xmldata>P. nepalensis</tax:name>
+(c), 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33551" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Perissomyrmex</dc:Genus>
+                        <dc:Species>snyderi</dc:Species>
+                    </tax:xmldata>P. snyderi</tax:name>
+(d).
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figure 18. Distribution range of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24819" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Perissomyrmex</dc:Genus>
+                    </tax:xmldata>Perissomyrmex</tax:name>
+spp. in Asian forest zones (altitudinal and latitudinal vegetation in SE &amp; E Asia after Ohsawa, 1990).
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figure 19. Distribution of the genera of the tribe 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2294" source="HNS"/>Myrmecinini</tax:name>
+.
+      </tax:p>
+        </tax:figure>
+    </tax:taxonxBody>
+</tax:taxonx>

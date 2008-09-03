@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="UTF-8"?><tax:taxonx xmlns:dc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.taxonx.org/schema/v1 http://www.taxonx.org/schema/v1/taxonx1.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-1.xsd http://digir.net/schema/conceptual/darwin/2003/1.0 http://digir.net/schema/conceptual/darwin/2003/1.0/darwin2.xsd">
+    <tax:taxonxHeader>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>The ants of El Hierro (Canary Islands).</mods:title>
+            </mods:titleInfo>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:name type="personal">
+                <mods:role>
+                    <mods:roleTerm>Author</mods:roleTerm>
+                </mods:role>
+                <mods:namePart>Espadaler, X.</mods:namePart>
+            </mods:name>
+            <mods:relatedItem type="host">
+                <mods:titleInfo>
+                    <mods:title>Advances in ant systematics (Hymenoptera: Formicidae): Homage to E.O. Wilson - 50 years of contributions.</mods:title>
+                </mods:titleInfo>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Snelling, R. R.</mods:namePart>
+                </mods:name>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Fisher, B. L.</mods:namePart>
+                </mods:name>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Ward, P. S.</mods:namePart>
+                </mods:name>
+                <mods:originInfo>
+                    <mods:dateIssued>2007</mods:dateIssued>
+                    <mods:publisher>Memoirs of the American Entomological Institute, 80</mods:publisher>
+                </mods:originInfo>
+                <mods:part>
+                    <mods:extent unit="page">
+                        <mods:start>113</mods:start>
+                        <mods:end>127</mods:end>
+                    </mods:extent>
+                </mods:part>
+            </mods:relatedItem>
+            <mods:identifier type="HNS-PUB">21278</mods:identifier>
+            <mods:location>
+                <mods:url>http://plazi.org:8080/dspace/handle/10199/15379</mods:url>
+            </mods:location>
+        </mods:mods>
+    </tax:taxonxHeader>
+    <tax:taxonxBody>
+        <tax:p>Xavier Espadaler</tax:p>
+        <tax:p>CREAF and Unit of Ecology</tax:p>
+        <tax:p>Autonomous University of Barcelona</tax:p>
+        <tax:p>08193 Bellaterra, Spain.</tax:p>
+        <tax:p>Xavier. espadaler @ uab. es</tax:p>
+        <tax:p>ABSTRACT</tax:p>
+        <tax:p>
+The ants of El Hierro, the smallest and youngest of the Canary Islands, are updated. Twenty-one species are listed, with seven considered as exotics. Twelve species and six genera are added to the myrmecofauna of El Hierro. Two endemic 
+new species
+are described, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223435" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Temnothorax</dc:Genus>
+                    <dc:Species>bimbache</dc:Species>
+                </tax:xmldata>Temnothorax bimbache</tax:name>sp. n.
+, and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223438" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>wilsoni</dc:Species>
+                </tax:xmldata>Monomorium wilsoni</tax:name>sp. n.
+, and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238647" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Tetramorium</dc:Genus>
+                    <dc:Species>depressum</dc:Species>
+                </tax:xmldata>Tetramorium depressum Forel</tax:name>
+is elevated to specific status (
+stat. nov.
+). The population of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24789" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Plagiolepis</dc:Genus>
+                </tax:xmldata>Plagiolepis</tax:name>
+(provisionally identified as 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:142796" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Plagiolepis</dc:Genus>
+                    <dc:Species>maura</dc:Species>
+                </tax:xmldata>P. maura</tax:name>
+) has the interesting characteristic of having apterous sexuals. Distribution data are presented.
+</tax:p>
+        <tax:p>
+Key words: Hymenoptera, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223435" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Temnothorax</dc:Genus>
+                    <dc:Species>bimbache</dc:Species>
+                </tax:xmldata>Temnothorax bimbache</tax:name>n. sp.
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223438" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>wilsoni</dc:Species>
+                </tax:xmldata>Monomorium wilsoni</tax:name>n. sp.
+, taxonomy, distribution.
+</tax:p>
+        <tax:p>“ … why does a biologist do research at all? To discover, of course ” (Wilson 1989)</tax:p>
+        <tax:p>INTRODUCTION</tax:p>
+        <tax:p>The Canary Islands consist of seven main islands and six islets, which are the independent tips of an enormous volcanic mountain range lying under the Atlantic Ocean. Their nearest neighbor is Morocco, about 95 km (59 mi) east of Fuerteventura. The islands include a huge variety of landscapes, with cloud forests surrounded by mist, volcanic plateaus, cliffs hit by Atlantic storms, green pastures and desert volcanic landscapes. The fertile volcanic soils and varied altitude have combined to create several biological treasures in the Canaries. Roughly a fourth of the islands' 2000 plant species are endemic, including the Canary Island palm, the Canary pine and the recently described dragon tree, Dracaena tamaranae, an ancient survivor from the last ice age. Microclimates in the islands allow for great variation in vegetation, from the laurisilva, with lichencovered laurels, holly and other broadleaves, to the dry scrublands and semi-desert areas where saltbush, cactus-like plants and palms grow. In short, the Canary Islands have a high level of endemicity that is currently receiving much attention (Juan et al., 2000).</tax:p>
+        <tax:p>The Canaries have a permanent subtropical climate, with mean temperatures ranging from 18 ° C (64 ° F) in winter to 24 ° C (75 ° F) in summer. Apart from Lanzarote and Fuerteventura, the northern side of the islands is subtropical, while the south, including those two islands, is somewhat warmer and drier. Rain is scarce except on parts of the exposed northern coasts, especially on the northern side of the more mountainous islands. Lanzarote and Fuerteventura, with no mountains to trap rain clouds, receive a mean of 150 mm of rain per year. Northeast trade-winds are predominant. Located 27 ° 38 ' to 27 ° 51 ' N, and 17 ° 53 ' to 18 ° 09 ' W, El Hierro is the smallest (278 km 2), the youngest (1.2 × 106 years; Guillou et al. 1996) and, jointly with La Palma, the most Atlantic of the Canary Islands. Its large scale topography, with three large embayments separated by three ridges, is the result of recent — between 15,000 and 200,000 years ago — giant landslides (Gee et al., 2001). In spite of those conditions El Hierro has a great and well preserved biological diversity that has recently (2000) granted it the status of a Biosphere Reserve. More than 58 % of the surface is under protection.</tax:p>
+        <tax:p>The island's vegetation, constituted from mesic areas of laurel forest to arid areas, may be summarized as follows, from sea level upwards: A) Halophile coastal zone, dominated by Limonium pectinatum and Schizogyne sericea and falaises by species from the genera Aeonium. B) The dry coastal matorral with Euphorbia balsamifera (tabaiba dulce), E. broussonettii (tabaiba amarga), E. canariensis (cardon) and Rumex lunaria. C) The thermophile juniper forest at El Sabinar with Juniperus turbinata ssp. canariensis (sabina) as the dominant species, Olea europaea (acebuche), Maytenus canariensis and Visnea mocanera (mocan). D) The most interesting botanical zone, the monteverde or laurisilva, on the Northern cliffs hanging above El Golfo, dominated by Myrica faya, Erica arborea (brezo) and Ilex canariensis, with the more rare Laurus azorica and Picconia excelsa. E) Huge pine forests on the southern slopes, with Pinus canariensis, Chamaecytisus proliferus and Adenocarpus foliolosus. Lastly, agricultural land and high mountain pastures are to be found on rural areas. From its rich flora, new taxa in higher plants are still being described (Scholz et al., 2000; Gaisberg &amp; Wagenitz, 2002). Endemics are abundant (Juan et al., 2000; Izquierdo et al., 2001). Among vertebrates, the very rare giant (up to 60 cm) lizard (Gallotia simonyi machadoi), the “ lagarto del Salmor ”, is in danger of extinction. An ongoing captive breeding program near Frontera is allowing its reintroduction.</tax:p>
+        <tax:p>
+Ants from El Hierro have not received any special attention and only nine species have been noted: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:28062" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Crematogaster</dc:Genus>
+                    <dc:Species>alluaudi</dc:Species>
+                </tax:xmldata>Crematogaster alluaudi</tax:name>
+(Wellenius, 1955: Frontera); 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:183705" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Temnothorax</dc:Genus>
+                    <dc:Species>gracilicornis</dc:Species>
+                    <dc:Subspecies>nivarianus</dc:Subspecies>
+                </tax:xmldata>Temnothorax gracilicornis nivarianus</tax:name>
+(Wellenius, 1955: Frontera); 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152345" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Tetramorium</dc:Genus>
+                    <dc:Species>semilaeve</dc:Species>
+                    <dc:Subspecies>depressum</dc:Subspecies>
+                </tax:xmldata>Tetramorium semilaeve depressum</tax:name>
+(Wellenius, 1955: Guarazoca, El Pinar, Frontera); 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:27343" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Cardiocondyla</dc:Genus>
+                    <dc:Species>mauritanica</dc:Species>
+                </tax:xmldata>Cardiocondyla mauritanica Forel</tax:name>
+(Seifert, 2003: without locality); 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:30468" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Linepithema</dc:Genus>
+                    <dc:Species>humile</dc:Species>
+                </tax:xmldata>Linepithema humile</tax:name>
+(Wellenius, 1955: Valverde); 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:142809" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Plagiolepis</dc:Genus>
+                    <dc:Species>barbara</dc:Species>
+                    <dc:Subspecies>canariensis</dc:Subspecies>
+                </tax:xmldata>Plagiolepis barbara canariensis</tax:name>
+(Wellenius, 1955: Guarazoca, El Brezal, Frontera); 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238648" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>hesperius</dc:Species>
+                </tax:xmldata>Camponotus hesperius</tax:name>
+(Wellenius, 1955: Valverde, Guarazoca, El Pinar, El
+</tax:p>
+        <tax:p>
+Brezal, Frontera); 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238649" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>feai</dc:Species>
+                </tax:xmldata>Camponotus feai</tax:name>
+(Wellenius, 1955: Valverde; Barquin, 1981: La Lajura, La Restinga); 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26755" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>guanchus</dc:Species>
+                </tax:xmldata>Camponotus guanchus</tax:name>
+(Wellenius, 1955: Guarazoca, Frontera; Cagniant &amp; Espadaler, 1993: El Sabinal).
+</tax:p>
+        <tax:p>I have had the opportunity to visit twice this interesting island, one week in spring 1998 and one week in winter 2003. As a result, 12 species and 6 genera are added to its myrmecofauna. Two species are proposed as new and the status of the remaining taxa is discussed. A third of the species are ant exotics.</tax:p>
+        <tax:p>MATERIALS AND METHODS</tax:p>
+        <tax:p>
+I enjoyed ant searching by a classical entomological survey, when visiting all vegetation zones. Nests were located under stones and by checking rock crevices when possible with a small pickax — volcanic rocks are extremely hard! — tree stumps and breaking dead wood remains, fallen logs or small branches. At urban localities, I looked at irrigated gardens, flower pots or next to accumulated organic debris. Recent surveys of ants from the other Macaronesian archipelagos of Azores (Wetterer et al., 2004), Madeira and Cape Verde (Wetterer et al.; in preparation) indicate that the non-native component of the myrmecofauna is very abundant in urban habitats. Complete societies of interesting species were collected by careful digging and maintained in artificial nests. Ants were fed artificial diet (Bhatkar &amp; Whitcomb, 1970), supplemented with cut Tenebrio larvae, until sexuals were eventually produced. Vouchers will be deposited at the following institutions: Museum of Comparative Zoology (MCZC) (Cambridge, USA), Natural History Museum of Los Angeles County (LACM) (Los Angeles, USA) and Museo de Ciencias Naturales (MCNC) (Tenerife, Spain). A check list, taxonomic comments, nomenclatural changes and descriptions of 
+new species
+follow. Generic names adhere to recent taxonomic arrangements by Bolton (2003). Measurement and indices are as in Bolton (1982), except that ML (mesosomal length) is used rather than AL (alitrunk length). Propodeal spine development (Buschinger ’ s index; Buschinger, 1966) is measured as the maximum length from center of propodeal spiracle to the tip of spines / minimum length from center of propodeal spiracle to the vertical, declivitous face of propodeum as seen in profile.
+</tax:p>
+        <tax:p>
+The holotypes of the two 
+new species
+described below are currently deposited in my personal collection. It is my intention that the entire collection will ultimately be deposited in a public institutional collection.
+</tax:p>
+        <tax:p>Localities. Names are from the Kompass map # 242 El Hierro, Edition 01 - 02 (1: 30000). Data from 2003 indicate geographical coordinates by a Garmin Summit eTrex GPS; geographical coordinates from 1989 are back transformed from UTM coordinates, using GeoTrans 2.2.5.</tax:p>
+        <tax:p>1. Arenas Blancas (N 27 º 46.051 ’ W 18 º 7.339 ’). 20 m. Halophile vegetation. 30.03.1989; 17.12.2003.</tax:p>
+        <tax:p>2. Between Echedo and Charco Manso (N 27 º 48.98 ’ W 17 º 35.69 ’). 200 m. Dry coastal matorral, with Euphorbia obtusifolia. 28.03.1989.</tax:p>
+        <tax:p>3. Caldereta del Tabaibal Manso (N 27 º 43.14 ’ W 18 º 8.02 ’). 480 m. Succulent scrub, with Euphorbia regis-jubae. 30.3.1989.</tax:p>
+        <tax:p>4. Binto (N 27 º 43.20 ’ W 18 º 5.29 ’). 950 m. Pine forest. 30.3.1989.</tax:p>
+        <tax:p>5. El Brezal (N 27 º 43.856 ’ W 17 º 59.709 ’). 1275 m. Laurisilva. 31.3.1989; 18.12.2003.</tax:p>
+        <tax:p>6. El Fayal (N 27 º 43.85 ’ W 18 º 0.44 ’). 1300 m. Myrica, Erica, Urtica, very humid. 31.3.1989.</tax:p>
+        <tax:p>7. El Julan (N 27 º 42.77 ’ W 18 º 2.54 ’). 1000 m, transition to cultivated fields. Pines and fig trees. 18.12.2004.</tax:p>
+        <tax:p>8. El Julan (N 27 º 42.80 ’ W 18 º 1.26 ’). 1100 m. Very dry pine forest. 29.3.1989.</tax:p>
+        <tax:p>9. El Morcillo (N 27 º 43.59 ’ W 17 º 59.95 ’). 1250 m. Pine forest with some very old trees. 29.3.1989.</tax:p>
+        <tax:p>10. El Sabinal (N 27 º 44.356 ’ W 18 º 7.366 ’). 695 m. Degraded juniper forest. 17.12.2003.</tax:p>
+        <tax:p>11. El Sabinal (N 27 ° 44.917 ’ W 18 ° 7.729 ’). 570 m. Very well preserved juniper forest. 2.4.1989; 17.12.2003.</tax:p>
+        <tax:p>12. Ermita de la Pena (N 27 ° 48.091 ’ W 17 ° 58.779 ’). 760 m. Rural, mountain pastures. 16.12.2003.</tax:p>
+        <tax:p>13. Hoya de Fileba (N 27 ° 44.812 ’ W 17 ° 59.425 ’). 1280 m. Laurisilva dominated by Erica. 19.12.2003.</tax:p>
+        <tax:p>14. La Caleta (N 27 ° 48.040 ’ W 17 ° 53.184 ’). 20 m. Dry coastal matorral next to the small town. 16.12.2003.</tax:p>
+        <tax:p>15. La Frontera (N 27 ° 45.170 ’ W 18 ° 0.727 ’). 275 m. Town, streets and public gardens. 20.12.2003.</tax:p>
+        <tax:p>16. Ladera Cabello (N 27 ° 44.397 ’ W 18 ° 4.727 ’). 215 m. Ruderal vegetation. 17.12.2003.</tax:p>
+        <tax:p>17. Llano de Guillen (N 27 ° 43.29 ’ W 18 ° 0.97 ’). 1200 m. Open pine forest, humid, many grasses. 18.12.2003.</tax:p>
+        <tax:p>18. Los Jabies (N 27 ° 41.93 ’ W 18 ° 1.60 ’). 600 m. Track. 29.3.1989.</tax:p>
+        <tax:p>19. Los Letreros (N 27 ° 42.147 ’ W 18 ° 2.141 ’). 630 m. Ruderal vegetation with scattered pine trees. 18.12.2003.</tax:p>
+        <tax:p>20. Los Llanillos (N 27 ° 45.170 ’ W 18 ° 1.318 ’). 305 m. Town streets. 20.12.2003.</tax:p>
+        <tax:p>21. Mercadel (N 27 ° 42.642 ’ W 18 ° 1.568 ’). 1010 m. Pine forest, humid. 18.12.2003.</tax:p>
+        <tax:p>22. Mirador de Isora (N 27 ° 44.35 ’ W 17 ° 57.11 ’). 850 m. Ruderal vegetation with Hypericum canariensis, Ficus, Rumex lunaria. 1.4.1989.</tax:p>
+        <tax:p>23. Mirador de las Playas (N 27 ° 43.801 ’ W 17 ° 58.515 ’). 1080 m. Pine forest. 16.12.2003.</tax:p>
+        <tax:p>24. Mocanal (N 27 ° 50.16 ’ W 17 ° 56.35 ’). 200 m. Rumex lunaria, Aeonium sp. “ picon ”. 28.3.1989.</tax:p>
+        <tax:p>25. Montana de la Fuente (N 27 ° 44.805 ’ W 17 ° 59.430 ’). 1310 m. Laurisilva with Erica. 20.12.2003.</tax:p>
+        <tax:p>26. Montana de La Limera (N 27 ° 48.80 ’ W 17 ° 56.62 ’). 780 m. Degraded fayal-brezal with Apollonia canariensis (barbusano) and ruderal vegetation. 28.3.1989.</tax:p>
+        <tax:p>27. Montana de las Cuevas (N 27 ° 43.97 ’ W 18 ° 7.14 ’). 720 m. Pastures with megaforbs. 30.3.1989.</tax:p>
+        <tax:p>28. Montana de los Charcos (N 27 ° 45.733 ’ W 18 ° 8.367 ’). Dry coastal matorral. 17.12.2003.</tax:p>
+        <tax:p>29. Montana del Gajo (N 27 ° 43.812 ’ W 17 ° 59.489 ’). 1280 m. Transition from laurisilva to pine forest. 19.12.2003.</tax:p>
+        <tax:p>30. Montana Hoya de la Vaca (N 27 ° 46.021 ’ W 17 ° 58.511 ’). 1180 m. Rural, mountain pastures. 16.12.2003.</tax:p>
+        <tax:p>31. Montana la Empalizada (N 27 ° 41.953 ’ W 18 ° 1.175 ’). 770 m. Ruderal vegetation. 18.12.2003.</tax:p>
+        <tax:p>32. Montana Tembargena (N 27 ° 43.44 ’ W 18 ° 6.51 ’). 750 m. 30.3.1989.</tax:p>
+        <tax:p>33. Pico del Malpaso (N 27 ° 44.33 ’ W 18 ° 2.89 ’). 950 m. Laurisilva. 2.4.1989.</tax:p>
+        <tax:p>34. Pie del Risco, Frontera (N 27 ° 45.91 ’ W 17 ° 59.70 ’). 150 m. Ruderal, Opuntia ficus-indica., Nicotiana glauca. 31.3.1989.</tax:p>
+        <tax:p>35. Playa de Ias Almorranas (N 27 ° 43.858 ’ W 17 ° 56.588). 2 m. Rocky beach, halophile vegetation. 1.4.1989; 19.12.2003.</tax:p>
+        <tax:p>36. Pozo de Ias Calcosas (N 27 ° 50.355 ’ W 17 ° 56.870 ’). 125 m. 16.12.2003. Highly degraded coastal matorral near the town.</tax:p>
+        <tax:p>37. Puerto de la Estaca (N 27 ° 47.169 ’ W 17 ° 54.031 ’). 2 m. Harbor. 19.12.2003.</tax:p>
+        <tax:p>38. Punta de la Dehesa (N 27 ° 46.150 ’ W 18 ° 7.621 ’). 25 m. Halophile vegetation. 30.3.1989; 17.12.2003.</tax:p>
+        <tax:p>39. Punta del Bajio (N 27 ° 46.73 ’ W 17 ° 54.30 ’). 20 m. Periploca laevigata, Senecio kleinia. 1.4.1989.</tax:p>
+        <tax:p>40. Punta del Guincho (N 27 ° 44.22 ’ W 17 ° 55.46 ’). 50 m. Abandoned fields with Euphorbia canariensis, Limonium, Astydamia, Periploca. 1.4.1989.</tax:p>
+        <tax:p>41. Punta Grande (N 27 ° 47.859 ’ W 17 ° 59.434 ’). 20 m. Halophile and ruderal vegetation and bungalow gardens. 31.3.1989; 20.12.2003.</tax:p>
+        <tax:p>42. La Restinga (N 27 ° 38 ’ W 17 ° 59.425 ’). 5 to 20 m. Fishermen small town, streets. Rocky coastal. 18.12.2003.</tax:p>
+        <tax:p>43. Tacoron (N 27 ° 38.234 ’ W 17 ° 59.428 ’). 250 m. Dry coastal matorral. 18.12.2003.</tax:p>
+        <tax:p>44. Tamaduste (N 27 º 48.131 ’ W 17 º 53.178 ’). 30 m. Town streets. 15.12.2003.</tax:p>
+        <tax:p>45. Valverde (N 27 º 49.120 ’ W 17 º 54.950 ’). 600 m. Town streets and gardens. 15.12.2003.</tax:p>
+        <tax:p>CHECK LIST</tax:p>
+        <tax:p>
+Twenty-one ant species were found, with the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+being the dominant subfamily with 11 species, followed by the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2254" source="HNS"/>Formicinae</tax:name>
+with 6 species and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2250" source="HNS"/>Dolichoderinae</tax:name>
+with two species each. Numbers after the species name indicate localities where found and collected castes: w (workers), q (queens), m (males). (*) indicates a first record for El Hierro.
+</tax:p>
+        <tax:p>
+Subfam. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+        </tax:p>
+        <tax:treatment>
+            <tax:nomenclature>
+1. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29538" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Hypoponera</dc:Genus>
+                        <dc:Species>ragusai</dc:Species>
+                    </tax:xmldata>Hypoponera ragusai (Emery)</tax:name>
+.
+</tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>
+(*) (35, w). A nest with 13 workers was recovered in the humid spot under a stone, a few meters from the sea, during the 1989 visit. No nest was found in 2003. The morphology matches the drawings of the mesosoma profile of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:149908" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Hypoponera</dc:Genus>
+                            <dc:Species>ragusai</dc:Species>
+                        </tax:xmldata>H. ragusai var. santschii Emery</tax:name>
+(Emery, 1909, without a mesopropodeal depression, although the petiole is more akin to the petiole of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29538" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Hypoponera</dc:Genus>
+                            <dc:Species>ragusai</dc:Species>
+                        </tax:xmldata>H. ragusai</tax:name>
+. The whole genus is in need of revision.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+2. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29472" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Hypoponera</dc:Genus>
+                        <dc:Species>eduardi</dc:Species>
+                    </tax:xmldata>Hypoponera eduardi (Forel)</tax:name>
+.
+</tax:nomenclature>
+            <tax:div type="distribution">
+                <tax:p>(*) (26, w). A few workers of this widespread Mediterranean species were collected under a stone on a slope of volcanic charcoal (“ picon ”).</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:p>
+Subfam. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2250" source="HNS"/>Dolichoderinae</tax:name>
+        </tax:p>
+        <tax:treatment>
+            <tax:nomenclature>
+3. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36764" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Tapinoma</dc:Genus>
+                        <dc:Species>melanocephalum</dc:Species>
+                    </tax:xmldata>Tapinoma melanocephalum (Fabricius)</tax:name>
+.
+</tax:nomenclature>
+            <tax:div type="distribution">
+                <tax:p>(*) (41, w). Running workers were detected in irrigated gardens next to recently built bungalows. This is the first record for El Hierro of this well known tramp species.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+4. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:30468" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Linepithema</dc:Genus>
+                        <dc:Species>humile</dc:Species>
+                    </tax:xmldata>Linepithema humile</tax:name>
+(May r).
+</tax:nomenclature>
+            <tax:div type="distribution">
+                <tax:p>(2, w; 8, w, m; 1 5, w; 2 3, w; 26, w; 31, w; 41, w; 44, w; 45, w). The Argentine ant is known from all the Canary Islands (Espadaler &amp; Bernal, 2003). At El Hierro it occupies habitats from next to sea level to one thousand meters, in pine forests. Confronted with the two populations known to exist in North Mediterranean Europe (Giraud et al., 2002), the Argentine ants from El Hierro showed aggressiveness towards the “ Catalan ” population and reacted peacefully towards the “ Main ” population from mainland Europe. Aggression tests (one to one worker; five replicates) were run with two samples from El Hierro (La Frontera; Mirador de las Playas). I conclude that both samples from El Hierro belong to the genotypic profile of the “ Main ” population, the more abundant in Western Mediterranean Europe.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:p>
+Subfam. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+        </tax:p>
+        <tax:treatment>
+            <tax:nomenclature>
+5. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:27338" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Cardiocondyla</dc:Genus>
+                        <dc:Species>emeryi</dc:Species>
+                    </tax:xmldata>Cardiocondyla emeryi Forel</tax:name>
+            </tax:nomenclature>
+            <tax:div type="distribution">
+                <tax:p>(*) (37, w; 41, w). This widespread tramp species was detected only at two seaside small towns, on poorly attended gardens.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+6. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:27343" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Cardiocondyla</dc:Genus>
+                        <dc:Species>mauritanica</dc:Species>
+                    </tax:xmldata>Cardiocondyla mauritanica Forel</tax:name>
+            </tax:nomenclature>
+            <tax:div type="distribution">
+                <tax:p>(1, w; 3, w, q; 11, w; 20, w; 38, w; 41, w, q). From 20 to 570 m, open dry habitats.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+7. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:28062" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Crematogaster</dc:Genus>
+                        <dc:Species>alluaudi</dc:Species>
+                    </tax:xmldata>Crematogaster alluaudi Emery</tax:name>
+            </tax:nomenclature>
+            <tax:div type="distribution">
+                <tax:p>
+(1, w; 3, w; 11, w; 12, w; 16, w; 28, w; 34, w; 36, w; 39, w; 40, w). From 20 to 760 m. The specimens from El Hierro are somewhat more pilose and the pubescence on the head, gaster and legs is more detached, than in populations from Tenerife. The enhanced pilosity and pubescence is also present in samples from the island of La Palma. This species nests in dead shrubs and is rather inconspicuous unless one happens to touch the vegetation or breaks their nest: then they rush out and come to any available surface, fiercely biting the skin. On examining the surface of leaves of Aeonium sp. (Crassulaceae) plants at Ladera Cabello, I found dead ants attached to the viscous surface. Those crassulaceous plants are a trap for flying insects: seven males of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:28062" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Crematogaster</dc:Genus>
+                            <dc:Species>alluaudi</dc:Species>
+                        </tax:xmldata>C. alluaudi</tax:name>
+, one of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36246" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Solenopsis</dc:Genus>
+                            <dc:Species>canariensis</dc:Species>
+                        </tax:xmldata>Solenopsis canariensis</tax:name>
+, one possibily of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223435" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Temnothorax</dc:Genus>
+                            <dc:Species>bimbache</dc:Species>
+                        </tax:xmldata>Temnothorax bimbache</tax:name>
+and one queen of the big 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238648" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>hesperius</dc:Species>
+                        </tax:xmldata>Camponotus hesperius</tax:name>
+were recovered from a few plants, in addition to many small flies. Crawling insects may also be trapped, as shown by the capture of two workers of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26755" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Camponotus</dc:Genus>
+                            <dc:Species>guanchus</dc:Species>
+                        </tax:xmldata>Camponotus guanchus</tax:name>
+and one small carabid beetle.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+8. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223438" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>wilsoni</dc:Species>
+                    </tax:xmldata>Monomorium wilsoni</tax:name>
+, 
+new species
+Figures. 4, 5, 6
+</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Holotype queen: TL 4.7, HL 0.98, HW 1.05, CI 106, SL 0.82, SI 78, PW 0.66, ML 1.49.</tax:p>
+                <tax:p>Queen description (Figures 5, 6). Clypeus with the anterior margin feebly concave, without differentiated teeth. Clypeal carinae very weak. Frontal lobes with longitudinal superficial striae, present also between the base of mandibles and the eyes. Mandibles with four teeth. Head broader than long. Sides of head rounded. Antennae with 12 segments and the scape reaching the occiput. The posterior margin is concave, depressed in dorsal view. Eye maximum diameter 0.21 - 0.25, about 0.20 - 0.23 x HW, with 15 - 18 ommatidia in the longest row. Eyes with curved anteriorly pilosity of 0.04 - 0.05 mm. Mesosoma apterous. Sides of pronotum visible in dorsal view. Promesonotal dorsum in profile see fig. Scutellum saddle-shaped, rounded in profile. No traces of tegulae in the&gt; 25 queens from 10 nests examined. Seen from above, petiole width 0.40 - 0.46, in profile with a posterior dorsal node two-faced. Postpetiole width 0.44 - 0.52, in profile with a vaulted node and a short ventral point. Whole body with a long pilosity. Whole body shining, with alutaceous microsculpture. Sides of propodeum and katepisternum with a fine reticulum. Declivitous face of propodeum transversely striate. General color brown. Mandibles, pronotum, anepisternum and metanotum reddish, contrasting with the brownish propodeum. Gaster blackish brown.</tax:p>
+                <tax:p>Worker description (Fig. 4). Clypeus as in the queen. Mandibles with 2 - 4 poorly developed longitudinal striae and four teeth, decreasing in size from apex to base. Palp formula 2, 2. Head longer than wide. Sides of head very slightly curved; vertex margin straight or very feebly concave. Scape surpassing the posterior border. Eye maximum diameter 0.12 - 0.14, about 0.23 - 0.27 x HW, with 9 - 11 ommatidia in the longest row. Promesonotal dorsum in profile with a well marked metanotal groove. Declivitous face of propodeum shallowly concave. Petiole higher than postpetiole. Anterior border of clypeus with a middle seta and 3 - 4 pairs of diminishing size towards the lateral margins. Median portion of clypeus with one pair directed anteriad and two pairs directed upwards. Dorsum of head with two pairs of standing hairs: one pair situated at the distal end of frontal lobes and one pair in midline of the head. Sometimes, a pair of shorter hairs is present between this last pair and the posterior margin. Posterior margin and dorsal mesosoma without standing hairs. Underside of head with 6 - 10 hairs of variable length. Petiole without hairs; postpetiole with 2 - 4 hairs directed posteriad. First gastral tergite with 0 - 2 hairs in front of the apical row. Dorsum of head shining, with piligerous pits and a very superficial alutaceous sculpture. Mesosoma shining. Sides and dorsum of propodeum, entire mesopleura and posterior half of propleura with visible reticulation that becomes increasingly superficial towards the anterior part of mesosoma. Body color brown with mandibles, antennomeres 3 - 12, lower half of petiole and postpetiole distinctly brownish red.</tax:p>
+                <tax:p>Additional paratype measurements, Workers: TL 2.4 - 2.7, HL 0.63 - 0.70, HW 0.50 - 0.57, CI 79 - 82, SL 0.57 - 0 - 62, SI 107 - 113, PW 0.32 - 0.36, ML 0.74 - 0.82. Queens: TL 4.7 - 5.1, HL 0.97 - 1.01, HW 1.01 - 1.06, CI 104 - 108, SL 0.82 - 0.84, SI 77 - 81, PW 0.64 - 0.68, ML 1.43 - 1.51.</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>Holotype
+queen: 
+Spain
+, 
+Canary Islands
+, 
+El Hierro
+, 
+Ermita de la Pena
+(
+N 27 º 48.091 ’W 17 º 58.779 ’
+). 760 m. 
+Rural, mountain pasture
+. 
+16.12.2003
+. (
+X. Espadaler
+), presently deposited in my personal collection (
+XEPC
+). 
+Paratypes
+. 16 workers, 8 queens, all same data as 
+holotype
+. In eight pins, each pin with 2 workers, one female (queens), deposited in 
+LACM
+, 
+MCNC
+, 
+MCZC
+and 
+XEPC
+.
+</tax:p>
+                <tax:p>Additional specimens examined: 1, w; 3, w, q; 4, w, q; 8, w, q; 9, w; 10, w; 11, w, q; 12, w, q; 17, w; 18, w; 19, w, q; 21, w; 22, w; 28, w, q; 29, w, q; 32, w; 39, w, q; 41, w, q</tax:p>
+            </tax:div>
+            <tax:div type="etymology">
+                <tax:p>Etymology. This species is named in honor of, and gratefulness to, Prof. Edward Osborne Wilson.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>
+Remarks. The species is a member of the salomonis-group as defined by Bolton (1987). The closest relatives of this species belong to the whole group of endemic 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+from the Canary Islands, which have differentiated into a minimum of five species (unpublished observations). Specific differences are best appreciated in the apterous queen caste, in the density and length of pilosity, shape of mesosoma, petiole and postpetiole, and biometry. In the apterous queens of the species from the Canary Islands a cline can be established in which the more dense the pilosity, the shorter is, and the more advanced are queens in the stage towards an ergatoid condition. Variation in pilosity is best appreciated in head profile, petiole and postpetiole in dorsal view. The most modified species is 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31590" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>hesperium</dc:Species>
+                        </tax:xmldata>M. hesperium Emery</tax:name>
+, in which queens are the smallest among the group in the Canary Islands and are next to completely smooth and shining and hairs are very long and comparatively sparse. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31647" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>medinae</dc:Species>
+                        </tax:xmldata>M. medinae Forel</tax:name>
+, instead, is the most densely pilose but hairs are very short and head sculpture is more developed, as is also in the mesopleurae. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223438" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>wilsoni</dc:Species>
+                        </tax:xmldata>M. wilsoni</tax:name>
+is intermediate in pilosity density and length. The head is wider than in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31647" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>medinae</dc:Species>
+                        </tax:xmldata>M. medinae</tax:name>
+or 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31590" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>hesperium</dc:Species>
+                        </tax:xmldata>M. hesperium</tax:name>
+. The mesosomal profile, especially the propodeum, the development of scutum and scutellum (side view) and the form of the strange petiole and postpetiole are also characteristic for each species. This peculiar modified thoracic structure is known in other 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+species and has been related to nest founding by budding (Bolton, 1986). Material is being collected for a revision of the entire group of endemic Macaronesian 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                        </tax:xmldata>Monomorium</tax:name>
+.
+</tax:p>
+            </tax:div>
+            <tax:div type="biology_ecology">
+                <tax:p>
+Natural history. This is one of the most abundant ants at El Hierro. I collected it from sea level and up to 1300 m, under stones in open, dry, coastal habitats and up to the humid pine and laurel forests. This wide ecological plasticity is found also in its congener 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31520" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Monomorium</dc:Genus>
+                            <dc:Species>carbonarium</dc:Species>
+                        </tax:xmldata>M. carbonarium</tax:name>
+in Madeira (unpub. observ.) and the Azores (Wetterer et al., 2004). Highly distinctive, the huge numbers of dark and shining workers attack and sting fiercely. No special skin reaction follows. The species is polygynous.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+9. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31728" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>subopacum</dc:Species>
+                    </tax:xmldata>Monomorium subopacum (F. Smith)</tax:name>
+            </tax:nomenclature>
+            <tax:div type="distribution">
+                <tax:p>(*) (22, w q; 34, w; 35, w q m; 37, w; 40, w). From sea level to a single outpost at 850 m, the Mirador de Isora, a highly degraded site.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+10. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:34046" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Pheidole</dc:Genus>
+                        <dc:Species>teneriffana</dc:Species>
+                    </tax:xmldata>Pheidole teneriffana Forel</tax:name>
+            </tax:nomenclature>
+            <tax:div type="distribution">
+                <tax:p>(*) (37, w). A nest with winged males was detected on cracks in the pavement. Ants rushed out after a small air blow with the aspirator.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+11. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36246" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Solenopsis</dc:Genus>
+                        <dc:Species>canariensis</dc:Species>
+                    </tax:xmldata>Solenopsis canariensis Forel</tax:name>
+            </tax:nomenclature>
+            <tax:div type="distribution">
+                <tax:p>
+(*) (2, w; 6, w q; 10, w; 11, w; 16, w; 18, w; 39, w). From 20 to 1300 m, cryptic and underground nesting species. The whole group of small yellow species of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24903" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Solenopsis</dc:Genus>
+                        </tax:xmldata>Solenopsis</tax:name>
+is in need of a revisionary study. The small, smooth, shining and morphologically convergent workers are extremely similar and sexuals seem to be the proper phenotype on which to base a sound taxonomy.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+12. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:183636" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Temnothorax</dc:Genus>
+                        <dc:Species>gracilicornis</dc:Species>
+                    </tax:xmldata>Temnothorax gracilicornis (Emery)</tax:name>
+            </tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>
+(5, w q; males eclosed in the laboratory). Three colonies from this Canarian endemic were collected: two were nesting under mosses on a stone; the third was nesting under a small stone. The morphology and coloration of workers and queens fits the description of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:30252" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Leptothorax</dc:Genus>
+                            <dc:Species>gracilicornis</dc:Species>
+                        </tax:xmldata>L. gracilicornis</tax:name>
+, not of the darker and shinier var. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:150176" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Leptothorax</dc:Genus>
+                            <dc:Species>gracilicornis</dc:Species>
+                        </tax:xmldata>nivarianus</tax:name>
+Santschi, that Wellenius (1955) collected at Frontera. As I have not seen type material of both taxa and samples from Tenerife show varying coloration — from yellow to brownish, thus including both names — and body surface shininess, I refer the samples of El Hierro to the nominal species. This is not a formal proposal of synonymy.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+13. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223435" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Temnothorax</dc:Genus>
+                        <dc:Species>bimbache</dc:Species>
+                    </tax:xmldata>Temnothorax bimbache</tax:name>new species
+Figures 1, 2, 3
+</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Holotype worker: TL 3.7, HL 0.89, HW 0.73, CI 82, SL 0.78, SI 106, PW 0.52, ML 1.14.</tax:p>
+                <tax:p>Worker description (F i gs. 1, 2). Mandibles with fine longitudinal sculpture. Palp formula 5, 3. Clypeal margin convex and with a broad medial band smooth and shining. Median clypeal carina absent. Eyes large, maximum diameter 0.20 - 0.26, about 0.29 - 0.33 x HW, with 16 - 19 ommatidia in the longest row. Micropilosity present. Head in full-face view oval-shaped. Vertex margin slightly convex, with a slightly projecting rim visible in full-face view; posterolateral corners rounded. With mesosoma in profile the promesonotum evenly convex, the metanotal area with a shallowly impressed groove; propodeum with two long spines. Buschinger ’ s index 3.6. Femora strongly inflated. Petiole in profile with a slender neck and a broadly rounded and big node. An acute and long, directed anteriorly, subpetiolar process. Postpetiole in profile rounded and with a short posterior neck. In dorsal view the petiole node is oval-shaped, longer than wide. Postpetiole wider than long. Head sculpture: widely spaced longitudinal rugulae, with spaces smooth and shining or with vestiges of ground-sculpture. Rugulae reaching the vertex. Seven rugulae between frontal carinae. The area behind the eyes shows some irregular cross-meshes. Dorsum of promesonotum with a few longitudinal rugae, the space between them smooth and shining. Sides of mesosoma with irregular longitudinal rugae and a fine reticulum between them, but otherwise shining. Metanotal and propodeal dorsum without rugae, smooth and shining. Petiole with a pair of short rugae in the declivity to the neck and with a fine superficial shagreening, also present in the postpetiole. Gaster smooth and shining but for the hair pits. All dorsal surfaces of head and body with slightly curved or straight hairs wich are shorter on the head. Appendages without such long hairs. Longest pronotal hair 0.12. Bicolored, with the head and gaster deep brown. Legs brownish, contrasting with the orange-reddish mesosoma. The mesopleurae vary from pure red to brownish. Mandibles, antennae, orange. Petiole orange to brownish. Pospetiole brownish.</tax:p>
+                <tax:p>Queens (Fig. 3) follow the usual differences from workers. A main variation is the petiole shape, rather triangular in profile. The anterior medial zone of the scutum is infuscated, as are the two zones proximal to the tegulae.</tax:p>
+                <tax:p>Additional paratype measurements. Workers: TL 3.4 - 4.1, HL 0.88 - 0.96, HW 0.70 - 0.80, CI 78 - 85, SL 0.70 - 0.76, SI 94 - 103, PW 0.50 - 0.56, ML 1.09 - 11.19. Queens: TL 4.9 - 5.5, HL 0.96 - 1.02, HW 0.84 - 0.92, CI 87 - 90, SL 0.76 - 0.80, SI 85 - 90, scutum width 0.92 - 1.02, ML 1.53 - 1.69.</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>Holotype
+worker: 
+Spain
+, 
+Canary Islands
+, 
+El Hierro
+, 
+Punta de la Dehesa
+, 50 m, 
+N 27 º 46.150 ’W 18 º 7.621 ’
+, 
+17 
+December 2003
+, under small volcanic stone (
+X. Espadaler
+), presently deposited in my personal collection. 
+Paratypes
+. 32 workers, 16 queens, all same data as 
+holotype
+. On sixteen pins, each pin with 2 workers, one female (queens), deposited in 
+LACM
+, 
+MCNC
+, 
+MCZC
+, 
+XEPC
+.
+</tax:p>
+                <tax:p>Additional specimens examined: 16, w; 38, w q.</tax:p>
+            </tax:div>
+            <tax:div type="etymology">
+                <tax:p>Etymology. The species is named after the “ bimbaches ”, as were named the former aboriginal people, cave-inhabitants of El Hierro.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>
+Remarks. The closest relative of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238650" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Leptothorax</dc:Genus>
+                            <dc:Species>bimbache</dc:Species>
+                        </tax:xmldata>L. bimbache</tax:name>
+, which shows the same bicolored pattern, is 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:30372" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Leptothorax</dc:Genus>
+                            <dc:Species>risi</dc:Species>
+                        </tax:xmldata>L. risi Forel</tax:name>
+, found in Tenerife and Gran Canaria. This last species is larger and has much shorter spines, a stouter petiole node and less shining head surface sculpture. Another related species is L. neminan Espadaler, from the Anti-Atlas mountains in Morocco, that has similarly long spines but is smaller, and a dull surface sculpture and distinctly lower petiole node.
+</tax:p>
+            </tax:div>
+            <tax:div type="biology_ecology">
+                <tax:p>
+Natural history. Four nests were found under blackish, porous, volcanic, small stones. Nest situation showed a peculiar orientation: the stones were protected by vegetation and placed in the northern face. The ants occupied the first two cm of soil but also the holes and voids of the volcanic stone. Winged females eclosed at the laboratory in April and 
+May 2004
+.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+14. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36928" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Tetramorium</dc:Genus>
+                        <dc:Species>caldarium</dc:Species>
+                    </tax:xmldata>Tetramorium caldarium (Roger)</tax:name>
+            </tax:nomenclature>
+            <tax:div type="materials_examined">
+                <tax:p>(*) (37, w; 41, w). This tramp ant was collected only from two urban sites.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+15. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238647" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Tetramorium</dc:Genus>
+                        <dc:Species>depressum</dc:Species>
+                    </tax:xmldata>Tetramorium depressum Forel</tax:name>
+(
+new status
+)
+</tax:nomenclature>
+            <tax:div type="distribution">
+                <tax:p>
+(3, w; 4, w; 9, w; 11, w; 13, w; 14, w; 22, w; 26, w; 27, w; 30, w; 33, w; 39, w; 40, w; 41, w). Forel (( 1892) described this ant as a subspecies of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37211" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Tetramorium</dc:Genus>
+                            <dc:Species>semilaeve</dc:Species>
+                        </tax:xmldata>T. semilaeve Andre</tax:name>
+. In addition to the head surface differences already noted by Forel, both taxa have different male genitalia and head worker sculpture and are here formally proposed as distinct species. From 20 to 1300 m although big, populous nests are found at the higher altitudes, usually under stones. The few nests located in the drier coast seemed to be in a miserable and suffering state, with a small number of workers. But for a smaller size the morphology of lowland populations was indistinguishable from other populations.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:p>
+Subfam. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2254" source="HNS"/>Formicinae</tax:name>
+        </tax:p>
+        <tax:treatment>
+            <tax:nomenclature>
+16. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238649" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Camponotus</dc:Genus>
+                        <dc:Species>feai</dc:Species>
+                    </tax:xmldata>Camponotus feai Emery</tax:name>
+            </tax:nomenclature>
+            <tax:div type="distribution">
+                <tax:p>(3, w; 8, w q; 14, w, q; 18, w; 22, w q; 28, w q; 35, w q; 36, w; 38, w; 39, w; 40, w; 41, w; 42, w; 43, w). Low to mid altitude species: sea level to 1000 m (a southern, very dry slope). All populations from El Hierro belong to the homogeneous black phenotype; some populations from other islands show a remarkable variation in color of head and thorax, from pure black to a splendid red.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+17. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238648" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Camponotus</dc:Genus>
+                        <dc:Species>hesperius</dc:Species>
+                    </tax:xmldata>Camponotus hesperius Emery</tax:name>
+            </tax:nomenclature>
+            <tax:div type="distribution">
+                <tax:p>(2, w q; 5, w; 6, w q; 9, w; 10, w q; 11, w; 12, w; 13, w q; 16, w; 24, w q; 25, w; 27, w). This big and beautiful shining species is usually found from mid to high altitude, up to 1300 m, the lowest point at 200 m. Usually soil nesting, it can be found under stones also in very humid spots on volcanic charcoal.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+18. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26755" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Camponotus</dc:Genus>
+                        <dc:Species>guanchus</dc:Species>
+                    </tax:xmldata>Camponotus guanchus Santschi</tax:name>
+            </tax:nomenclature>
+            <tax:div type="distribution">
+                <tax:p>
+(11, w q m; 16, w m). Nests were found in dead wood and rock crevices at the thermophile juniper forest. In 
+December 2003
+, winged queens and males were present inside the nests. This Canarian species is known from the islands of Tenerife, La Palma and El Hierro.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+19. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33495" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Paratrechina</dc:Genus>
+                        <dc:Species>longicornis</dc:Species>
+                    </tax:xmldata>Paratrechina longicornis (Latreille)</tax:name>
+            </tax:nomenclature>
+            <tax:div type="distribution">
+                <tax:p>(*) (14, w; 20, w; 34, w q; 37, w; 41, w; 42, w; 44, w). This lowland species is found only in urban parks or suburban dirty habitats.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+20. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33487" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Paratrechina</dc:Genus>
+                        <dc:Species>jaegerskioeldi</dc:Species>
+                    </tax:xmldata>Paratrechina jaegerskioeldi (Mayr)</tax:name>
+            </tax:nomenclature>
+            <tax:div type="distribution">
+                <tax:p>
+(*) (41, w). Workers were collected running amid the steps in the recently built bungalows where 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36764" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Tapinoma</dc:Genus>
+                            <dc:Species>melanocephalum</dc:Species>
+                        </tax:xmldata>Tapinoma melanocephalum</tax:name>
+was also recovered. It was previously known from the island of Tenerife (Espadaler &amp; Bernal, 2003).
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+21. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:142796" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Plagiolepis</dc:Genus>
+                        <dc:Species>maura</dc:Species>
+                    </tax:xmldata>Plagiolepis maura Santschi</tax:name>
+cf.
+</tax:nomenclature>
+            <tax:div type="distribution">
+                <tax:p>
+(1, w q m; 18, w; 22, w q; 28, w q; 31, w q; 34, w m; 35, w; 36, w q; 37, w; 38, w; 39, w; 41, w q; 44, w). This is a frequent ant at low altitudes although it was collected also at 600 m and 850 m. Nests are in soil, usually under stones or small wood debris. This identification is provisional. I have not used the name 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:142809" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Plagiolepis</dc:Genus>
+                            <dc:Species>barbara</dc:Species>
+                            <dc:Subspecies>canariensis</dc:Subspecies>
+                        </tax:xmldata>P. barbara canariensis</tax:name>
+, used by Wellenius (1955) for his samples from El Hierro, because males and females of this species are much larger; in addition, the conspecificity of this last taxon with 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:34202" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Plagiolepis</dc:Genus>
+                            <dc:Species>schmitzii</dc:Species>
+                        </tax:xmldata>P. schmitzii</tax:name>
+is highly probable (unpublished observations). This species has been exceedingly difficult to deal with. The West Mediterranean 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24789" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Plagiolepis</dc:Genus>
+                        </tax:xmldata>Plagiolepis</tax:name>
+sorely need a complete revision, as what follows attest. The key characteristic is aptery in sexuals: in early spring, small males were present in a nest at Arenas Blancas, running very rapidly. Its apterous aspect, suggested at first a social parasite. Thereafter, as all queens from El Hierro showed also to be apterous, their true nature was evident. Sexuals are not ergatoid: but for the lack of wings they have the characteristic male and gyne morphology. At Pie del Risco, one fully winged male was collected. This is the first free-living formicine ant in which wingless males have been noted. After checking material from other islands, it was soon clear that this is best interpreted as a case of wing polymorphism: in queens from the islands of Gran Canaria and La Gomera there is a variable degree of thoracic simplification, from a complete winged thorax to an apterous morphology, lacking tegulae and with a fused scutum and scutellum. An enhanced pilosity in pronotum and scutellum seems to be correlated with thorax simplification.
+</tax:p>
+                <tax:p>
+Aptery in ant males and queens has appeared independently several times under distinct selective pressures and its functional significance is also diverse (Heinze &amp; Ysuji, 1995; Espadaler 1997). Two other species in the genus 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24789" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Plagiolepis</dc:Genus>
+                        </tax:xmldata>Plagiolepis</tax:name>
+are known to have wingless males (
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:34213" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Plagiolepis</dc:Genus>
+                            <dc:Species>xene</dc:Species>
+                        </tax:xmldata>P. xene Staercke</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:34157" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Plagiolepis</dc:Genus>
+                            <dc:Species>ampeloni</dc:Species>
+                        </tax:xmldata>P. ampeloni (Faber)</tax:name>
+or wingless females (
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:34157" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Plagiolepis</dc:Genus>
+                            <dc:Species>ampeloni</dc:Species>
+                        </tax:xmldata>P. ampeloni</tax:name>
+) although this is probably related with the parasitic life of both species. It is legitimate to speculate on wing loss though none of the hypotheses exposed in Wagner &amp; Liebherr (1992) seems to apply in this case. Habitat stability is not applicable because of the recent volcanic eruptions and large-scale landslides at El Hierro (Gee et al., 2001). Habitat isolation neither seems to be appropriate as the numerous sites where this species has been collected attest. The energetic cost of flight is also to be rejected: El Hierro has not a cold climate and, even if the prevailing trade winds, from the Southwest are high, this admittedly ad-hoc explanation is invalidated by the fact that the similarly sized males and females of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36246" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Solenopsis</dc:Genus>
+                            <dc:Species>canariensis</dc:Species>
+                        </tax:xmldata>Solenopsis canariensis</tax:name>
+have retained full wings. The possibility of winged queens at El Hierro cannot be rejected.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:p>DISCUSSION</tax:p>
+        <tax:p>El Hierro is the youngest of the Canary Islands. Thus, one would expect it to be the island with a lesser degree of endemic species. Instead, as Izquierdo et al. (2001: 23) show, it has the highest percentage of endemics, whether considering all terrestrial species of the whole Canary Islands (24.6 %) or only the Insecta (40.6 %). It has a similar level of endemic vascular flora (18.4 %) as La Palma, Gomera or Tenerife. On the contrary, if we consider only the subset of Canarian endemics, and the endemics strictly found in a single island, El Hierro has the lowest percentage (15.7) of this last selective group. This seemingly contradictory pattern is probably caused by its young age and by the paucity of colonization events given the main direction of the southwest blowing trade winds.</tax:p>
+        <tax:p>Natives and exotics</tax:p>
+        <tax:p>
+Seven ant species I consider as exotics on El Hierro:, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:27338" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Cardiocondyla</dc:Genus>
+                    <dc:Species>emeryi</dc:Species>
+                </tax:xmldata>Cardiocondyla emeryi</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:34046" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pheidole</dc:Genus>
+                    <dc:Species>teneriffana</dc:Species>
+                </tax:xmldata>Pheidole teneriffana</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36928" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Tetramorium</dc:Genus>
+                    <dc:Species>caldarium</dc:Species>
+                </tax:xmldata>Tetramorium caldarium</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33495" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Paratrechina</dc:Genus>
+                    <dc:Species>longicornis</dc:Species>
+                </tax:xmldata>Paratrechina longicornis</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33487" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Paratrechina</dc:Genus>
+                    <dc:Species>jaegerskioeldi</dc:Species>
+                </tax:xmldata>P. jaegerskioeldi</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36764" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Tapinoma</dc:Genus>
+                    <dc:Species>melanocephalum</dc:Species>
+                </tax:xmldata>Tapinoma melanocephalum</tax:name>
+, and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:30468" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Linepithema</dc:Genus>
+                    <dc:Species>humile</dc:Species>
+                </tax:xmldata>Linepithema humile</tax:name>
+. But for the last species, the other are new records for the island; not a good prospect. Fortunately, those exotics are restricted to heavily disturbed habitats, the streets and gardens, with the exception of the Argentine ant that, in addition, can occupy habitats rather well preserved, as the extensive southern pine forests in the surroundings of El Pinar. Probably only this last species is of some concern in conservation terms.
+</tax:p>
+        <tax:p>Future research</tax:p>
+        <tax:p>
+It is difficult to ascertain the completeness of any inventory if, as mine, it is based on a nonsystematic and non-quantitative sampling scheme. The ant species number of El Hierro, given the small island size, is probably rather complete in the native complement; exotic species such as 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31685" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>pharaonis</dc:Species>
+                </tax:xmldata>Monomorium pharaonis</tax:name>
+or 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:33860" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pheidole</dc:Genus>
+                    <dc:Species>megacephala</dc:Species>
+                </tax:xmldata>Pheidole megacephala</tax:name>
+, already known from other Canary Islands (Espadaler &amp; Bernal 2003), the Azores (Wetterer et al., 2004) or Madeira (unpublished observations), can arrive haphazardly and establish in urbanized habitats. A few taxonomic problems remain: the specific identity of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24789" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Plagiolepis</dc:Genus>
+                </tax:xmldata>Plagiolepis</tax:name>
+, with the aptery problem at its center, deserves an all Canary Islands sampling program, in concert with a revision of the West-Mediterranean 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24789" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Plagiolepis</dc:Genus>
+                </tax:xmldata>Plagiolepis</tax:name>
+. The population of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29538" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Hypoponera</dc:Genus>
+                    <dc:Species>ragusai</dc:Species>
+                </tax:xmldata>Hypoponera ragusai</tax:name>
+is a taxon still to be settled, pending a revision of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24837" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Hypoponera</dc:Genus>
+                </tax:xmldata>Hypoponera</tax:name>
+. The proper evaluation of the morphological differences of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:28062" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Crematogaster</dc:Genus>
+                    <dc:Species>alluaudi</dc:Species>
+                </tax:xmldata>Crematogaster alluaudi</tax:name>
+merits intensive collecting as El Hierro, in spite of being the youngest island, may have already produced some genetic segregation. Pestano et al., (2003) found substantial molecular differentiation in populations of some bat species from El Hierro as compared with bats from other Canary Islands. Lastly, the finding of the male caste in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223438" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>wilsoni</dc:Species>
+                </tax:xmldata>Monomorium wilsoni</tax:name>
+would allow a complete specific description.
+</tax:p>
+        <tax:p>The laurisilva, a most interesting but poorly studied habitat is somehow deceptive in its speciespoor myrmecofauna. I have had the same deceiving impression when visiting other Macaronesian islands. This scarcity is probably due to the dense canopy that intercepts nearly all incoming radiation (Aschan et al., 1994) thus rendering difficult ant nesting.</tax:p>
+        <tax:p>
+The endemic 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+from the Canary Islands offer an interesting specific diversification on which to establish morphological and molecular phylogenies, and deduce sequential colonization of the islands, as did Juan et al., (1996) with the beetle genus Hegeter.
+</tax:p>
+        <tax:p>ACKNOWLEDGEMENTS</tax:p>
+        <tax:p>Rafael Rodriguez and the late Cristina Vicente were kind companions during the first field excursion in 1989. Thanks are due to Pere Oromi (La Laguna, Tenerife) for a critical reading of a first draft. Partial funding was provided by the National Geographic Society and private funds.</tax:p>
+        <tax:p>LITERATURE CITED</tax:p>
+        <tax:p>Aschan, G., Jimenez, M. S., Morales, D. &amp; Loesch, R. 1994. Aspectos microclimaticos de un bosque de laurisilva en Tenerife. Vieraea 23: 125 - 141.</tax:p>
+        <tax:p>
+Barquin, J. 1981. Las hormigas de Canarias. Taxonomia, ecologia y distribucion de los 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+. Coleccion Monografias (Secr. Publ. Univ. La Laguna) 3: 1 - 584.
+</tax:p>
+        <tax:p>Bhatkar, A. P. &amp; Whitcomb, W. H. 1970. Artificial diet for rearing various species of ants. Florida Entomologist 53: 229 - 232.</tax:p>
+        <tax:p>
+Bolton, B. 1982. Afrotropical species of the myrmicine ant genera 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2513" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Cardiocondyla</dc:Genus>
+                </tax:xmldata>Cardiocondyla</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2521" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Leptothorax</dc:Genus>
+                </tax:xmldata>Leptothorax</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24810" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Melissotarsus</dc:Genus>
+                </tax:xmldata>Melissotarsus</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24881" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Messor</dc:Genus>
+                </tax:xmldata>Messor</tax:name>
+and Cataulacus (
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Bulletin of the British Museum (Natural History) Entomology 45: 307 - 370.
+</tax:p>
+        <tax:p>Bolton, B. 1986. Apterous females and shift of dispersal strategy in the Monomorium salomonis group. Journal of Natural History 20: 267.272.</tax:p>
+        <tax:p>
+Bolton, B. 1987. A review of the Solenopsis-genus group and a revision of the Afrotropical 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24899" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                </tax:xmldata>Monomorium</tax:name>
+Mayr (Hymenoptera: Forrmicidae). Bulletin of the British Museum (Natural History) Entomology 54: 263 - 452.
+</tax:p>
+        <tax:p>
+Bolton, B. 2003. Synopsis and classification of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+. Memoirs of the American Entomological Institute 71: 1 - 370.
+</tax:p>
+        <tax:p>
+Buschinger, A. 1966. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238651" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Leptothorax</dc:Genus>
+                    <dc:Species>muscorum</dc:Species>
+                </tax:xmldata>Leptothorax (Mychothorax) muscorum</tax:name>
+Nylander und 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238652" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Leptothorax</dc:Genus>
+                    <dc:Species>gredleri</dc:Species>
+                </tax:xmldata>Leptothorax (M.) gredleri</tax:name>
+Mayr, zwei gute arten. Insectes Sociaux 13: 165 - 162.
+</tax:p>
+        <tax:p>
+Cagniant, H. &amp; Espadaler, 
+X. 1993
+. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:26755" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>guanchus</dc:Species>
+                </tax:xmldata>Camponotus guanchus Santschi</tax:name>
+, 1908, 
+stat. nov.
+et etudes des populations de 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:27179" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Camponotus</dc:Genus>
+                    <dc:Species>sicheli</dc:Species>
+                </tax:xmldata>Camponotus sicheli Mayr</tax:name>
+, 1866 (Hymenoptera, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Journal of African Zoology 107: 419 - 438
+</tax:p>
+        <tax:p>
+Espadaler, 
+X. 1982
+. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:140479" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Xenhyboma</dc:Genus>
+                    <dc:Species>mystes</dc:Species>
+                </tax:xmldata>Xenhyboma mystes</tax:name>
+Santschi, 1919 = 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:31647" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Monomorium</dc:Genus>
+                    <dc:Species>medinae</dc:Species>
+                </tax:xmldata>Monomorium medinae Forel</tax:name>
+, 1892. Evidence biologique de la synonymie (Hymenoptera, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Nouvelle Revue d ’ Entomologie (N. S.) 12: 111 - 113.
+</tax:p>
+        <tax:p>
+Espadaler, 
+X. 1997
+. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:157152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Leptothorax</dc:Genus>
+                    <dc:Species>caesari</dc:Species>
+                </tax:xmldata>Leptothorax caesari</tax:name>sp. n.
+(Insecta: Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+), a granivore with apterous males. Annalen der Naturhistorisches Museum Wien B. Bot. Zool. 99: 145 - 150.
+</tax:p>
+        <tax:p>
+Espadaler, X. &amp; Bernal, 
+V. 2003
+. Exotic ants in the Canary Islands (Hymenoptera, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Vieraea 31: 1 - 7.
+</tax:p>
+        <tax:p>Emery, C. 1908. Beitraege zur Monographie der Formiciden des palaearktischen Faunengebietes. (Hym.) Teil VIII. Deutsche Entomologische Zeitschrift 1909: 355 - 376.</tax:p>
+        <tax:p>
+Gaisberg, M. v. &amp; Wagenitz, G. 2002: Carduus baeocephalus subsp. microstigma Gaisberg &amp; Wagenitz, a 
+new subspecies
+from the Canary Islands (Cardueae, Carduinae) – a facultative autogamous descendant of Carduus baeocephalus Webb subsp. baeocephalus. Candollea 57: 271 - 282.
+</tax:p>
+        <tax:p>Gee, M. J. R., Watts, A. B., Masson, D. G. &amp; Mitchell, N. C. 2001. Landslides and the evolution of El Hierro in the Canary Islands. Marine Geology 177: 271 - 293.</tax:p>
+        <tax:p>Giraud, T., Pedersen, J. S. &amp; Keller, L. 2002. Evolution of supercolonies: the Argentine ants of southern Europe. Proceedings of the National Academy of Sciences of the United States of America 99: 6075 – 6079.</tax:p>
+        <tax:p>Guillou, H., Carracedo, J. C., Torrado, F. P., &amp; Badiola, E. R. 1996. K-Ar ages and magnetic stratigraphy of a hotspot-induced, fase grown oceanic island-El Hierro, Canary Islands. Journal of Volcanology and Geothermal Research 73: 141 - 155.</tax:p>
+        <tax:p>Heinze, J. &amp; Tsuji, K. 1995. Ant reproductive strategies. Research in Population Ecology 37: 135 - 149.</tax:p>
+        <tax:p>Izquierdo, I., Martin, J. L., Zurita, M. &amp; Arechavaleta, M. (eds.). 2001. Lista de especies silvestres de Canarias (hongos, plantas y animales terrestres). Consejeria de Politica Territorial y Medio Ambiente. Gobierno de Canarias. 437 pp.</tax:p>
+        <tax:p>
+Juan, C., Oromi, P. &amp; Hewitt, M. 1996. Phylogeny of the genus Hegeter (
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:15347" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Tenebrionidae</dc:Family>
+                </tax:xmldata>Tenebrionidae</tax:name>
+, Coleoptera) and its colonization of the Canary Islands deduced from cytochrome oxidase I mithocondrial DNA squences. Heredity 76: 392 - 403.
+</tax:p>
+        <tax:p>Juan, C., Emerson, B., Oromi, P., &amp; Hewitt, G. M. 2000. Colonization and diversification: towards a phylogeographic synthesis fort he Canary Islands. Trends in Ecology and Evolution 15: 104 - 109.</tax:p>
+        <tax:p>Pestano, J., Brown, R. P., Suarez, N. M. &amp; Fajardo, S. 2003. Phylogeography of pipistrelle-like bats within the Canary Islands, based on mtDNA sequences. Molecular Phylogeny and Evolution 26: 56 - 63.</tax:p>
+        <tax:p>
+Scholz, H., Stierstorfer, Ch. &amp; Gaisberg, M. 
+v. 2000
+: Lolium edwardii 
+sp. nova
+(Gramineae) and its relationship with Schedonorus sect. Plantynia Dumort. Feddes Repertorium 111: 561 - 565
+</tax:p>
+        <tax:p>Wagner, D. L. &amp; Liebherr, J. K. 1992. Flightlessness in insects. Trends in Ecology and Evolution 7: 216 - 220.</tax:p>
+        <tax:p>
+Wellenius, O. 1955. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+insularum Canariensium. Societas Scientiarum Fennica, Commentationes Biologicae 15 (8): 1 - 20.
+</tax:p>
+        <tax:p>
+Wetterer, J., Espadaler, X., Wetterer, A. &amp; Cabral, S .. 2004. Native and exotic ants of the Azores (Hymenoptera, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Sociobiology 44: 1 - 19.
+</tax:p>
+        <tax:p>Wheeler, W. M. 1927. The ants of the Canary Islands. Proceedings of the American Academy of Arts and Sciences 62: 93 - 120.</tax:p>
+        <tax:p>Wilson, E. O. 1989. The coming pluralization of biology and the stewardship of systematics. BioScience 39: 242 - 245.</tax:p>
+        <tax:figure>
+            <tax:p>
+Figure 1. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223435" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Temnothorax</dc:Genus>
+                        <dc:Species>bimbache</dc:Species>
+                    </tax:xmldata>Temnothorax bimbache</tax:name>
+. Worker profile.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figure 2. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223435" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Temnothorax</dc:Genus>
+                        <dc:Species>bimbache</dc:Species>
+                    </tax:xmldata>Temnothorax bimbache</tax:name>
+, worker, profile of petiole and postpetiole.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figure 3. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223435" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Temnothorax</dc:Genus>
+                        <dc:Species>bimbache</dc:Species>
+                    </tax:xmldata>Temnothorax bimbache</tax:name>
+. Queen profile.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figure 4. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223438" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>wilsoni</dc:Species>
+                    </tax:xmldata>Monomorium wilsoni</tax:name>
+. Worker profile.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figure 5. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223438" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>wilsoni</dc:Species>
+                    </tax:xmldata>Monomorium wilsoni</tax:name>
+. Queen, profile.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figure 6. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:223438" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Monomorium</dc:Genus>
+                        <dc:Species>wilsoni</dc:Species>
+                    </tax:xmldata>Monomorium wilsoni</tax:name>
+. Queen, profile of propodeum, petiole and postpetiole
+    </tax:p>
+        </tax:figure>
+    </tax:taxonxBody>
+</tax:taxonx>

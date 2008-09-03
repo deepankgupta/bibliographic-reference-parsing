@@ -1,0 +1,1906 @@
+<tax:taxonx xmlns:dc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.taxonx.org/schema/v1 http://www.taxonx.org/schema/v1/taxonx1.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-1.xsd http://digir.net/schema/conceptual/darwin/2003/1.0 http://digir.net/schema/conceptual/darwin/2003/1.0/darwin2.xsd">
+    <tax:taxonxHeader>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>The Myrmica punctiventris and M. crassirugis species groups in the Nearctic region.</mods:title>
+            </mods:titleInfo>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:name type="personal">
+                <mods:role>
+                    <mods:roleTerm>Author</mods:roleTerm>
+                </mods:role>
+                <mods:namePart>Francoeur, A.</mods:namePart>
+            </mods:name>
+            <mods:relatedItem type="host">
+                <mods:titleInfo>
+                    <mods:title>Advances in ant systematics (Hymenoptera: Formicidae): Homage to E.O. Wilson - 50 years of contributions.</mods:title>
+                </mods:titleInfo>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Snelling, R. R.</mods:namePart>
+                </mods:name>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Fisher, B. L.</mods:namePart>
+                </mods:name>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Ward, P. S.</mods:namePart>
+                </mods:name>
+                <mods:originInfo>
+                    <mods:dateIssued>2007</mods:dateIssued>
+                    <mods:publisher>Memoirs of the American Entomological Institute, 80</mods:publisher>
+                </mods:originInfo>
+                <mods:part>
+                    <mods:extent unit="page">
+                        <mods:start>153</mods:start>
+                        <mods:end>185</mods:end>
+                    </mods:extent>
+                </mods:part>
+            </mods:relatedItem>
+            <mods:identifier type="HNS-PUB">21279</mods:identifier>
+            <mods:location>
+                <mods:url>http://plazi.org:8080/dspace/handle/10199/15369</mods:url>
+            </mods:location>
+        </mods:mods>
+    </tax:taxonxHeader>
+    <tax:taxonxBody>
+        <tax:p>
+THE 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24868" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                </tax:xmldata>MYRMICA</tax:name>
+PUNCTIVENTRIS AND M. CRASSIRUGIS SPECIES GROUPS IN THE NEARCTIC REGION
+</tax:p>
+        <tax:p>Andre Francoeur</tax:p>
+        <tax:p>Departement de biologie</tax:p>
+        <tax:p>Universite du Quebec a Chicoutimi</tax:p>
+        <tax:p>555 boulevard de l'Universite</tax:p>
+        <tax:p>Saguenay, Quebec, Canada G 7 H 2 B 1</tax:p>
+        <tax:p>andre _ francoeur @ uqac. ca</tax:p>
+        <tax:p>ABSTRACT</tax:p>
+        <tax:p>
+This paper deals with two Nearctic species groups of the ant genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24868" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                </tax:xmldata>Myrmica</tax:name>
+. The 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>punctiventris</dc:Species>
+                </tax:xmldata>punctiventris</tax:name>
+group includes four species: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32424" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>pinetorum</dc:Species>
+                </tax:xmldata>M. pinetorum Wheeler</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>punctiventris</dc:Species>
+                </tax:xmldata>M. punctiventris Roger</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238616" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>semiparasitica</dc:Species>
+                </tax:xmldata>M. semiparasitica</tax:name>n. sp.
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238618" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>punctinops</dc:Species>
+                </tax:xmldata>M. punctinops</tax:name>n. sp.
+The first three occur in the eastern deciduous forest biome, while 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238618" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>punctinops</dc:Species>
+                </tax:xmldata>M. punctinops</tax:name>
+is presently known only from California. A key to species for the group is provided. The crassirugis group is established to include two new species: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238620" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>crassirugis</dc:Species>
+                </tax:xmldata>M. crassirugis</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238622" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>wheelerorum</dc:Species>
+                </tax:xmldata>M. wheelerorum</tax:name>
+. These ant species are associated with warm climates of western North America. General ecology and distribution data based on this study are presented. All species are illustrated with photographs.
+</tax:p>
+        <tax:p>
+Key words: Hymenoptera, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmicinae</dc:Genus>
+                </tax:xmldata>Myrmicinae</tax:name>
+, taxonomy, new species, type designations, ecology, distribution, Nearctic.
+</tax:p>
+        <tax:p>INTRODUCTION</tax:p>
+        <tax:p>
+The last taxonomic revision of the Nearctic species of the ant genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24868" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                </tax:xmldata>Myrmica</tax:name>
+dates back to Creighton's book The ants of North America (1950). Subsequently a few species were added and some nomenclatural changes were proposed (Bolton 1995), but it has become progressively difficult, often even impossible, to identify with confidence many encountered forms of this widespread genus, a basic component of the temperate myrmecofauna.
+</tax:p>
+        <tax:p>
+The accumulated material over subsequent years shows a much more diverse genus, richer in species than previously known. Years ago I undertook revision of Nearctic 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24868" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                </tax:xmldata>Myrmica</tax:name>
+as a parttime project. Except for one name all nominal taxa, active or synonymised, were examined. Two fundamental conclusions became evident. Type series of old names often include more than one species and species concepts for commonly used names in the literature have shifted from the original concept. Both of these problems plague the name 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:177805" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>emeryana</dc:Species>
+                </tax:xmldata>Myrmica emeryana Forel</tax:name>
+for example. As a result it quite difficult to use or interpret published data without voucher specimens. The recognition of species groups based on new sets of morphological characters is one key to resolve this taxonomic tangle. Ecological biogeography is another.
+</tax:p>
+        <tax:p>The results presented in this paper are offered to honor a great and inspiring Naturalist.</tax:p>
+        <tax:p>MATERIALS AND METHODS</tax:p>
+        <tax:p>Source of material</tax:p>
+        <tax:p>
+This taxonomic study is based on personal examination of the type series of the involved described 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24868" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                </tax:xmldata>Myrmica</tax:name>
+species and infra-specific forms for the Nearctic region and other specimens (about 800) from institutional collections: Museum of Comparative Zoology, Harvard University (MCZC); Los Angeles County Museum of Natural History (LACM); Department of Entomology, United States National Museum of Natural History (USNM); American Museum of Natural History, New York (AMNH); University of California at Davis (UCDC); W. F Barr Entomological Collection, University of Idaho (DEUI); Museum of Natural History, Albertson College of Idaho (ACIC); State Biological Survey, University of Kansas (SBSK); Academy of Natural Sciences of Philadelphia (ANSP); Department of Entomology, Cornell University (DECU); Department of Entomology, University of Minnesota (DEUM); Collection des insectes du Quebec, ministere des Resources Naturelles (CIQ); A. Francoeur Collection, Universite du Quebec a Chicoutimi (CAFR); Entomology Department, Royal Ontario Museum (ROM); Museum d'Histoire Naturelle, Geneve (MHNG); and Naturhistorisches Museum Wien (NHMW). Also a number of private collectors provided material as gifts or voucher depositions; see acknowledgments for list. Detailed collection data are not given in this paper, but can be provided upon request.
+</tax:p>
+        <tax:p>Measurements and indices</tax:p>
+        <tax:p>
+All specimens were measured using a reticule accurate to 0.01 mm coupled to an electronic instrument displaying absolute values (Wild MMS 235). Biometric standards are adapted from Seifert (1988), Radchenko &amp; Elmes (1998) and from my previous publications on 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24868" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                </tax:xmldata>Myrmica</tax:name>
+species except that indices are not expressed here in percentages (Francoeur, 1981, 1984). The following abbreviations for morphometrics and indices are used.
+</tax:p>
+        <tax:p>Measurements. HL: length of head in dorsal view, measured in a straight line from the anterior point of median clypeal margin to mid-point of the preoccipital margin. HW: maximum width of head in dorsal view behind the eyes. FMW: minimum width of frons between the frontal lobe margins. FXW: maximum width of frons between the frontal lobe margins. FL: length of frontal lobes measured in a straight line from the anterior point of external border (near base of frontal triangle) to the posterior end (near head surface). SL: maximum straight-line length of antennal scape shaft (exclusive of the condylar bulb) in dorsal view (perpendicularly to flagellar articulation plane). ML: diagonal length of mesosoma seen in profile, from anterior margin of pronotal collar to posterior margin of propodeal lobe. PNW: maximum width of pronotum from above, measured in front of tegulae in queens and males. SPL: maximum length of propodeal spine in lateral view. SPD: distance between tips of propodeal spine from above. PL: length of petiole in profile from anterior margin of subpetiolar process to posterior end of node. PH: maximum height of petiole in profile. PW: maximum width of petiole from above. PPL: maximum length of postpetiole in profile exclusive of the helcium. PPH: maximum height of postpetiole in profile. PPW: maximum width of postpetiole from above.</tax:p>
+        <tax:p>Indices. Cephalic (Cl) = HW / HL. Frontal (Fl) = FXW / FL. Frontal lobe FLI = FMW / FXW. Scape (Sl) = SL / HW. Mesosomal (MI) = PNW / ML. Spine (SPI) = SPD / SPL. Petiole (PI) = PW / PL. Petiole node PNI = PW / PH. Postpetiole PPI = PPW / PPL. Postpetiole node PPNI = PPW / PPH. Postpetiole lateral PPLI = PPH / PPL</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24868" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                </tax:xmldata>MYRMICA</tax:name>
+PUNCTIVENTRIS GROUP
+</tax:p>
+        <tax:p>This group includes three eastern species sharing the following exclusive combination of morphological characters for females. Clypeus elongate, with anterior margin angulo-convex. Frontal lobes laterally developed over the antennal socket as triangular or angulo-convex surfaces; frontal area transverse-rectangular. Eyes oval, of medium size. Antennal scapes evenly bent basally, smooth and shining, shorter than head length; base flattened dorsally. Mesosomal profile typically with a rather flattened promesonotum, higher than the propodeum; in dorsal view promesonotum pear-shaped, posterior end of mesonotum narrower and angulo-convex. In lateral view metasternal flanges shaped as inverted triangular lamellae. Petiole and pospetiole short. First gastric (fourth abdominal) segment with large, rounded piliferous punctures. Wings tinted brown. In addition their distribution occurs within the range of the same biogeographic biome: the northeastern deciduous forest.</tax:p>
+        <tax:p>
+Taken alone a character may not be exclusive to this group. Similar characteristics of the antennal scapes and the triangular shape of the frontal lobes also occur in the M 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32383" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>incompleta</dc:Species>
+                </tax:xmldata>incompleta</tax:name>
+group. This latter group includes 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32383" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>incompleta</dc:Species>
+                </tax:xmldata>M. incompleta Provancher</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32339" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>alaskensis</dc:Species>
+                </tax:xmldata>M. alaskensis Wheeler</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32401" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>lampra</dc:Species>
+                </tax:xmldata>M. lampra Francoeur</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32427" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>quebecensis</dc:Species>
+                </tax:xmldata>M. quebecensis Francoeur</tax:name>
+. The last two species are workerless parasites (Francoeur 1984) while 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238616" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>semiparasitica</dc:Species>
+                </tax:xmldata>M. semiparasitica</tax:name>
+, described below has retained the worker caste. Large gastral punctures exist also in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32449" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>striolagaster</dc:Species>
+                </tax:xmldata>M. striolagaster Cole</tax:name>
+.
+</tax:p>
+        <tax:p>
+Although M. punctinops is a Pacific coast species, inhabiting a very different ecobiogeographical range, it is provisionally included in the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>punctiventris</dc:Species>
+                </tax:xmldata>punctiventris</tax:name>
+group with which it shares the cephalic features. However, the mesosomal profile is quite different, similar to that of the crassirugis group, the first gastral segment lacks enlarged punctures, and the erect hairs of the gastral dorsum are longer than in the eastern species. The frontal lobes are similar to those of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32339" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>alaskensis</dc:Species>
+                </tax:xmldata>M. alaskensis</tax:name>
+. Based on general examination of Palearctic species I believe that 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238618" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>punctinops</dc:Species>
+                </tax:xmldata>M. punctinops</tax:name>
+(together with another species) belongs to what I named a “ Pacific ant fauna ” in my 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29086" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Formica</dc:Genus>
+                    <dc:Species>fusca</dc:Species>
+                </tax:xmldata>Formica fusca</tax:name>
+group revison (
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29217" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Formica</dc:Genus>
+                    <dc:Species>subelongata</dc:Species>
+                </tax:xmldata>Formica subelongata Francoeur</tax:name>
+is an example) (Francoeur, 1972). This term is used to mean that there exist Nearctic species limited to the Pacific Coast of which equivalent forms occur in the Asiatic side of the Pacific ocean. Such a faunal trend is also observed for the genera 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2518" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Formicoxenus</dc:Genus>
+                </tax:xmldata>Formicoxenus</tax:name>
+(Francoeur et al., 1985) and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:147258" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Temnothorax</dc:Genus>
+                </tax:xmldata>Temnothorax</tax:name>
+(unpublished). Such a phenomenon can be expected for ants as well in the history of the Holarctic region. A comparative study of this myrmecofauna should be most significative not only in terms of phylogeny, but also of evolutionary eco-biogeography.
+</tax:p>
+        <tax:p>
+KEY TO WORKERS OF THE 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24868" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                </tax:xmldata>MYRMICA</tax:name>
+PUNCTIVENTRIS GROUP
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>punctiventris</dc:Species>
+                </tax:xmldata>M. punctiventris</tax:name>
+group: Antennal scapes seen in profile evenly downcurved basally, base without any outgrowth. Clypeus entire and prominent, median anterior margin angulo-convex.
+</tax:p>
+        <tax:p>Frontal lobes laterally developed over head dorsum into an angular surface with rounded angle. Eyes oval. In dorsal view promesonotum pear shaped, posteriorly angulo-convex, distinctly higher than propodeum in profile. First gastric segment with coarse, round punctures. If without such punctures, mesosomal profile is convex.</tax:p>
+        <tax:p>1 First gastric segment with coarse, large piliferous punctures; mesosomal dorsum profile weakly convex to almost flat (eastern North America) ......................................................... 2</tax:p>
+        <tax:p>
+– First gastric segment without coarse, large punctures; mesosomal dorsum profile convex; length of longest erect hairs on gaster dorsum equal to or longer than greatest diameter of eye (California) .............................................................................................. punctinops 
+n. sp.</tax:p>
+        <tax:p>2 Propodeal spines elongated with a narrow, thin base; spine index &lt;1.5; subpetiolar process small and dentiform (larger species with normal queens ........................................................ 3</tax:p>
+        <tax:p>
+– Propodeal spines short and dentiform with a large, thick base; spine index&gt; 1.5; petiole sternal process lamelliform (smaller species with microgynes; parasitic species associated with 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>punctiventris</dc:Species>
+                </tax:xmldata>M. punctiventris</tax:name>
+) ............................................................................. semiparasitica 
+n. sp.</tax:p>
+        <tax:p>
+3 Dorsal surface of head coarsely striated; rugae high and thick with flattened top in cross section; frontal lobes smaller, difference between maximum and minimum width usually &lt;0.12 mm; propodeal spines distinctly longer than the distance separating their tips, usually deflected ..................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>punctiventris</dc:Species>
+                </tax:xmldata>punctiventris</tax:name>
+Roger
+</tax:p>
+        <tax:p>
+– Dorsal surface of head delicately striated, rugulae low and rounded in cross section; frontal lobes larger, difference between maximum and minimum width usually&gt; 0.12 mm; propodeal spines shorter, about equal to the distance separating their tips, usually straight .... .................................................................................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32424" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>pinetorum</dc:Species>
+                </tax:xmldata>pinetorum Wheeler</tax:name>
+        </tax:p>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32424" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>pinetorum</dc:Species>
+                    </tax:xmldata>Myrmica pinetorum Wheeler</tax:name>
+            </tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 1 - 7</tax:p>
+            </tax:div>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:141035" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>punctiventris</dc:Species>
+                        <dc:Subspecies>pinetorum</dc:Subspecies>
+                    </tax:xmldata>Myrmica punctiventris subsp. pinetorum Wheeler</tax:name>
+, 1905: 348 (w, q). (examined)
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:141035" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>punctiventris</dc:Species>
+                        <dc:Subspecies>pinetorum</dc:Subspecies>
+                    </tax:xmldata>Myrmica punctiventris pinetorum</tax:name>
+: Weber, 1950: 217 (m).
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32424" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>pinetorum</dc:Species>
+                    </tax:xmldata>Myrmica pinetorum</tax:name>
+: Creighton, 1950: 102.
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:141036" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>punctiventris</dc:Species>
+                    </tax:xmldata>Myrmica punctiventris var. isfahani Forel</tax:name>
+, 1922: 92 (w, q). New synonymy.
+
+Types. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32424" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>pinetorum</dc:Species>
+                    </tax:xmldata>M. pinetorum</tax:name>
+: 
+Lakehurst
+, 
+New Jersey
+, 
+USA
+; 
+lectotype
+worker, here designated, in 
+AMNH
+; 
+paralectotype
+workers and queens in 
+AMNH
+, 
+MCZC
+.
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:141036" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>punctiventris</dc:Species>
+                    </tax:xmldata>M. punctiventris var. isfahani</tax:name>
+: 
+Mt. Mitchell
+, 
+Tyson
+, 
+North Carolina
+, 
+USA
+; 
+lectotype
+worker, here designated, in 
+MHNG
+; 
+paralectotype
+workers and queens in 
+MHNG
+.
+
+The syntype series (typus and cotypus) of Forel ’ s 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:141036" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>punctiventris</dc:Species>
+                    </tax:xmldata>isfahani</tax:name>
+in 
+MHNG
+includes specimens of both 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32424" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>pinetorum</dc:Species>
+                    </tax:xmldata>M. pinetorum</tax:name>
+and 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>punctiventris</dc:Species>
+                    </tax:xmldata>M. punctiventris</tax:name>
+collected by him on Mt. Mitchell, Tyson, North Carolina, at different altitudes, and also workers of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>punctiventris</dc:Species>
+                    </tax:xmldata>M. punctiventris</tax:name>
+from Virginia. The workers and alate queens labeled as typus belong to 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32424" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>pinetorum</dc:Species>
+                    </tax:xmldata>M. pinetorum</tax:name>
+; all others are workers of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>punctiventris</dc:Species>
+                    </tax:xmldata>M. punctiventris</tax:name>
+. The “ typus ” series is here selected as lectotype and paralectotypes, and this secures the synonymy of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:141036" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>punctiventris</dc:Species>
+                    </tax:xmldata>isfahani</tax:name>
+under 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32424" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>pinetorum</dc:Species>
+                    </tax:xmldata>M. pinetorum</tax:name>
+.
+</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Worker. Habitus, figures 1 - 2, 4. Measurements and indices in tables 1 - 2. Head in full face view subrectangular with convex sides; preoccipital (posterior) margin straight, corners largely rounded. Eyes convex and suboval, located slightly anteriorly of the mid point of the head sides. Anterior margin of clypeus angulo-convex; lateral wings thin and flat, with 1 - 3 short rugae. In dorsal view frontal lamellae laterally developed over the antennal articulation, triangular in shape with a rounded angle; posterior margin distinctly arrower and ending as a carinae merging into the head dorsum. Antennae: fossae rather shallow; scapes shorter than head length and width; in profile base evenly bent, dorsoventrally flattened with feeble dorsal concavity; in dorsal view shaft width regular along its axis. Funicular segments 3 - 5 as wide as long, remaining segments longer than broad; apical club of 4 segments.</tax:p>
+                <tax:p>Mesosoma, in profile, with mesometasternal external margin horizontally aligned, promesonotum very feebly convex, almost straight in larger specimens, distinctly higher than propodeum, both joining through an angle at the mesopropodeal furrow which remains shallow. In dorsal view promesonotum typically pear-like, posterior end of mesonotum narrower and anguloconvex. Strigil of protibia with a basal tooth; meso and metatibiae with delicate spurs, finely and pectinate on distal half. Propodeal lobes small, with a posterodorsal angle. Propodeal spines straight and acuminate, rather short and thin with a narrow base, shorter than the distance separating their tips, projecting backwards and upwards at 45 °, usually parallel; sometimes a very feeble curve after the base. Petiole short, about as high as long but narrower; peduncle hidden by propodeal lobes; node seen in profile with anterior face slightly concave, forming a right angle with the dorsal surface which is rather flattened, followed by another angle with the concave posterior face, inclined down to the posterior margin. Postpetiole shorter than high and wide, height and width about equal; node profile typically with very short anterior and posterior vertical surfaces, united by a large convex one; sternal process strongly convex and globular, making 1 / 3 of the postpetiole height.</tax:p>
+                <tax:p>Mandibles striate with piligerous punctures. Frons and clypeus with parallel, acute and thin carinae, widely separated by subopaque, faintly microsculptured surface; reminder of head with reticulations. Mesosoma generally striatorugulose; rugulae thicker on pleurae and somewhat sinuous on promesonotum. Antennal fossae with parallel and convex carinae. Petiole and postpetiole rugose. Gaster smooth and shining; first segment with large round punctures. Long erect hairs moderately abundant on body; suberect on scapes. Gastric dorsum without distinct pubescence. General body color light to dark reddish brown; gaster darker; appendages lighter or more yellowish.</tax:p>
+                <tax:p>Queen. Habitus, figures 3, 5. Measurements and indices in tables 1 - 2. Basically similar to worker in shape of head, characters of sculpture, color and pilosity of body except the following. Head with three ocelli. Usual distinct mesosomal development of a queen and body size larger. Sculpture coarser on mesonotum, petiole and postpetiole. Mesopleurae with more delicate rugulae; transverse groove narrow and deeply impressed. Surface between spines smooth and shining; sometimes vestigial shagreening on lateral borders. Wings feebly tinted; submarginal cell of anterior wings partly subdivided posteriorly.</tax:p>
+                <tax:p>
+Male. Habitus, figures 6 - 7. Measurements and indices in tables 1 - 2. Smaller than queen. In full face view head slightly longer than broad, narrower before eyes, with shallow elongated antennal fossae, posterior half evenly rounded. Mandibles elongate, blade subtriangular; masticatory margin with three apical teeth followed by 2 - 3 teeth or denticles. Clypeus convex, anterior margin angulate, finely lamellar mesially. Malar space short. Frontal triangle shallow and weakly delimited. Frontal lobes poorly developed, but distinct as thin carinae with straight lateral margins that diverge posteriorly, originating from toruli. Antennae 13 - merous; scapes very short, shorter than or equal to combined length of next 2 segments; in profile scape base with a very faint dorsal flattening; length of second funicular segment equal to next two; funicular club of 5 segments. Eyes large and globular. Ocelli small, the antero-median 0.06 - 0.07 mm in diameter; distance between the posterior ocelli equal to 4 - 
+5 x
+diameter of anterior ocellus.
+</tax:p>
+                <tax:p>In lateral view, mesosoma rather long; mesonotum high. Mayrian furrows not impressed, weakened or absent posteriorly. Spurs of meso- and metatibia weakly pectinate. Metapleural lamellae small. Wings as in queen, but usually darker (figure 7). Propodeum with two small, dentiform spines or two more or less developed protuberences marked by carinae, surface between them smooth and shining; spiracles round and well marked. In profile petiole rather short, with an anterior peduncle mostly hidden by propodeal lobes; ventral margin straight or very weakly concave with an anterior denticle; node with an anterior face concave, summit convex with longitudinal rugulae running to posterior margin. Postpetiole shorter than high and wide, about as large as wide; anterior and dorsal surfaces of dorsum forming a convex slope with summit ending posteriorly by a short declivity; sternum longer than high, ventral margin convex. Head sculpture very fine, mainly shagreened; faint and short rugulae present on front and malar space, anastomosed on temples, surface punctulate. Mandibles faintly sculptured. Clypeus very faintly microsculptured, with or without short rugulae. Frontal triangle punctulate. Front with few rugulae, some reaching the ocellar triangle. Antenna with suberect to subdecumbent fine hairs longer than the width of segments, but shorter on funicular club. Pronotum densely shagreened; anterior and lateral areas of mesoscutum smooth and shining, Mayrian furrow as a thin line from which originate short rugulae, the medial ones longest. Meso- and metapleurae with parallel rugulae obliquely oriented; transverse grooves feebly impressed. Propodeal protuberences or spines with a row of fine erect hairs. Body pilosity moderately abundant, delicate, erect to decumbent. Lateral sides of petiole and postpetiole faintly sculptured, median area of dorsum smooth and shining. Gaster smooth and shining with some appressed hairs; first segment with large rounded, piliferous punctures. Body color black to blackish brown; appendages lighter.</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>
+Specimens examined. 
+CANADA
+. 
+Ontario
+(
+ROM
+)
+
+, 
+Quebec
+(
+CAFR
+, 
+CIQ
+)
+
+. 
+USA
+. 
+Connecticut
+(
+CAFR
+, 
+LACM
+)
+
+, 
+Illinois
+(
+MCZC
+)
+
+, 
+Indiana
+(
+MCZC
+)
+
+, 
+Massachusetts
+(
+MCZC
+, 
+MHNG
+, 
+USNM
+)
+
+, 
+Michigan
+(
+AMNH
+, 
+CAFR
+, 
+LACM
+)
+
+, 
+New-Jersey
+(
+AMNH
+, 
+CAFR
+, 
+NHMG
+, 
+NHMW
+)
+
+, 
+New-York
+(
+AMNH
+, 
+LACM
+, 
+MCZC
+)
+
+, 
+North Carolina
+(
+LACM
+, 
+MCZC
+, 
+MHNG
+)
+
+, 
+Ohio
+(
+LACM
+)
+
+, 
+Pennsylvania
+(
+CAFR
+, 
+USNM
+)
+
+, 
+Tennessee
+(
+LACM
+, 
+MCZC
+)
+
+, 
+Virginia
+(
+CAFR
+, 
+LACM
+, 
+MCZC
+, 
+USNM
+)
+
+.
+</tax:p>
+                <tax:p>Also mentioned in the literature from Oklahoma, Missisipi and South Carolina (D. R. Smith in Krombein et al., 1979).</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>
+Notes. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32424" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myrmica</dc:Genus>
+                            <dc:Species>pinetorum</dc:Species>
+                        </tax:xmldata>M. pinetorum</tax:name>
+closely resembles 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myrmica</dc:Genus>
+                            <dc:Species>punctiventris</dc:Species>
+                        </tax:xmldata>punctiventris</tax:name>
+but averages smaller in size, with larger frontal lobes (figure 33), shorter scapes and spines (figure 32 and 34), more delicate body sculpture. According to material examined, the presence of propodeal spines in males is observed in the northern part of the species range.
+</tax:p>
+            </tax:div>
+            <tax:div type="distribution">
+                <tax:p>Range. Eastern North America, from southern Canada south probably to the US Gulf states.</tax:p>
+            </tax:div>
+            <tax:div type="biology_ecology">
+                <tax:p>
+Ecology. A forest dweller associated with the eastern deciduous forest biome. Based on collection data 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32424" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myrmica</dc:Genus>
+                            <dc:Species>pinetorum</dc:Species>
+                        </tax:xmldata>M. pinetorum</tax:name>
+inhabits not only coniferous forest, but also mixed and rather open deciduous woods, from dry to more humid conditions. In Pennsylvania I found this ant in a stand of Populus with Acer and Betula trees. Colonies are small and their nests in different types of soil: sandy, earthy or rocky, under denuded surface or under leaf litter, lichens, mosses and rocks. Dennis (1938) reported a nest in a cavity in dead wood. Wesson and Wesson (1940) observed carton turrets as nest entrances.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>punctiventris</dc:Species>
+                    </tax:xmldata>Myrmica punctiventris Roger</tax:name>
+            </tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 8 - 13</tax:p>
+            </tax:div>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>punctiventris</dc:Species>
+                    </tax:xmldata>Myrmica punctiventris Roger</tax:name>
+, 1863: 190 (w).
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>punctiventris</dc:Species>
+                    </tax:xmldata>Myrmica punctiventris</tax:name>
+: Mayr, 1886: 450 (q)
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>punctiventris</dc:Species>
+                    </tax:xmldata>Myrmica punctiventris</tax:name>
+: Emery, 1895: 312 (m).
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>punctiventris</dc:Species>
+                    </tax:xmldata>Myrmica punctiventris</tax:name>
+: Creighton, 1950: 102.
+Types. North America (according to Creighton, 1950). Based on known range: eastern N. A. Type material, if still in existence, should be in the Berlin Museum.</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Worker. Habitus, figures 8, 11. Measurements and indices in tables 1 - 2. Head in full face view subrectangular with convex sides; preoccipital margin straight and corners broadly rounded. Eyes small, convex and suboval, located slightly anteriorly of the mid point of the head sides. Anterior margin of clypeus anguloconvex; lateral wings thin and flat, with 1 - 3 short rugae. In dorsal view frontal lamellae laterally feebly developed over the antennal articulation, approximately triangular or anguloconvex in shape; posterior margin weakly narrower and ending as a carina merging into the head dorsum. Antennae: fossae rather shallow; scapes shorter than head length; in profile base evently bent, dorsoventrally flattened with a feeble dorsal concavity; in dorsal view shaft width regular along its axis. Funiculus segments 3 - 5 as large as long, others longer than broad; apical club of 4 segments.</tax:p>
+                <tax:p>Mesosoma in profile, mesometasternum external margin horizontally aligned, promesonotum very feebly convex, almost straight in larger specimens, distinctly higher than propodeum, both joining through an angle at the mesopropodeal furrow which remains shallow. In dorsal view promesonotum typically pear-shaped, posterior end of mesonotum narrower and anguloconvex. Strigil of protibia with basal tooth; meso- and metatibiae with delicate spurs, finely pectinate on the distal half. Propodeal lobes small, with a posterodorsal angle. Propodeal spines long and acuminate with a narrow base, longer than the distance separating their tips, projecting backwards and upwards, either almost straight or most often deflected, usually subparallel. Petiole short, about as high as long but narrower; peduncle hidden by propodeal lobes; anterior face of node seen in profile slightly concave, forming a right angle with the somewhat flattened dorsal surface, concave posterior face inclined down to posterior margin. Postpetiole shorter than high and wide, height and width about equal; node profile typically with very short anterior and posterior vertical surfaces, united by a large convex one; sternal process strongly convex and globular, making 1 / 3 of the postpetiole height.</tax:p>
+                <tax:p>Mandibles striate with piligerous punctures. Frons and clypeus with parallel, coarse rugae, separated by subopaque, faintly microsculptured surface; reminder of head with reticulation. Mesosoma generally striatorugulose; rugae thicker on pleurae and somewhat sinuous on promesonotum. Antennal fossae with parallel and convex rugae. Petiole and postpetiole rugose. Gaster smooth and shining; first segment with large round punctures. Long erect hairs moderately abundant on body; suberect on scapes. Gastric dorsum without distinct pubescence. General body color light to dark reddish brown; gaster darker; appendages lighter or more yellowish.</tax:p>
+                <tax:p>Queen. Habitus, figures 9, 12. Measurements and indices in tables 1 - 2. Basically similar to workers in shape of head, characters of sculpture, color and pilosity of body but with the following usual caste differences: three ocelli present; mesosoma modified for flight; body size larger. Sculpture coarser on posterior half of dorsum of head, on petiole and postpetiole. Mesosoma coarsely rugose; surface between rugae faintly microsculptured. Mesopleural transverse groove rather large and shallow, impressed; katepisternum with widely spaced, oblique, parallel rugae. Surface between spines smooth and shining. Wings tinted brownish. Submarginal cell of anterior wing partly subdivided.</tax:p>
+                <tax:p>
+Male. Habitus, figures 10 - 13. Measurements and indices in tables 1 - 2. Smaller than queen. In full face view head slightly longer than broad, narrower before eyes, with shallow elongated antennal fossae, posterior half evenly rounded. Mandibles elongate, blade subtriangular; masticatory margin with three apical teeth followed by 2 - 3 denticles. Clypeus convex, anterior margin angulate. Malar space short. Frontal triangle shallow and weakly delimited. Frontal lobes poorly developed, but distinct, as thin carinae with straight lateral margins that diverge posteriorly, originating from toruli. Antennae 13 - merous; scapes very long, equal to first 6 - 7 funicular segments; in profile scape base with faint dorsal flattening; length of second funicular segment equal to the length of next two; club 5 - merous. Eyes large and globular. Ocelli rather large, 0.07 - 0.09 mm in diameter; distance between posterior ocelli 3 - 
+4 x
+diameter of anterior ocellus.
+</tax:p>
+                <tax:p>In lateral view, mesosoma elongate; mesonotum high. Mayrian furrows not impressed, weakened or absent posteriorly. Mesoscutellum anguloconvex posteriorly in dorsal view. Spurs of meso- and metatibiae pectinate. Metapleural lamellae small. Wings as in queen, usually darker. Propodeum with more or less developed prominences marked by carinae, sometimes spiniform, surface between them smooth and shining; spiracles rounded and well marked. In profile petiole short, with anterior peduncle mostly hidden by propodeal lobes; ventral margin straight or very weakly concave with an anterior denticule; node with anterior slope straight, summit rounded with horizontal rugulae. Postpetiole shorter, slightly wider than long; in profile higher than long; anterior and dorsal surfaces of dorsum forming a convex slope with apex posterior to center; sternum longer than high, ventral margin straight or convex.</tax:p>
+                <tax:p>Head sculpture generally fine; rugulae present on front, shorter and stronger around eyes and malar space, anastomosed on temples, surface punctulate. Mandibles subopaque, faintly sculptured. Clypeus faintly sculptured, often with short median ruga extending back anterior margin. Frontal triangle punctulate. Frons with rugulae reaching the ocellar triangle, median part often only punctulate and shining; lateral lobes reduced to feebly lamellar parallel carinae originating from toruli. Temples punctate, with a varying abundance of short, partly anastomosed rugulae. Antennal scapes with suberect hairs over pubescence, most shorter than width of scape; funiculi with few short, suberect fine hairs on segments over the pubescence, sparse on club. Mesosoma generally rugulose. Pronotum partly shagreened and mesoscutum partly smooth and shining; mesoscutellum with longitudinal rugulae; mesopleuron with stronger rugulae on dorsoposterior corner of katepisternum; anepisternum with an anterior smooth area; transverse grooves feebly impressed, dark. Propodeal protuberences with a row of fine erect hairs. Petiole node with rugulae. Postpetiole node smooth and shining with lateral shagreening; sternum with rugulae. Body pilosity moderately abundant, fine, erect to decumbent; denser on legs. Gaster smooth and shining; first segment with very faint punctures. Body color black to blackish brown; appendages lighter.</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>
+Specimens examined. 
+BERMUDA
+: 
+Bermuda Island
+(
+DECU
+, 
+MCZC
+)
+
+. 
+CANADA
+: 
+Ontario
+(
+CAFR
+, 
+LACM
+)
+
+, 
+Quebec
+(
+CAFR
+, 
+CIQ
+)
+
+. 
+USA
+. 
+Connecticut
+(
+CAFR
+)
+
+, 
+District of Columbia
+(
+DECU
+, 
+MHNG
+, 
+USNM
+)
+
+, 
+Georgia
+(
+DECU
+, 
+MCZC
+, 
+USNM
+)
+
+, 
+Kansas
+(
+SBSK
+)
+
+, 
+Illinois
+(
+AMNH
+, 
+MCZC
+, 
+USNM
+)
+
+, 
+Massachusetts
+(
+AMNH
+, 
+LACM
+, 
+MCZC
+)
+
+, 
+Minnesota
+(
+DEUM
+)
+
+, 
+Michigan
+(
+AMNH
+, 
+CAFR
+, 
+LACM
+)
+
+, 
+New-Hampshire
+(
+CAFR
+)
+
+, 
+New Jersey
+(
+AMNH
+, 
+ANSP
+, 
+CAFR
+, 
+LACM
+, 
+USNM
+)
+
+, 
+New-York
+(
+LACM
+, 
+MCZC
+)
+
+, 
+North Carolina
+(
+MCZC
+, 
+MHNG
+)
+
+, 
+Ohio
+(
+LACM
+, 
+USNM
+)
+
+, 
+Pennsylvania
+(
+DECU
+, 
+DEUM
+, 
+LACM
+)
+
+, 
+Tennessee
+(
+LACM
+)
+
+, 
+Texas
+(
+MCZC
+)
+
+, 
+Virginia
+(
+CAFR
+, 
+MCZC
+, 
+MHNG
+, 
+USNM
+)
+
+, 
+West Virginia
+(
+CAFR
+)
+
+.
+</tax:p>
+                <tax:p>Also mentioned in literature from Arkansas, Iowa and Nebraska (D. R. Smith in Krombein et al., 1979).</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>
+Notes. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myrmica</dc:Genus>
+                            <dc:Species>punctiventris</dc:Species>
+                        </tax:xmldata>M. punctiventris</tax:name>
+differs from 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32424" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myrmica</dc:Genus>
+                            <dc:Species>pinetorum</dc:Species>
+                        </tax:xmldata>M. pinetorum</tax:name>
+as follows: averaging larger, coarser sculpture, frontal lobes less developed and less contrast between maximum and minimum width (figure 33), longer scapes and spines (figures 32, 34).
+</tax:p>
+            </tax:div>
+            <tax:div type="distribution">
+                <tax:p>Range. Eastern North America, from southern Canada south to US Gulf states.</tax:p>
+            </tax:div>
+            <tax:div type="biology_ecology">
+                <tax:p>
+Ecology. The most frequently collected of the species in this group, this ant appears primarely as a forest dweller associated with the eastern deciduous forest biome. The species has been found in a variety of wooded habitats: Laurentian maple, mixed hardwoods (Culvert 1974), mixed pines, oak, oak-hickory, and mixed stands. Kannowski (1959) reported it from bogs in Michigan. From dry to humid conditions 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myrmica</dc:Genus>
+                            <dc:Species>punctiventris</dc:Species>
+                        </tax:xmldata>M. punctiventris</tax:name>
+seems most prosperous in mesic partly open woods. Nests are built usually in soil under litter, mosses or rocks, in acorns, occasionally in wood fragments. Wesson and Wesson (1940) report nest entrances surmounted with turrets of crude carton. Colony structure, reproduction and genetics were recently documented (Snyder &amp; Herbers, 1991; Herbers &amp; Mouser, 1997).
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238616" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>semiparasitica</dc:Species>
+                    </tax:xmldata>Myrmica semiparasitica</tax:name>
+, 
+new species</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 14 - 19</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>
+Types. Holotype worker and 14 paratypes: 
+USA
+, 
+Long Island
+, 
+Suffolk County
+, 
+New York
+, U. S. A., 
+2. 
+v. 1982
+(
+S. P. Cover
+), a nest series collected including 9 workers, 1 ergatogyne, 2 queens and 3 males.
+
+Additional 
+paratypes
+: 11 alate queens, 23 males, 
+CANADA
+, Mont Rigaud, Rigaud, 
+Quebec
+, (2 series: 
+14. 
+viii. 
+1981, 30. vii
+&amp; 
+16. viii. 1982
+, captured among swarmings of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24868" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myrmica</dc:Genus>
+                        </tax:xmldata>Myrmica</tax:name>
+on the mountain top (
+Leprince and Francoeur1986
+). 
+Holotype
+worker and most 
+paratypes
+in 
+MCZC
+; 
+paratype
+workers, queens, and males also in 
+LACM
+, 
+USNM
+, and 
+CAFR
+; 
+paratype
+ergatogyne in 
+MCZC
+.
+</tax:p>
+            </tax:div>
+            <tax:div type="etymology">
+                <tax:p>Etymology. Meaning partly parasitic, since this species is probably a temporary social parasite.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker. Habitus, figures 14, 17. Measurements and indices in tables 1 - 2. Head in full face view subquadrate with almost straight sides; preoccipital margin straight and corners rounded. Eyes rather large, convex and suboval, located on the mid point of the head sides. Anterior margin of clypeus angulo-convex; lateral wings thin and flat, apex crossed by genal carinae. In dorsal view frontal lamellae small. Extending partly over the antennal articulation, loosely triangular or angulo-convex in shape; posterior margin feebly narrower and ending as a carinae merging into the head dorsum. Antennae: fossae rather shallow; scapes shorter than head length and width; in profile base evently bent, dorso-ventrally flattened with a feeble dorsal concavity; in dorsal view shaft width regular along its axis. Funiculus segments 3 - 5 as large as long, others longer than broad; apical club of 4 segments.</tax:p>
+                <tax:p>Mesosoma in profile, mesometasternum external margin horizontally aligned, promesonotum flattened, distinctly higher than propodeum, both joining through an angle at the mesopropodeal furrow which remains shallow. In dorsal view promesonotum typically pear-like, posterior end of mesonotum narrower and angulo-convex. Strigil of protibia with basal tooth; meso and metatibiae with minute to vestigial spurs, very finely and shortly pectinated on the distal third or only barbulate at apex. Propodeal lobes small, with a posterodorsal angle. Propodeal spines dentiform and feebly pointed, subparallel, shorter than the distance separating their tips, projecting backwards and upwards at 45 °. Petiole short, higher than wide; peduncle hidden by propodeal lobes; node seen in profile anterior face slightly concave, forming a right angle with the dorsal surface which is rather flattened, meeting the posterior face through a rounded angle; sternum with a lamellar process varying in size. Postpetiole shorter than high and wide, the latters about equal; node profile typically with very short anterior and posterior vertical surfaces, united by a large convex one; sternal process strongly convex or subglobular, making 1 / 3 of the postpetiole height.</tax:p>
+                <tax:p>Mandibles faintly striated with ciliated punctures. Frons and clypeus with parallel, acute and thin carinae, spreading fan-wise towards the occiput, separated by faintly microsculptured surface; reticulations on temples and the preoccipital margin. Antennal fossae with parallel and convex carinae. Mesosoma generally striato-rugulose; rugulae acute and largely reticulated on on promesonotum, more rounded and parallel on mesopleurae and dorsum of propodeum. Space between spines with transverse and faint lines, remaining ventral area smooth. Petiole and postpetiole rugose. Gaster smooth and shining; first segment with large rounded punctures. Long and erect hairs moderately abundant on body; suberect on scapes. Gastric dorsum without distinct pubescence. General body color light to dark reddish brown; appendages lighter or more yellowish.</tax:p>
+                <tax:p>Queen. Habitus, figures 15, 18. Measurements and indices in tables 1 - 2. Basically similar to workers in shape of head, characters of sculpture, color and pilosity of body except the following. Head with 3 proportionatly large ocelli. Usual distinct mesosoma development of a queen and body size larger. Mesosoma rugulose; reticulations on lateral areas of promesonotum; central part of mesonotum with diverging rugulae. Ventral lamella of petiole digitiform or angulate, varying in size. Sculpture coarser on posterior half dorsum of head, on petiole and postpetiole, reduced on anteromedian third of pronotum, behind the collar. Transverse groove of mesopleurae narrow and impressed; katepisternum with thinner rugulae, separated, obliquely parallel. Wings translucid. Submarginal cell of anterior wing not always partly subdivided.</tax:p>
+                <tax:p>Male. Habitus, figures 16 - 19. Measurements and indices in tables 1 - 2. Smaller than queen. In full face view head slightly longer than broad, narrower before eyes, with shallow elongated antennal fossae, posterior half evenly convex. Mandibles elongated, blade subtriangular; masticatory margin quite varying, with 1 - 4 apical teeth followed by 1 - 2 denticles. Clypeus convex, anterior margin angulo-convex. Malar space short. Frontal triangle wide and shallow and more or less delimited. Frontal lobes reduced to minute but distinct carinae, diverging posteriorly. Antennae with 13 segments; scapes short, equal to less than the first 3 funiculus segments; in profile scape base with a faint dorsal flattening; length of second funicular segment equal to next two; funicular club of 5 segments. Eyes large and globular. Ocelli propotionately large, 0.07 - 0.08 mm in diameter; distance between the posterior two equal to diameter of 3 anterior ocelli.</tax:p>
+                <tax:p>In lateral view, mesosoma rather long; mesonotum high. Mayrian furrows not or feebly impressed. Spurs of meso- and metalegs varying in size and development from minutely pectinated to normal. Metapleural lamellae small and largely convex. Wings as in queen. Propodeum with two more or less developed protuberences marked by carinae, surface beteen them smooth and shining; spiracles rounded and well marked. In profile petiole short, with an anterior peduncle hidden by propodeal lobes; ventral margin with a lamellar process rectangular in shape, sometimes angulate anteriorly; summit of node convex with few longitudinal rugulae. Postpetiole shorter than high and wide; about as large high; in profile anterior and dorsal surfaces of dorsum forming a convex slope with summit anding posteriorly by a very short declivity; sternum longer than high, ventral margin more or less convex.</tax:p>
+                <tax:p>Head sculpture generaly fine; rugulae present or not on frons, shorter and malar spaces, reticulated on temples. Mandibles very faintly sculptured. Clypeus very faintly microsculptured, with a short median carina originating from the median angle of anterior margin. Frontal triangle partly punctulate and smooth. Antennae with suberect fine hairs longer than the width of segments, but shorter on funiculus club. Pronotum densely shagreened; mesoscutum mostly smooth and shining. Mayrian furrow of mesonotum as a thin line from which originate short rugulae. Mesometapleurae with parallel rugulae obliquly oriented, transverse grooves feebly impressed. Propodeal protuberences with a row of fine erect hairs. Lateral sides of petiole faintly shagreened with some rugulae; median area of dorsum smooth and shining. Sides of postpetiole shagreened, smooth elsewhere Body pilosity moderately abundant, fine, erect to decumbent; denser and longer on head and legs. Gaster smooth and shining; first segment without large punctures. Body color black to blackish brown; appendages lighter.</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>Specimens examined. Presently known only from type series.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>
+Notes. This is the smallest species of the group. The reduced size is more obvious in the queens and males. The sternal process of the petiole comports with the parasitic syndrome of Wilson (1971). The frontal lobes are similar to the ones of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myrmica</dc:Genus>
+                            <dc:Species>punctiventris</dc:Species>
+                        </tax:xmldata>M. punctiventris</tax:name>
+while the general size of worker, shorter scapes and spines (figures 32 - 33), the relative proportions of the waist, the delicate rugulate sculpture are closer to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32424" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myrmica</dc:Genus>
+                            <dc:Species>pinetorum</dc:Species>
+                        </tax:xmldata>M. pinetorum</tax:name>
+.
+</tax:p>
+            </tax:div>
+            <tax:div type="distribution">
+                <tax:p>Range. Presently known from southern Quebec to New England.</tax:p>
+            </tax:div>
+            <tax:div type="biology_ecology">
+                <tax:p>
+Ecology. The fact that the species was found in a colony of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myrmica</dc:Genus>
+                            <dc:Species>punctiventris</dc:Species>
+                        </tax:xmldata>M. punctiventris</tax:name>
+with the two female forms and males, and that it performed nuptial flights support the probability of a temporary parasitic ant. in nature. S. Cover collected his specimens from a hickory nut in a rich oak woods of the East Farm Preserve. The host species, as well as 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32424" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myrmica</dc:Genus>
+                            <dc:Species>pinetorum</dc:Species>
+                        </tax:xmldata>M. pinetorum</tax:name>
+, are found in red oak stands on and around Mont Rigaud, Quebec.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238618" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>punctinops</dc:Species>
+                    </tax:xmldata>Myrmica punctinops</tax:name>
+, 
+new species</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 20 - 27</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>
+Types. 
+Holotype
+worker and 17 worker 
+paratypes
+: 
+USA
+, 
+Charlton Flat
+, 
+San Gabriel Mountains
+, 
+Los Angeles Co
+.
+
+, 
+California
+, U. S. A., 
+25. v. 2002
+(
+R. R. &amp; G. C. Snelling
+). Additional 
+paratypes
+: 1 worker, same locality, 
+18. vi. 1944
+(collector unknown)
+
+; 
+
+2 workers, 
+Brown ’ s Flat
+, 
+San Gabriel Mountains
+, 
+Los Angeles Co.
+, 
+3. xi. 1960
+(
+E. L. Sleeper
+)
+
+; 
+
+2 workers, 
+Fort Ord
+, 
+UCSC Reserve
+, 
+Monterey Co.
+, 
+5. xi. 1998
+(
+L. DiGirolamo
+). 
+Holotype
+and most 
+paratypes
+in 
+LACM
+; 
+paratypes
+also in 
+CAFR
+, 
+MCZC
+, and 
+UCDC
+.
+</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker. Habitus, figures 20 - 21. Measurements and indices in tables 1 - 2. Head in full face view subrectangular with convex sides; preoccipital margin straight and corners largely rounded. Eyes small, convex and suboval, located slightly anteriorly of the mid point of the head sides. Anterior margin of clypeus angulo-convex; lateral wings thin and flat, with 1 - 3 starting genal carinae. In dorsal view frontal lamellae large, laterally developed over the antennal articulation, triangular in shape with a rounded angle; posterior margin narrower and ending as a carinae merging into the head dorsum. Antennae: fossae rather shallow; scapes shorter than head length and width; in profile base evently bent, dorso-ventrally flattened with a feeble dorsal concavity; in dorsal view shaft width regular along its axis. Funiculus segments 3 - 5 as large as long, other longer than broad; apical club of 4 segments.</tax:p>
+                <tax:p>Mesosoma in profile, mesometasternum external margin horizontally aligned, promesonotum very feebly convex, almost straight in larger specimens, distinctly higher than propodeum, both joining through an angle at the mesopropodeal furrow which remains shallow. In dorsal view promesonotum typically pear-like, posterior end of narrower and angulo-convex. Strigil of protibia with a basal tooth; meso and metatibiae with delicate spurs, finely and shortly pectinate on the distal half. Propodeal lobes small, with a posterodorsal angle. Propodeal spines straight and acuminate, rather short and thin, with a narrow base, shorter than the distance separating their tips, projecting backwards and upwards at 45 °, usually parallel; in dorsal view a feeble recurvation after the base often present. Petiole short, about as high as long but narrower; peduncle hidden by propodeal lobes; node seen in profile anterior face slightly concave, forming a right angle with the dorsal surface which is rather flattened, follow another angle with the concave posterior face, inclined down to the posterior margin. Postpetiole shorter than high and wide, the latters about equal; node profile typically with very short anterior and posterior vertical surfaces, united by a large convex one; sternal process strongly convex and globular, making 1 / 3 of the postpetiole height.</tax:p>
+                <tax:p>Mandibles striated with ciliated punctures. Frons and clypeus with parallel, acute and thin carinae, widely separated by subopaque, faintly microsculptured surface; reminder of head with reticulation. Mesosoma generally striato-rugulose; carinae thicker on pleurae and somewhat sinuous on promesonotum. Antennal fossae with parallel and convex carinae. Petiole and postpetiole rugose. Gaster smooth and shining; first segment with large rounded punctures. Long and erect hairs moderately abundant on body; suberect on scape. Gastric dorsum without distinct pubescence. General body color light to dark reddish brown; gaster darker; appendages lighter or more yellowish.</tax:p>
+                <tax:p>Queen and male. Unknown.</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>Specimens examined. Presently known only from the types.</tax:p>
+            </tax:div>
+            <tax:div type="distribution">
+                <tax:p>Range. Presently known only from California. It probably occurs in Oregon.</tax:p>
+            </tax:div>
+            <tax:div type="biology_ecology">
+                <tax:p>Ecology. The species was found at 44 m and 1615 m altitude. The Charlton Flat specimens were sifted from oak and pine forest litter. Those from Fort Ord were found in a kind of maritime chaparral on sand, dominated by the rare species Arctostaphylos pumila, with a mixture of thermophilic and cold-tolerant ant species (P. S. Ward, pers. comm.).</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24868" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                </tax:xmldata>MYRMICA</tax:name>
+CRASSIRUGIS GROUP
+</tax:p>
+        <tax:p>This group contains two sister species. The females are characterized by the following combination of morphological characters. Head rounded. Clypeus not elongated, with anterior margin evenly convex. Eyes oval. Frontal lobes relatively wide, upwardly produced, with a strongly convex margin on nearly half of the length, follow carinae curving outwards to merge with front rugae; front area sagitally elongated. Scapes slightly shorter than head length; angularly bent basally, bend surrounded by a lamina small to spoonlike. Mesosoma profile convex with a promesonotal furrow very shallow; body coarsely striato-rugulose. Spines of medium length, shorter than the distance separating their tips, subdiverging. In lateral view metasternal flanges bilobate or bidentate from a thin rectangular base. Wings translucid. Western species occuring in dry and warm habitats.</tax:p>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238620" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>crassirugis</dc:Species>
+                    </tax:xmldata>Myrmica crassirugis</tax:name>
+, 
+new species</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 28 - 31</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>
+Types. 
+Holotype
+worker and 
+paratypes
+(all castes): 
+USA
+, 
+Idaho National Engineering and Environmental Laboratory
+(
+INEEL
+), 
+Bingham
+and 
+Clark Counties
+, 
+Idaho
+, U. S. A., 2 nest series, 
+31. viii. 1991(# 9172
+, with males) and 
+22. ix. 1989
+(
+# 8929
+, with alate queens) (
+W. H. Clark
+). 
+Holotype
+worker and 
+paratypes
+(all castes) in 
+MCZC
+; 
+paratypes
+also in 
+ACIC
+, 
+BMNH
+, 
+CAFR
+, 
+CASC
+, 
+LACM
+, 
+MNHG
+, and 
+USNM
+. 
+Topotypes
+in 
+ACIC
+.
+</tax:p>
+            </tax:div>
+            <tax:div type="etymology">
+                <tax:p>Etymology. From latin crassus = thick and ruga = wrinkle. The name is based on a feature of the mesosoma sculpture.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker. Habitus, figures 22, 25. Head in full face view, typically rounded, eyes centered on mid-line cutting the lateral margin, malar margin convex. Head slightly longer than broad (suboval) with convex sides, a convex or slightly straight (larger specimens) preoccipital margin, and very broadly rounded preoccipital corner. Median half of anterior margin of clypeus convex, border of lateral wings thick and sculptured so as to close the antennal fossae. Frontal lamellae rounded, reduced posterioly to short and narrowly subparallel carinae, merging to dorsum sculpture. Antennal scape rather long, surpassing the preoccipital corner by the length of the first two funiculus segments; sharply bent at base (almost right angle), with a reduced to moderately developed dorsal carina, either thin or lobate and surounding the shaft angle, shortly developing laterally and associated to a vertical thin and narrow ridge along basal shaft. In dorsal view shaft narrower along anterior half, about 1 / 3 the maximal width, particularly just after the bend; funicular segments 3 - 6 less than 1.5 times longer than broad; club 4 - segmented.</tax:p>
+                <tax:p>In profile, mesometasternum external margin horizontally aligned, mesosoma evenly convex, lower posteriorly; mesopropodeal suture not or very shallowly impressed; propodeal lobes angulate posterodorsally, but not pointed. Strigil of protibia with a basal tooth; middle and hind tibiae with large pectinate spurs. Propodeal spines of medium length, subparallel, surpassing slightly the propodeal lobes, usually straight and acuminate, sometimes slighly deflected, projecting backwards and upwards at just less than 45 °. Petiole higher than long and wide with a short but distinct peduncle; seen in profile the anterior face concave, forming a rounded right angle with the dorsal surface which is almost straight, while the posterior surface forms an arch. Postpetiole relatively short and low, very slightly larger than high in profile, node rounded, sternum subglobular.</tax:p>
+                <tax:p>Mandibles finely rugulose with ciliated punctures. Frons and clypeus longitudinally rugose; remainder of head dorsum with reticulated rugae, surface between rugae subopaque and punctulate. Antennal fossae with faint rugulae. Mesosoma strongly and deeply striated; rugae with flattened summit, longitudinally aligned, sometimes sinuous on pronotum. Petiole and pospetiole rugose. Gaster smooth and shining. General body color light to dark brownish-red; mesosoma often more reddish. Erect body hairs moderately abundant and long; gastric pubescence very dilute.</tax:p>
+                <tax:p>Queen. Habitus, figures 23, 26. Basically similar to workers in shape of head, characters of sculpture, color and pilosity of body except the following. Usual distinct mesosoma development of a queen and body size larger. Sculpture coarser on posterior half dorsum of head, on petiole and postpetiole, reduced on anteromedian third of pronotum, behind the collar. Surface between rugae of mesopleurae distinctly punctate; transverse groove narrow and deeply impressed; katepisternum with thinner rugae, largely separated, obliquely straight. Surface between spines subshining, faintly sculptured in upper third, then shagreened. Wings not tinted; submarginal cell partly divided. Gaster smooth and shining.</tax:p>
+                <tax:p>Male. Habitus, figures 24, 27. About the size of queen. In full face view head slightly longer than broad, narrower before eyes, without distinct antennal fossae, posterior half evenly rounded. Mandibles elongate, blade large and subtriangular; masticatory margin with three apical teeth followed by 2 - 3 teeth or denticles. Clypeus more or less bulging, anterior margin weakly convex. Malar space short. Frontal triangle depressed; lateral carinae paralled, weak, originating from toruli. Antennae with 13 segments; scapes rather thick and long, equal to first 3 - 4 funiculus segments; shaft with a short base, equal before the weak angle to 1 / 4 - 1 / 3 the scape length, flattened dorsally; funiculus with weakly enlarged club of 4 segments; second funicular segment longer than first, about twice the length of third. Eyes large and globular, with some erect, minute hairs. Ocelli small, 0.06 - 0.08 mm in diameter; distance between the posterior two equal to diameter of 4 anterior ocelli.</tax:p>
+                <tax:p>In lateral view, mesosoma rather long. Mayrian furrows not impressed, weakened or absent posteriorly. Spurs of meso and metalegs well pectinated. Metapleural lamellae small, not surpassing the petiole peduncle height. Wings as in queen. Propodeum without spines, just a more or less developed protuberences; spiracles rounded and well marked; surface with long, well separated, dark rugae. In profile petiole elongated with an anterior peduncle; ventral margin straight or very weakly concave; node with an anterior slope straight, summit rounded with horizontal rugulae. Postpetiole shorter, slightly larger than long; in profile higher than long; anterior and dorsal surfaces of dorsum forming a convex slope with apex posterior to center; sternum longer than high, ventral margin straight or convex.</tax:p>
+                <tax:p>Head sculpture generally fine; rugulae present on front, shorter and stronger around eyes and malar space, anastomosed on temples, surface punctulate. Mandibles subopaque, faintly sculptured. Clypeus very faintly sculptured, partly smooth, subshining mesially, often with a short median ruga from anterior margin. Frontal triangle punctulate. Front area with rugulae reaching the ocellar triangle, median part often only punctulate and shining; lateral carinae paralled, weak, originating from toruli. Temples punctate, with a varying abundance of short, partly anastomosed rugulae. Antennal scape with long suberect hairs over pubescence; funiculus with short, dense and erect pubescence, in addition a second layer of longer, erect dilute fine hairs. Pronotum and mesoscutum faintly sculptured, partly shagreened and smooth; mesoscutellum with longitudinal rugulae; mesoplurae shagreened or punctulate with few rugae or rugulae mostly associated to borders, transverse grooves strongly impressed, dark, base of some rugae origin. Propodeal protuberances with a row of fine erect hairs. Body pilosity moderately abundant, fine, erect to decumbent; denser and longer on head and legs. Postpetiole and gaster smooth and shining. Body color black to blackish brown; appendages lighter.</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>
+Specimens examined. 
+
+All nest series available were recently collected (
+&amp; # 8805
+; 
+1980
+). 
+CANADA
+. 
+British Columbia
+(
+CAFR
+)
+
+. 
+USA
+. 
+Idaho
+(
+ALBRCIDA
+, 
+CAFR
+, 
+DEUI
+, 
+LACM
+, 
+UCDC
+)
+
+, 
+Montana
+(
+CAFR
+, 
+USNM
+)
+
+, 
+Nevada
+(
+CAFR
+, 
+LACM
+)
+
+, 
+Oregon
+(
+CAFR
+)
+
+, 
+Utah
+(
+CAFR
+, 
+LACM
+)
+
+, 
+Washington
+(
+CAFR
+, 
+LACM
+)
+
+.
+</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>
+Notes. Rarely found in collections. Then either not identified or under the names 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32341" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myrmica</dc:Genus>
+                            <dc:Species>americana</dc:Species>
+                        </tax:xmldata>M. americana</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:177805" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myrmica</dc:Genus>
+                            <dc:Species>emeryana</dc:Species>
+                        </tax:xmldata>M. emeryana</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32406" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myrmica</dc:Genus>
+                            <dc:Species>lobifrons</dc:Species>
+                        </tax:xmldata>M. lobifrons</tax:name>
+. Based upon specimens deposited in CAFR, the species was reported from the INEEL by Allred and Cole (1971) as 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32405" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myrmica</dc:Genus>
+                            <dc:Species>lobicornis</dc:Species>
+                        </tax:xmldata>Myrmica lobicornis</tax:name>
+.
+</tax:p>
+                <tax:p>
+The only literature concerning this species is Jackson et al. (1991) which was a chemotaxonomic study of the species based on specimens from INEEL. It showed that 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238620" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myrmica</dc:Genus>
+                            <dc:Species>crassirugis</dc:Species>
+                        </tax:xmldata>M. crassirugis</tax:name>
+is distinctive from 14 described Nearctic 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24868" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myrmica</dc:Genus>
+                        </tax:xmldata>Myrmica</tax:name>
+and that it shares some similarities with European species of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24868" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myrmica</dc:Genus>
+                        </tax:xmldata>Myrmica</tax:name>
+.
+</tax:p>
+            </tax:div>
+            <tax:div type="distribution">
+                <tax:p>Range. A western species presently known from southern Canada down to southern USA. This ant should be found in Arizona, California, New Mexico, Wyoming and southern Alberta in addition to states and province mentioned hereafter.</tax:p>
+            </tax:div>
+            <tax:div type="biology_ecology">
+                <tax:p>
+Ecology. Collection records indicate this ant lives in semi-xerophilous prairie like sagebrush habitats and open rather dry coniferous forest of the upper Sonoran zone in mountains. Foragers have been collected on Atriplex confertifolia, Agropyron cristatum, Pterysia terebinthina, Balsamorhiza sagitta and Pinus sp. Collecting altitudes include 880 m in Oregon, 1465 - 2380 m in Idaho, 1870 m in Montana, 1935 - 2129 m in Utah, 1935 - 3134 m in Nevada. Nests are dug in mineral soils, uncovered or under rock and vegetation (herbs, shrubs). W. H. Clark and P Blom (personal communication) found 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238620" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myrmica</dc:Genus>
+                            <dc:Species>crassirugis</dc:Species>
+                        </tax:xmldata>M. crassirugis</tax:name>
+in all of the major soil and vegetation types of the INEEL site, despite its very cryptic habits. A detailed account of the natural history of this ant will appear in a report on the ant fauna of that site to be published in Sociobiology.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238622" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>wheelerorum</dc:Species>
+                    </tax:xmldata>Myrmica wheelerorum</tax:name>
+, 
+new species</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Figures 32 - 35</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>
+Types. Holotype worker, paratype workers and alate queens: 
+USA
+, 
+4 mi NNE Vya
+, 
+5600 ft. elev
+., 
+Washoe Co
+.
+
+, 
+Nevada
+, U. S. A., 
+16. vi. 1971
+(
+G. C. &amp; J. Wheeler
+, 
+NEV- 2076
+&amp; 
+NEV- 2078
+); additional 
+paratypes
+(3 workers, 3 alate queens), 
+Florissant
+, 
+Colorado
+, no date (
+W. M. Wheeler
+). 
+Holotype
+and 
+paratypes
+in 
+LACM
+; 
+paratypes
+also in 
+CAFR
+, 
+MCZC
+, and 
+USNM
+.
+</tax:p>
+            </tax:div>
+            <tax:div type="etymology">
+                <tax:p>Etymology. Named after George C. and Jeanette N. Wheeler who collected this ant in Nevada.</tax:p>
+            </tax:div>
+            <tax:div type="description">
+                <tax:p>Worker. Habitus, figures 32, 34. Measurements and indices in Table 3 - 4. Head in full face view, typically large and rounded, with big oval eyes centered on mid-line cutting the lateral margin. Head suboval, slightly longer than broad with convex sides, a convex or slightly straight (larger specimens) preoccipital margin, and very broadly rounded preoccipital corner, malar margin convex. Mandibles large, with 6 - 7 teeth and 1 - 2 denticles. Median half of clypeus some what bulging, lateral wings flattened; anterior margin of clypeus convex, lateral wings flattened. Frontal lamellae rounded, reduced posteriorly to short and outcurved carinae merging to dorsum sculpture. Antennal scape rather long, surpassing the preoccipital corner by the length of the first two funiculus segments; bent basally at right angle, with a moderately to strongly developed, then spoonlike, dorsal lamina surounding the shaft angle, shortly developing laterally and associated with a vertical ridge along basal shaft. In dorsal view shaft narrower along anterior half, about half the maximal width, particularly just after the bend; funiculus segments 3 - 6 less than 1.5 times longer than broad; club of 4 segments.</tax:p>
+                <tax:p>In profile, when mesometasternum external margin horizontally aligned, mesosoma evenly convex, lower posteriorly; mesopropodeal suture not or very shallowly impressed; propodeal lobes angulate posterodorsally. Strigil of protibia with a basal tooth; middle and hind tibiae with finely pectinated spurs. Propodeal spines rather short and diverging, surpassing slightly the propodeal lobes, usually straight and acuminate, projecting backwards and upwards at about 45 ° to the horizontal. Petiole longer than high and higher than wide, with a short peduncle; seen in profile the anterior face concave, forming a rounded right angle with the dorsal surface which is short, often straight or participating in the arch formed by the posterior surface. Postpetiole distinctly higher and larger than long, about as high than wide, its sternum convex.</tax:p>
+                <tax:p>Mandibles finely rugulose with ciliated punctures. Sculpture of head delicate and thin; frons and clypeus longitudinally rugulose; reminder of head dorsum with loosely reticulated rugulae, surface between rugulae large, subshining and distinctly punctulate. Antennal fossae with faint rugulae; area of lateral wings of clypeus smooth and shining but rugulose at apex. Mesosoma strongly and deeply striated; rugae with flattened summit, longitudinally aligned, sometimes sinuate on pronotum. Petiole and pospetiole rugose. Gaster smooth and shining. General body color light to dark yellowish-red; gaster somewhat darker and appendages lighter. Erect body hairs moderately abundant and long; gastric pubescence very dilute.</tax:p>
+                <tax:p>Queen. Habitus, figures 33, 35. Measurements and indices in Table 3 - 4. Basically similar to workers in shape of head, characters of sculpture, color and pilosity of body except the following. Usual distinct mesosomal development of a queen and body size larger. Head with three rather large ocelli. Sculpture of head more developed, anastomoses more abundant except on front and clypeus where carinae remain parallel. Sculpture coarser on lateral parts of pronotum, mesonotum, petiole and postpetiole. Rugulae of mesopleurae obliquely aligned, intersurface distinctly punctate; transverse groove narrow and deeply impressed. Surface between spines subshining, faintly sculptured in upper half, ventral half smooth and shining.</tax:p>
+                <tax:p>Male. Unknown.</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>
+Notes. This is a sister species of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238620" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myrmica</dc:Genus>
+                            <dc:Species>crassirugis</dc:Species>
+                        </tax:xmldata>Myrmica crassirugis</tax:name>
+, differing by its striking yellowish color, exceptional for the genus, a more sturdy head and frontal lamellae, but with more delicate and reticulated sculpture, a more developed lamina on scape bend, and diverging spines. Its ecological distribution is probably more southern.
+</tax:p>
+                <tax:p>
+The Wheelers in The ants of Nevada (1986) mentioned in their key to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24868" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myrmica</dc:Genus>
+                        </tax:xmldata>Myrmica</tax:name>
+species a concolorous yellowish red form as sp. nov., after my evaluation of their material. It was this new species, but their series was labelled 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32453" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Myrmica</dc:Genus>
+                            <dc:Species>tahoensis</dc:Species>
+                        </tax:xmldata>M. tahoensis Wheeler</tax:name>
+.
+</tax:p>
+            </tax:div>
+            <tax:div type="distribution">
+                <tax:p>Range. Presently known only from the type localities in Nevada and Colorado.</tax:p>
+            </tax:div>
+            <tax:div type="biology_ecology">
+                <tax:p>Ecology. This attractive ant was collected at an altitude of 1680 m (5600 feet) in Nevada. There are no data for the Florissant specimens. It is probably associated mainly with the upper Sonoran zone.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:p>ACKNOWLEDGEMENTS</tax:p>
+        <tax:p>
+Thanks are due to institutional collection curators, active or retired, for their helpful cooperation: E. O. Wilson and S. Cover (MCZC), R. R. Snelling (LACM), D. R. Smith (USNM), P. Ward (UCDC), the late W. L. Brown (DECU), M. Favreau (AMNH), M. B. DuBois (SBSK), P. J. Clausen (DEUM), R. Beique and C. Piche (CIQ), C. Besuchet and B. Merz (MHNG), M. Fischer and S. Schoedl (NHMW). Also collectors kindly provided gifts of specimens from different states and provinces, particularly W. H. Clark in Idaho, G. C. &amp; J. Wheeler in Nevada, Paul B. Kannowski and Mary Talbot in Michigan, D. M. Allred and G. F. Knowlton in Idaho and Utah, S. O. Shattuck in Oregon, J. Heron in Washington, and R. Higgins in British Columbia. I am also indebted to many students and collaborators, especially Robert Loiselle and Myriam Tremblay. Financial support for the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24868" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                </tax:xmldata>Myrmica</tax:name>
+revision was provided by the National Research Council of Canada and the Museum of Comparative Zoology of Harvard University.
+</tax:p>
+        <tax:p>LITERATURE CITED</tax:p>
+        <tax:p>Allred, D. M. &amp; Cole, A. C. 1971. Ants of the National Reactor Testing Station. Great Basin Naturalist 31: 237 - 242.</tax:p>
+        <tax:p>Creighton, W. S. 1950. The ants of North America. Bulletin of the Museum of Comparative Zoology 104: 1 - 585, 57 plates.</tax:p>
+        <tax:p>Culvert, D. C. 1974. Species packing in Caribbean and North temperate ant communities. Ecology 55: 974 - 988.</tax:p>
+        <tax:p>Dennis, C. A. 1938. The distribution of ant species in Tennessee, with reference to ecological factors. Annals of the Entomological Society of America 31: 267 - 308.</tax:p>
+        <tax:p>Emery, C. 1895. Beitraege zur Kenntniss der nordamericanischen Ameisenfauna. (Schluss.) Zoologische Jarhrbuecher. Abtheilung fuer Systematik, Geographie und Biologie der Tiere 8: 257 - 360.</tax:p>
+        <tax:p>Forel, A. 1922. Glanures myrmecologiques en 1922. Revue Suisse de Zoologie 30: 87 - 102.</tax:p>
+        <tax:p>
+Francoeur, A. 1973. Revision taxonomique des especes nearctiques du groupe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29086" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Formica</dc:Genus>
+                    <dc:Species>fusca</dc:Species>
+                </tax:xmldata>fusca</tax:name>
+, genre 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2506" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Formica</dc:Genus>
+                </tax:xmldata>Formica</tax:name>
+(
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+, Hymenoptera). Memoires de la Societe Entomologique du Quebec 3: 1 - 316.
+</tax:p>
+        <tax:p>
+Francoeur, A. 1981. Le groupe nearctique 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32401" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>lampra</dc:Species>
+                </tax:xmldata>Myrmica lampra</tax:name>
+(
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+, Hymenoptera). Canadian Entomologist 113: 755 - 759.
+</tax:p>
+        <tax:p>
+Francoeur, A. &amp; Loiselle, R. 1984. Description du male et notice sur la biologie de la fourmi parasite 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32427" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>quebecensis</dc:Species>
+                </tax:xmldata>Myrmica quebecensis</tax:name>
+(
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+, Hymenoptera). Revue d ’ Entomologie du Quebec 29: 3 - 11.
+</tax:p>
+        <tax:p>
+Francoeur, A., Loiselle, R. &amp; Buschinger, A. 1985. Biosystematique de la tribu Leptothoracini (
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+, Hymenoptera). 1. Le genre 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2518" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Formicoxenus</dc:Genus>
+                </tax:xmldata>Formicoxenus</tax:name>
+dans la region holarctique. Naturaliste Canadien 112: 343 - 403.
+</tax:p>
+        <tax:p>Herbers, J. M. 1997. Microsatellite DNA markers reveal details of social structure in forest ants. Molecular Ecology 7: 299 - 306.</tax:p>
+        <tax:p>
+Jackson, B. D., Keegans, S. J., Morgan, E. D., Clark, W. H. &amp; Blom, P. E. 1991. Chemotaxonomic study of undescribed species of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24868" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                </tax:xmldata>Myrmica</tax:name>
+ant from Idaho. Journal of Chemical Ecology 17: 335 - 342.
+</tax:p>
+        <tax:p>
+Leprince, D. J. and Francoeur, A. 1986. Hilltop swarming by ants (Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+) in southwestern Quebec and interspecific competition at the swarm marker. Annals of the Entomological Society of America 79: 865 - 869.
+</tax:p>
+        <tax:p>Mayr, G. 1886. Die Formiciden der Vereinigten Staaten von Nordamerica. Verhandlungen der k. k. Zoologisch-Botanischen Gesellschaft in Wien 36: 419 - 464.</tax:p>
+        <tax:p>
+Radchenko, A. G. &amp; Elmes, G. W. 1998. Taxonomic revision of the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32429" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>ritae</dc:Species>
+                </tax:xmldata>ritae</tax:name>
+species-group of the genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24868" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                </tax:xmldata>Myrmica</tax:name>
+(Hymenoptera, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Vestnik Zoologii 32 (4): 3 - 27.
+</tax:p>
+        <tax:p>Roger, J. 1863. Die neu aufgefuehrten Gattungen und Arten meines Formiciden-Verzeichnisses, nebst Ergaenzung einiger frueher gegeben Beschreibungen. Berliner Entomologische Zeitschift 7: 131 - 214.</tax:p>
+        <tax:p>
+Seifert, B. 1988. A taxonomic revision of the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24868" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                </tax:xmldata>Myrmica</tax:name>
+species of Europe, Asia Minor, and Caucasia (Hymenoptera, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Abhandlungen und Berichte der Naturkundemuseums Goerlitz 62 (3): 1 - 75.
+</tax:p>
+        <tax:p>Smith, D. R. 1979. Superfamily Formicoidea. Pp. 1323 - 1467 in Krombein, K. V., Hurd, P. D.,</tax:p>
+        <tax:p>Smith, D. R. &amp; Burks, B. D. (eds.) Catalog of Hymenoptera in America North of Mexico. Volume 2. Apocrita (Aculeata). Washington, D. C.: Smithsonian Institution Press, pp. 1199 - 2209.</tax:p>
+        <tax:p>
+Snyder, L. A. &amp; Herbers, J. M. 1991. Polydomy and sexual allocation ratios in the ant 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                    <dc:Species>punctiventris</dc:Species>
+                </tax:xmldata>Myrmica punctiventris</tax:name>
+. Behavioral Ecology and Sociobiology 28: 409 - 415.
+</tax:p>
+        <tax:p>
+Weber, N. A. 1950. A revision of the North American ants of the genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24868" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Myrmica</dc:Genus>
+                </tax:xmldata>Myrmica</tax:name>
+Latreille with a synopsis of the Palearctic species. Annals of the Entomological Society of America 43: 189 - 226.
+</tax:p>
+        <tax:p>Wesson, L. G. &amp; Wesson, R. G. 1940. A collection of ants from southcentral Ohio. American Midland Naturalist 24: 89 - 103.</tax:p>
+        <tax:p>Wheeler, G. C. &amp; Wheeler, J. 1986. The ants of Nevada. Los Angeles: Natural History Museum of Los Angeles County, 138 pp.</tax:p>
+        <tax:p>Wheeler, W. M. 1905. An annotated list of the ants of New Jersey. Bulletin of the American Museum of Natural History 21: 371 - 403.</tax:p>
+        <tax:p>Wilson, E. O. 1971. The insect societies. Cambridge, Massachusetts: Harvard University Press, 548 pp.</tax:p>
+        <tax:figure>
+            <tax:p>
+Table 1. Morphometrics (mm) for the 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>punctiventris</dc:Species>
+                    </tax:xmldata>Myrmica punctiventris</tax:name>
+group.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Table 2. Indices for the 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>punctiventris</dc:Species>
+                    </tax:xmldata>Myrmica punctiventris</tax:name>
+group.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Table 3. Morphometrics (mm) for the 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238620" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>crassirugis</dc:Species>
+                    </tax:xmldata>Myrmica crassirugis</tax:name>
+group.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Table 4. Indices for the 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238620" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>crassirugis</dc:Species>
+                    </tax:xmldata>Myrmica crassirugis</tax:name>
+group.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 1 - 3. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32424" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>pinetorum</dc:Species>
+                    </tax:xmldata>Myrmica pinetorum</tax:name>
+. 1. Worker profile without legs. 2. Dorsal view of worker. 3. Profile of queen.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 4 - 7. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32424" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>pinetorum</dc:Species>
+                    </tax:xmldata>Myrmica pinetorum</tax:name>
+. Frontal view of head. 4. Worker. 5. Queen. 6. Male. 7. Profile of alate male body without legs.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 8 - 10. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>punctiventris</dc:Species>
+                    </tax:xmldata>Myrmica punctiventris</tax:name>
+. Profile of body. 8. Worker. 9. Queen without wings. 10. Male.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 11 - 13. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>punctiventris</dc:Species>
+                    </tax:xmldata>Myrmica punctiventris</tax:name>
+. Frontal view of head. 11. Worker. 12. Queen. 13. Male.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 14 - 16. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238616" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>semiparasitica</dc:Species>
+                    </tax:xmldata>Myrmica semiparasitica</tax:name>
+. Profile of body without legs. 14. Worker. 15. Queen. 16. Male.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 17 - 19. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238616" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>semiparasitica</dc:Species>
+                    </tax:xmldata>Myrmica semiparasitica</tax:name>
+. Frontal view of head. 17. Worker. 18. Queen. 19. Male.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 20 - 21. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238618" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>punctinops</dc:Species>
+                    </tax:xmldata>Myrmica punctinops</tax:name>
+. Worker. 20. Profile of body. 21. Dorsal view of head.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 22 - 24. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238620" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>crassirugis</dc:Species>
+                    </tax:xmldata>Myrmica crassirugis</tax:name>
+. Profile of body without legs. 22. Worker. 23. Queen without wings. 24. Male.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 25 - 27. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238620" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>crassirugis</dc:Species>
+                    </tax:xmldata>Myrmica crassirugis</tax:name>
+. Frontal view of head. 25. Worker. 26. Queen. 27. Male.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 28 - 31. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238622" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>wheelerorum</dc:Species>
+                    </tax:xmldata>Myrmica wheelerorum</tax:name>
+. Profile of body. 28. Worker without legs. 29. Queen without left antenna and wings. Frontal view of head. 30. Worker. 31. Queen.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figure 32. Variations of the scape length in the 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>punctiventris</dc:Species>
+                    </tax:xmldata>Myrmica punctiventris</tax:name>
+group.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figure 33 (top). Variations of frontal lobe development in the 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>punctiventris</dc:Species>
+                    </tax:xmldata>Myrmica punctiventris</tax:name>
+group. Figure 34 (bottom). Variations in spine length in the 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:32426" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Myrmica</dc:Genus>
+                        <dc:Species>punctiventris</dc:Species>
+                    </tax:xmldata>Myrmica punctiventris</tax:name>
+group.
+    </tax:p>
+        </tax:figure>
+    </tax:taxonxBody>
+</tax:taxonx>

@@ -1,0 +1,2785 @@
+<?xml version="1.0" encoding="UTF-8"?><tax:taxonx xmlns:dc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.taxonx.org/schema/v1 http://www.taxonx.org/schema/v1/taxonx1.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-1.xsd http://digir.net/schema/conceptual/darwin/2003/1.0 http://digir.net/schema/conceptual/darwin/2003/1.0/darwin2.xsd">
+    <tax:taxonxHeader>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Taxonomic review of the genus Wasmannia.</mods:title>
+            </mods:titleInfo>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:name type="personal">
+                <mods:role>
+                    <mods:roleTerm>Author</mods:roleTerm>
+                </mods:role>
+                <mods:namePart>Longino, J. T.</mods:namePart>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:role>
+                    <mods:roleTerm>Author</mods:roleTerm>
+                </mods:role>
+                <mods:namePart>Fernández, F.</mods:namePart>
+            </mods:name>
+            <mods:relatedItem type="host">
+                <mods:titleInfo>
+                    <mods:title>Advances in ant systematics (Hymenoptera: Formicidae): Homage to E.O. Wilson - 50 years of contributions.</mods:title>
+                </mods:titleInfo>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Snelling, R. R.</mods:namePart>
+                </mods:name>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Fisher, B. L.</mods:namePart>
+                </mods:name>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Ward, P. S.</mods:namePart>
+                </mods:name>
+                <mods:originInfo>
+                    <mods:dateIssued>2007</mods:dateIssued>
+                    <mods:publisher>Memoirs of the American Entomological Institute, 80</mods:publisher>
+                </mods:originInfo>
+                <mods:part>
+                    <mods:extent unit="page">
+                        <mods:start>271</mods:start>
+                        <mods:end>289</mods:end>
+                    </mods:extent>
+                </mods:part>
+            </mods:relatedItem>
+            <mods:identifier type="HNS-PUB">21284</mods:identifier>
+            <mods:location>
+                <mods:url>http://hdl.handle.net/10199/15361</mods:url>
+            </mods:location>
+        </mods:mods>
+    </tax:taxonxHeader>
+    <tax:taxonxBody>
+        <tax:p>The Evergreen State College</tax:p>
+        <tax:p>Olympia WA 98505 USA</tax:p>
+        <tax:p>longinoj @ evergreen. edu</tax:p>
+        <tax:p>and</tax:p>
+        <tax:p>Fernando Fernandez</tax:p>
+        <tax:p>Instituto de Ciencias Naturales</tax:p>
+        <tax:p>Universidad Nacional de Colombia</tax:p>
+        <tax:p>Apartado 7495</tax:p>
+        <tax:p>Bogota D. C., Colombia</tax:p>
+        <tax:p>ffernandezca @ unal. edu. co</tax:p>
+        <tax:p>ABSTRACT</tax:p>
+        <tax:p>
+The Neotropical ant genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+is reviewed and a key is provided to all 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+species. By far the most common species is 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>W. auropunctata</tax:name>
+, native to the Neotropics and becoming a serious pest ant when introduced elsewhere. Although W. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>auropunctata</tax:name>
+is variable, there is no evidence that it is composed of multiple cryptic species. Queen size is dimorphic in Costa Rica, but the taxonomic and biological significance of this is unknown. Other species of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+are rare and inconspicuous. The following taxonomic changes are made: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238252" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>australis</dc:Species>
+                </tax:xmldata>W. australis Emery</tax:name>
+1894, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238253" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>laevifrons</dc:Species>
+                </tax:xmldata>laevifrons</tax:name>
+Emery 1894, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238254" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>obscura</dc:Species>
+                </tax:xmldata>obscura</tax:name>
+Forel 1912, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238255" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>pulla</dc:Species>
+                </tax:xmldata>pulla</tax:name>
+Santschi 1931, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238256" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>nigricans</dc:Species>
+                </tax:xmldata>nigricans</tax:name>
+Emery 1906, and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238257" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>rugosa</dc:Species>
+                </tax:xmldata>rugosa</tax:name>
+(Forel 1886) are synonymized under 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>auropunctata</tax:name>
+(Roger 1863); 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238258" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>weiseri</dc:Species>
+                </tax:xmldata>W. weiseri Forel</tax:name>
+1912 is synonymized under 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37530" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>sulcaticeps</dc:Species>
+                </tax:xmldata>sulcaticeps Emery</tax:name>
+1894. There is a negative relationship between queen size and worker size among 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+species. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>Wasmannia auropunctata</tax:name>
+has the greatest difference, which may contribute to its ecological success.
+</tax:p>
+        <tax:p>
+Key words: Hymenoptera, Formicidae, Myrmicinae, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>Wasmannia auropunctata</tax:name>
+, invasive ants, taxonomy, Neotropics.
+</tax:p>
+        <tax:p>
+The genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+is endemic to the Neotropics. Its most famous member is 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>W. auropunctata</tax:name>
+, the “ little fire ant ”. This species does very well in synanthropic habitats throughout the Neotropics and has been introduced to tropical locales throughout the world, where it often becomes a severe pest ant. Other species in the genus are few, and all of them are uncommon relative to their famous relative. Twenty-one available names have accumulated in the taxonomic literature, but there has never been a synthetic review of the genus. Kusnezov (1952) characterized the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+species of Argentina, but no other work has focused on the taxonomy of the genus. The purpose of this report is to provide a revised key, taxonomic commentary, and natural history notes on all species in the genus. Particular emphasis is placed on the occurrence of the genus in Costa Rica, where extensive inventory work has been carried out.
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+was established in 1893 by Forel. The most recent ant classification (Bolton, 2003) places 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+in the tribe Blepharidattini, within the attine tribe group. Bolton proposes as an autapomorphy for the attine tribe group the “ anterior clypeal margin with a broad anteclypeal apron or flange that fits tightly over basal margins of mandibles and is at an angle to outline of clypeus proper (not a direct continuation of median clypeus). Anteclypeal apron of different sculpture / texture from median portion of clypeus. ” Within this tribe group there are two tribes: Attini (the fungus-growing ants) and Blepharidattini. Workers of Attini are differentiated from the Blepharidattini by (1) the fungus-growing habit; (2) masticatory margin of mandibles longer than basal margin, usually with 7 or more teeth (secondarily reduced to 5 teeth in some groups); and (3) the 11 - segmented antennae gradually incrassate. In contrast, the Blepharidattini (1) do not culture fungi; (2) have relatively shorter mandibles, the masticatory margin with 5 or fewer teeth and subequal in length to the basal margin; and (3) the 11 - segmented antennae have a discrete 2 - segmented club. Additional blepharidattine characters described by Bolton are clypeus broadly inserted between the frontal lobes and the propodeal spiracle low on the side of the propodeum. The Blepharidattini contains two genera, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2405" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Blepharidatta</dc:Genus>
+                </tax:xmldata>Blepharidatta</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2405" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Blepharidatta</dc:Genus>
+                </tax:xmldata>Blepharidatta</tax:name>
+have very strongly developed antennal scrobes, the upper margin of which is prolonged posteriorly so that the posterolateral margins of the vertex are drawn out as posteriorly directed teeth or lobes, the anterior margins of the frontal lobes project forward almost to the anterior margin of the clypeus, and the petiolar node is long, low, and without differentiated anterior face. In 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+, the antennal scrobes are shallow and never so strongly developed; the posterolateral margins of the vertex are not produced as lobes or teeth; the frontal lobes do not project forward; and the petiolar node is always well-developed, with a distinct anterior face.
+</tax:p>
+        <tax:p>
+In practice, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+may be confused with some species of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24871" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Ochetomyrmex</dc:Genus>
+                </tax:xmldata>Ochetomyrmex</tax:name>
+. For example, the face of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238259" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Ochetomyrmex</dc:Genus>
+                    <dc:Species>semipolita</dc:Species>
+                </tax:xmldata>O. semipolita</tax:name>
+is very similar to 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+(Fernandez, 2003). 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24871" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Ochetomyrmex</dc:Genus>
+                </tax:xmldata>Ochetomyrmex</tax:name>
+have less developed antennal scrobes, the clypeal apron is lacking, and there is a slightly impressed mesonotal suture which is never present in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+. In addition, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+lacks a bifurcated carina on the ventral surface of the petiole, a character present in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24871" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Ochetomyrmex</dc:Genus>
+                </tax:xmldata>Ochetomyrmex</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24872" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Tranopelta</dc:Genus>
+                </tax:xmldata>Tranopelta</tax:name>
+, and other myrmicines (Fernandez, 2003).
+</tax:p>
+        <tax:p>METHODS</tax:p>
+        <tax:p>The following terminology and abbreviations are used:</tax:p>
+        <tax:p>HL: head length; perpendicular distance from line tangent to rearmost points of vertex margin to line tangent to anteriormost projections of clypeus, including anterior flange, in full face view.</tax:p>
+        <tax:p>HW: head width; maximum width of head in face view, including eyes if they project beyond the sides of the head.</tax:p>
+        <tax:p>EL: eye length, measured along maximum diameter.</tax:p>
+        <tax:p>WL: Weber ’ s length; viewing mesosoma in lateral profile, distance from approximate inflection point, where downward sloping pronotum curves into anteriorly projecting neck, to posteroventral propodeal lobes.</tax:p>
+        <tax:p>CI: cephalic index; HW / HL.</tax:p>
+        <tax:p>OI: ocular index; EL / HL.</tax:p>
+        <tax:p>Collections are referred to by the following acronyms:</tax:p>
+        <tax:p>MHNG: Museum d ’ Histoire Naturelle, Geneva, Switzerland.</tax:p>
+        <tax:p>MZSP: Museu de Zoologia da Universidade de Sao Paulo, Sao Paulo, Brazil.</tax:p>
+        <tax:p>NHMB: Naturhistorisches Museum, Basel, Switzerland.</tax:p>
+        <tax:p>NMW: Naturhistorisches Museum, Vienna, Austria.</tax:p>
+        <tax:p>TAXONOMIC SYNOPSIS</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37523" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>affinis</dc:Species>
+                </tax:xmldata>Wasmannia affinis Santschi</tax:name>
+1929. Brazil (Parana).
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>Wasmannia auropunctata</tax:name>
+(Roger 1863). Throughout Neotropics, introduced elsewhere.
+</tax:p>
+        <tax:p>
+= 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:234555" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>atomum</dc:Species>
+                </tax:xmldata>atomum</tax:name>
+(Santschi 1914).
+</tax:p>
+        <tax:p>
+= 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238252" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>australis</dc:Species>
+                </tax:xmldata>australis Emery</tax:name>
+1894. NEW SYNONYMY
+</tax:p>
+        <tax:p>
+= 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:145544" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>glabra</dc:Species>
+                </tax:xmldata>glabra Santschi</tax:name>
+1931.
+</tax:p>
+        <tax:p>
+= 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238253" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>laevifrons</dc:Species>
+                </tax:xmldata>laevifrons</tax:name>
+Emery 1894. NEW SYNONYMY
+</tax:p>
+        <tax:p>
+= 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238254" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>obscura</dc:Species>
+                </tax:xmldata>obscura</tax:name>
+Forel 1912. NEW SYNONYMY
+</tax:p>
+        <tax:p>
+= 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:234557" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>panamana</dc:Species>
+                </tax:xmldata>panamana</tax:name>
+(Enzmann 1947).
+</tax:p>
+        <tax:p>
+= 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238255" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>pulla</dc:Species>
+                </tax:xmldata>pulla</tax:name>
+Santschi 1931. NEW SYNONYMY
+</tax:p>
+        <tax:p>
+= 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238256" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>nigricans</dc:Species>
+                </tax:xmldata>nigricans</tax:name>
+Emery 1906 .. NEW SYNONYMY
+</tax:p>
+        <tax:p>
+= 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238257" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>rugosa</dc:Species>
+                </tax:xmldata>rugosa</tax:name>
+(Forel 1886). NEW SYNONYMY
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37525" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>iheringi</dc:Species>
+                </tax:xmldata>Wasmannia iheringi Forel</tax:name>
+1908. Brazil (Espirito Santo), Peru, Costa Rica.
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37526" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>lutzi</dc:Species>
+                </tax:xmldata>Wasmannia lutzi Forel</tax:name>
+1908. southeastern Brazil.
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37527" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>rochai</dc:Species>
+                </tax:xmldata>Wasmannia rochai Forel</tax:name>
+1912. Brazil to Costa Rica.
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37528" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>scrobifera</dc:Species>
+                </tax:xmldata>Wasmannia scrobifera Kempf</tax:name>
+1961. Surinam, Costa Rica.
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>sigmoidea</dc:Species>
+                </tax:xmldata>Wasmannia sigmoidea</tax:name>
+(Mayr 1884). Guianas, Antilles (St. Vincent; Puerto Rico), Costa Rica.
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37530" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>sulcaticeps</dc:Species>
+                </tax:xmldata>Wasmannia sulcaticeps Emery</tax:name>
+1894. Argentina.
+</tax:p>
+        <tax:p>
+= 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:145548" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>bruchi</dc:Species>
+                </tax:xmldata>bruchi Santschi</tax:name>
+1919. TL: Argentina.
+</tax:p>
+        <tax:p>
+= 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238258" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>weiseri</dc:Species>
+                </tax:xmldata>weiseri Forel</tax:name>
+1912. TL: Argentina. NEW SYNONYMY.
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37531" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>villosa</dc:Species>
+                </tax:xmldata>Wasmannia villosa Emery</tax:name>
+1894. Brazil (Rio Grande do Sul).
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37532" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>williamsoni</dc:Species>
+                </tax:xmldata>Wasmannia williamsoni Kusnezov</tax:name>
+1952. Argentina.
+</tax:p>
+        <tax:p>KEY TO WORKERS</tax:p>
+        <tax:p>
+(The worker of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37531" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>villosa</dc:Species>
+                </tax:xmldata>Wasmannia villosa</tax:name>
+is unknown.)
+</tax:p>
+        <tax:p>
+1 a. Petiolar node strongly quadrate in lateral view, with nearly vertical anterior face and forming sharp right angle with dorsal face (Fig. 1); petiolar peduncle about as long as node; setae on mesosomal dorsum erect, long, about 0.1 mm or longer; antennal scrobe narrow, not extending to side of head, ventral margin defined by preocular carina that runs from dorsal margin of eye to margin of vertex; side of head posterior to eye rounded; color red brown to orange ................................................................................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>auropunctata</tax:name>
+        </tax:p>
+        <tax:p>1 b. Petiolar node more rounded, with sloping anterior and posterior faces, and without sharply differentiated dorsal face or clypeus strongly projecting and box-like and dorsal pilosity composed of a very short stubble; petiolar peduncle longer or shorter than node; antennal scrobe various; color various .................................................................................................. 2</tax:p>
+        <tax:p>
+2 a. Scape strongly flattened; clypeus strongly projecting and box-like, sharply divided into equal dorsal and anterior faces that meet at a right angle; setae on mesosomal dorsum abundant, straight, filiform, short (about 0.04 mm long), forming a stubble; propodeal spines very short, about same length as setae on mesosomal dorsum ......................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37528" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>scrobifera</dc:Species>
+                </tax:xmldata>scrobifera</tax:name>
+        </tax:p>
+        <tax:p>2 b. Scape more terete, less flattened; clypeus not strongly box-like, rounded from posterior to anterior margins; setae on mesosomal dorsum longer and / or curved, clavate; propodeal spines various ......................................................................................................................... 3</tax:p>
+        <tax:p>
+3 a. First gastral tergite lacking erect setae; petiolar peduncle longer than node (Fig. 1); dorsal setae on mesosoma and face thin, flexuous; color yellow orange ................................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37525" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>iheringi</dc:Species>
+                </tax:xmldata>iheringi</tax:name>
+        </tax:p>
+        <tax:p>3 b. First gastral tergite with abundant erect setae; petiolar peduncle equal to node or shorter; dorsal setae stiff to slightly clavate; color various .................................................................. 4</tax:p>
+        <tax:p>4 a. Antennal scrobe narrow, not extending to side of head, ventral margin defined by preocular carina that runs from dorsal margin of eye to margin of vertex; side of head posterior to eye rounded ................................................................................................................................... 5</tax:p>
+        <tax:p>4 b. Antennal scrobe broad and flat, extending to side of head, ventral margin formed by angular side of head posterior to eye ................................................................................................... 8</tax:p>
+        <tax:p>5 a. Face between frontal carinae with about 12 distinct longitudinal striae overlaying strong punctate sculpture; propodeal spiracle small, diameter less than width of base of propodeal spine (Argentina) .................................................................................................................... 6</tax:p>
+        <tax:p>5 b. Face between frontal carinae with fewer and more irregular longitudinal rugae, overlaying opaque but not as strongly punctate sculpture; propodeal spiracle large and conspicuous, diameter about equal to width of base of propodeal spine ...................................................... 7</tax:p>
+        <tax:p>
+6 a. Head width less than 0.50 mm; longitudinal striae on face very regular to margin of vertex; color yellow red; posterior face of petiole rounded, anterior face slightly angulate ................. ................................................................................................................................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37530" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>sulcaticeps</dc:Species>
+                </tax:xmldata>sulcaticeps</tax:name>
+        </tax:p>
+        <tax:p>
+6 b. Head width greater than 0.54 mm; striae on face somewhat less parallel, becoming irregular near margin of vertex; color uniformly dark maroon, abdomen black; anterior and posterior faces of petiolar node similarly rounded ................................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37532" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>williamsoni</dc:Species>
+                </tax:xmldata>williamsoni</tax:name>
+        </tax:p>
+        <tax:p>
+7 a. Dorsal setae on mesosoma and gaster straight to weakly curved, thin, not clavate; head relatively long, CI about 0.90; propodeal spines relatively long and upturned (Fig. 1); eyes relatively larger (OI 0.26) ........................................................................................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>sigmoidea</dc:Species>
+                </tax:xmldata>sigmoidea</tax:name>
+        </tax:p>
+        <tax:p>
+7 b. Dorsal setae on mesosoma curved and clavate; head relatively short, CI 0.95 - 1.00; propodeal spines short and directed posteriorly (Fig. 1); eyes shorter (OI 0.21 - 0.24) .................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37527" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>rochai</dc:Species>
+                </tax:xmldata>rochai</tax:name>
+        </tax:p>
+        <tax:p>
+8 a. Postpetiole in dorsal view subquadrate to slightly trapezoidal, with widest portion anterior to midlength; postpetiolar dorsum strongly punctate and opaque; propodeal spines relatively long and robust, in dorsal view about as long as distance between their tips .................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37526" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>lutzi</dc:Species>
+                </tax:xmldata>lutzi</tax:name>
+        </tax:p>
+        <tax:p>
+8 b. Postpetiole in dorsal view elliptical, widest portion at or posterior to midlength; postpetiolar dorsum feebly punctate, sublucid medially; propodeal spines shorter, in dorsal view shorter than distance between tips .............................................................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37523" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>affinis</dc:Species>
+                </tax:xmldata>affinis</tax:name>
+        </tax:p>
+        <tax:p>
+1 a. Body covered with abundant, long, appressed pilosity; propodeal spine robust, short, forming nearly a right angle; length about 4 mm ........................................................................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37531" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>villosa</dc:Species>
+                </tax:xmldata>villosa</tax:name>
+        </tax:p>
+        <tax:p>1 b. Pilosity erect; propodeal spine long or short but usually more spiniform, acute; length various .................................................................................................................................... 2</tax:p>
+        <tax:p>
+2 a. Clypeus strongly projecting and box-like, sharply divided into equal dorsal and anterior faces that meet at a right angle ........................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37528" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>scrobifera</dc:Species>
+                </tax:xmldata>scrobifera</tax:name>
+        </tax:p>
+        <tax:p>2 b. Clypeus not strongly box-like, rounded from posterior to anterior margins ............................ 3</tax:p>
+        <tax:p>3 a. Head width less than 0.65 mm ................................................................................................. 4</tax:p>
+        <tax:p>3 b. Head width greater than 0.65 mm ............................................................................................ 7</tax:p>
+        <tax:p>
+4 a. Petiolar peduncle longer than node ................................................................................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37525" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>iheringi</dc:Species>
+                </tax:xmldata>iheringi</tax:name>
+        </tax:p>
+        <tax:p>4 b. Petiolar peduncle about as long as node .................................................................................. 5</tax:p>
+        <tax:p>
+5 a. Mesosomal dorsum almost uniformly punctate, with faint longitudinal striae on mesonotum; striae on face weak .................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>sigmoidea</dc:Species>
+                </tax:xmldata>sigmoidea</tax:name>
+        </tax:p>
+        <tax:p>5 b. Mesosomal dorsum strongly longitudinally striate, on both mesonotum and scutellum; striae on face strong .......................................................................................................................... 6</tax:p>
+        <tax:p>
+6 a. Cephalic striae continuous, not mixed with other sculpture; color yellow red; posterior face of petiole rounded, anterior face slightly angulate .................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37530" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>sulcaticeps</dc:Species>
+                </tax:xmldata>sulcaticeps</tax:name>
+        </tax:p>
+        <tax:p>
+6 b. Cephalic striae mixed, appearing rugo-reticulated at least near vertex margin; color uniformly dark maroon, abdomen black; anterior and posterior faces of petiolar node similarly rounded .................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37532" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>williamsoni</dc:Species>
+                </tax:xmldata>williamsoni</tax:name>
+        </tax:p>
+        <tax:p>7 a. Antennal scrobe broad and flat, extending to side of head, ventral margin formed by angular side of head posterior to eye; outer margin of frontal carinae not strongly convex, diverging at level of ocelli; propodeal spines spiniform, longer than width at base; anteroventral postpetiolar teeth short, inconspicuous .................................................................................. 8</tax:p>
+        <tax:p>7 b. Antennal scrobe narrow, side of head rounded, ventral margin of scrobe defined by preocular carina that runs from dorsal margin of eye to margin of vertex or ventral margin not defined; frontal carinae, propodeal spines, and ventral postpetiolar teeth variable ................ 9</tax:p>
+        <tax:p>
+8 a. Head in face view strongly trapezoidal, with widest portion of head behind eyes; rugae on face fading posteriorly, weak on cephalic dorsum near margin of vertex ......................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37526" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>lutzi</dc:Species>
+                </tax:xmldata>lutzi</tax:name>
+        </tax:p>
+        <tax:p>
+8 b. Head in face view less trapezoidal, widest across eyes; rugae on face continuing to margin of vertex .............................................................................................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37523" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>affinis</dc:Species>
+                </tax:xmldata>affinis</tax:name>
+        </tax:p>
+        <tax:p>
+9 a. Antennal scrobe a distinct longitudinal trough, with defined ventral margin; propodeal spines subtriangular, about as long as wide at base; head width more than 0.75 mm .... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>auropunctata</tax:name>
+        </tax:p>
+        <tax:p>
+9 b. Antennal scrobe weakly impressed, ventral margin not defined; propodeal spines spiniform, longer than width at base; head width about 0.75 mm or less ........................................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37527" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>rochai</dc:Species>
+                </tax:xmldata>rochai</tax:name>
+        </tax:p>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37523" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>affinis</dc:Species>
+                    </tax:xmldata>Wasmannia affinis Santschi</tax:name>
+            </tax:nomenclature>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37523" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>affinis</dc:Species>
+                    </tax:xmldata>Wasmannia affinis Santschi</tax:name>
+, 1929: 300, fig. 25, 26. 
+Holotype
+worker: Brazil, 
+Parana
+, 
+Rio Negro
+(
+Reichensperger
+) [
+NHMB
+] (examined)
+
+.
+</tax:nomenclature>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>sigmoidea</dc:Species>
+                    </tax:xmldata>Wasmannia sigmoidea Mayr</tax:name>
+(part): Mayr, 1887: 622.
+</tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>Taxonomic comments</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37523" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>affinis</dc:Species>
+                        </tax:xmldata>Wasmannia affinis</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37526" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>lutzi</dc:Species>
+                        </tax:xmldata>lutzi</tax:name>
+are two related species from southeastern Brazil. They share a unique development of the antennal scrobe. The scrobe is very broad, forming a flat surface that extends from the frontal carinae to the side of the head. The side of the head is somewhat angular posterior to the eye. The preocular carina is faint and does not form the ventral border of the scrobe. In contrast, all other species of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                        </tax:xmldata>Wasmannia</tax:name>
+have a more narrow scrobe that does not reach the side of the head in full face view. The ventral margin of the scrobe is limited by the preocular carina or, in cases where the carina is faint or absent, where it would be if it extended posterior to the eye. The side of the head behind the eye is rounded. The expanded scrobe is also present in the queen of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37526" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>lutzi</dc:Species>
+                        </tax:xmldata>lutzi</tax:name>
+, resulting in a strongly trapezoidal head shape, such that the head is broader behind the eyes than across them. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37523" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>affinis</dc:Species>
+                        </tax:xmldata>Wasmannia affinis</tax:name>
+differs from 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37526" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>lutzi</dc:Species>
+                        </tax:xmldata>lutzi</tax:name>
+in (1) the propodeal spines are shorter, and (2) in dorsal view, the postpetiole is elliptical with rounded sides, and the widest point is at or behind the midlength.
+</tax:p>
+                <tax:p>
+Mayr described W. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>sigmoidea</dc:Species>
+                        </tax:xmldata>sigmoidea</tax:name>
+in 1884, based on specimens from Cayenne (see below). Later (Mayr, 1887) he identified a series of specimens from Santa Catarina state in Brazil as 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>sigmoidea</dc:Species>
+                        </tax:xmldata>W. sigmoidea</tax:name>
+. One of us (JTL) examined these Santa Catarina specimens (they have a variety of labels, some indicating they are from Santa Catarina and collected by Hechko, some just saying “ Brazil 188, ” and some erroneously labeled as types of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>sigmoidea</dc:Species>
+                        </tax:xmldata>sigmoidea</tax:name>
+). The workers in the series are all very uniform and we suspect they are from a single original collection. These workers are not 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>sigmoidea</dc:Species>
+                        </tax:xmldata>sigmoidea</tax:name>
+, but instead match the holotype of Santschi ’ s 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37523" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>affinis</dc:Species>
+                        </tax:xmldata>affinis</tax:name>
+.
+</tax:p>
+                <tax:p>In addition to the material above, we have examined three collections from Santa Catarina and Sao Paulo states in Brazil.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>auropunctata</dc:Species>
+                    </tax:xmldata>Wasmannia auropunctata (Roger)</tax:name>
+            </tax:nomenclature>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24927" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Tetramorium</dc:Genus>
+                    </tax:xmldata>Tetramorium</tax:name>
+auropunctatum Roger, 1863: 182. Syntype worker, queen, male: Cuba (not examined). Combination in 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24871" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Ochetomyrmex</dc:Genus>
+                    </tax:xmldata>Ochetomyrmex</tax:name>
+: Forel, 1886; in 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                    </tax:xmldata>Wasmannia</tax:name>
+: Forel, 1893.
+Description of larva: Wheeler, G. C. &amp; Wheeler, J., 1954: 444.<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:145692" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Ochetomyrmex</dc:Genus>
+                        <dc:Species>auropunctatus</dc:Species>
+                    </tax:xmldata>Ochetomyrmex auropunctatus var. rugosus Forel</tax:name>
+, 1886: xlix. Syntype worker: 
+
+Guatemala, 
+Retalhuleu
+(
+Stoll
+) [
+MHNG
+] (examined). Combination in 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                    </tax:xmldata>Wasmannia</tax:name>
+: Forel, 1901: 128
+
+.
+Description of queen, male: Santschi, 1929: 299. NEW SYNONYMY.<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152470" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>auropunctata</dc:Species>
+                    </tax:xmldata>Wasmannia auropunctata var. australis Emery</tax:name>
+, 1894: 193. Syntype worker: 
+Brazil
+, 
+Rio Grande do Sul
+(v. 
+Ihering
+). NEW SYNONYMY
+
+.
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152472" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>auropunctata</dc:Species>
+                    </tax:xmldata>Wasmannia auropunctata var. laevifrons Emery</tax:name>
+, 1894: 193. Syntype worker: Bolivia, Coroico, Chulumani Yungas (Balzan). NEW SYNONYMY.
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152473" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>auropunctata</dc:Species>
+                    </tax:xmldata>Wasmannia auropunctata var. nigricans Emery</tax:name>
+, 1906: 160. Syntype worker: Paraguay, Tacuru Pucu. NEW SYNONYMY.
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152474" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>auropunctata</dc:Species>
+                    </tax:xmldata>Wasmannia auropunctata var. obscura Forel</tax:name>
+, 1912: 1. Syntype worker: 
+Dibulla
+, 
+Burithaka
+and 
+Don Diego
+, 
+Sierra Nevada de Santa Marta
+, Colombia (
+Forel
+);
+Ceara
+, Brazil (
+Diaz da Rocha
+)
+
+; 
+Santos
+, Brazil (
+Dr. Ris
+) [
+MHNG
+]
+
+(Dibulla and Ceara syntypes examined, Ceara worker here designated LECTOTYPE). NEW SYNONYMY.
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:145542" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Xiphomyrmex</dc:Genus>
+                        <dc:Species>atomum</dc:Species>
+                    </tax:xmldata>Xiphomyrmex atomum</tax:name>
+Santschi, 1914: 370. Syntype worker: 
+
+Gabon, 
+Libreville
+(
+Silvestri
+) [
+NHMB
+] (examined). Combination in 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                    </tax:xmldata>Wasmannia</tax:name>
+, and variety of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>auropunctata</dc:Species>
+                    </tax:xmldata>auropunctata</tax:name>
+: Santschi, 1916: 504. Junior synonym of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>auropunctata</dc:Species>
+                    </tax:xmldata>auropunctata</tax:name>
+: Wheeler, 1922: 912
+
+.
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:145544" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>glabra</dc:Species>
+                    </tax:xmldata>Wasmannia glabra Santschi</tax:name>
+, 1931: 272. Syntype queen: 
+
+French Guiana, 
+St. Laurent du Moroni
+(
+Le Moult
+) [
+NHMB
+] (examined). Junior synonym of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>auropunctata</dc:Species>
+                    </tax:xmldata>auropunctata</tax:name>
+: Kempf, 1964: 66
+
+.
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152475" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>auropunctata</dc:Species>
+                        <dc:Subspecies>pulla</dc:Subspecies>
+                    </tax:xmldata>Wasmannia auropunctata st. pulla Santschi</tax:name>
+, 1931: 272. Syntype worker: 
+
+Panama, 
+France Field
+, 
+9 May 1930
+(
+A. Bierig
+) [
+NHMB
+] (examined). NEW SYNONYMY
+
+.
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:145545" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Hercynia</dc:Genus>
+                        <dc:Species>panamana</dc:Species>
+                    </tax:xmldata>Hercynia panamana</tax:name>
+Enzmann, J. 1947: 44, pl. 5. Syntype worker, queen: Panama. Junior synonym of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>auropunctata</dc:Species>
+                    </tax:xmldata>auropunctata</tax:name>
+: Brown, 1948: 102.
+</tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>Taxonomic comments</tax:p>
+                <tax:p>
+Workers of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>auropunctata</dc:Species>
+                        </tax:xmldata>W. auropunctata</tax:name>
+have a strongly quadrate petiolar node. The anterior face of the node is sharply differentiated from both the peduncle and the dorsal face of the node, meeting both at nearly right angles, and forming a strongly step-like profile. This is a highly distinctive feature that easily distinguishes 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>auropunctata</dc:Species>
+                        </tax:xmldata>auropunctata</tax:name>
+workers from all other 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                        </tax:xmldata>Wasmannia</tax:name>
+species. Within the species there is abundant variation in the strength of sculpturing and coloration, and this has engendered the naming of nine infraspecific forms in addition to the nominotypical. We have never been able to discover evidence of discrete forms among the workers of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>auropunctata</dc:Species>
+                        </tax:xmldata>auropunctata</tax:name>
+, either in sympatry or allopatry; the variation appears continuous. Three of the forms have already been synonymized by others: 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:234555" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>atomum</dc:Species>
+                        </tax:xmldata>atomum</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:145544" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>glabra</dc:Species>
+                        </tax:xmldata>glabra</tax:name>
+, and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:234557" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>panamana</dc:Species>
+                        </tax:xmldata>panamana</tax:name>
+. We have been able to examine types of three additional forms — 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238254" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>obscura</dc:Species>
+                        </tax:xmldata>obscura</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238255" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>pulla</dc:Species>
+                        </tax:xmldata>pulla</tax:name>
+, and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238257" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>rugosa</dc:Species>
+                        </tax:xmldata>rugosa</tax:name>
+— and they fall well within our concept of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>auropunctata</dc:Species>
+                        </tax:xmldata>auropunctata</tax:name>
+. The remaining forms — 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238252" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>australis</dc:Species>
+                        </tax:xmldata>australis</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238253" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>laevifrons</dc:Species>
+                        </tax:xmldata>laevifrons</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238256" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>nigricans</dc:Species>
+                        </tax:xmldata>nigricans</tax:name>
+— we have not examined, but the published descriptions give no indication that they are beyond the range of variation of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>auropunctata</dc:Species>
+                        </tax:xmldata>auropunctata</tax:name>
+. We have synonymized them, following the philosophy that taxa should be synonymized unless evidence of distinctness is obtained.
+</tax:p>
+                <tax:p>
+The above synonymy does not assure that there is no genetic structuring, and perhaps species-level differences, within the broad concept of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>auropunctata</dc:Species>
+                        </tax:xmldata>auropunctata</tax:name>
+. There may even be distinct sympatric species. In Costa Rica, there appear to be two size classes of queens (Fig. 2). Queens with smaller heads include ten from various sites in Costa Rica, including La Selva Biological Station and the Penas Blancas Valley, one from Jamaica, and one from Venezuela. Queens with large heads are all from the Atlantic slope of Costa Rica. Three are from La Selva (two from different Winkler samples of sifted leaf litter from the forest floor, one from a small nest under an epiphyte mat in an old treefall) and one is an alate queen found in a Cecropia sapling near Volcan Arenal. Thus the small-headed and big-headed forms are broadly sympatric in Costa Rica. Among the small-headed queens four are definitively associated with workers from the same colony, and among the big-headed queens one is associated with workers. Others have workers doubtfully associated (together in the same Winkler sample). We can discern no differences in workers associated with the two types of queens. The cause of the two size classes of queens is unknown, but could reflect either differences between cryptic species or intraspecific polymorphism.
+</tax:p>
+                <tax:p>
+An aberrant worker form is frequently encountered in large samples of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>auropunctata</dc:Species>
+                        </tax:xmldata>W. auropunctata</tax:name>
+. These aberrant workers have the head grossly swollen. The entire head is more spherical than normal, as if the head were inflated like a balloon. The rest of the body is little different from a normal worker. These aberrant workers are occasionally encountered in Winkler samples that contain hundreds or thousands of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>auropunctata</dc:Species>
+                        </tax:xmldata>auropunctata</tax:name>
+workers.
+</tax:p>
+            </tax:div>
+            <tax:div type="biology_ecology">
+                <tax:p>Natural History</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>auropunctata</dc:Species>
+                        </tax:xmldata>Wasmannia auropunctata</tax:name>
+is a widespread pest ant (Clark et al., 1982; De Souza et al., 1998; Fabres &amp; Brown, 1978; Jourdan, 1997; Lubin, 1984; Ulloa Chacon &amp; Cherix, 1990; Williams, 1994; Wetterer &amp; Porter, 2003). In its presumed native range it occurs from Argentina to Mexico (Kempf, 1972; Wetterer &amp; Porter, 2003). Its introduced range includes the Galapagos Islands, West Africa (Gabon, Cameroon, and possibly the Republic of Congo and the Democratic RepubIic of Congo), Melanesia (New Caledonia, Solomon Islands, Vanuatu, and possibly Tuvalu), Polynesia (Wallis and Futuna and Hawaii), parts of the US (Florida and possibly California), and subtropical Atlantic islands (the Bahamas and Bermuda) (Wetterer &amp; Porter, 2003). It is widespread on Caribbean islands, but it is unclear whether these are long-term native populations or recent introductions (Wetterer &amp; Porter, 2003).
+</tax:p>
+                <tax:p>The species is remarkably catholic in its habitat preference. It is common in habitats ranging from wet to dry and from early successional to mature. In an elevational gradient of mature wet forest on the Atlantic slope of Costa Rica (the Barva Transect, from La Selva Biological Station to 2000 m elevation on the slope of Volcan Barva) it is abundant at 50 m and 500 m elevations, but nearly absent at 1070 m (Table 2). In the lowland habitats where it is abundant, it occurs in leaf litter on the forest floor and at all levels in the vegetation.</tax:p>
+                <tax:p>
+Although it occurs frequently in samples from mature forest habitats in Costa Rica, it is never so abundant in those habitats that it is noticeable as a pest or appears to be displacing other native species (Tennant, 1994; McGlynn &amp; Kirksey, 2000; pers. obs.). In contrast, in certain agricultural habitats (banana plantations) and in parts of the tropics where it has been introduced it becomes super-abundant, with negative impacts on native species and human comfort (Clark et al., 1982; Wetterer &amp; Porter, 2003). In dry-forest fragments in Colombia there is a negative correlation between 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>auropunctata</dc:Species>
+                        </tax:xmldata>W. auropunctata</tax:name>
+abundance and overall ant diversity (Armbrecht &amp; Ulloa Chacon, 2003). Where introduced in New Caledonia it invades dense native forest and displaces native ants (Le Breton et al., 2003). Behavioral tests and cuticular hydrocarbon analysis show that 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>auropunctata</dc:Species>
+                        </tax:xmldata>W. auropunctata</tax:name>
+is multicolonial in its native range in Brazil, unicolonial where introduced in New Caledonia (Errard et al., 2002).
+</tax:p>
+                <tax:p>
+The sting of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                        </tax:xmldata>Wasmannia</tax:name>
+is noteworthy. These are extremely tiny ants, barely visible in the field. When the senior author first began studying ants in Costa Rica, he was at first puzzled about 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                        </tax:xmldata>Wasmannia</tax:name>
+. By literature accounts 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                        </tax:xmldata>Wasmannia</tax:name>
+was reputed to have a terrible sting, but he had been collecting them for months in Corcovado National Park without ever experiencing the famous sting. One day he was collecting from a populous nest and some workers made it up to the soft skin of his inner forearm and began to sting. The sting was definitely noticeable, about as severe as a fire ant (i. e., 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36277" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Solenopsis</dc:Genus>
+                            <dc:Species>geminata</dc:Species>
+                        </tax:xmldata>Solenopsis geminata</tax:name>
+) but inordinately strong for an ant that could barely be seen! Workers are so small they cannot sting through the thicker skin of the hands.
+</tax:p>
+                <tax:p>
+Surprisingly, the chemical and toxicological nature of the venom of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>auropunctata</dc:Species>
+                        </tax:xmldata>W. auropunctata</tax:name>
+has not been investigated. Howard et al. (1982) discovered an alkylpyrazine compound in the mandibular glands, which acted as an attractant to conspecifics and a repellent to heterospecifics. They speculated that the workers might apply the mandibular gland product as an irritating secretion, augmenting the defensive properties of the venomous sting. It would be interesting to investigate whether the venom alone is the powerful agent in this small ant, or if the strong burning sensation is a synergetic effect of venom plus mandibular gland product.
+</tax:p>
+                <tax:p>Nests can be almost anywhere: in rolled leaves or dead sticks in the leaf litter, under stones, in rotten wood, in hollow stems suspended above the ground, in ant-plant domatia, and under epiphytes. Workers are omnivorous scavengers and predators and can rapidly recruit to food. Colonies are polygynous and it is never clear where colony boundaries are. Dozens of dealate queens may be found together in nests. Males are rare but do occasionally occur.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37525" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>iheringi</dc:Species>
+                    </tax:xmldata>Wasmannia iheringi Forel</tax:name>
+            </tax:nomenclature>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37525" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>iheringi</dc:Species>
+                    </tax:xmldata>Wasmannia iheringi Forel</tax:name>
+, 1908: 359. 
+Syntype
+worker, queen: Brazil, 
+Sao Paulo
+(
+v. Ihering
+) [
+MHNG
+] (examined)
+
+.
+</tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>Comments</tax:p>
+                <tax:p>
+Prior to this report 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37525" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>iheringi</dc:Species>
+                        </tax:xmldata>W. iheringi</tax:name>
+was known only from the type specimens. Forel ’ s description and specimen labels indicate the specimens were collected in Sao Paulo by von Ihering. The types also bear a pencil label with “ 2265. ” Luederwaldt (1926) referred to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37525" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>iheringi</dc:Species>
+                        </tax:xmldata>W. iheringi</tax:name>
+, stating “ Mr. E. Garbe found in Espirito Santo a small nest, constructed of fine carton [“ serragem fina ”], on a leaf of Cecropia. N. 2.265. ” Given the match of the collection numbers We assume these represent a single collection. We also presume Luederwaldt ’ s data are more accurate than Forel ’ s. Kempf (1972) lists only the type locality for the range of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37525" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>iheringi</dc:Species>
+                        </tax:xmldata>W. iheringi</tax:name>
+, suggesting it remained known only from the types at the time of his Neotropical catalogue.
+</tax:p>
+                <tax:p>Surprisingly, this species has been discovered in Costa Rica, where it inhabits the canopy of lowland rainforest on the Atlantic slope. Morphologically the Costa Rican specimens are identical to the types. It has been collected at La Selva Biological Station, at 500 m elevation on the Barva Transect, and at the old Carrillo station at 600 m in Braulio Carrillo National Park. The quantitative sampling by the ALAS project shows it to be a moderately abundant component of the arboreal fauna (Table 2).</tax:p>
+            </tax:div>
+            <tax:div type="biology_ecology">
+                <tax:p>One nest has been observed, at La Selva Biological Station in Costa Rica. The nest was on the undersurface of a single leaf of a fuzzy-leaved Guarea growing along a stream. A 2 cm long felt-like carton roof covered a portion of the leaf between two veins. The nest contained 27 adult workers, one dealate queen, four adult males, and brood of various sizes. This observation is similar to Garbe ’ s collection from southeastern Brazil, suggesting a specialized nesting behavior that is the same in both Costa Rica and southeastern Brazil.</tax:p>
+                <tax:p>On another occasion at La Selva the species was observed in a patch of old second growth forest comprised of medium to large trees over abandoned cacao. A small patch was being felled for an experiment at La Selva and collecting was carried out in these newly-felled trees. A dense aggregation of workers and two dealate queens were found on a branch of a felled Coussapoa, suggesting that colonies can be polygynous.</tax:p>
+                <tax:p>
+Alate queens were collected at 
+blacklights
+at 
+La Selva
+in 
+October 1991
+.
+</tax:p>
+                <tax:p>We have also examined workers in Erwin ’ s fogging samples from Tambopata, Peru. The species is now known from three widely separated localities, but it is unknown whether these are disjunct populations or a result of undersampling in intervening regions.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37526" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>lutzi</dc:Species>
+                    </tax:xmldata>Wasmannia lutzi Forel</tax:name>
+            </tax:nomenclature>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37526" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>lutzi</dc:Species>
+                    </tax:xmldata>Wasmannia lutzi Forel</tax:name>
+, 1908: 357. 
+Syntype
+worker, queen, male: Brazil, 
+Sao Paulo
+(
+Lutz
+) [
+MHNG
+] (examined).
+
+See under 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37523" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>affinis</dc:Species>
+                    </tax:xmldata>W. affinis</tax:name>
+.
+</tax:nomenclature>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37527" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>rochai</dc:Species>
+                    </tax:xmldata>Wasmannia rochai Forel</tax:name>
+            </tax:nomenclature>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37527" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>rochai</dc:Species>
+                    </tax:xmldata>Wasmannia rochai Forel</tax:name>
+, 1912: 1. Syntype worker: 
+Ceara
+, Brazil (
+Diaz da Rocha
+) [
+MHNG
+]
+
+(examined, one worker here designated LECTOTYPE).
+</tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>Comments</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37527" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>rochai</dc:Species>
+                        </tax:xmldata>Wasmannia rochai</tax:name>
+occurs widely in the mainland Neotropics, from Guatemala south to Sao Paulo state in Brazil. The syntype workers from Ceara are slightly larger than workers from Panama and Costa Rica, but with similar proportions. The differences between 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37527" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>rochai</dc:Species>
+                        </tax:xmldata>rochai</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>sigmoidea</dc:Species>
+                        </tax:xmldata>sigmoidea</tax:name>
+are subtle but consistent. Compared to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>sigmoidea</dc:Species>
+                        </tax:xmldata>sigmoidea</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37527" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>rochai</dc:Species>
+                        </tax:xmldata>rochai</tax:name>
+is smaller, with a relatively shorter and broader head. The propodeal spines are shorter and are directed posteriorly, instead of upturned in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>sigmoidea</dc:Species>
+                        </tax:xmldata>sigmoidea</tax:name>
+. The setae on the face, mesosoma, and gaster are more curved, appearing shorter than the setae of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>sigmoidea</dc:Species>
+                        </tax:xmldata>sigmoidea</tax:name>
+because of the greater curvature. They are also more clavate, swelling noticeably at the tips.
+</tax:p>
+                <tax:p>
+In some specimens of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37527" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>rochai</dc:Species>
+                        </tax:xmldata>rochai</tax:name>
+the outer margin of the antennal scrobe is weakly defined, approaching the condition seen in 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37523" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>affinis</dc:Species>
+                        </tax:xmldata>affinis</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37526" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>lutzi</dc:Species>
+                        </tax:xmldata>lutzi</tax:name>
+. However, the face sculpture of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37527" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>rochai</dc:Species>
+                        </tax:xmldata>rochai</tax:name>
+is always much more feeble than the coarse reticulate rugose sculpture on 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37523" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>affinis</dc:Species>
+                        </tax:xmldata>affinis</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37526" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>lutzi</dc:Species>
+                        </tax:xmldata>lutzi</tax:name>
+.
+</tax:p>
+                <tax:p>
+Kempf (1972) recorded the range of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37527" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>rochai</dc:Species>
+                        </tax:xmldata>rochai</tax:name>
+as Panama, the Guianas, Trinidad, and six Brazilian states from Ceara south to Sao Paulo. Given the prior uncertainty of species differences among 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37523" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>affinis</dc:Species>
+                        </tax:xmldata>affinis</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37526" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>lutzi</dc:Species>
+                        </tax:xmldata>lutzi</tax:name>
+, 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37527" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>rochai</dc:Species>
+                        </tax:xmldata>rochai</tax:name>
+, and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>sigmoidea</dc:Species>
+                        </tax:xmldata>sigmoidea</tax:name>
+, earlier determinations should be treated cautiously pending reexamination of existing material. We have examined material from Guatemala, Costa Rica, Venezuela, and Brazil (Amazonas, Bahia, Ceara, and Sao Paulo states).
+</tax:p>
+                <tax:p>
+This species appears to be rare in Costa Rica, although its superficial similarity to 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>auropunctata</dc:Species>
+                        </tax:xmldata>W. auropunctata</tax:name>
+may result in its being overlooked in a sea of the latter species. Only two Costa Rican collections are known: Phil Ward collected workers and a dealate queen (PSW # 7628) in a recent treefall at Carara Biological Reserve. The senior author collected a lone dealate queen in a canopy tree at Sirena in Corcovado National Park. The species has been collected multiple times on Barro Colorado Island in Panama, where it is a relatively common part of the canopy ant fauna (Mike Kaspari pers. comm.).
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37528" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>scrobifera</dc:Species>
+                    </tax:xmldata>Wasmannia scrobifera Kempf</tax:name>
+            </tax:nomenclature>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37528" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>scrobifera</dc:Species>
+                    </tax:xmldata>Wasmannia scrobifera Kempf</tax:name>
+, 1961: 512, figs. 14, 15. Holotype worker: Poeroe man kemisa, Surinam (van der Drift).
+</tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>Comments</tax:p>
+                <tax:p>Kempf described this species from a single worker. Numerous collections are now known from Costa Rica, and we have also seen material from Colombia and Brazil (Bahia and Matto Grosso states).</tax:p>
+                <tax:p>In Costa Rica, this species is infrequently encountered. It inhabits mature lowland rainforest in the Atlantic lowlands. It has been collected in Winkler samples of sifted litter from the forest floor at Hitoy Cerere Biological Reserve, Casa Plastico near Rara Avis, the 500 m site on the Barva Transect, and La Selva Biological Station. Quantitative sampling by the ALAS project reveals it to be a low density species occurring most often in fogging samples, and less often in Winkler and Berlese samples of forest floor litter (Table 2). Dinah Davidson collected it in a Piper plant at La Selva. Mary Cornelius, an OTS student, found a nest in a leaf domatium of an ant-plant (Tococa, Melastomataceae) at Tortuguero, but it contained only workers and brood. Grant Gentry found small carton nests under leaves at La Selva (pers. comm.). Workers have been collected from the stomachs of dendrobatid frogs in the Choco region of Colombia. These results suggest that the species may nest in the low arboreal zone yet forage in the leaf litter on the forest floor.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>sigmoidea</dc:Species>
+                    </tax:xmldata>Wasmannia sigmoidea (Mayr)</tax:name>
+            </tax:nomenclature>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:145546" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Tetramorium</dc:Genus>
+                        <dc:Species>sigmoideum</dc:Species>
+                    </tax:xmldata>Tetramorium sigmoideum Mayr</tax:name>
+(in Radoszkowsky), 1884: 33. 
+Syntype
+worker: 
+Cayenne
+, French Guiana (
+Jelski
+) [
+NMW
+]
+
+(examined, one worker here designated LECTOTYPE). Combination in 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                    </tax:xmldata>Wasmannia</tax:name>
+and description of queen and male: Forel, 1893: 386.
+</tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>Comments</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>sigmoidea</dc:Species>
+                        </tax:xmldata>Wasmannia sigmoidea</tax:name>
+is the second oldest name in the genus and to date has been poorly characterized. It has never been satisfactorily differentiated from other species in the genus, particularly 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37527" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>rochai</dc:Species>
+                        </tax:xmldata>rochai</tax:name>
+. Forel (1884) identified material from St. Vincent Island in the Antilles as 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>sigmoidea</dc:Species>
+                        </tax:xmldata>W. sigmoidea</tax:name>
+, and described the queen and male. We have not been able to examine the workers of this collection, but the queens match queens of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>sigmoidea</dc:Species>
+                        </tax:xmldata>sigmoidea</tax:name>
+from Puerto Rico and Costa Rica.
+</tax:p>
+            </tax:div>
+            <tax:div type="distribution">
+                <tax:p>
+Kempf (1972) gives the range of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>sigmoidea</dc:Species>
+                        </tax:xmldata>sigmoidea</tax:name>
+as Guianas, Antilles St. Vincent, Grenada, and Santa Catarina state of Brazil. The Guianas are listed because of the type locality in French Guiana and some Surinam specimens he tentatively identified as 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>sigmoidea</dc:Species>
+                        </tax:xmldata>sigmoidea</tax:name>
+(Kempf 1961). The St. Vincent record is based on Forel ’ s publication. We do not know the basis of the Grenada record. The Santa Catarina record is based on a published record by Mayr (1887), which is a misidentification of specimens of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37523" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>affinis</dc:Species>
+                        </tax:xmldata>affinis</tax:name>
+(see under 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37523" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>affinis</dc:Species>
+                        </tax:xmldata>affinis</tax:name>
+). We have examined abundant material from Puerto Rico, multiple collections from Costa Rica, and a collection from Guarico state in Venezuela. Thus the current known range of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>sigmoidea</dc:Species>
+                        </tax:xmldata>sigmoidea</tax:name>
+is circumcaribbean.
+</tax:p>
+            </tax:div>
+            <tax:div type="materials_examined">
+                <tax:p>
+The few Costa Rican records are as follows. David Olson collected workers during his study of Winkler and pitfall trap sampling methods at La Selva Biological Station (Olson 1991, as 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                        </tax:xmldata>Wasmannia</tax:name>
+sp. 1). This was the only known collection from La Selva, in spite of intensive inventory effort there (Longino et al., 2002), until an August, 2004 collection of workers and alate queens from the rootball of a palm tree in the laboratory clearing. Workers occurred in four different samples from the Project ALAS expeditions to the 500 m site on the Barva Transect: two Malaise trap samples, one flight-intercept sample, and one sweep net sample (Table 2). It is likely that 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>sigmoidea</dc:Species>
+                        </tax:xmldata>sigmoidea</tax:name>
+prefers open and synanthropic habitats, hence its undersampling in Costa Rica, where sampling emphasis has been in forested habitats.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37530" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>sulcaticeps</dc:Species>
+                    </tax:xmldata>Wasmannia sulcaticeps Emery</tax:name>
+            </tax:nomenclature>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37530" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>sulcaticeps</dc:Species>
+                    </tax:xmldata>Wasmannia sulcaticeps Emery</tax:name>
+, 1894: 195. Holotype worker: Argentina, Buenos Aires. Description of queen, male: Forel, 1914: 280.
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152476" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>sulcaticeps</dc:Species>
+                    </tax:xmldata>Wasmannia sulcaticeps var. weiseri Forel</tax:name>
+, 1914: 281. Syntype queen, male: Argentina,
+
+Cordoba, Canals (Weiser) [
+MHNG
+] (examined). NEW SYNONYMY. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:145548" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>bruchi</dc:Species>
+                    </tax:xmldata>Wasmannia bruchi Santschi</tax:name>
+, 1919: 43. 
+Syntype
+worker: 
+Argentina
+, 
+La Plata
+(
+Bruch
+) [
+NHMB
+] (examined).
+
+Junior synonym of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37530" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>sulcaticeps</dc:Species>
+                    </tax:xmldata>sulcaticeps</tax:name>
+: Kusnezov, 1952: 174.
+</tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>Comments</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37530" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>sulcaticeps</dc:Species>
+                        </tax:xmldata>Wasmannia sulcaticeps</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37532" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>williamsoni</dc:Species>
+                        </tax:xmldata>williamsoni</tax:name>
+are two related species that occur at the far southern limit of the genus, in Argentina. They are both distinguished from other members of the genus by the heavy striate sculpture on the face and by the very small propodeal spiracle.
+</tax:p>
+                <tax:p>
+Kusnezov (1952) described the 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                        </tax:xmldata>Wasmannia</tax:name>
+fauna of Argentina, and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37530" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>sulcaticeps</dc:Species>
+                        </tax:xmldata>sulcaticeps</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37532" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>williamsoni</dc:Species>
+                        </tax:xmldata>williamsoni</tax:name>
+were described as having an allopatric distribution. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37530" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>sulcaticeps</dc:Species>
+                        </tax:xmldata>Wasmannia sulcaticeps</tax:name>
+occurred in more humid environments near Buenos Aires and in the northern provinces of Tucuman, Salta, and Jujuy. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37532" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>williamsoni</dc:Species>
+                        </tax:xmldata>Wasmannia williamsoni</tax:name>
+occurred in the more arid habitats west of Buenos
+</tax:p>
+                <tax:p>
+Aires. Kusnezov did not mention var. 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238258" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>weiseri</dc:Species>
+                        </tax:xmldata>weiseri</tax:name>
+, and its type locality is between the ranges of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37530" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>sulcaticeps</dc:Species>
+                        </tax:xmldata>sulcaticeps</tax:name>
+and 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37532" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>williamsoni</dc:Species>
+                        </tax:xmldata>williamsoni</tax:name>
+shown on his distribution map. Forel ’ s description of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238258" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>weiseri</dc:Species>
+                        </tax:xmldata>weiseri</tax:name>
+noted only minor differences from 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37530" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>sulcaticeps</dc:Species>
+                        </tax:xmldata>sulcaticeps</tax:name>
+.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37531" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>villosa</dc:Species>
+                    </tax:xmldata>Wasmannia villosa Emery</tax:name>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37531" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>villosa</dc:Species>
+                    </tax:xmldata>Wasmannia villosa Emery</tax:name>
+, 1894: 196. Holotype queen: Brazil, Rio Grande do Sul (v. Ihering).
+</tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>Comments</tax:p>
+                <tax:p>
+Emery described this single queen from Rio Grande do Sul. He distinguished it from other species by the long, abundant, appressed pilosity; robust dentiform propodeal spine; and transverse petiolar node. We have not examined this specimen, but the description sets it apart from any 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                        </tax:xmldata>Wasmannia</tax:name>
+queen with which we are familiar. However, its status as a species of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                        </tax:xmldata>Wasmannia</tax:name>
+is not assured. It would not surprise us if it were revealed to be an attine queen or a member of some other myrmicine genus.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37532" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>williamsoni</dc:Species>
+                    </tax:xmldata>Wasmannia williamsoni Kusnezov</tax:name>
+            </tax:nomenclature>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37532" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>williamsoni</dc:Species>
+                    </tax:xmldata>Wasmannia williamsoni Kusnezov</tax:name>
+, 1952: 181, figs. 1, 4 – 7. 
+Syntype
+worker, queen: 
+Argentina
+, 
+La Pampa
+, 
+Winifreda
+, 
+Castex
+(
+Kusnezov
+). [
+MZSP
+] (worker examined)
+
+.
+</tax:nomenclature>
+            <tax:div type="discussion">
+                <tax:p>Remarks</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37532" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>williamsoni</dc:Species>
+                        </tax:xmldata>Wasmannia williamsoni</tax:name>
+has the largest workers in the genus, based on the one worker we have examined. It is far larger than any other 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                        </tax:xmldata>Wasmannia</tax:name>
+worker we have seen (Table 1). See further information under 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37530" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Wasmannia</dc:Genus>
+                            <dc:Species>sulcaticeps</dc:Species>
+                        </tax:xmldata>sulcaticeps</tax:name>
+.
+</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:p>GENERAL DISCUSSION</tax:p>
+        <tax:p>
+Kusnezov (1952) observed that 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>Wasmannia auropunctata</tax:name>
+was the dominant 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+species in Argentina and that it had the greatest difference between worker size and queen size. The Argentinean species 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37530" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>sulcaticeps</dc:Species>
+                </tax:xmldata>sulcaticeps</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37532" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>williamsoni</dc:Species>
+                </tax:xmldata>williamsoni</tax:name>
+were restricted to the subtropical and semiarid limits of the genus, and the queens were much smaller and closer to the workers in size. He suggested that the species such as 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37530" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>sulcaticeps</dc:Species>
+                </tax:xmldata>sulcaticeps</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37532" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>williamsoni</dc:Species>
+                </tax:xmldata>williamsoni</tax:name>
+were the more primitive members of the genus, and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>auropunctata</tax:name>
+was more recent and more advanced. We examined the relationship between worker size and queen size for the eight species of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+for which we had data, and there is a negative relationship (Fig. 3). Species with the smallest workers have the largest queens. The species fall roughly into three groups. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>sigmoidea</dc:Species>
+                </tax:xmldata>Wasmannia sigmoidea</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37525" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>iheringi</dc:Species>
+                </tax:xmldata>iheringi</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37530" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>sulcaticeps</dc:Species>
+                </tax:xmldata>sulcaticeps</tax:name>
+, and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37528" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>scrobifera</dc:Species>
+                </tax:xmldata>scrobifera</tax:name>
+have very small queens, little larger than the workers. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37527" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>rochai</dc:Species>
+                </tax:xmldata>Wasmannia rochai</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37523" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>affinis</dc:Species>
+                </tax:xmldata>affinis</tax:name>
+, and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37526" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>lutzi</dc:Species>
+                </tax:xmldata>lutzi</tax:name>
+are intermediate, with relatively smaller workers and larger queens. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>Wasmannia auropunctata</tax:name>
+is at the top, with the smallest workers and largest queens.
+</tax:p>
+        <tax:p>
+These results support Kusnezov ’ s conclusions. A general trend in ant evolution is the development of increasing caste differences, and it follows that a greater difference in size between worker and queen is often apomorphic. If that is the case with 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+, then 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>auropunctata</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37526" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>lutzi</dc:Species>
+                </tax:xmldata>lutzi</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37523" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>affinis</dc:Species>
+                </tax:xmldata>affinis</tax:name>
+, and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37527" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>rochai</dc:Species>
+                </tax:xmldata>rochai</tax:name>
+may form a clade within 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+based on larger queen size. If increasing caste differentiation is associated with greater ecological success, the ecological dominance of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>auropunctata</tax:name>
+could be explained by it having the largest queens and smallest workers in the genus.
+</tax:p>
+        <tax:p>
+A case can also be made for 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37525" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>iheringi</dc:Species>
+                </tax:xmldata>iheringi</tax:name>
+being the sister taxon to all other 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+. It has the most plesiomorphic mesosoma and petiole shape, resembling other generalized myrmicines. Other 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+show a trend toward shorter, more compact mesosoma and shorter petiolar peduncle and / or more quadrate node. A biogeographic scenario would thus have 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37525" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>iheringi</dc:Species>
+                </tax:xmldata>iheringi</tax:name>
+as the oldest lineage in the genus, with disjunct populations at scattered localities over a large area, having been largely displaced from a formerly extensive range. Other rare or localized species in the genus — 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37530" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>sulcaticeps</dc:Species>
+                </tax:xmldata>sulcaticeps</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37532" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>williamsoni</dc:Species>
+                </tax:xmldata>williamsoni</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>sigmoidea</dc:Species>
+                </tax:xmldata>sigmoidea</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37528" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>scrobifera</dc:Species>
+                </tax:xmldata>scrobifera</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37523" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>affinis</dc:Species>
+                </tax:xmldata>affinis</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37526" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>lutzi</dc:Species>
+                </tax:xmldata>lutzi</tax:name>
+— could also be relicts from an early radiation of the genus. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37527" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>rochai</dc:Species>
+                </tax:xmldata>Wasmannia rochai</tax:name>
+is the second most common and widespread species. Its small workers and large queens could have been an initial step in the direction of ecological dominance. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>Wasmannia auropunctata</tax:name>
+, with its even smaller workers and larger queens, is the most recent manifestation of this trend. It has swept the Neotropical field and is now conquering the world.
+</tax:p>
+        <tax:p>ACKNOWLEDGMENTS</tax:p>
+        <tax:p>We thank museum curators B. Merz (MHNG), D. Burckhardt (NHMB) and S. Schoedl (NMW) for loans of type material, and the ALAS staff for help with field and lab work. This work was supported by National Science Foundation grants DEB- 0072702 and DBI- 0215820, and National Geographic Society grant 7331 - 02.</tax:p>
+        <tax:p>LITERATURE CITED</tax:p>
+        <tax:p>
+Armbrecht, I. &amp; Ulloa Chacon, P. 2003. The little fire ant 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>Wasmannia auropunctata (Roger)</tax:name>
+(Hymenoptera: Formicidae) as a diversity indicator of ants in tropical dry forest fragments of Colombia. Environmental Entomology 32: 542 - 547.
+</tax:p>
+        <tax:p>Bolton, B. 2003. Synopsis and classification of Formicidae. Memoirs of the American Entomological Institute 71: 1 - 370.</tax:p>
+        <tax:p>
+Brown, W. L., Jr. 1948. The status of the genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:146983" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Hercynia</dc:Genus>
+                </tax:xmldata>Hercynia</tax:name>
+J. Enzmann (Hymenoptera: Formicidae). Entomological News 59: 102.
+</tax:p>
+        <tax:p>
+Clark, D. B., Guayasamin, C., Pazmino, O., Donoso, C. &amp; Paez de Villacis, Y. 1982. The tramp ant 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>Wasmannia auropunctata</tax:name>
+: autecology and effects on ant diversity and distribution on Santa Cruz Island, Galapagos. Biotropica 14: 196 - 207.
+</tax:p>
+        <tax:p>
+De Souza, A. L. B., Delabie, J. H. C. &amp; Fowler, H. G. 1998. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+spp. (Hym. Formicidae) and insect damages to cocoa in Brazilian farms. Journal of Applied Entomology 122: 339 - 341.
+</tax:p>
+        <tax:p>Emery, C. 1894. Studi sulle formiche della fauna neotropica. VI-XVI. Bullettino della Societa Entomologica Italiana 26: 137 - 241.</tax:p>
+        <tax:p>Emery, C. 1906 (“ 1905 ”). Studi sulle formiche della fauna neotropica. XXVI. Bullettino della Societa Entomologica Italiana 37: 107 - 194.</tax:p>
+        <tax:p>
+Enzmann, J. 1947. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:146983" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Hercynia</dc:Genus>
+                </tax:xmldata>Hercynia</tax:name>
+, a new genus of myrmicine ants. Journal of the New York Entomological Society 55: 43 - 46.
+</tax:p>
+        <tax:p>
+Errard, C., Jourdan, H., Glaude, C., Delabie, J. H. &amp; Hefetz, A. 2002. Intraspecific and interspecific discrimination in the tramp ant 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>Wasmannia auropunctata</tax:name>
+(Hym. Formicidae). Actes des Colloques Insectes Sociaux 15: 82 - 89.
+</tax:p>
+        <tax:p>
+Fabres, G. &amp; Brown, W. L., Jr. 1978. The recent introduction of the pest ant 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>Wasmannia auropunctata</tax:name>
+into New Caledonia. Journal of the Australian Entomological Society 17: 139 - 142.
+</tax:p>
+        <tax:p>
+Fernandez, F. 2003. The myrmicine ant genera 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24871" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Ochetomyrmex</dc:Genus>
+                </tax:xmldata>Ochetomyrmex</tax:name>
+Mayr and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24872" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Tranopelta</dc:Genus>
+                </tax:xmldata>Tranopelta</tax:name>
+Mayr (Hymenoptera: Formicidae). Sociobiology 41: 633 - 661.
+</tax:p>
+        <tax:p>Forel, A. 1886. Especes nouvelles de fourmis americaines. Annales de la Societe Entomologique de Belgique 30: xxxviii-xlix.</tax:p>
+        <tax:p>Forel, A. 1893. Formicides de l ’ Antille St. Vincent, recoltees par Mons. H. H. Smith. Transactions of the Entomological Society of London 1893: 333 - 418.</tax:p>
+        <tax:p>Forel, A. 1901. I. Fourmis mexicaines recoltees par M. le professeur W. - M. Wheeler. II. A propos de la classification des fourmis. Annales de la Societe Entomologique de Belgique 45: 123 - 141.</tax:p>
+        <tax:p>Forel, A. 1908. Ameisen aus Sao Paulo (Brasilien), Paraguay etc. gesammelt von Prof. Herm. v. Ihering, Dr. Lutz, Dr. Fiebrig, etc. Verhandlungen der Kaiserlich-Koeniglichen ZoologischBotanischen Gesellschaft in Wien 58: 340 - 418.</tax:p>
+        <tax:p>
+Forel, A. 1912. Formicides neotropiques. Part 
+IV. 3
+me sous-famille Myrmicinae Lep. (suite). Memoires de la Societe Entomologique de Belgique 20: 1 - 32.
+</tax:p>
+        <tax:p>Forel, A. 1914. Formicides d ’ Afrique et d ’ Amerique nouveaux ou peu connus. Bulletin de la Societe Vaudoise des Sciences Naturelles 50: 211 - 288.</tax:p>
+        <tax:p>
+Howard, D. F., Blum, M. S., Jones, T. H. &amp; Tomalski, M. D. 1982. Behavioral responses to an alkylpyrazine from the mandibular gland of the ant 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>Wasmannia auropunctata</tax:name>
+. Insectes Sociaux 29: 369 - 374.
+</tax:p>
+        <tax:p>
+Jourdan, H. 1997. Threats on Pacific islands: the spread of the tramp ant 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>Wasmannia auropunctata</tax:name>
+(Hymenoptera: Formicidae). Pacific Conservation Biology 3: 61 - 64.
+</tax:p>
+        <tax:p>Kempf, W. W. 1961. A survey of the ants of the soil fauna in Surinam (Hymenoptera: Formicidae). Studia Entomologica 4: 481 - 524.</tax:p>
+        <tax:p>Kempf, W. W. 1964. Miscellaneous studies on Neotropical ants. III. (Hymenoptera: Formicidae). Studia Entomologica 7: 45 - 71.</tax:p>
+        <tax:p>Kempf, W. W. 1972. Catalogo abreviado das formigas da Regiao Neotropical. Studia Entomologica 15: 3 - 344.</tax:p>
+        <tax:p>
+Kusnezov, N. 1952 (“ 1951 ”). El genero 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+en la Argentina (Hymenoptera, Formicidae). Acta Zoologica Lilloana 10: 173 - 182.
+</tax:p>
+        <tax:p>
+Le Breton, J., Chazeau, J. &amp; Jourdan, H. 2003. Immediate impacts of invasion by 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>Wasmannia auropunctata</tax:name>
+(Hymenoptera: Formicidae) on native litter ant fauna in a New Caledonian rainforest. Austral Ecology 28: 204 - 209.
+</tax:p>
+        <tax:p>Longino, J. T., Colwell, R. K. &amp; Coddington, J. A. 2002. The ant fauna of a tropical rainforest: estimating species richness three different ways. Ecology 83: 689 - 702.</tax:p>
+        <tax:p>
+Lubin, Y. D. 1984. Changes in the native fauna of the Galapagos Islands following invasion by the little red fire ant, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>Wasmannia auropunctata</tax:name>
+. Biological Journal of the Linnean Society 21: 229 - 242.
+</tax:p>
+        <tax:p>Luederwaldt, H. 1926. Observacoes biologicas sobre formigas brasileiras especialmente do estado de Sao Paulo. Revista do Museu Paulista 14: 185 - 303.</tax:p>
+        <tax:p>Mayr, G. 1887. Suedamerikanische Formiciden. Verhandlungen der Kaiserlich-Koeniglichen Zoologisch-Botanischen Gesellschaft in Wien 37: 511 - 632.</tax:p>
+        <tax:p>McGlynn, T. P. &amp; Kirksey, S. E. 2000. The effects of food presentation and microhabitat upon resource monopoly in a ground-foraging ant (Hymenoptera: Formicidae) community. Revista de Biologia Tropical 48: 629 - 642.</tax:p>
+        <tax:p>Olson, D. M. 1991. A comparison of the efficacy of litter sifting and pitfall traps for sampling leaf litter ants (Hymenoptera, Formicidae) in a tropical wet forest. Biotropica 23: 166 - 172.</tax:p>
+        <tax:p>Radoszkowsky, O. 1884. Fourmis de Cayenne Francaise. Trudy Russkago Entomologicheskago Obshchestva 18: 30 - 39.</tax:p>
+        <tax:p>Roger, J. 1863. Die neu aufgefuehrten Gattungen und Arten meines Formiciden-Verzeichnisses nebst Ergaenzung einiger frueher gegebenen Beschreibungen. Berliner Entomologische Zeitschrift 7: 131 - 214.</tax:p>
+        <tax:p>Santschi, F. 1916 (“ 1915 ”). Descriptions de fourmis nouvelles d ’ Afrique et d ’ Amerique. Annales de la Societe Entomologique de France 84: 497 - 513.</tax:p>
+        <tax:p>Santschi, F. 1919. Nouveaux formicides de la Republique Argentine. Anales de la Sociedad Cientifica Argentina 87: 37 - 57.</tax:p>
+        <tax:p>Santschi, F. 1929. Nouvelles fourmis de la Republique Argentine et du Bresil. Anales de la Sociedad Cientifica Argentina 107: 273 - 316.</tax:p>
+        <tax:p>Santschi, F. 1931. Fourmis de Cuba et de Panama. Revista de Entomologia (Rio de Janeiro) 1: 265 - 282.</tax:p>
+        <tax:p>
+Tennant, L. E. 1994. The ecology of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>Wasmannia auropunctata</tax:name>
+in primary tropical rainforest in Costa Rica and Panama. Pp. 80 - 90 in: Williams, D. F. (ed). Exotic ants: biology, impact, and control of introduced species: 332 pp. Westview Press, Boulder, Colorado, USA.
+</tax:p>
+        <tax:p>
+Ulloa Chacon, D. &amp; Cherix, D. 1990. The little fire ant 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>Wasmannia auropunctata (Roger)</tax:name>
+(Hymenoptera: Formicidae). Pp. 281 - 289 in: Vander Meer, R. K., Jaffe, K. &amp; Cedeno, A. (eds). Applied myrmecology: a world perspective: 741 pp. Westview Press, Boulder, Colorado, USA.
+</tax:p>
+        <tax:p>
+Wetterer, J. K. &amp; Porter, S. D. 2003. The little fire ant, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>Wasmannia auropunctata</tax:name>
+: distribution, impact, and control. Sociobiology 42: 1 - 41.
+</tax:p>
+        <tax:p>Wheeler, G. C. &amp; Wheeler, J. 1954. The ant larvae of the myrmicine tribes Meranoplini, Ochetomyrmicini and Tetramoriini. American Midland Naturalist 52: 443 - 452.</tax:p>
+        <tax:p>Wheeler, W. M. 1922. Ants of the American Museum Congo expedition. A contribution to the myrmecology of Africa. VIII. A synonymic list of the ants of the Ethiopian region. Bulletin of the American Museum of Natural History 45: 711 - 1004.</tax:p>
+        <tax:p>Williams, D. F. (ed). 1994. Exotic ants. Biology, impact, and control of introduced species: 332 pp. Westview Press, Boulder, Colorado, USA.</tax:p>
+        <tax:p>1. Specimen barcodes or type data. Barcoded specimen data available from senior author.</tax:p>
+        <tax:p>specimens are all from Costa Rica; additional</tax:p>
+        <tax:p>1. Each fogging sample is one fogged tree with 40 1 m 2 funnels.</tax:p>
+        <tax:p>2. Each sample is 10 - week catch of one Malaise trap.</tax:p>
+        <tax:p>3. Each sample is 6 - weeks catch of one flight-intercept trap.</tax:p>
+        <tax:figure>
+            <tax:p>Table 1</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>Fig. 1, Table 1</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>Fig. 1, Table 1</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>Table 1</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>Fig. 1, Table 1</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>Fig. 1, Table 1</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>Fig. 1, Table 1</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>Table 1</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>Table 1</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>Santschi, F. 1914. Formicides de l ’ Afrique occidentale et australe du voyage de Mr. le Professeur F. Silvestri. Bollettino del Laboratorio di Zoologia Generale e Agraria della Reale Scuola Superiore d ’ Agricoltura. Portici 8: 309 - 385.</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+                <tax:figure>
+                    <tax:p>
+Table 1. Measurement data for 
+<tax:name>
+                            <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                            <tax:xmldata>
+                                <dc:Genus>Wasmannia</dc:Genus>
+                            </tax:xmldata>Wasmannia</tax:name>
+queens and workers. The additional set of measurements for 
+<tax:name>
+                            <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                            <tax:xmldata>
+                                <dc:Genus>Wasmannia</dc:Genus>
+                                <dc:Species>auropunctata</dc:Species>
+                            </tax:xmldata>W. auropunctata</tax:name>
+queen head sizes are shown in Fig. 2.
+</tax:p>
+                </tax:figure>
+            </tax:p>
+        </tax:figure>
+        <tax:p>Speciesspecimen 1WLHWHLELCIOIQueens<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37523" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>affinis</dc:Species>
+                </tax:xmldata>affinis</tax:name>Brazil (SC), MZSP 25941.160.740.720.161.010.22<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>auropunctata</tax:name>INBIOCRI 0022800871.130.770.690.221.130.33<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>auropunctata</tax:name>INBIOCRI 0022801071.190.800.710.211.130.30<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>auropunctata</tax:name>
+holotype 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:145544" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>glabra</dc:Species>
+                </tax:xmldata>glabra</tax:name>0.840.740.261.130.35<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37525" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>iheringi</dc:Species>
+                </tax:xmldata>iheringi</tax:name>INBIOCRI 0012719870.860.600.610.180.990.29<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37525" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>iheringi</dc:Species>
+                </tax:xmldata>iheringi</tax:name>syntype0.880.620.630.160.990.26<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37526" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>lutzi</dc:Species>
+                </tax:xmldata>lutzi</tax:name>syntype1.150.760.690.191.100.27<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37527" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>rochai</dc:Species>
+                </tax:xmldata>rochai</tax:name>LACM ENT 1414021.080.680.640.221.060.34<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37527" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>rochai</dc:Species>
+                </tax:xmldata>rochai</tax:name>INBIOCRI 0022801011.080.680.650.201.050.31<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37527" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>rochai</dc:Species>
+                </tax:xmldata>rochai</tax:name>Brazil (SP), MZSP 18431.200.750.700.241.070.34<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37528" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>scrobifera</dc:Species>
+                </tax:xmldata>scrobifera</tax:name>INBIOCRI 0022801140.670.560.600.170.940.28<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37528" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>scrobifera</dc:Species>
+                </tax:xmldata>scrobifera</tax:name>Brazil (BA), ICN0.700.540.610.160.880.27<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>sigmoidea</dc:Species>
+                </tax:xmldata>sigmoidea</tax:name>St. Vincent0.820.610.620.200.970.33<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>sigmoidea</dc:Species>
+                </tax:xmldata>sigmoidea</tax:name>Puerto Rico LACM0.860.580.650.210.890.32<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37530" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>sulcaticeps</dc:Species>
+                </tax:xmldata>sulcaticeps</tax:name>
+syntype 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238258" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>weiseri</dc:Species>
+                </tax:xmldata>weiseri</tax:name>0.800.590.630.180.930.28Workers<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37523" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>affinis</dc:Species>
+                </tax:xmldata>affinis</tax:name>holotype0.580.510.550.110.930.20<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37523" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>affinis</dc:Species>
+                </tax:xmldata>affinis</tax:name>Brazil (SC), MZSP 25940.620.550.610.130.910.21<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>auropunctata</tax:name>
+lectotype 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238254" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>obscura</dc:Species>
+                </tax:xmldata>obscura</tax:name>0.460.420.460.110.920.23<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>auropunctata</tax:name>
+syntype 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:238257" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>rugosa</dc:Species>
+                </tax:xmldata>rugosa</tax:name>0.480.450.480.100.950.20<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>auropunctata</tax:name>Colombia ICN0.460.420.460.110.920.23<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37525" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>iheringi</dc:Species>
+                </tax:xmldata>iheringi</tax:name>syntype MHNG0.650.570.530.111.060.21<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37525" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>iheringi</dc:Species>
+                </tax:xmldata>iheringi</tax:name>syntype MZSP0.630.490.560.110.870.20<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37525" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>iheringi</dc:Species>
+                </tax:xmldata>iheringi</tax:name>INBIOCRI 0012719870.650.520.540.130.970.24<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37526" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>lutzi</dc:Species>
+                </tax:xmldata>lutzi</tax:name>syntype0.560.490.550.100.890.19<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37527" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>rochai</dc:Species>
+                </tax:xmldata>rochai</tax:name>LACM ENT 1400780.460.430.450.110.970.24<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37527" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>rochai</dc:Species>
+                </tax:xmldata>rochai</tax:name>LACM ENT 1414020.450.440.460.100.960.21<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37527" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>rochai</dc:Species>
+                </tax:xmldata>rochai</tax:name>lectotype0.540.500.500.110.990.22<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37527" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>rochai</dc:Species>
+                </tax:xmldata>rochai</tax:name>Brazil (SP), MZSP0.500.470.480.110.970.23<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37528" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>scrobifera</dc:Species>
+                </tax:xmldata>scrobifera</tax:name>INBIOCRI 0022801140.560.520.520.150.990.29<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>sigmoidea</dc:Species>
+                </tax:xmldata>sigmoidea</tax:name>LACM ENT 1414010.560.490.550.140.890.26<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>sigmoidea</dc:Species>
+                </tax:xmldata>sigmoidea</tax:name>lectotype0.580.510.560.140.910.26<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>sigmoidea</dc:Species>
+                </tax:xmldata>sigmoidea</tax:name>INB 00032359000.600.520.570.150.900.26<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>sigmoidea</dc:Species>
+                </tax:xmldata>sigmoidea</tax:name>INB 00032316520.610.520.580.150.900.26<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37530" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>sulcaticeps</dc:Species>
+                </tax:xmldata>sulcaticeps</tax:name>
+syntype 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:145548" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>bruchi</dc:Species>
+                </tax:xmldata>bruchi</tax:name>0.570.480.550.120.880.22<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37530" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>sulcaticeps</dc:Species>
+                </tax:xmldata>sulcaticeps</tax:name>
+syntype 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:145548" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>bruchi</dc:Species>
+                </tax:xmldata>bruchi</tax:name>0.580.490.570.120.850.21<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37532" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>williamsoni</dc:Species>
+                </tax:xmldata>williamsoni</tax:name>syntype MSZP0.710.590.690.150.850.22</tax:p>
+        <tax:figure>
+            <tax:p>
+                <tax:figure>
+                    <tax:p>
+Table 2. Abundance of 
+<tax:name>
+                            <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                            <tax:xmldata>
+                                <dc:Genus>Wasmannia</dc:Genus>
+                            </tax:xmldata>Wasmannia</tax:name>
+species along an elevational gradient on the Atlantic slope of Costa Rica. Table values are percent of samples in which a species occurred. Details of sampling methods are in Longino et al. (2002) and http: // viceroy. eeb. uconn. edu / ALAS / ALAS. html.
+</tax:p>
+                </tax:figure>
+            </tax:p>
+        </tax:figure>
+        <tax:p>
+No. Samples 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>auropunctata</dc:Species>
+                </tax:xmldata>auropunctata</tax:name>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37525" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>iheringi</dc:Species>
+                </tax:xmldata>iheringi</tax:name>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37529" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>sigmoidea</dc:Species>
+                </tax:xmldata>sigmoidea</tax:name>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37528" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                    <dc:Species>scrobifera</dc:Species>
+                </tax:xmldata>scrobifera</tax:name>La SelvaBaits400 %0 %0 %0 %Berlese21711 %0 %0 %&lt;1 %Fogging5240 %25 %0 %23 %Malaise6211 %15 %0 %3 %Litter nests2228 %0 %0 %0 %Winkler4183 %2 %0 %7 %500 mBerlese9414 %0 %0 %0 %Fogging 130 %0 %0 %0 %Malaise 22065 %5 %10 %0 %Sweepnet5833 %0 %2 %0 %Flt intercept 31070 %0 %10 %0 %MiniWinkler 25020 %0 %0 %&lt;1 %1070 mBerlese1040 %0 %0 %0 %Malaise205 %0 %0 %0 %Sweepnet340 %0 %0 %0 %Flt intercept100 %0 %0 %0 %MiniWinkler 1500 %0 %0 %0 %2000 mSampling
+effort similar to 1070 m; 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Wasmannia</dc:Genus>
+                </tax:xmldata>Wasmannia</tax:name>
+absent
+</tax:p>
+        <tax:figure>
+            <tax:p>
+                <tax:figure>
+                    <tax:p>
+Figure 1. The five most widely distributed 
+<tax:name>
+                            <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                            <tax:xmldata>
+                                <dc:Genus>Wasmannia</dc:Genus>
+                            </tax:xmldata>Wasmannia</tax:name>
+species. Views from left to right are face, lateral mesosoma, and lateral petiole. Scale bars in face and mesosoma views are 0.5 mm, in petiole views 0.1 mm.
+</tax:p>
+                </tax:figure>
+            </tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+                <tax:figure>
+                    <tax:p>
+Figure 2. Queens of 
+<tax:name>
+                            <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                            <tax:xmldata>
+                                <dc:Genus>Wasmannia</dc:Genus>
+                                <dc:Species>auropunctata</dc:Species>
+                            </tax:xmldata>Wasmannia auropunctata</tax:name>
+occur in two size classes. In cluster of queens with smaller head size, one is from Jamaica and one from Venezuela. All others (n = 14) are from Costa Rica.
+</tax:p>
+                </tax:figure>
+            </tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figure 3. Relationship of queen head width to worker head width among 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2406" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                    </tax:xmldata>Wasmannia</tax:name>
+species. Average values are shown, based on data in Table 1 and Figure 2. 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>auropunctata</dc:Species>
+                    </tax:xmldata>Wasmannia auropunctata</tax:name>
+is plotted twice, with different values for the dimorphic queens. A regression of queen head width on worker head width has a negative slope, r 2 = 0.50, p &lt;0.05 (removing the large-headed 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:37524" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Wasmannia</dc:Genus>
+                        <dc:Species>auropunctata</dc:Species>
+                    </tax:xmldata>W. auropunctata</tax:name>
+queens renders the regression nonsignificant).
+    </tax:p>
+        </tax:figure>
+    </tax:taxonxBody>
+</tax:taxonx>

@@ -3,16 +3,16 @@
   <Reference>
     <Total>6</Total>
     <Wrong>0</Wrong>
-    <Length>152.75</Length>
+    <Length>153.8</Length>
   </Reference>
   <Author>6</Author>
   <Year>6</Year>
-  <Titles>5</Titles>
+  <Titles>6</Titles>
   <Publications>
     <DomainBased>3</DomainBased>
-    <Predicted>1</Predicted>
-    <Length>5</Length>
-    <StartIndex>111.5</StartIndex>
-    <EndIndex>130.5</EndIndex>
+    <Predicted>0</Predicted>
+    <Length>6</Length>
+    <StartIndex>111.2</StartIndex>
+    <EndIndex>126.4</EndIndex>
   </Publications>
 </Statistics>

@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?><tax:taxonx xmlns:dc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.taxonx.org/schema/v1 http://www.taxonx.org/schema/v1/taxonx1.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-1.xsd http://digir.net/schema/conceptual/darwin/2003/1.0 http://digir.net/schema/conceptual/darwin/2003/1.0/darwin2.xsd">
+    <tax:taxonxHeader>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>The ant genus Leptanilloides: discovery of the male and evaluation of phylogenetic relationships based on DNA sequence data.</mods:title>
+            </mods:titleInfo>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:name type="personal">
+                <mods:role>
+                    <mods:roleTerm>Author</mods:roleTerm>
+                </mods:role>
+                <mods:namePart>Ward, P. S.</mods:namePart>
+            </mods:name>
+            <mods:relatedItem type="host">
+                <mods:titleInfo>
+                    <mods:title>Advances in ant systematics (Hymenoptera: Formicidae): Homage to E.O. Wilson - 50 years of contributions.</mods:title>
+                </mods:titleInfo>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Snelling, R. R.</mods:namePart>
+                </mods:name>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Fisher, B. L.</mods:namePart>
+                </mods:name>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Ward, P. S.</mods:namePart>
+                </mods:name>
+                <mods:originInfo>
+                    <mods:dateIssued>2007</mods:dateIssued>
+                    <mods:publisher>Memoirs of the American Entomological Institute, 80</mods:publisher>
+                </mods:originInfo>
+                <mods:part>
+                    <mods:extent unit="page">
+                        <mods:start>637</mods:start>
+                        <mods:end>649</mods:end>
+                    </mods:extent>
+                </mods:part>
+            </mods:relatedItem>
+            <mods:identifier type="HNS-PUB">21294</mods:identifier>
+            <mods:location>
+                <mods:url>http://atbi.biosci.ohio-state.edu/HymOnline/reference-full.html?id=21294</mods:url>
+            </mods:location>
+        </mods:mods>
+    </tax:taxonxHeader>
+    <tax:taxonxBody>
+        <tax:p>THE ANT GENUS LEPTANILLOIDES: DISCOVERY OF THE MALE AND EVALUATION OF PHYLOGENETIC RELATIONSHIPS BASED ON DNA SEQUENCE DATA</tax:p>
+        <tax:p>Philip S. Ward</tax:p>
+        <tax:p>Department of Entomology,</tax:p>
+        <tax:p>University of California, Davis</tax:p>
+        <tax:p>Davis, CA 95616, USA</tax:p>
+        <tax:p>psward @ ucdavis. edu</tax:p>
+        <tax:p>ABSTRACT</tax:p>
+        <tax:p>
+The male of the ant genus Leptanilloides is described, based on two specimens collected as isolated individuals in sweep samples from montane Costa Rica. Although not associated with ant workers or queens, these males are identified as Leptanilloides mckennae Longino on the basis of DNA sequence similarity to a reference worker of this species from Costa Rica. The male is slightly smaller than the worker, and has most traits expected of the dorylomorph group, including tergosternal fusion of abdominal segments 2 and 3 (but not 4); exposed spiracles on abdominal segments 5 and 6; a simplified volsella, lacking a cuspis; and absence of cerci. Additional attributes include: mandibles elongate-triangular and edentate; anterior clypeal lamella well developed; pronotum triangular in profile and much narrowed anteromedially; mesopleuron lacking posterior oblique sulcus; postpetiole absent; and wing venation reduced (forewing with pterostigma and one submarginal cell, but no discal cell). A molecular phylogenetic analysis, based on 5.1 kb of sequence data from five nuclear genes (18 S rDNA, 28 S rDNA, wingless, abdominal-A, and LW-rhodopsin), provides strong independent evidence that Leptanilloides is a member of the dorylomorph clade (parsimony bootstrap support of 100 %; Bayesian posterior probability of 1.00), although relationships among taxa within that group remain poorly resolved. The dorylomorphs are nested within the formicoid clade, a very well supported group that contains the majority of extant ant subfamilies. Contrary to some previous suggestions Leptanilloides is not closely related to 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24794" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Leptanilla</dc:Genus>
+                </tax:xmldata>Leptanilla</tax:name>
+. The latter appears to stand well outside the formicoid clade, as sister taxon to all other extant ants sampled in this study (72 % parsimony bootstrap, 1.00 posterior probability). The results highlight the repeated convergent evolution of similar morphology among subterranean ants.
+</tax:p>
+        <tax:p>
+Key words: Hymenoptera, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+, phylogeny, morphology, dorylomorphs, doryline section, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24794" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Leptanilla</dc:Genus>
+                </tax:xmldata>Leptanilla</tax:name>
+, subterranean ants, 18 S rDNA, 28 S rDNA, wingless, abdominal-A, LW- rhodopsin
+</tax:p>
+        <tax:p>INTRODUCTION</tax:p>
+        <tax:p>
+The study of ant assemblages living in subterranean habitats is one of the more exciting frontiers in myrmecology. Underground environments seem to harbor a disproportionate share of morphologically peculiar and phylogenetically interesting formicids (Brown et al., 1971; Bolton, 1990 b; Lopez et al., 1994; Ward, 1994). The ant subfamily 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2256" source="HNS"/>Leptanilloidinae</tax:name>
+is one such group. It comprises two genera of small, blind ants, whose biology, distribution, and phylogenetic relationships are poorly understood (Bolton, 1990 a, 2003; Brandao et al., 1999; Brady &amp; Ward, 2005). Confined to the New World, these ants are rarely collected and are assumed to be hypogaeic predators, possibly with legionary habits.
+</tax:p>
+        <tax:p>
+For many years the group was known only from a single species, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:29877" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Leptanilloides</dc:Genus>
+                    <dc:Species>biconstricta</dc:Species>
+                </tax:xmldata>Leptanilloides biconstricta</tax:name>
+Mann (1923), described from Bolivia. The genus came to be placed in the tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2276" source="HNS"/>Cerapachyini</tax:name>
+(Brown, 1975; Bolton, 1990 a), and later in its own subfamily (Bolton, 1992). Our knowledge of the group was considerably expanded by Brandao et al. (1999) who revised the subfamily and described six new South American species, three of which were assigned to a new genus, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:147588" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Asphinctanilloides</dc:Genus>
+                </tax:xmldata>Asphinctanilloides</tax:name>
+. Longino (2003) described another new species, Leptanilloides mckennae, from Costa Rica. This not only extended the known range of the subfamily from South America to Central America, but also blurred the morphological distinctions between the two genera.
+</tax:p>
+        <tax:p>
+The phylogenetic position of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2256" source="HNS"/>Leptanilloidinae</tax:name>
+has been a point of uncertainty. Mann (1923) and Borgmeier (1955) noted similarities to the Old World subfamily 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2255" source="HNS"/>Leptanillinae</tax:name>
+, and to New World army ants (
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2252" source="HNS"/>Ecitoninae</tax:name>
+). Brown (1975) considered Leptanilloides to be a ponerine ant in the tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2276" source="HNS"/>Cerapachyini</tax:name>
+, while Bolton (1990 a, 1990 c, 2003) provided compelling morphological evidence that it belongs with the dorylomorphs (previously known as the doryline section), a well defined monophyletic group that includes both cerapachyines and army ants, but not 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2255" source="HNS"/>Leptanillinae</tax:name>
+or 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+. A recent morphological phylogenetic analysis of the dorylomorphs (Brady &amp; Ward, 2005) also concluded that 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2256" source="HNS"/>Leptanilloidinae</tax:name>
+is part of this group, although a close association with 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2255" source="HNS"/>Leptanillinae</tax:name>
+could not be confidently rejected in that study.
+</tax:p>
+        <tax:p>
+Until recently all collections of Leptanilloides and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:147588" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Asphinctanilloides</dc:Genus>
+                </tax:xmldata>Asphinctanilloides</tax:name>
+have consisted of workers only, with males and queens being unknown. This paper provides the first description of leptanilloidine males (see also postscript at the end of this paper). Although the specimens were taken in sweep samples and were not associated with any specific ant colonies, their identity as Leptanilloides was confirmed through comparative analysis of DNA sequence data.
+</tax:p>
+        <tax:p>The males in question were brought to my attention by John T. (“ Jack ”) Longino, who encountered them when processing ants from Costa Rican sweep samples collected by John Noyes. The males (two in number) were recognized as being unusual and it was hypothesized that they represented the hitherto unknown males of Leptanilloides. Since the samples were preserved in ethanol, and since workers of L. mckennae were also available in ethanol, the opportunity was presented to test this hypothesis through comparison of DNA sequences.</tax:p>
+        <tax:p>
+Once the identity of the males as Leptanilloides was resolved, a broader inquiry into the phylogenetic position of the genus was undertaken, using sequence data from five nuclear genes. This yielded a number of interesting results, not only concerning Leptanilloides but also regarding the phylogenetic relationships of other ant groups, including the enigmatic subfamily 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2255" source="HNS"/>Leptanillinae</tax:name>
+.
+</tax:p>
+        <tax:p>MATERIALS AND METHODS</tax:p>
+        <tax:p>Critical material for this study was supplied by Jack Longino: an ethanol-preserved worker of Leptanilloides mckennae from Monteverde, Costa Rica (July 1995; leg. D. McKenna), and two unidentified male ants from Costa Rica, suspected to be Leptanilloides, and also held in ethanol. The males were collected at Estacion Cacao, Prov. Guanacaste (22 February 2003; leg. J. S. Noyes), and Sendero Pilon, P. N. Arenal, Prov. Alajuela (26 February 2003; leg. J. S. Noyes), respectively. A fresh, ethanol-preserved worker of a second species, Leptanilloides nomada Donoso, Vieira &amp; Wild (2006) from Cotopaxi, Ecuador was provided by Alex Wild.</tax:p>
+        <tax:p>
+One of the two males, from Estacion Cacao, was sacrificed for DNA extraction and sequencing, but the head, wings, and genitalia of this specimen were retained for morphological study and for comparison with the second male. Twenty-seven additional ant species were targeted for sequencing (Table 1). These were chosen to provide broad coverage of higher-level ant diversity, including nine other representatives of the dorylomorph group (belonging to the genera 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2322" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Acanthostichus</dc:Genus>
+                </tax:xmldata>Acanthostichus</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2329" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Aenictus</dc:Genus>
+                </tax:xmldata>Aenictus</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2431" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Cerapachys</dc:Genus>
+                </tax:xmldata>Cerapachys</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2436" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Cylindromyrmex</dc:Genus>
+                </tax:xmldata>Cylindromyrmex</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2488" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Dorylus</dc:Genus>
+                </tax:xmldata>Dorylus</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2491" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Neivamyrmex</dc:Genus>
+                </tax:xmldata>Neivamyrmex</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2432" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Simopone</dc:Genus>
+                </tax:xmldata>Simopone</tax:name>
+, and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2433" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Sphinctomyrmex</dc:Genus>
+                </tax:xmldata>Sphinctomyrmex</tax:name>
+) and one representative of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2255" source="HNS"/>Leptanillinae</tax:name>
+(genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24794" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Leptanilla</dc:Genus>
+                </tax:xmldata>Leptanilla</tax:name>
+). Three non-formicid outgroups were also included: a vespid (Mischocyttarus flavitarsis), a bradynobaenid (Chyphotes mellipes), and an apid (Apis mellifera). All trees were rooted with Apis mellifera.
+</tax:p>
+        <tax:p>Molecular methods</tax:p>
+        <tax:p>DNA sequence data from five nuclear genes were utilized: the small subunit (18 S) and large subunit (28 S) ribosomal RNA genes, and the protein-encoding genes abdominal-A (abd-A), wingless (wg), and long wavelength rhodopsin (LW Rh). Seventy-eight new sequences were generated for this investigation, and the remainder were taken from Ward &amp; Downie (2005). Methods of DNA extraction, amplification, purification, and sequencing followed Ward &amp; Downie (2005). Sequences were collated with Sequencher (version 4.0.5), aligned with Clustal X version 1.8 (Thompson et al., 1997), and manually edited with MacClade 4 (Maddison &amp; Maddison, 2000). GenBank accession numbers for each sequence are given in Table 1.</tax:p>
+        <tax:p>Phylogenetic analysis</tax:p>
+        <tax:p>An intron in the LW Rh gene fragment and hypervariable regions of the 28 S gene were removed prior to phylogenetic analyses, due to alignment difficulties. After exclusion of these sites the five-gene dataset consisted of 5135 characters (base pairs), of which 1336 were variable and 950 were parsimony-informative. Parsimony searches were carried out with PAUP * (version 4.0 b 10) (Swofford, 2003), using TBR branch swapping and 1000 random taxon additions. Gaps were treated as missing data. Bootstrap values were calculated using 1000 TBR replicates and 10 random taxon additions per replicate. Bayesian estimation of the phylogeny was conducted with Mr. Bayes v 3 b 4 (Huelsenbeck &amp; Ronquist, 2001), using a partitioned model as described in Ward &amp; Downie (2005). The MCMC (Markov chain Monte Carlo) analysis was run for 10,000,000 generations, with sampling every 1000 generations, and a burn-in value of 1000 samples. The aligned data matrix used in phylogenetic analyses, with excluded sites identified, is available at TreeBase (M 2144).</tax:p>
+        <tax:p>Metric measurements and indices</tax:p>
+        <tax:p>The following measurements (in mm) and indices were employed. Measurements were taken at 50 × with a Wild M 5 A microscope and a Nikon dual-axis micrometer.</tax:p>
+        <tax:p>HL Head length, measured in full-face (frontal) view, from the posterior margin to the midpoint of the anterior clypeal margin, excluding the clypeal apron.</tax:p>
+        <tax:p>HW Maximum width of the head, including the eyes.</tax:p>
+        <tax:p>SL Length of scape, excluding the basal condyle and neck.</tax:p>
+        <tax:p>EL Length of compound eye, as seen in full-face view.</tax:p>
+        <tax:p>LHT Length of the metatibia in dorsal view, excluding the medioproximal lobe.</tax:p>
+        <tax:p>CI Cephalic index: HW / HL.</tax:p>
+        <tax:p>REL Relative eye length: EL / HL.</tax:p>
+        <tax:p>REL 2 Relative eye length, using HW: EL / HW.</tax:p>
+        <tax:p>SI Scape index: SL / HW.</tax:p>
+        <tax:p>IDENTIFICATION OF LEPTANILLOIDES MALE FROM DNA SEQUENCE DATA</tax:p>
+        <tax:p>The Leptanilloides mckennae worker readily yielded 18 S and 28 S sequences but it proved difficult to obtain single-copy nuclear gene sequences from this specimen, possibly because of its age and preservation history. It is likely that the worker had been stored at an ethanol concentration of less than 95 % (Longino, pers. comm.). Using primers that amplified short stretches of DNA, I was able to obtain sequence for the LW Rh gene, but not for wg or abd-A. This dictated use of a three-gene data set (18 S, 28 S, and LW Rh) to compare the putative Leptanilloides male with the L. mckennae worker and with other taxa.</tax:p>
+        <tax:p>
+The results were unambiguous: the male proved to be identical to Leptanilloides mckennae at the 18 S and 28 S genes, and almost identical (0.18 % sequence divergence) at LW-rhodopsin. The only difference detected at the LW-rhodopsin gene was a single base substitution in an intron, which was 90 bp long in both the male and the L. mckennae worker. (The intron was 84 bp long in Leptanilloides nomada from Ecuador.) Over the concatenated three-gene data set the male exhibited 0.02 % sequence divergence from Leptanilloides mckennae, 0.79 % from Leptanilloides nomada, and moderate to large differences with all other sampled ants, with uncorrected sequence divergences ranging from 3.31 % (with 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24704" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Acanthostichus</dc:Genus>
+                    <dc:Species>kirbyi</dc:Species>
+                </tax:xmldata>Acanthostichus kirbyi</tax:name>
+) to 7.76 % (with 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24794" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Leptanilla</dc:Genus>
+                </tax:xmldata>Leptanilla</tax:name>
+sp.) (Table 2). Parsimony analysis of the sequence data placed the male as sister to Leptanilloides mckennae, to the exclusion of Leptanilloides nomada, with 100 % bootstrap support (results not shown).
+</tax:p>
+        <tax:p>The possibility exists that the Leptanilloides male, while genetically very close to L. mckennnae, belongs to a different (unknown) species. Without more information about the diversity of Leptanilloides in Costa Rica and the degree of interspecific sequence divergence in the genus, this possibility cannot be entirely dismissed. The virtual identity of the male with L. mckennae, contrasted with its substantial divergence from Leptanilloides nomada, argues against this interpretation. L. nomada is clearly not conspecific with L. mckennae but it appears to be more closely related to the latter than to most other described species of the genus. Specifically, it has the combination of a reduced postpetiole (smaller than petiole) and enlarged abdominal segments 4 - 6, separated by distinct constrictions, that sets L. mckennae apart from most other described species of Leptanilloides.</tax:p>
+        <tax:p>Thus I conclude that the sequenced male (from Estacion Cacao) and the morphologically similar specimen (from P. N. Arenal) represent the male caste of Leptanilloides mckennae Longino.</tax:p>
+        <tax:treatment>
+            <tax:nomenclature>
+DESCRIPTION OF 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:182981" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Leptanilloides</dc:Genus>
+                        <dc:Species>mckennae</dc:Species>
+                    </tax:xmldata>LEPTANILLOIDES MCKENNAE</tax:name>
+MALE
+</tax:nomenclature>
+            <tax:div type="description">
+                <tax:p>Head broader than long, with large eyes that occupy the anterior half of sides of head; mandibles slender, elongate-triangular, and overlapping at closure (Figure 1), masticatory margin edentate and rounding into unarmed basal margin; external margin of mandible weakly concave; maxillary palps 2 - segmented; labial palps difficult to discern in situ but apparently similarly reduced; genal teeth and hypostomal teeth lacking; anterior margin of clypeus with a prominent, subtriangular, translucent lamella, bluntly pointed medially and with an anterior-posterior extension at this midpoint that is subequal to scape width; posterolateral margin of clypeus well marked, but posteromedial boundary obscure; antennal sockets horizontal and exposed, and located close to the anterior clypeal margin; antenna 13 - segmented, each segment much longer than wide; scape and ultimate antennal segment subequal in length, each 0.12 × total length of antenna and 2.2 × length of the second antennal segment; front of head immediately posterior to antennal sockets slightly depressed, and furnished medially with a low, blunt, longitudinal ridge, probably homologous with the elevated frontal carinae of the worker; lateral ocelli separated from median ocellus by about their diameters.</tax:p>
+                <tax:p>Mesosoma with usual complement of sclerites (Figure 2); pronotum U-shaped in dorsal view and reduced anteromedially to a thin horizontal strip, set well below the level of the mesonotum; pronotum triangular in profile, with pointed posterior apex; mesonotum lacking notauli, but with a darkened, weakly impressed anteromedial suture; parapsidal sutures present; parascutal carina poorly developed and terminating before the transcutal cleft; axillae not meeting medially, connected by a narrow furrow; tegula very small and inconspicuous; mesopleuron lacking oblique transverse sulcus and hence not divided into anepisternum and katepisternum, but lower third of mesopleuron with a broad longitudinal furrow (possibly an artifact of cuticular collapse); boundary between metapleuron and propodeum effaced posteriorly; metapleural gland reduced and inconspicuous; propodeal spiracle small, circular, positioned at about midheight of propodeum and as far back as the posterior extremity of the metanotum. Legs slender (LHT / HL ~ 1.5); mesotibia and metatibia each with a single spur, barbulate and pectinate, respectively; tarsal claws lacking preapical tooth.</tax:p>
+                <tax:p>Wings somewhat infuscated and with reduced venation (Figure 3); pterostigma present; forewing with one submarginal cell; closed discal (medial) cell lacking, i. e., m-cu crossvein absent; veins M and Cu diverging distal to crossvein cu-a by a distance greater than the length of the crossvein; hindwing lacking closed cells; anterior margin of hindwing with 3 - 4 hamuli; jugal lobe absent.</tax:p>
+                <tax:p>Metasoma long and slender; abdominal segment 2 (petiole) subquadrate in profile (Figure 2), longer than high or wide, and only weakly constricted posteriorly (helcium thus apparently quite broad); spiracle on abdominal segment 2 located at anterodorsal extremity; abdominal segment 3 larger than petiole, and not developed as postpetiole nor separated from abdominal segment 4 by a marked constriction; abdominal spiracle 3 located on anterior third of tergite; abdominal segments 2 and 3 with tergosternal fusion; abdominal segment 4 lacking tergosternal fusion; segment 4 with short but distinctly differentiated presclerites; spiracle present on anterior half of tergite 4; abdominal segments 5 and 6 apparently lacking differentiated presclerites, and not separated from succeeding segments by constrictions; abdominal spiracles 5 and 6 small and inconspicuous but exposed, i. e., visible at anterior margins of respective tergites, under normal distension; abdominal tergite 8 (pygidium) small and simple but visible dorsally, not wholly covered by abdominal tergite 7; cerci absent; subgenital plate (abdominal sternite 9) with posterior margin broadly concave but not bifurcate; anterior margin of subgenital plate with mesial apodeme better developed than lateral apodemes; basal ring not hypertrophied; paramere long and slender with upturned apex (Figure 2), about 1.5 × petiole length; volsella simple, lobelike, lacking differentiated cuspis.</tax:p>
+                <tax:p>Body size small; total length, excluding appendages, approximately 2.7 mm; integument mostly smooth and shiny, with scattered piligerous punctures; pilosity common on most of body, suberect to decumbent. Color: yellowish-brown, dorsum of head a contrasting dark brown; abdominal segments 4 - 8 medium brown.</tax:p>
+                <tax:p>Comparison of the two males</tax:p>
+                <tax:p>The two males were closely comparable in terms of external morphology, the chief difference between them being larger eye size in the Arenal male (see measurements below). Head shape, antennal proportions, integument sculpture, color, and overall habitus were otherwise very similar. The preceding description is a composite for the head, wings and genitalia, and is based on the Arenal male alone for other details.</tax:p>
+                <tax:p>Measurements (in mm) and indices:</tax:p>
+                <tax:p>HW HL SL LHT CI SI REL REL 2</tax:p>
+                <tax:p>P. N. Arenal 0.639 0.472 0.242 0.724 1.35 0.38 0.54 0.40</tax:p>
+                <tax:p>Estacion Cacao 0.592 0.452 0.221 — 1.31 0.37 0.47 0.36</tax:p>
+            </tax:div>
+            <tax:div type="discussion">
+                <tax:p>Comments</tax:p>
+                <tax:p>
+To the extent that the Leptanilloides mckennae male is representative it suggests the following provisional diagnosis for males of the subfamily 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2256" source="HNS"/>Leptanilloidinae</tax:name>
+: mandibles elongate-triangular and edentate; palp formula 2,2 or less; antennae 13 - segmented; anterior clypeal lamella present; pronotum triangular in profile, U-shaped in dorsal view, and narrow and strap-like anteromedially; notauli absent; mesopleuron lacking oblique transverse suture; petiole nodiform; postpetiole absent; abdominal spiracles 5 and 6 visible under normal distension; posterior margin of subgenital plate emarginate; cerci absent; mesotibia and metatibia each with single apical spur; forewing with one submarginal cell and no discal (medial) cell.
+</tax:p>
+                <tax:p>Several features of the Leptanilloides mckennae male match those of the worker caste of the same species, such as the well developed, medially pointed clypeal lamella; the form of the tibial spurs; the location of the abdominal spiracles; and overall body size (2.7 mm long versus ~ 3.1 mm in the worker). General traits of the Leptanilloides male that provide support for placement of the genus in the dorylomorph group include tergosternal fusion of abdominal segments 2 and 3 (but not 4); exposure of abdominal spiracles 5 and 6 under normal distension; absence of cerci; and simplified volsella. Interestingly the Leptanilloides male also shares some specific attributes with army ant males including a triangular pronotum (in profile); reduced parascutal carina; absence of an oblique transverse sulcus on the mesopleuron; and relatively small tegula. In other respects, however, Leptanilloides lacks some of the key characteristics of male army ants such as large size (relative to workers), elongate and sickle-shaped mandibles, robust metasoma, and modified genitalia.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:p>RELATIONSHIP OF LEPTANILLOIDES TO OTHER ANTS: MOLECULAR</tax:p>
+        <tax:p>EVIDENCE</tax:p>
+        <tax:p>Following identification of the sequenced male as Leptanilloides mckennae, it was possible to use this specimen as the representative for this species in a more detailed (five-gene) molecular phylogenetic analysis. This overcame the problems associated with the single L. mckennae worker whose DNA was less well preserved.</tax:p>
+        <tax:p>
+Under both parsimony and Bayesian approaches the closeness of the two Leptanilloides species is confirmed, and there is unequivocal support (parsimony bootstrap 100 %, Bayesian posterior probability 1.00) for placement of Leptanilloides in the dorylomorph group (Figure 4). The parsimony analysis indicates that Leptanilloides is sister to all other dorylomorphs (bootstrap support of 72 %), but Bayesian inference places Leptanilloides as sister to (
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2322" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Acanthostichus</dc:Genus>
+                </tax:xmldata>Acanthostichus</tax:name>
++ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2436" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Cylindromyrmex</dc:Genus>
+                </tax:xmldata>Cylindromyrmex</tax:name>
+) with a posterior probability of 0.89. In general, relationships among the dorylomorph taxa are not well resolved, except for the pairing of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2322" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Acanthostichus</dc:Genus>
+                </tax:xmldata>Acanthostichus</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2436" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Cylindromyrmex</dc:Genus>
+                </tax:xmldata>Cylindromyrmex</tax:name>
+. Both parsimony and Bayesian trees recover army ant monophyly, but without strong support (cf. Brady, 2003). The dorylomorphs are placed firmly in the formicoid clade (parsimony bootstrap 100 %, Bayesian posterior probability 1.00), a group that is increasingly well supported by molecular data (Ward &amp; Brady, 2003; Saux et al., 2004; Ward &amp; Downie, 2005).
+</tax:p>
+        <tax:p>
+Within the formicoid clade, the remaining taxa (representatives from 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:183167" source="HNS"/>Ectatomminae</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2254" source="HNS"/>Formicinae</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2250" source="HNS"/>Dolichoderinae</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2257" source="HNS"/>Myrmeciinae</tax:name>
+, and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2262" source="HNS"/>Pseudomyrmecinae</tax:name>
+) appear to form a clade that is sister to the dorylomorphs, but low support levels (parsimony bootstrap 57 %, Bayesian posterior probability 0.68) undermine the reliability of this hypothesis. Among the remaining formicoids, two groups are well supported, however, at least under Bayesian inference (posterior probability of 1.00): (
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:183167" source="HNS"/>Ectatomminae</tax:name>
++ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
++ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2254" source="HNS"/>Formicinae</tax:name>
+) and (
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2262" source="HNS"/>Pseudomyrmecinae</tax:name>
++ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2257" source="HNS"/>Myrmeciinae</tax:name>
+).
+</tax:p>
+        <tax:p>
+The ant genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24794" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Leptanilla</dc:Genus>
+                </tax:xmldata>Leptanilla</tax:name>
+— and by implication other 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2255" source="HNS"/>Leptanillinae</tax:name>
+such as 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2383" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Protanilla</dc:Genus>
+                </tax:xmldata>Protanilla</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2347" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Anomalomyrma</dc:Genus>
+                </tax:xmldata>Anomalomyrma</tax:name>
+— is not closely related to Leptanilloides and other dorylomorphs. It lies well outside the formicoid clade, as the sister group of all other ants sampled in this study (parsimony bootstrap 71 %, Bayesian posterior probability 1.00). An earlier study, based on 28 S data only, also suggested a basal position for 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24794" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Leptanilla</dc:Genus>
+                </tax:xmldata>Leptanilla</tax:name>
+among the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+(Saux et al., 2004). This result should be viewed with caution, however, since 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24794" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Leptanilla</dc:Genus>
+                </tax:xmldata>Leptanilla</tax:name>
+shows divergent sequence evolution and its placement adjacent to the aculeate outgroups might be an artifact of longbranch attraction (see Bergsten, 2005).
+</tax:p>
+        <tax:p>DISCUSSION AND CONCLUSIONS</tax:p>
+        <tax:p>
+Three subterranean ant taxa, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2255" source="HNS"/>Leptanillinae</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2256" source="HNS"/>Leptanilloidinae</tax:name>
+, and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2355" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Apomyrma</dc:Genus>
+                </tax:xmldata>Apomyrma</tax:name>
+, have workers of similar appearance that share a suite of characteristics, including small size, pale integument, absence of eyes, absence of frontal lobes, very narrow clypeus, exposed antennal sockets, short scapes, reduced abdominal segment 3 (compared with segment 4), flexible promesonotal suture, and well developed sting. The last two features are probably ancestral for ants as a whole, but the others appear to be traits associated with adaptation to underground habitats. Saux et al. (2004) demonstrated with 28 S sequence data that 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2355" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Apomyrma</dc:Genus>
+                </tax:xmldata>Apomyrma</tax:name>
+, formerly associated with the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2255" source="HNS"/>Leptanillinae</tax:name>
+(Bolton, 1990 b, 2003), is actually a member of the subfamily 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:183164" source="HNS"/>Amblyoponinae</tax:name>
+, in accordance with its original suggested placement (Brown et al., 1971). The present study confirms that the superficial similarity between Leptanilloides and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24794" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Leptanilla</dc:Genus>
+                </tax:xmldata>Leptanilla</tax:name>
+is no more than that, and that both groups arise far apart on the ant tree (Figure 4).
+</tax:p>
+        <tax:p>
+Recent molecular studies (Ward &amp; Brady, 2003; Ohnishi et al., 2004, Saux et al., 2004; Ward &amp; Downie, 2005; present work) have produced results consistent with the hypothesis that the evolutionary history of ants involved an early diversification of poneromorph-like taxa, within which a second stronger radiation occurred that generated most of modern ant diversity (Figure 5). Highly specialized subterranean ants occur in both the early (“ basal ”) lineages and in various groups within the younger formicoid clade. This indicates that colonization of, and restriction to, the underground environment, with attendant convergence in morphology and behavior, has occurred on multiple occasions during ant evolution. Given the frequency of specialized hypogaeic species in lineages at the base of the ant phylogeny, the possibility could be entertained that these taxa reflect the ancestral condition for 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+, but this implies one or more transitions from subterranean to above-ground habits, which seems improbable. Moreover, epigaeic taxa are prevalent throughout the fossil record of ants, beginning in the Cretaceous (Grimaldi &amp; Agosti, 2000; Nel et al., 2004). Nevertheless semi-cryptic nesting habits (e. g., living in rotten logs) could have provided the ancestral ants with opportunities for specialization in both directions.
+</tax:p>
+        <tax:p>POSTSCRIPT</tax:p>
+        <tax:p>As this manuscript was being prepared I learned of the discovery of additional new Leptanilloides species in Cotopaxi, Ecuador (J. M. Vieira and D. A. Donoso, pers. comm.), with ergatogyne queens and males. Descriptions of these taxa and castes appear elsewhere (Donoso et al., 2006).</tax:p>
+        <tax:p>ACKNOWLEDGEMENTS</tax:p>
+        <tax:p>I am grateful to Jack Longino and Alex Wild for providing critical material of Leptanilloides for morphological analysis and DNA sequencing. Other useful ant specimens were furnished by Sean Brady, Juergen Gadau, Randy Morgan, Dave Olson, Hamish Robertson, Eli Sarnat, and Riitta Savolainen. I thank Sean Brady, David Donoso, Ted Schultz, Roy Snelling, and Robert W. Taylor for helpful comments on the manuscript. The financial support of the U. S. National Science Foundation (grants DEB- 9903650 and DEB- 0431330) is gratefully acknowledged. Finally I wish to express my appreciation to Ed Wilson for his collegiality and support. His writings on social insect biology have provided much inspiration and insight over the years, and induced in me (as in many others) a lifelong fascination with myrmecology.</tax:p>
+        <tax:p>REFERENCES</tax:p>
+        <tax:p>Bergsten, J. 2005. A review of long-branch attraction. Cladistics 21: 163 - 193.</tax:p>
+        <tax:p>
+Bolton, B. 1990 a. Abdominal characters and status of the cerapachyine ants (Hymenoptera, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Journal of Natural History 24: 53 - 68.
+</tax:p>
+        <tax:p>
+Bolton, B. 1990 b. The higher classification of the ant subfamily 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2255" source="HNS"/>Leptanillinae</tax:name>
+(Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Systematic Entomology 15: 267 - 282.
+</tax:p>
+        <tax:p>
+Bolton, B. 1990 c. Army ants reassessed: the phylogeny and classification of the doryline section (Hymenoptera, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Journal of Natural History 24: 1339 - 1364.
+</tax:p>
+        <tax:p>
+Bolton, B. 1992. Subfamily 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2256" source="HNS"/>Leptanilloidinae</tax:name>
+Bolton, new subfamily. P. 317 in: Baroni Urbani, C., Bolton, B., &amp; Ward, P. S. The internal phylogeny of ants (Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Systematic Entomology 17: 301 - 329.
+</tax:p>
+        <tax:p>
+Bolton, B. 2003. Synopsis and classification of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+. Memoirs of the American Entomological Institute 71: 1 - 370.
+</tax:p>
+        <tax:p>Borgmeier, T. 1955. Die Wanderameisen der neotropischen Region. Studia Entomologica 3: 1 - 720.</tax:p>
+        <tax:p>Brady, S. G. 2003. Evolution of the army ant syndrome: the origin and long-term evolutionary stasis of a complex of behavioral and reproductive adaptations. Proceedings of the National Academy of Sciences U. S. A. 100: 6575 - 6579.</tax:p>
+        <tax:p>
+Brady, S. G. &amp; Ward, P. S. 2005. Morphological phylogeny of army ants and other dorylomorphs (Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Systematic Entomology 30: 593 - 618.
+</tax:p>
+        <tax:p>
+Brandao, C. R. F., Diniz, J. L. M., Agosti, D. &amp; Delabie, J. H. 1999. Revision of the Neotropical ant subfamily 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2256" source="HNS"/>Leptanilloidinae</tax:name>
+. Systematic Entomology 24: 17 - 36.
+</tax:p>
+        <tax:p>
+Brown, W. L., Jr. 1975. Contributions toward a reclassification of the 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+. V. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2261" source="HNS"/>Ponerinae</tax:name>
+, tribes 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2306" source="HNS"/>Platythyreini</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2276" source="HNS"/>Cerapachyini</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2279" source="HNS"/>Cylindromyrmecini</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2264" source="HNS"/>Acanthostichini</tax:name>
+, and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:231068" source="HNS"/>Aenictogitini</tax:name>
+. Search. Agriculture (Ithaca, New York) 5 (1): 1 - 116.
+</tax:p>
+        <tax:p>
+Brown, W. L., Jr., Gotwald, W. H., Jr. &amp; Levieux, J. 1971. A new genus of ponerine ants from West Africa (Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+) with ecological notes. Psyche (Cambridge) 77: 259 - 275.
+</tax:p>
+        <tax:p>
+Donoso, D. A., Vieira, J. M. &amp; Wild, A. L. 2006. Three new species of Leptanilloides Mann from Andean Ecuador (
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2256" source="HNS"/>Leptanilloidinae</tax:name>
+). Zootaxa 1201: 47 - 62.
+</tax:p>
+        <tax:p>
+Grimaldi, D. &amp; Agosti, D. 2000. A formicine in New Jersey Cretaceous amber (Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+) and early evolution of the ants. Proceedings of the National Academy of Sciences U. S. A. 97: 13678 - 13683.
+</tax:p>
+        <tax:p>Huelsenbeck, J. P. &amp; Ronquist, F. 2001. MRBAYES: Bayesian inference of phylogenetic trees. Bioinformatics 17: 754 - 755.</tax:p>
+        <tax:p>
+Longino, J. T. 2003. A new Costa Rican species of Leptanilloides (Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+: doryline section: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2256" source="HNS"/>Leptanilloidinae</tax:name>
+). Zootaxa 264: 1 - 6.
+</tax:p>
+        <tax:p>
+Lopez, F., Martinez, M. D. &amp; Barandica, J. M. 1994. Four new species of the genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:24794" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Leptanilla</dc:Genus>
+                </tax:xmldata>Leptanilla</tax:name>
+(Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+) from Spain — relationships to other species and ecological issues. Sociobiology 24: 179 - 212.
+</tax:p>
+        <tax:p>Maddison, D. R. &amp; Maddison, W. P. 2000. MacClade 4. Analysis of phylogeny and character evolution. Sunderland, Massachusetts: Sinauer Associates.</tax:p>
+        <tax:p>Mann, W. M. 1923. Two new ants from Bolivia. Psyche (Cambridge) 30: 13 - 18.</tax:p>
+        <tax:p>
+Nel, A., Perrault, G., Perrichot, V. &amp; Neraudeau, D. 2004. The oldest ant in the Lower Cretaceous amber of Charente-Maritime (SW France) (Insecta: Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Geologica Acta 2: 23 - 29.
+</tax:p>
+        <tax:p>Ohnishi, H., Imai, H. T. &amp; Yamamoto, M. - T. 2004 (“ 2003 ”). Molecular phylogenetic analysis of ant subfamily relationship inferred from rDNA sequences. Genes and Genetic Systems 78: 419 - 425.</tax:p>
+        <tax:p>
+Saux, C., Fisher, B. L. &amp; Spicer, G. S. 2004. Dracula ant phylogeny as inferred by nuclear 28 S rDNA sequences and implications for ant systematics (Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:183164" source="HNS"/>Amblyoponinae</tax:name>
+). Molecular Phylogenetics and Evolution 33: 457 - 468.
+</tax:p>
+        <tax:p>Swofford, D. L. 2003. PAUP *. Phylogenetic Analysis Using Parsimony (* and Other Methods). Version 4. Sunderland, Massachusetts: Sinauer Associates.</tax:p>
+        <tax:p>Thompson, J. D., Gibson, T. J., Plewniak, F., Jeanmougin, F. &amp; Higgins, D. G. 1997. The ClustalX windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools. Nucleic Acids Research 24: 4876 - 4882.</tax:p>
+        <tax:p>
+Ward, P. S. 1994. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2326" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Adetomyrma</dc:Genus>
+                </tax:xmldata>Adetomyrma</tax:name>
+, an enigmatic new ant genus from Madagascar (Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+), and its implications for ant phylogeny. Systematic Entomology 19: 159 - 175.
+</tax:p>
+        <tax:p>
+Ward, P. S. &amp; Brady, S. G. 2003. Phylogeny and biogeography of the ant subfamily 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2257" source="HNS"/>Myrmeciinae</tax:name>
+(Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Invertebrate Systematics 17: 361 - 386.
+</tax:p>
+        <tax:p>
+Ward, P. S. &amp; Downie, D. A. 2005. The ant subfamily 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2262" source="HNS"/>Pseudomyrmecinae</tax:name>
+(Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+): phylogeny and evolution of big-eyed arboreal ants. Systematic Entomology 30: 310 - 335.
+</tax:p>
+        <tax:figure>
+            <tax:p>Table 1. List of taxa included in the molecular phylogenetic analysis, with GenBank accession numbers.</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>Table 2. Percent sequence divergence (uncorrected) between the putative Leptanilloides male and selected other taxa, individually and for three genes combined.</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>Figures 1 - 3. Leptanilloides mckennae male. 1, Frontal (full-face) view of head; 2, lateral view of body; and 3, wing venation. Figures 2 and 3 are drawn to the same scale.</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figure 4. Phylogenetic relationships of Leptanilloides and other ant taxa, based on analysis of five nuclear genes (18 S, 28 S, wg, abd-A, and LW Rh; total: 5.1 kb). Numbers above each node are parsimony bootstrap values; those below are Bayesian posterior probabilities. The tree depicted is the 50 % majority-rule consensus tree obtained from parsimony bootstrap analysis. The Bayesian tree (majority-rule consensus of all sampled trees after burn-in) is almost identical in topology except that Leptanilloides appears as sister to (
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2322" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Acanthostichus</dc:Genus>
+                    </tax:xmldata>Acanthostichus</tax:name>
++ 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2436" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Cylindromyrmex</dc:Genus>
+                    </tax:xmldata>Cylindromyrmex</tax:name>
+) with posterior probability of 0.89.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figure 5. Relationships among major groups of extant ants, as inferred from DNA sequence data. Based on the findings of Ward &amp; Brady (2003), Ohnishi et al. (2004), Saux et al. (2004), Ward &amp; Downie (2005), and present study. The subfamilies 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2246" source="HNS"/>Aneuretinae</tax:name>
+and 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:183169" source="HNS"/>Heteroponerinae</tax:name>
+(see Bolton, 2003) are here treated as part of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2250" source="HNS"/>Dolichoderinae</tax:name>
+and 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:183167" source="HNS"/>Ectatomminae</tax:name>
+, respectively. Asterisks signify groups containing genera whose workers are entirely hypogaeic and blind.
+      </tax:p>
+        </tax:figure>
+    </tax:taxonxBody>
+</tax:taxonx>

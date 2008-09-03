@@ -1,0 +1,1557 @@
+<?xml version="1.0" encoding="UTF-8"?><tax:taxonx xmlns:dc="http://digir.net/schema/conceptual/darwin/2003/1.0" xmlns:tax="http://www.taxonx.org/schema/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.taxonx.org/schema/v1 http://www.taxonx.org/schema/v1/taxonx1.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-1.xsd http://digir.net/schema/conceptual/darwin/2003/1.0 http://digir.net/schema/conceptual/darwin/2003/1.0/darwin2.xsd">
+    <tax:taxonxHeader>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>A new sibling species of the genus Strumigenys, with a redefinition of S. lewisi Cameron.</mods:title>
+            </mods:titleInfo>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:name type="personal">
+                <mods:role>
+                    <mods:roleTerm>Author</mods:roleTerm>
+                </mods:role>
+                <mods:namePart>Yoshimura, M.</mods:namePart>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:role>
+                    <mods:roleTerm>Author</mods:roleTerm>
+                </mods:role>
+                <mods:namePart>Onoyama, K.</mods:namePart>
+            </mods:name>
+            <mods:relatedItem type="host">
+                <mods:titleInfo>
+                    <mods:title>Advances in ant systematics (Hymenoptera: Formicidae): Homage to E.O. Wilson - 50 years of contributions.</mods:title>
+                </mods:titleInfo>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Snelling, R. R.</mods:namePart>
+                </mods:name>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Fisher, B. L.</mods:namePart>
+                </mods:name>
+                <mods:name type="personal">
+                    <mods:role>
+                        <mods:roleTerm>Editor</mods:roleTerm>
+                    </mods:role>
+                    <mods:namePart>Ward, P. S.</mods:namePart>
+                </mods:name>
+                <mods:originInfo>
+                    <mods:dateIssued>2007</mods:dateIssued>
+                    <mods:publisher>Memoirs of the American Entomological Institute, 80</mods:publisher>
+                </mods:originInfo>
+                <mods:part>
+                    <mods:extent unit="page">
+                        <mods:start>664</mods:start>
+                        <mods:end>690</mods:end>
+                    </mods:extent>
+                </mods:part>
+            </mods:relatedItem>
+            <mods:identifier type="HNS-PUB">21296</mods:identifier>
+            <mods:location>
+                <mods:url>http://atbi.biosci.ohio-state.edu/HymOnline/reference-full.html?id=21296</mods:url>
+            </mods:location>
+        </mods:mods>
+    </tax:taxonxHeader>
+    <tax:taxonxBody>
+        <tax:p>
+A NEW SIBLING SPECIES OF THE GENUS 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2458" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                </tax:xmldata>STRUMIGENYS</tax:name>
+, WITH A REDEFINITION OF S. LEWISI CAMERON
+</tax:p>
+        <tax:p>Masashi Yoshimura</tax:p>
+        <tax:p>Institute of Tropical Agriculture, Kyushu University</tax:p>
+        <tax:p>6 - 10 - 1 Hakozaki, Higashi-ku, Fukuoka 812 - 8581, Japan</tax:p>
+        <tax:p>myoshimura @ ant-database. org</tax:p>
+        <tax:p>and</tax:p>
+        <tax:p>Keiichi Onoyama</tax:p>
+        <tax:p>Nishi 21, Minami 4 - 11 - 9,</tax:p>
+        <tax:p>Obihiro, Hokkaido, 080 - 2471, Japan</tax:p>
+        <tax:p>ABSTRACT</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>Strumigenys lewisi</tax:name>
+and two undetermined species, S. sp. 4 and S. sp. 9 from Japan that closely resemble 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+, were examined to clarify the taxonomic status of them. Measurements of the queens were analyzed. Our analysis indicated that S. sp. 9 is an intraspecific variation of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+, and that S. sp. 4 should be regarded as a new species, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>kumadori</dc:Species>
+                </tax:xmldata>S. kumadori</tax:name>sp. nov.
+Morphological differences between 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>kumadori</dc:Species>
+                </tax:xmldata>S. kumadori</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+were found in a pair of hairs on the apicoscrobe and mesonotum of the worker, the eye, lateral ocelli, mesonotum, fore and hind wings of the queen, and the mandible, genitalia, and hind wing of the male. All three castes of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>kumadori</dc:Species>
+                </tax:xmldata>S. kumadori</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+are characterized, and illustrated with scanning electron micrographs and microscope photographs. Species distinctions and a taxonomic discussion of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>kumadori</dc:Species>
+                </tax:xmldata>S. kumadori</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+are given. Ecological and morphological discussions are also provided.
+</tax:p>
+        <tax:p>
+Key words: Hymenoptera, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2458" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                </tax:xmldata>Strumigenys</tax:name>
+, worker, queen, male, SEM, Japan.
+</tax:p>
+        <tax:p>INTRODUCTION</tax:p>
+        <tax:p>
+The genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2458" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                </tax:xmldata>Strumigenys</tax:name>
+is known for having narrow and linear to sublinear mandibles, developed petiolar spongiform tissue, and specialized feeding habits (Baroni Urbani &amp; De Andrade, 1994; Bolton, 1999). The dacetine ants of the World were revised by Bolton (2000) who recognized 466 valid species of the genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2458" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                </tax:xmldata>Strumigenys</tax:name>
+, about 220 of which were recorded from the Malesian-Oriental-East Palaearctic area. However, even his great work could not include all species belonging to the genus, since many remained undescribed.
+</tax:p>
+        <tax:p>
+Two undetermined species which closely resemble 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>Strumigenys lewisi Cameron</tax:name>
+, 1886 have been recognized in Japan. Both of the two species which are tentatively named S. sp. 4 and S. sp. 9 have been indistinguishable from 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+in workers. S. sp. 4 was first recorded by Sonobe (1977) as 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2458" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                </tax:xmldata>Strumigenys</tax:name>
+sp. 1 [Japanese name: Kita-uroko-ari] in his faunal survey in Miyagi Prefecture, the northeast region of mainland of Japan. He mentioned in his discussion that S. sp. 1 is very similar to 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+but different from the latter only in the queen by the clearly raised mesosoma and much larger eyes. On the other hand, S. sp. 9 was firstly recorded by Onoyama (1976) as S. sp. A in his faunal survey in Okinawa Island, one of the southern islands of Japan, and he suggested that this is a sibling species which is distinguishable from 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+only in the queen. Keys and descriptions distinguishing among these three species using morphologies of queens have been provided by Onoyama et al. (1992), and S. sp. A in Onoyama (1976) was renamed as S. sp. 9 [Japanese name: Minami-uroko-ari] in the description. However, the taxonomic status of the two unnamed species and the relationship among the former two and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+remained unclear.
+</tax:p>
+        <tax:p>
+Bolton (2000) mentioned in his introduction that dacetine queens are usually very like their workers in key characters, and actually did not provide description of the queens. Both of the two S. lewisi-like sibling species in Japan might be regarded as quite simply 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+, under the taxonomic system based on only worker morphologies.
+</tax:p>
+        <tax:p>
+The present study aims to clarify the taxonomic status of the two sibling species of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+and their taxonomic relationship among them.
+</tax:p>
+        <tax:p>MATERIAL AND METHODS</tax:p>
+        <tax:p>Terminology, measurements and indices</tax:p>
+        <tax:p>Terminology basically follows Bolton (2000), Gauld &amp; Bolton (1988), and Huber &amp; Sharkey (1993). Measurements and indices are illustrated in Figs 1 and 2. Measurements and indices for workers and their abbreviations follow Bolton (2000). DA 3 L and DA 3 W, and their indices, DA 3 I, were additionally defined as below.</tax:p>
+        <tax:p>Dorsal smooth area of A 3 length (DA 3 L): Maximum longitudinal length of the dorsal smooth area on abdominal tergite III in dorsal view.</tax:p>
+        <tax:p>Dorsal smooth area of A 3 width (DA 3 W): Maximum width of the dorsal smooth area on abdominal tergite III in dorsal view.</tax:p>
+        <tax:p>Dorsal smooth area of A 3 index (DA 3 I): DA 3 L / DA 3 W × 100.</tax:p>
+        <tax:p>Measurements and indices, and their abbreviations for the queen and male are defined as below.</tax:p>
+        <tax:p>Head length (HL): same as worker and including ocelli in male.</tax:p>
+        <tax:p>Head width (HW): same as worker but including eyes in male.</tax:p>
+        <tax:p>Cephalic index (CI): same as worker.</tax:p>
+        <tax:p>Mandible length (ML): same as worker (only queen).</tax:p>
+        <tax:p>Mandible index (MI): same as worker (only queen).</tax:p>
+        <tax:p>Scape length (SL): same as worker.</tax:p>
+        <tax:p>Scape index (SI): same as worker.</tax:p>
+        <tax:p>Eye length (EL): maximum length of eye in lateral view.</tax:p>
+        <tax:p>Eye index (EI): EL / HW × 100</tax:p>
+        <tax:p>Head depth (HD): maximum depth of head in lateral view measured perpendicular to the full-face view plane.</tax:p>
+        <tax:p>Diameter of lateral ocelli (DlO): mean length of the diameters of right and left ocelli.</tax:p>
+        <tax:p>Lateral ocelli index (DlOI): DlO / HW × 100.</tax:p>
+        <tax:p>Pronotum height (PrH): maximum height of the pronotum in lateral view.</tax:p>
+        <tax:p>Mesoscutum width (MsW): maximum width of the mesoscutum in dorsal view.</tax:p>
+        <tax:p>Mesoscutum width index (MsWI): MsW / HW × 100</tax:p>
+        <tax:p>Mesoscutum height (MsH): mesoscutal height on a line which passes through a mesopleural gland orifice and intersect at right angle with the line joining ventral-most point of pronotum and propodeal spiracle.</tax:p>
+        <tax:p>Mesoscutum height index (MsHI): MsH / HW × 100.</tax:p>
+        <tax:p>Dorsal smooth area of A 3 length (DA 3 L): same as worker (only queen).</tax:p>
+        <tax:p>Dorsal smooth area of A 3 width (DA 3 W): same as worker (only queen).</tax:p>
+        <tax:p>Dorsal smooth area of A 3 index (DA 3 I): same as worker (only queen).</tax:p>
+        <tax:p>Methods for morphological examinations</tax:p>
+        <tax:p>Usual observations were carried out under a stereoscopic microscope (OLYMPUS SZX 12). Measurements were made by a stereoscopic microscope (Nikon SMZ-U ZOOM 1: 10) with a direct reading digital micrometer apparatus (Kogaku Co.; the reading unit is 0.001 mm), and the values were rounded to nearest 0.01 mm and presented in mm.</tax:p>
+        <tax:p>Observation with scanning electron microscope (JEOL JSM- 6301 F) was also carried out. Specimens were treated in 99.9 % ethanol at least for 24 hours to dehydrate, and sputter-coated with gold before the observation.</tax:p>
+        <tax:p>Wings and male genitalia were photographed with a stereoscopic microscope using an automatic photograph system (PM- 10 ADS) after treatments as below.</tax:p>
+        <tax:p>Fore and hind wings were removed from dry specimens mounted. The wings put on a slide for examination.</tax:p>
+        <tax:p>Male genitalia with several anterior segments were removed from specimens which were mounted or in spirit. The abdominal segments including genitalia were treated in 5 % KOH for 15 minutes at 90 °. Genitalia and subgenital plates were removed from abdominal segments after the treatment. The KOH treatment was repeated once for the genitalia and subgenital plates. The treated genitalia and subgenital plates were put under Neo-Shigaral (Shiga Kontyu Fukyusha) to be photographed.</tax:p>
+        <tax:p>
+Statistical analysis was carried out with StatView 5.0 (SAS Institute Inc.) software. HW, EL, DlO, and MsH were measured on 34 queens collected from 34 colonies from several locations. Four Okinawan colonies were tentatively regarded as S. sp. 9 based on previous distribution records (Terayama, 1999) to examine the morphological difference found between S. sp. 9 and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+.
+</tax:p>
+        <tax:p>Material examined</tax:p>
+        <tax:p>To avoid confusion, only colony samples that include at least a worker and a queen collected from a colony were used as materials for the present examination. Data of the materials examined are as follows: colony codes are shown in brackets: the caste names are given as aq / aqq (alate queen / queens), dq / dqq (dealate queen / queens), w / ww (worker / workers), and m / mm (male / males).</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+. Yoshimura collection: [998] 8 aqq, 5 dqq, 58 ww, 3 mm, Kawasaki, Kanagawa Pref., 2. viii. 2002, M. Yoshimura leg; [994] 1 dq, 34 ww, same locality, 2. vii. 2002, M. Yoshimura leg.; [996] 3 dqq, 25 ww, same locality, 2. vii. 2002, M. Yoshimura leg.; [995] 2 dqq, 39 ww, same locality, 2. vii. 2002, M. Yoshimura leg.; [989] 4 dqq, 9 ww, same locality, 2. vii. 2002, M. Yoshimura leg.; [672] 3 dqq, 15 ww, same locality, 25. viii. 2000, M. Yoshimura leg.; [671] 1 dq, 42 ww, same locality, 25. viii. 2000, M. Yoshimura leg.
+</tax:p>
+        <tax:p>Onoyama collection: [j 6718 - 19] 1 dq, 1 w, Kanazawa University, Ishikawa Pref., 10. viii. 1990, S. Amano leg.; [j 1047 - 52] 3 dqq, 3 ww, Manazurumisaki, Kanagawa Pref., 60 m alt., 7. i. 1973, K. Onoyama leg.; [j 1186 a-c] 2 dqq, 1 w, north of Kudacchi, Izu-oshima Island, Tokyo Pref., 90 m alt., 28. xi. 1974, K. Onoyama leg.; [j 1187 a-b] 1 dq, 1 w, same locality, 90 m alt., 28. xi. 1974, K. Onoyama leg.; [j 2945 - 48] 2 aqq, 2 mm, Mitsune, Hachijoujima Island, Tokyo Pref., 26. viii. 1979, K. Masuko leg.; [j 3547 - 49] 1 dq, 2 ww, Mt. Yourouzan, Yourou-cho, Gifu Pref., 150 m alt., 3. v. 1979, K. Yamauchi leg.; [j 3550 - 52] 1 dq, 2 ww, same locality, 560 m alt., 3. v. 1979, K. Yamauchi leg.; [j 3565 - 68] 2 dqq, 2 ww, Kinkazan, Gifu Pref., 29. iii. 1981, K. Kinomura leg.; [j 1370 a-b] 1 aq, 1 w, Shizunami, Shizuoka Pref., 0 m alt., 12. viii. 1975, K. Onoyama leg.; [j 314 a-c] 1 dq, 2 ww, Yoshidayama, Kyoto, Kyoto Pref., 90 m alt., 17. xii. 1974, K. Onoyama leg.; [j 316 a-c] 1 aq, 1 dq, 1 w, same locality, 80 m alt., 7. i. 1975, K. Onoyama leg.; [j 1429 a-b] 1 dq, 1 w, same locality, 110 m alt., 25. xii. 1975, K. Onoyama leg.; [j 7550 - 54] 1 dq, 4 ww, Kyoutanabe, Kyoto Pref., 80 m alt., 19. ix. 1993, K. Onoyama leg.; [j 7625 - 35] 6 dqq, 5 ww, same locality, 80 m alt., 18. iv. 1994, K. Onoyama leg.; [j 7695 - 99] 2 dqq, 3 ww, same locality, 80 m alt., 23. v. 1994, K. Onoyama leg.; [j 7710 - 13] 2 dqq, 2 ww, same locality, 80 m alt., 24. v. 1994, K. Onoyama leg.; [j 9891 - 95] 1 dq, 21 ww, Mt. Yuzuriha, Awajishima Island, Hyogo Pref., 110 m alt., 6 - viii- 2003, K. Onoyama leg.; [j 1637 a-b] 1 dq, 1 w, Hatakejima, Tanabe Bay, Wakayama Pref., 0 m alt., 31. x. 1973, K. Onoyama leg.; [j 1671 a-b] 1 dq, 1 w, same locality, 0 m alt., 1. xi. 1973, K. Onoyama leg.; [j 1704 a-b] 1 dq, 1 w, same locality, 0 m alt., 2. xi. 1973, K. Onoyama leg.; [j 7746 - 50] 2 dqq, 3 ww, Kii-oshima Island, Wakayama Pref., 1. iv. 1976, K. Onoyama leg.; [j 7787 - 88] 1 dq, 1 w, same locality, 1. iv. 1976, K. Onoyama leg.; [j 5136 - 38] 1 dq, 2 ww, Hiroshima, Hiroshima Pref., 30. iii. 1985, K. Onoyama leg.; [j 1929 - 30] 1 dq, 1 w, Hashirano, Iwakuni, Yamaguchi Pref., 26. iii. 1978, K. Onoyama leg.; [j 1932 - 33] 1 dq, 1 w, same locality, 26. iii. 1978, K. Onoyama leg.; [j 1989 - 90] 1 dq, 1 w, Oura, Tsushima Island, Nagasaki Pref., 170 m alt., 29. iii. 1978, K. Onoyama leg.; [j 2065 - 66] 1 dq, 1 w, Tendou, Mt. Tatsura, Tsushima Island, Nagasaki Pref., 130 m alt., 1. iv. 1978, K. Onoyama leg.; [j 1944 - 45] 1 dq, 1 w, Yobuko, Saga Pref., 10 m alt., 27. iii. 1978, K. Onoyama leg.</tax:p>
+        <tax:p>S. sp. 4. Yoshimura collection: [1006] 1 aq, 1 dq, 65 ww, 13 mm, Namie-machi, Futaba-gun, Fukushima Pref., 11. viii. 2002, M. Yoshimura leg.; [1005] 4 aqq, 8 ww, 1 m, same locality, 10. viii. 2002, M. Yoshimura leg.; [1003] 1 dq, 44 ww, same locality, 9. viii. 2002, M. Yoshimura leg.; [1001] 1 dq, 7 ww, same locality, 9. viii. 2002, M. Yoshimura leg.; [1000] 1 dq, 24 ww, same locality, 9. viii. 2002, M. Yoshimura leg.; [931] 1 dq, 12 ww, 1 m, same locality, 21. viii. 2001, M. Yoshimura leg.; [649] 1 aq, 4 dqq, 38 ww, 2 mm, Gozenyama, Ibaraki Pref., Japan, 23. viii. 2000, M. Yoshimura leg.; [665] 1 dq, 22 ww, 2 mm, same locality, 23. viii. 2000, M. Yoshimura leg.; [670] 1 aq, 3 dqq, 65 ww, Kawasaki, Kanagawa Pref., 25. viii. 2000, M. Yoshimura leg.; [1159] 1 aq, 1 w, 6 mm, Matsumae, Shimane Pref., 29. viii. 1985; [727] 1 dq, 14 ww, Manazurumisaki, Odawara, Kanagawa Pref., 30. iv. 2001, M. Yoshimura leg.</tax:p>
+        <tax:p>Onoyama collection: [j 2703 - 08] 3 mm, 3 ww, Kiyosumiyama, Chiba Pref., 25. vii. 1980, K. Masuko leg.; [j 3579 - 81] 1 dq, 2 ww, Kinkazan, Gifu Pref., 11. ii. 1983, K. Kinomura leg.; [j 8145 - 48] 6 dqq, 57 ww, Nagoya University., Aichi Pref., 4. iv. 1992, K. Onoyama leg.; [j 7373 - 83] 1 dq, 10 ww, Nagatani-ike, Seika-cho, Kyoto Pref., 90 m alt., 31. iii. 1992, K. Onoyama leg.</tax:p>
+        <tax:p>S. sp. 9. Yoshimura collection: [1092] 3 dqq, 18 ww, Oppadake, Motobu, Okinawa I., 27. vi. 2002, M. Yoshimura leg.</tax:p>
+        <tax:p>Onoyama collection: [j 4086 - 89] 2 dqq, 2 ww, Oku, Okinawa Island, 100 m alt., 4. iii. 1984, K. Onoyama leg.; [j 4224 - 25] 1 dq, 1 w, Mt. Nishime, Okinawa Island, 380 m alt., 5. iii. 1984, K. Onoyama leg.; [j 3427 - 28, 3685 - 86] 1 dq, 3 ww, Sueyoshi, Naha, Okinawa Island, 2. xii. 1975, T. Abe leg.</tax:p>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>kumadori</dc:Species>
+                    </tax:xmldata>Strumigenys kumadori</tax:name>sp. nov.</tax:nomenclature>
+            <tax:div type="etymology">
+                <tax:p>[Japanese name: Kita-uroko-ari]</tax:p>
+            </tax:div>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2458" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Strumigenys</dc:Genus>
+                        </tax:xmldata>Strumigenys</tax:name>
+sp. 1: Sonobe, 1977.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2458" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Strumigenys</dc:Genus>
+                        </tax:xmldata>Strumigenys</tax:name>
+sp.: Masuko et al., 1985: 11; Masuko, 1984.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Strumigenys</dc:Genus>
+                            <dc:Species>lewisi</dc:Species>
+                        </tax:xmldata>Strumigenys lewisi</tax:name>
+: Munakata, 1972 [we confirmed his misidentification]; Bolton, 2000 (in part)
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2458" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Strumigenys</dc:Genus>
+                        </tax:xmldata>Strumigenys</tax:name>
+sp. 4: Onoyama et al., 1992; JADG, 2003 a, 2003 b, 2003 c.
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="description">
+                <tax:p>
+Worker (Figs 3 - 9). HL 0.67, HW 0.45, CI 67.7, ML 0.32, MI 48.5, SL 0.36, SI 80.5, DSA 3 L 0.15, DSA 
+3 W
+0.19, DSA 3 I 127.3 (Holotype worker).
+</tax:p>
+                <tax:p>
+HL 0.62 - 0.67, HW 0.44 - 0.47 CI 69.0 - 72.3, ML 0.30 - 0.32, MI 46.0 - 50.5, SL 0.36 - 0.39, SI 79.4 - 86.6, DSA 3 L 0.13 - 0.15, DSA 
+3 W
+0.17 - 0.20, DSA 3 I 113.6 - 140.0 (6 measured).
+</tax:p>
+                <tax:p>Ventrolateral margin of head at level of eye not extended outward. Antenna consisting of 6 segments. Fully closed mandible in full-face view curvilinear. On the mandible, a distinct, long and spiniform preapical tooth present close to apical teeth. Apical teeth consisting of two distinct spiniform teeth and three small intercalary teeth between them: basal one of the two spiniform teeth longer than the apical one: basal one of the three intercalary teeth distinctly smaller than apical two. With mesosoma in lateral view, the diameter of the excavated area of mesopleural gland moderate, much less than the maximum width of the first coxa. Mesosoma except for propodeal declivity without spongiform tissue. Propodeal declivity equipped with a broad and conspicuous lamella; propodeal tooth very feeble and not sclerotized; posterior margin of the lamella convex, and immediately under the propodeal tooth of the margin sometimes slightly concave. Ventral margin of petiole in lateral view with longitudinal spongiform tissue. With petiole in lateral view, anteriormost point of lateral spongiform lobe nearly reaches level of anterior face of node.</tax:p>
+                <tax:p>Dorsal and lateral surfaces of pronotum entirely reticulate-punctate, sometimes with a small patch above the fore coxa. Metapleuron and side of propodeum entirely smooth. Limbus distinct. Abdominal tergite IV longitudinally sculptured at the basal portion, but not entirely covered.</tax:p>
+                <tax:p>With head in full-face view, a pair of distinct long flagellate hairs present on apicoscrobe; posterior to the apicoscrobal hairs with laterally projecting distally plumose filiform hairs; anterior to the apicoscrobal hairs without laterally projecting hair. With head in lateral view, dorsal surface from level of eye to preoccipital margin with erect to reclinate ground-pilosity; hairs on preoccipital margin distinctly differentiated from those on level of eye; from highest point of vertex to preoccipital margin with the anteriorly directed ground-pilosity, which is very feebly curved basely so that each hair is elevated and inclined upward away from the cephalic outline. A pair of long, flagelliform hairs present on the pronotal humeri and mesonotum. Dorsum of hind femur without short erect hairs, but with two or three (usually two) long erect flagellate hairs. Dorsal surface of hind basitarsus with one freely projecting flagellate hair. The whole of the dorsal surface of abdominal tergite IV with long filiform hairs. Basal portion of abdominal sternite IV covered with matted hair-like tissue.</tax:p>
+                <tax:p>Body almost unicolorous, reddish brown to yellowish brown.</tax:p>
+                <tax:p>
+Queen (Figs 17 - 22, 41). HL 0.65 - 0.67, HW 0.47 - 0.50 CI 72.4 - 76.1, ML 0.29 - 0.33, MI 45.3 - 48.8, SL 0.36 - 0.38, SI 74.0 - 78.0, DlO 0.04, DlOI 7.49 - 8.79, EL 0.12 - 0.14, EI 25.7 - 29.1, HD 0.32 - 0.34, PrH 0.21 - 0.25, MsW 0.33 - 0.36, MsWI 66.8 - 75.6, MsH 0.12 - 0.15, MsHI 25.1 - 29.8, DSA 3 L 0.13 - 0.16, DSA 
+3 W
+0.22 - 0.23, DSA 3 I 135.8 - 169.1 (9 measured).
+</tax:p>
+                <tax:p>
+Generally similar to the worker with the usual caste differences. Head thicker than that of queen of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Strumigenys</dc:Genus>
+                            <dc:Species>lewisi</dc:Species>
+                        </tax:xmldata>S. lewisi</tax:name>
+in lateral view. With head in full-face view, the ocelli distinctly developed, situated at posterior 1 / 4 of the head. Eye relatively large. A distinct, long and spiniform preapical tooth present close to apical teeth. Apical teeth consisting of two spiniform teeth and three small intercalary teeth between them: basal one of the two spiniform teeth longer than another apical one: basal one of the three intercalary teeth distinctly smaller than the apical two. With mesosoma in lateral view, the highest point of the mesoscutum nearly situated on extension line of the mesopleural wing process; mesopleural gland orifice distinct, but its maximum width not reaching maximum width of the procoxa; the pits on the mesepisternum invisible. Metanotum in lateral view slightly convex posteriorly. Propodeal spine developed and sclerotized, and under which the lobe of spongiform tissue distinctly developed. With the spongiform tissue on propodeal declivity in lateral view, its posterior margin concave under the propodeal spine, and the remaining convex posteriorly. With mesoscutum in dorsal view, its anterior margin rounded, both lateral margins weakly constricted at posterior 1 / 3, lateral corners by the constriction not strongly angular. Transverse furrow on the mesoscutum weakly curved posteriorly. Mesoscutum wide (MsWI more than 63), its width exceeding 3 / 4 of the head width in frontal view. With petiole in lateral view, the lobe of spongiform tissue strongly developed.
+</tax:p>
+                <tax:p>Most of veins on both of the fore and hind wings absent or vestigial. Only costal (C) and radial (R 1) veins and r-rs cross vein clearly present on fore wing. Vestiges of the radial sector (Rs), M + Cu, and cubital (Cu) veins sometimes visible as pigmented lines but not sclerotized. On the hind wing, radial (R) vein present, but not reaching to costal margin; jugal lobe absent.</tax:p>
+                <tax:p>Head and mesosomal dorsum entirely reticulopunctate. Central part of mesepisternum and most part of propodeum ventral to propodeal spiracle not punctate and smooth. Dorsal margin of petiole reticulate- punctate. Dorsal surface of postpetiole not punctate and smooth. Limbs present on abdominal tergite IV. Abdominal tergite IV longitudinally sculptured at the basal portion, but sculpture not extended to posterior half.</tax:p>
+                <tax:p>Pairs of hairs on the pronotal humeri long and flagellate. Mesonotal dorsum with erect, and straight or flagellate hairs. Dorsum of hind femur without short erect hairs, but with two or three (usually two) long erect flagellate hairs. Dorsal surface of abdominal tergite IV with long filiform hairs. Hair-like tissue on the basal portion of abdominal sternite IV dense. Fore and hind wings densely hairy.</tax:p>
+                <tax:p>Body almost unicolorous, reddish brown to yellowish brown. Outer margins of ocelli distinctly bordered by brown to black pigment on inside portions among the three.</tax:p>
+                <tax:p>Male (Figs 29 - 34, 42, 45 - 48). HL 0.46 - 0.48, HW 0.42 - 0.44, CI 87.3 - 95.6, SL 0.09 - 0.11, SI 21.9 - 24.9, DlO 0.05 - 0.07, EL 0.19 - 0.20, HD 0.34 - 0.36, PrH 0.23 - 0.26, MsW 0.40 - 0.43, MsWI 90.8 - 103.2, MsH 0.13 - 0.15, MsHI 30.7 - 35.4 (6 measured).</tax:p>
+                <tax:p>With head in full-face view, portion posterior to the eyes subglobose; anterior to the eyes distinctly narrowed anteriorly. Ocelli distinct; the median ocellus situated about posterior 1 / 4 of the head length, the lateral ocelli not reaching to the posterior border of the head. Eyes distinctly developed and prominent, occupying central 1 / 3 of lateral margin of the head in full-face view. Eye in lateral view broadened ventrally, and its outer margin expanded anteroventrally and flattened posteriorly. Anterior tentorial pits indistinct. Anterior margin of the clypeus in full-face view slightly convex, but nearly straight. Frontal carinae undeveloped and antennal insertions exposed. Antennae long and filiform, consisting 13 segments. Scape short and broad. Pedicel short and broadened apically. With mandible in full-face view, its apical portion abruptly curved and narrowed; the basal lamella recognizable but very weakly projected; apical to the lamella edentate. Mandible in lateral view very narrowly subtriangular. With labrum in full-face view; its apical portion distinctly extended laterally; the distal lobes entirely reduced, and apical margin of the labrum concave toward the midpoint. Palp formula 1, 1 (1 observed on SEM). Mesosoma in lateral view shorter and higher than that of the queen. Mesoscutum distinctly developed and strongly raised dorsally in lateral view. Mesoscutellum developed and extended posteriorly. With the mesonotum in dorsal view, the median notal suture weakly impressed but mostly invisible; the notauli weakly impressed; the parapsidal furrows distinctly impressed and continued to the distinct transscutal suture, so that the axillae distinctly divided; anterior margin of the scuto-scutellar suture distinctly sculptured longitudinally. With mesopleuron in lateral view, its anteroventral margin distinctly more expanded than that of queen. Metanotum in lateral view slightly extended posteriorly. With the propodeum in lateral view, a distinct spiracle situated at the midheight; the posterior margin with distinct corner, but the spine or dent reduced; the lamella absent ventral to the propodeal corner, even if its ventral portion with a carina along the propodeal declivity. With the petiole in lateral view, the node more gently raised than that of worker and queen; the lateral spongiform lobe entirely reduced; the longitudinal spongiform tissue feebly present. Ventral surface of abdominal sternite III in lateral view usually with a distinct process and a weak lamella, but rarely the process reduced. Abdominal segment IV in lateral view thicker than that of worker and queen, the ventral expansion more gentle.</tax:p>
+                <tax:p>With genitalia in ventral view, the basal ring broader than long; lateral margins of the parameral plate weakly concave; the cuspis of volsella distinctly shorter than the digitus. With genitalia in lateral view, an anteriorly-directed process, such as the barb, present at apical 1 / 4 of its ventral margin; the digitus of volsella gradually curved ventrally and not broadened at the corner.</tax:p>
+                <tax:p>Fore and hind wings similar to those of queen.</tax:p>
+                <tax:p>Head, pronotum, mesonotum, and metanotum entirely reticulate-punctate. Central part of mesepisternum and most part of propodeum ventral to propodeal spiracle not punctate and smooth. Dorsal margin of petiole reticulate-punctate. Dorsal surface of postpetiole not punctate and smooth. Limbus absent.</tax:p>
+                <tax:p>Two pairs of standing filiform hairs present on the vertex. With head in lateral view, long and frontally projecting hairs absent anterior to median ocellus. Mesonotum with long, erect, and filiform to flagellar hairs. Dorsal surface of the petiole, abdominal tergite III and IV with sparse filiform hairs.</tax:p>
+                <tax:p>Body almost unicolorous, blackish brown to reddish brown, legs same or lighter.</tax:p>
+            </tax:div>
+            <tax:nomenclature>
+Type material. Holotype worker, 
+Japan
+: 
+Gozenyama
+,
+Ibaraki Pref
+., 
+11. viii. 2002
+, 
+M. Yoshimura
+leg., specimen code [649 - 1]. (
+Type No.
+[
+OMNH
+TI 196], 
+Osaka Museum of Natural History
+). 
+Paratypes
+. colony code [649] in Yoshimura collection: 1 alate queen, 4 dealate queens, 37 workers, 2 males, same data as 
+holotype
+.
+</tax:nomenclature>
+            <tax:div type="distribution">
+                <tax:p>Distribution. Japan: southern Hokkaido, Honshu, Kyushu; China: Peking; Korea; Taiwan [We could not examine specimens collected from Korea; specimens collected in Peking (workers, ix. 1980, P. Hammond) and Taiwan (worker, Chuchin, Taipai, Taiwan, 13. vi. 1992, C. C. Lin) were examined].</tax:p>
+            </tax:div>
+            <tax:div type="etymology">
+                <tax:p>Etymology. The species is named from the Japanese “ Kumadori ”, a traditional make-up for the Kabuki actor.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:treatment>
+            <tax:nomenclature>
+                <tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>lewisi</dc:Species>
+                    </tax:xmldata>Strumigenys lewisi Cameron</tax:name>
+            </tax:nomenclature>
+            <tax:div type="etymology">
+                <tax:p>[Japanese name: Uroko-ari (= Minami-uroko-ari)]</tax:p>
+            </tax:div>
+            <tax:ref_group>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Strumigenys</dc:Genus>
+                            <dc:Species>lewisi</dc:Species>
+                        </tax:xmldata>Strumigenys lewisi Cameron</tax:name>
+, 1886: 229. Syntype workers and queen. Type locality: Japan, Nagasaki, 3. iii, George Lewis leg [syntype queen was examined].
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Strumigenys</dc:Genus>
+                            <dc:Species>lewisi</dc:Species>
+                        </tax:xmldata>Strumigenys lewisi</tax:name>
+: Ogata, 1991 [first description of male]; Bolton, 2000 (in part); JADG, 2003 a, 2003 b, 2003 c.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2458" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Strumigenys</dc:Genus>
+                        </tax:xmldata>Strumigenys</tax:name>
+sp. A: Onoyama, 1976.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2458" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Strumigenys</dc:Genus>
+                        </tax:xmldata>Strumigenys</tax:name>
+sp. 9: Onoyama et al., 1992: JADG, 2003 a, 2003 b, 2003 c.
+</tax:p>
+                <tax:p>
+                    <tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2458" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Strumigenys</dc:Genus>
+                        </tax:xmldata>Strumigenys</tax:name>
+sp. D: Terayama, 1999.
+</tax:p>
+            </tax:ref_group>
+            <tax:div type="description">
+                <tax:p>
+Worker (Figs 10 - 16). HL 0.65 - 0.71, HW 0.48 - 0.50 CI 69.8 - 76.0, ML 0.31 - 0.35, MI 46.9 - 50.0, SL 0.37 - 0.40, SI 76.4 - 82.0, DSA 3 L 0.12 - 0.13, DSA 
+3 W
+0.19 - 0.20, DSA 3 I 140.0 - 155.6 (6 measured).
+</tax:p>
+                <tax:p>Ventrolateral margin of head at level of eye not extended outward. Antenna consisting of 6 segments. Fully closed mandible in full-face view curvilinear. On the mandible, a distinct, long and spiniform preapical tooth present close to apical teeth. Apical teeth consisting of two distinct spiniform teeth and three small intercalary teeth between them: basal of the two spiniform teeth longer than the apical one: basal one of the three intercalary teeth distinctly smaller than apical two. With mesosoma in lateral view, the diameter of the excavated area of mesopleural gland moderate, much less than the maximum width of the first coxa. Mesosoma except for propodeal declivity without spongiform tissue. Propodeal declivity equipped with a broad and conspicuous lamella; propodeal tooth very feeble and not sclerotized; posterior margin of the lamella convex, and immediately under the propodeal tooth of the margin sometimes slightly concave. Ventral margin of petiole in lateral view with longitudinal spongiform tissue. With petiole in lateral view, anteriormost point of lateral spongiform lobe nearly reaching level of anterior face of node.</tax:p>
+                <tax:p>Dorsal and lateral surfaces of pronotum entirely reticulate-punctate, sometimes with a small patch above the fore coxa. Metapleuron and side of propodeum entirely smooth. Limbus distinct. Abdominal tergite IV longitudinally sculptured at the basal portion, but not entirely covered.</tax:p>
+                <tax:p>With head in full-face view, a pair of long, curved distally plumose filiform hairs, rarely not serrate, present on apicoscrobe; hairs posterior to the apicoscrobal hairs with shorter barbs, laterally projecting filiform hairs; anterior to the apicoscrobal hairs without laterally projecting hair. With head in lateral view, dorsal surface from level of eye to preoccipital margin with erect to reclinate ground-pilosity; hair on vertex margin distinctly differentiated from that on level of eye; from highest point of vertex to preoccipital margin with the anteriorly directed ground-pilosity, which is very feebly curved basally so that each hair is elevated and inclined upward away from the cephalic outline. A pair of hairs present on the pronotal humeri and mesonotum; those on the humeri usually flagellate; those on the mesonotum usually short filiform hairs but sometimes long curved. Dorsum of hind femur without short erect hairs, but with two or three (usually two) long erect flagellate hairs. Dorsal surface of hind basitarsus with one freely projecting flagellate hair. The whole of the dorsal surface of abdominal tergite IV with flagellate hairs. Basal portion of abdominal sternite IV covered with matted hair-like tissue.</tax:p>
+                <tax:p>Body almost unicolorous, reddish brown to yellowish brown.</tax:p>
+                <tax:p>
+Queen (Figs 23 - 28, 43). HL 0.63 - 0.70, HW 0.45 - 0.52 CI 71.5 - 80.0, ML 0.29 - 0.33, MI 44.8 - 49.2, SL 0.33 - 0.38, SI 67.9 - 76.2, DlO 0 - 0.02, DlOI 0 - 4.94, EL 0.08 - 0.11, EI 16.6 - 21.6, HD 0.30 - 0.32, PrH 0.18 - 0.22, MsW 0.26 - 0.31, MsWI 50.4 - 60.6, MsH 0.07 - 0.13, MsHI 14.2 - 27.0, DSA 3 L 0.12 - 0.15, DSA 
+3 W
+0.19 - 0.24, DSA 3 I 146.9 - 188.7 (10 measured).
+</tax:p>
+                <tax:p>
+Generally similar to the worker with the usual caste differences. Head thinner than that of queen of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Strumigenys</dc:Genus>
+                            <dc:Species>kumadori</dc:Species>
+                        </tax:xmldata>S. kumadori</tax:name>
+in lateral view. With head in full-face view, the ocelli weakly developed situated at posterior 1 / 4 of the head with brown pigment around them, but ocelli often vestigial and visible only with the pigments. Eye relatively small. A distinct, long spiniform preapical tooth present close to apical teeth. Apical teeth consisting of two spiniform teeth and three, rarely two, small intercalary teeth: basal one of the two spiniform teeth longer than another apical one: basal one of the three (or two) intercalary teeth distinctly smaller than the apical two (or the apical one). With mesosoma in lateral view, the highest point of the mesoscutum situated anterior to extension line of the mesopleural wing process in most cases; mesopleural gland orifice distinct but its maximum width not reaching maximum width of the procoxa; the pits on the mesepisternum invisible. Metanotum in lateral view slightly convex posteriorly. Propodeal spine developed and weakly sclerotized, and under which the lobe of spongiform tissue distinctly developed. With the spongiform tissue on propodeal declivity in lateral view, its posterior margin weakly concave under the propodeal spine. With mesoscutum in dorsal view, its anterior margin relatively sharp, both lateral margins strongly constricted at posterior 1 / 3, lateral corners by the constriction strongly angular. Transverse furrow on the mesoscutum nearly straight. Mesoscutum narrow (MsWI less than 63), its width not reaching 3 / 4 of the head width in frontal view. With petiole in lateral view, the lobe of spongiform tissue strongly developed.
+</tax:p>
+                <tax:p>Both of the fore and hind wings distinctly reduced in width at distal 1 / 2. Only costal (C) and radial (R 1) veins and r-rs cross vein clearly present on fore wing. Vestiges of the radial sector (Rs), M + Cu, and cubital (Cu) veins sometimes visible as pigmented lines but not sclerotized. On the hind wing, radial (R) vein present, reaching to costal margin and extended distally; jugal lobe absent.</tax:p>
+                <tax:p>Head, pronotum, mesonotum, and metanotum entirely reticulate-punctate. Central part of mesepisternum and most part of propodeum ventral to propodeal spiracle not punctate and smooth. Dorsal margin of petiole reticulate-punctate. Dorsal surface of postpetiole not punctate and smooth. Limbus present on abdominal tergite IV. Abdominal tergite IV longitudinally sculptured at the basal portion, but sculptures not extended to posterior half of the tergite.</tax:p>
+                <tax:p>Hairs on the pronotal humeri long and flagellate. Mesonotal dorsum with erect, straight or flagellate hairs. Dorsum of hind femur without short erect hairs, but with 2 or 3 (usually 2) long erect flagellate hairs. Dorsal surface of abdominal tergite IV with long filiform hairs. Hair-like tissue on the basal portion of abdominal sternite IV developed. Fore and hind wings densely hairy.</tax:p>
+                <tax:p>Body almost unicolorous, reddish brown to yellowish brown.</tax:p>
+                <tax:p>Male (Figs 35 - 40, 44, 49 - 52). HL 0.44 - 0.46, HW 0.43 - 0.46, CI 95.9 - 101.3, SL 0.09 - 0.11, SI 20.8 - 23.0, DlO 0.05 - 0.06, EL 0.18 - 0.19, HD 0.36 - 0.37, PrH 0.21 - 0.22, MsW 0.40, MsWI 91.5 - 94.0, MsH 0.16 - 0.17, MsHI 35.1 - 38.7 (3 measured).</tax:p>
+                <tax:p>
+With head in full-face view, portion of posterior to the eyes subglobose; anterior to the eyes distinctly narrowed anteriorly. Ocelli distinct; the median ocellus situated about posterior 1 / 4 of the head length, the lateral ocelli not reaching to the posterior border of the head. Eyes distinctly developed and prominent, occupying central 1 / 3 of lateral margin of the head in full-face view. Eye in lateral view broadened ventrally, and its outer margin expanded anteroventrally and flattened posteriorly. Anterior tentorial pits unclear. Anterior margin of the clypeus in full-face view slightly convex, but nearly straight. Frontal carinae undeveloped and antennal insertions exposed. Antennae long and filiform, consisting 13 segments. Scape short and broad. Pedicel short and broadened apically. With mandible in full-face view, its apical portion gradually curved and narrowed; the basal lamella distinctly recognized and strongly projected; apical to the lamella edentate. Mandible in lateral view subtriangular, but broader than that of 
+<tax:name>
+                        <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                        <tax:xmldata>
+                            <dc:Genus>Strumigenys</dc:Genus>
+                            <dc:Species>kumadori</dc:Species>
+                        </tax:xmldata>S. kumadori</tax:name>
+. With labrum in full-face view; its apical portion distinctly extended laterally; the distal lobes entirely reduced, and apical margin of the labrum concave toward the midpoint. Palp formula 1, 1 (1 observed on SEM). Mesosoma in lateral view shorter and higher than that of the queen. Mesoscutum distinctly developed and strongly raised dorsally in lateral view. Mesoscutellum developed and slightly extended posteriorly. With the mesonotum in dorsal view, the median notal suture weakly impressed but mostly invisible; the notauli weakly impressed; the parapsidal furrows impressed and continued to the distinct transscutal suture; anterior margin of the scuto-scutellar suture distinctly sculptured longitudinally, but weak on the lateral portion, so that the division of the axillae often indistinct. Metanotum in lateral view slightly extended posteriorly. With the propodeum in lateral view, a distinct spiracle situated at the midheight; the posterior margin with distinct corner, but the spine or dent reduced; the lamella absent ventral to the propodeal corner, even if its ventral portion with a carina along the propodeal declivity. With the petiole in lateral view, the node more gently raised than that of worker and queen; the lateral spongiform lobe entirely reduced; the longitudinal spongiform tissue feebly present. Ventral margin of abdominal sternite III without a distinct process except for its extreme anterior part. Abdominal segment IV in lateral view thicker than that of worker and queen, the ventral expansion more gentle.
+</tax:p>
+                <tax:p>With genitalia in ventral view, the basal ring broader than long; lateral margins of the parameral plate weakly concave; the cuspis of volsella distinctly shorter than the digitus. With genitalia in lateral view, an anteriorly directing process, such as the barb, present at apical 1 / 4 of its ventral margin; the digitus of volsella abruptly curved ventrally and broadened at the corner.</tax:p>
+                <tax:p>Only costal (C) and radial (R 1) veins and r-rs cross vain clearly present on fore wing. Vestiges of the radial sector (Rs), M + Cu, and cubital (Cu) veins sometimes visible as pigmented lines but not sclerotized. On the hind wing, radial (R) vein present, reaching costal margin and extended distally; jugal lobe absent.</tax:p>
+                <tax:p>Head, pronotum, mesonotum, and metanotum entirely reticulate-punctate. Central part of mesepisternum and most part of propodeum ventral to propodeal spiracle not punctate and smooth. Dorsal margin of petiole reticulate-punctate. Dorsal surface of postpetiole not punctate and smooth. Limbus absent.</tax:p>
+                <tax:p>Two pairs of standing filiform hairs present on vertex. With head in lateral view, long and frontally projecting hairs absent anterior to median ocellus. Mesonotum with long, erect, and filiform to flagellar hairs present. Dorsal surface of the petiole, abdominal tergite III and IV with sparse filiform hairs.</tax:p>
+                <tax:p>Body almost unicolorous, blackish brown to reddish brown, legs same or lighter.</tax:p>
+            </tax:div>
+            <tax:div type="distribution">
+                <tax:p>Distribution. Japan: Honshu, Shikoku, Kyushu, Tsushima I., Yaku I., Amami Is, Okinawa I., Ishigaki I., Iriomote I.; Korea; China; Taiwan.</tax:p>
+            </tax:div>
+        </tax:treatment>
+        <tax:p>DISCUSSION</tax:p>
+        <tax:p>
+Taxonomic status of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>kumadori</dc:Species>
+                </tax:xmldata>Strumigenys kumadori</tax:name>sp. nov.
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+, and S. sp. 9
+</tax:p>
+        <tax:p>
+In the present study, we confirmed that 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2458" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                </tax:xmldata>Strumigenys</tax:name>
+sp. 9 is within 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+which has polymorphic queens, and that 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>kumadori</dc:Species>
+                </tax:xmldata>S. kumadori</tax:name>
+has morphological differences distinct from 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+.
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2458" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                </tax:xmldata>Strumigenys</tax:name>
+sp. 9 is an intraspecific variation of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+, the queens of the former having larger lateral ocelli and higher mesoscutum. In the previous studies, S. sp. 9 was distinguished from 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+by the thicker mesoscutum in the queen (Onoyama, 1976; Terayama, 1999; JADG, 2003 a, 2003 b, 2003 c), and from 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>kumadori</dc:Species>
+                </tax:xmldata>S. kumadori</tax:name>
+by the smaller and indistinct lateral ocelli in the queen. In our examination, however, S. sp. 9 was inseparable from 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+by height (Fig. 53) and width (Fig. 54) of the mesoscutum, and diameters of the ocelli (Fig. 55) and eyes (Fig. 56) in the queens, though clearly separable from 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>kumadori</dc:Species>
+                </tax:xmldata>S. kumadori</tax:name>
+by three of those characters (Figs 54 - 56). Large variation in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+(see below) probably had made the extension of this taxon confusing.
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>kumadori</dc:Species>
+                </tax:xmldata>Strumigenys kumadori</tax:name>
+is distinguished from 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+by the following characters: 1) in the workers, all of two paired hairs on the apicoscrobe and anterior portion of the mesonotum are long and distinctly flagellate in the former (Figs 5, 6), but both of the hairs are plumose-filiform or filiform in the latter (Figs 12,13), 2) the eyes of the queens are relatively large in the former, but relatively small in the latter (Fig. 56), 3) the lateral ocelli of queens are distinctly large (Figs 20, 55) with pigmented outer margins in the former, but relatively small (Figs 26, 55) or vestigial and not distinctly bordered with pigment around them in the latter, 4) the mesoscutum of queen in dorsal view is wide (MsWI&gt; 63) and weakly constricted at posterior 1 / 3, and lateral corners by the constriction are not angular in the former, but narrow (MsWI &lt;63) and strongly constricted, and the lateral corners are angular in the latter, 5) the transverse furrow on mesoscutum of queen is curved posteriorly in the former (Fig. 19), but nearly straight in the latter (Fig. 25), 6) fore wings of queen are relatively broad in the former (Fig. 41), but are reduced and narrow in the latter (Fig. 43), 7) the radial vein on the hind wing does not reach the costal margin in the former (Figs 41, 42), but does so in the latter (Figs 43, 44), 8) the mandible of male is relatively narrow in the former (Figs 30, 32), but is relatively wide in the latter (Figs 36, 38), 9) on the male genitalia in lateral view, volsella is gently curved and the corner is not broadened in the former (Fig. 46), but is abruptly curved and the corner is distinctly broadened in the latter (Fig. 50).
+</tax:p>
+        <tax:p>
+In addition, there are not only morphological, but also geographical and ecological bases for separating 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>kumadori</dc:Species>
+                </tax:xmldata>S. kumadori</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+. The distribution areas and sites of the two species overlap in Honshu, Kyushu, and Korea (JADG, 2003 a, 2003 b, 2003 c; Terayama, 1999), though we could not examine specimens collected in Korea. We additionally confirm the presence of both species in Taiwan. Nest habitats of the two species are the same or very similar (Masuko et al., 1985), and we actually confirmed that both species were collected from a single leaf litter sample taken from a quadrat of 0.5 m x 0.5 m. Therefore, these two have completely sympatric distribution.
+</tax:p>
+        <tax:p>
+Our collection data of the colonies suggest that polygyny is common in all sizes of colonies in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+, while polygyny occurs in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>kumadori</dc:Species>
+                </tax:xmldata>S. kumadori</tax:name>
+only in large colonies with more than 37 workers. Masuko et al. (1985) reported that 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>kumadori</dc:Species>
+                </tax:xmldata>S. kumadori</tax:name>
+is predominantly monogynous, while 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+is predominantly polygynous and further reported (1999) that 17 % of 96 colonies of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>kumadori</dc:Species>
+                </tax:xmldata>S. kumadori</tax:name>
+contained two or more queens regardless of the number of workers, and demonstrated that even in polygynous colonies a single individual in each colony was fertile (i. e., functional monogyny).
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>Strumigenys lewisi</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>kumadori</dc:Species>
+                </tax:xmldata>S. kumadori</tax:name>
+are very similar in worker characters so that they were regarded as sibling species. Characters used by Bolton (2000) in his notes under the description of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36610" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>godeffroyi</dc:Species>
+                </tax:xmldata>S. godeffroyi</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:156628" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>geminata</dc:Species>
+                </tax:xmldata>S. geminata</tax:name>
+also separate those two species from the other twelve species of godeffroyi-complex (in Bolton, 2000). Both 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>kumadori</dc:Species>
+                </tax:xmldata>S. kumadori</tax:name>
+can be separated from the most similar species, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:156628" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>geminata</dc:Species>
+                </tax:xmldata>S. geminata</tax:name>
+, by having a more feeble propodeal spine and the lateral surface of pronotum completely reticulate-punctate or at most with a small smooth patch above the fore coxa.
+</tax:p>
+        <tax:p>
+Latitudinal variations of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+        </tax:p>
+        <tax:p>Two morphological indices, DlOI and MsHI, showed negative tendencies with latitudinal gradient (Fig. 57). The relationship between DlOI and latitude (r = - 0.614, n = 34, P &lt;0.0001) was significant, although that between MsHI and latitude was not significant (r = - 0.314, n = 34, P = 0.071).</tax:p>
+        <tax:p>
+Reduction of the mesoscutum, ocelli, and wings suggest that the ability to fly is degenerated. The degeneration in the queens gives us two hypotheses for 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+; 1) a range of the dispersion in northern population is smaller than that in southern population, 2) the northern population has dispersed their genes relying on the flying ability of the males.
+</tax:p>
+        <tax:p>Morphological notes</tax:p>
+        <tax:p>
+We found that both 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>kumadori</dc:Species>
+                </tax:xmldata>S. kumadori</tax:name>
+have three intercalary teeth which consist of apical two small teeth and a basal, smaller denticle. Description of that state was not found in previous studies.
+</tax:p>
+        <tax:p>
+In Bolton ’ s (1999, 2000) diagnosis for the genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2458" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                </tax:xmldata>Strumigenys</tax:name>
+, the numbers of intercalary teeth is one or two. He also mentioned in his notes for comparing between the godeffroyi-group and mayri-group that two is the usual number in the godeffroyi-group (Bolton, 2000). Some species having three intercalary teeth are recorded in other species group in Bolton (2000), i. e. horvathi-group and koningsbergeri-group, but neither diagnosis of the group agreed with characters of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>kumadori</dc:Species>
+                </tax:xmldata>S. kumadori</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+. The number of the intercalary teeth is an important character to separate species group, therefore further study will be needed.
+</tax:p>
+        <tax:p>
+In addition, the usual state of hairs on apicoscrobe and mesonotum in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+did not agree with those of godeffroyi-complex in subgroup A of the godeffroyi-group, although the complexes were practically subdivided by Bolton (2000) to assist identification. Workers in the godeffroyi-complex have flagellate hairs on both the apicoscrobe and mesonotum, but this state was found in only 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>kumadori</dc:Species>
+                </tax:xmldata>S. kumadori</tax:name>
+. Both of the hairs are filiform in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+. Other character states of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+agree with godeffroyi-complex, and hence none of the species-complexes agree with the combination of the characters in 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+.
+</tax:p>
+        <tax:p>
+In the present study, the characters in the queen have most distinctly separated between the two species, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>kumadori</dc:Species>
+                </tax:xmldata>S. kumadori</tax:name>
+and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+. The eyes, ocelli, mesonotum, and wings are useful characters to distinguish these two species. Morphologies of queens may provide useful taxonomic characters even in other species. While much developed, the male's mesosoma did not provide useful characters to separate the two species, while queen's one did. The reduced male mandible, however, provided useful distinguishing characters.
+</tax:p>
+        <tax:p>
+Fauna of the genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2458" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                </tax:xmldata>Strumigenys</tax:name>
+in Japan
+</tax:p>
+        <tax:p>
+Before the present study, 8 species and 2 undetermined species and a key to the 10 species were provided for Japanese 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2458" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                </tax:xmldata>Strumigenys</tax:name>
+(JADG 2003 c). Yoshimura &amp; Onoyama (2003) added a new record of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36610" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>godeffroyi</dc:Species>
+                </tax:xmldata>S. godeffroyi Mayr</tax:name>
+, 1866 from Ogasawara Is. to the faunal list.
+</tax:p>
+        <tax:p>
+In the present study, the taxonomic status of the two undetermined species was clarified and now the Japanese 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2458" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                </tax:xmldata>Strumigenys</tax:name>
+fauna includes 10 valid species as below. We also provide a new key to species of Japanese 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2458" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                </tax:xmldata>Strumigenys</tax:name>
+which is a revised version of the key in JADG (2003 c).
+</tax:p>
+        <tax:p>
+Species list of Japanese 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2458" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                </tax:xmldata>Strumigenys</tax:name>
+        </tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:146762" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>emmae</dc:Species>
+                </tax:xmldata>S. emmae (Emery)</tax:name>
+        </tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:156715" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>exilirhina</dc:Species>
+                </tax:xmldata>S. exilirhina Bolton</tax:name>
+        </tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36610" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>godeffroyi</dc:Species>
+                </tax:xmldata>S. godeffroyi Mayr</tax:name>
+        </tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>kumadori</dc:Species>
+                </tax:xmldata>S. kumadori</tax:name>sp. nov.
+(= S. sp. 4)
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:182926" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lacunosa</dc:Species>
+                </tax:xmldata>S. lacunosa</tax:name>
+Lin &amp; Wu
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi Cameron</tax:name>
+(= S. sp. 9)
+</tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36651" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>minutula</dc:Species>
+                </tax:xmldata>S. minutula Terayama &amp; Kubota</tax:name>
+        </tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36700" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>solifontis</dc:Species>
+                </tax:xmldata>S. solifontis Brown</tax:name>
+        </tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:156726" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>stenorhina</dc:Species>
+                </tax:xmldata>S. stenorhina Bolton</tax:name>
+        </tax:p>
+        <tax:p>
+            <tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:156631" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>strigatella</dc:Species>
+                </tax:xmldata>S. strigatella</tax:name>
+Bolton
+</tax:p>
+        <tax:p>
+Key to species of the genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2458" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                </tax:xmldata>Strumigenys</tax:name>
+in Japan
+</tax:p>
+        <tax:p>
+1 Antenna with 4 segments; head in full-face view abruptly narrowed anteriorly at anterior 2 / 3 .................................................................................................................................. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:146762" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>emmae</dc:Species>
+                </tax:xmldata>S. emmae</tax:name>
+        </tax:p>
+        <tax:p>-- Antennae with 6 segments; head in full-face view gently narrowed anteriorly ...................... 2</tax:p>
+        <tax:p>2 Preapical tooth on the mandible reduced and not spiniform .................................. S. lacunosa</tax:p>
+        <tax:p>-- Preapical tooth on the mandible distinctly developed and spiniform ...................................... 3</tax:p>
+        <tax:p>3 Lamella on propodeal declivity very narrow in lateral view; its maximum height below the spiracle less than half the length of a propodeal spine ............................................................ 4</tax:p>
+        <tax:p>-- Lamella on propodeal declivity very broadly developed in lateral view; its maximum height below the spiracle more than half the length of a propodeal spine ......................................... 5</tax:p>
+        <tax:p>
+4 Mandibles nearly straight and relatively long; ventral outline of head weakly arched in lateral view .................................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:156726" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>stenorhina</dc:Species>
+                </tax:xmldata>S. stenorhina</tax:name>
+        </tax:p>
+        <tax:p>
+-- Mandibles curved and relatively short; ventral outline of head more strongly arched in lateral view ...................................................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:156715" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>exilirhina</dc:Species>
+                </tax:xmldata>S. exilirhina</tax:name>
+        </tax:p>
+        <tax:p>
+5 Mandibles shorter than apical antennal segment, relatively strongly curved; spongiform lamellae below propodeal spines well-developed; a relatively small species ........ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36651" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>minutula</dc:Species>
+                </tax:xmldata>S. minutula</tax:name>
+        </tax:p>
+        <tax:p>-- Mandibles as long as or longer than apical antennal segment, relatively less-strongly curved; spongiform lamellae below propodeal spines well-developed or not unusually developed; larger species .......................................................................................................................... 6</tax:p>
+        <tax:p>6 Mesopleuron and sides of propodeum wholly finely punctate and opaque ........... S. strigatella</tax:p>
+        <tax:p>-- Mesopleuron and sides of propodeum largely impunctate and smooth ................................... 7</tax:p>
+        <tax:p>
+7 Mesosomal dorsum with dense decumbent hairs; lamella on propodeal declivity extended above propodeal spine ......................................................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36610" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>godeffroyi</dc:Species>
+                </tax:xmldata>S. godeffroyi</tax:name>
+        </tax:p>
+        <tax:p>-- Mesosomal dorsum with sparse or without decumbent hairs; lamella on propodeal declivity not extended above propodeal spine ....................................................................................... 8</tax:p>
+        <tax:p>
+8 Outer margins of infradental propodeal lamellae each abruptly narrowed immediately below propodeal spine; mandibles longer; a pair of hairs on pronotal humeri short and not flagellate; mesosoma in dorsal view narrower ........................................................................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36700" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>solifontis</dc:Species>
+                </tax:xmldata>S. solifontis</tax:name>
+        </tax:p>
+        <tax:p>-- Outer margins of infradental propodeal lamellae not abruptly narrowed below the spines; mandibles shorter; a pair of hairs on pronotal humeri long and flagellate; mesosoma in dorsal view wider .............................................................................................................................. 9</tax:p>
+        <tax:p>
+9 Pairs of hairs on apicoscrobe and anterior portion of the mesonotum long and flagellate; lateral ocelli of queen relatively large, bordered with black; eyes of queen relatively large, their maximum length distinctly exceeding the length of propodeal spine; mesoscutum of queen in dorsal view relatively wider (Fig. 19) .................................................... 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>kumadori</dc:Species>
+                </tax:xmldata>S. kumadori</tax:name>sp. nov.</tax:p>
+        <tax:p>
+-- Pairs of hairs on apicoscrobe and anterior portion of the mesonotum short and not flagellate; lateral ocelli of queen relatively small, often indistinct; eyes of queen relatively small, their maximum length close to that of propodeal spine; mesoscutum of queen in dorsal view relatively narrower (Fig. 26) ........................................................................................ 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+        </tax:p>
+        <tax:p>ACKNOWLEDGEMENTS</tax:p>
+        <tax:p>We would like to acknowledge Dr. Kazuo Ogata (Institute of Tropical Agriculture, Kyushu University) for his survey and help to loan a type and reference specimens in The Natural History Museum London and for his useful suggestions, Dr. Suzanne Ryder and Dr. George R. Else (The Natural History Museum, London) for the loan of a type and reference specimens, Dr. Keiichi Masuko (Senshu University), Dr. Katsusuke Yamauchi (Gifu University), and Mr. Yuzuru Kuboki (Kyushu University) for offering material, Dr. Nobuo Kitamura (Obihiro University for Agriculture and Veterinary Medicine) for his technical support for taking SEM photographs, Mr. Keiki Tominaga, Ms. Makiko Tominaga (Fukushima Prefecture) and Ms. Mariko Yoshimura (Fukuoka Prefecture) for their assistance in field surveys, and Ms. Takako Ikeda (Hokkaido University) for her kind help.</tax:p>
+        <tax:p>This study was partially supported by a Grant-in-Aid for Scientific Research (C) (No. 15510190 to K. Onoyama) from the Japan Society for the Promotion of Science.</tax:p>
+        <tax:p>LITERATURE CITED</tax:p>
+        <tax:p>
+Baroni Urbani, C. &amp; De Andrade, M. L. 1994. First description of fossil 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2280" source="HNS"/>Dacetini</tax:name>
+ants with a critical analysis of the current classification of the tribe. (Amber Collection Stuttgart: Hymenoptera, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+. VI: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2280" source="HNS"/>Dacetini</tax:name>
+.) Stuttgarter Beitraege zur Naturkunde Serie B (Geologie und Palaeontologie) 198: 1 - 65.
+</tax:p>
+        <tax:p>Bolton, B. 1994. Identification guide to the ant genera of the world. 222 pp. Harvard University Press, Cambridge, Massachusetts.</tax:p>
+        <tax:p>Bolton, B. 1995. A new general catalogue of the ants of the world. 504 pp. Harvard University Press, Cambridge, Massachusetts.</tax:p>
+        <tax:p>
+Bolton, B. 1999. Ant genera of the tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:146764" source="HNS"/>Dacetonini</tax:name>
+. Journal of Natural History 33: 1639 - 1689.
+</tax:p>
+        <tax:p>
+Bolton, B. 2000. The ant tribe 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2280" source="HNS"/>Dacetini</tax:name>
+. Memoirs of the American Entomological Institute 65: 1 - 1028.
+</tax:p>
+        <tax:p>
+Cameron, P. 1886. On a new species of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2458" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                </tax:xmldata>Strumigenys</tax:name>
+(
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>S. lewisi</tax:name>
+) from Japan. Proceedings of the Manchester Literary and Philosophical Society 25: 229 - 232.
+</tax:p>
+        <tax:p>Gauld, I. &amp; Bolton, B. 1988. The Hymenoptera. xii + 322 pp. Oxford.</tax:p>
+        <tax:p>Huber, J. T. &amp; Sharkey, M. J. 1993. Structure. Pp. 13 - 59 in: Goulet, H. &amp; Huber, T. J. (eds). Hymenoptera of the world: An identification guide to families. 668 pp. Research Branch Agriculture Canada Publication 1894 / E, Ottawa.</tax:p>
+        <tax:p>Japanese Ant Database Group (JADG). 2003 a. Ants of Japan. 224 pp. Gakken, Tokyo.</tax:p>
+        <tax:p>Japanese Ant Database Group (JADG). 2003 b. Super Visual Encyclopedia. Ants of Japan. 196 pp. Gakken, Tokyo (in Japanese).</tax:p>
+        <tax:p>Japanese Ant Database Group (JADG) 2003 c. Ant image database 2003. CD-ROM.</tax:p>
+        <tax:p>Idengaku-Fukyukai (The Association for Propagation of the Knowledge of Genetics), Mishima.</tax:p>
+        <tax:p>
+Masuko, K. 1984. Studies on the predatory biology of Oriental dacetine ants (Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+): I. Some Japanese species of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2458" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                </tax:xmldata>Strumigenys</tax:name>
+, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2454" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Pentastruma</dc:Genus>
+                </tax:xmldata>Pentastruma</tax:name>
+, and 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2445" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Epitritus</dc:Genus>
+                </tax:xmldata>Epitritus</tax:name>
+, and a Malaysian Labidogenys, with special reference to hunting tactics in short-mandibulate forms. Insect Sociaux 31: 429 - 451.
+</tax:p>
+        <tax:p>
+Masuko, K. 1999. The number of queens in colonies of 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2458" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                </tax:xmldata>Strumigenys</tax:name>
+sp. (kita-uroko-ari): the result of collection and dissection. Ari 23: 4 - 7 (in Japanese).
+</tax:p>
+        <tax:p>Masuko, K., Yamaoka, H., Kannari, T. &amp; Usuba, S. 1985. Ants of Mt. Kiyosumi (4). Kiyosumi 11: 9 - 12 (in Japanese).</tax:p>
+        <tax:p>
+Munakata, M. 1972. Records of a cicada, Melampsalta radiator, and an ant, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>lewisi</dc:Species>
+                </tax:xmldata>Strumigenys lewisi</tax:name>
+from Hokkaido. Kontyu, 40: 314 (in Japanese).
+</tax:p>
+        <tax:p>
+Ogata, K. 1991. A generic synopsis of the poneroid complex of the family 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+(Hymenoptera). Part II. Subfamily 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+. Bulletin of the Institute of Tropical Agriculture, Kyushu University 14: 61 - 149.
+</tax:p>
+        <tax:p>
+Onoyama, K. 1976. A preliminary study on the ant fauna of Okinawa-Ken, with taxonomic notes (Japan; Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). Pp. 121 - 141 in: Ikehara, S. (ed). Ecological studies of nature conservation of the Ryukyu Islands - (II). 141 pp. Naha, Okinawa.
+</tax:p>
+        <tax:p>
+Onoyama, K., Ogata, K. &amp; Terayama, M. 1992. Genus 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2458" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                </tax:xmldata>Strumigenys</tax:name>
+. Pp. 63 - 66 in: The Myrmecological Society of Japan Editorial Committee (ed.). A guide for the identification of Japanese ants. III. 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2258" source="HNS"/>Myrmicinae</tax:name>
+and supplement to 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2255" source="HNS"/>Leptanillinae</tax:name>
+. (Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+). 94 pp. The Myrmecological Society of Japan, Tokyo (in Japanese).
+</tax:p>
+        <tax:p>Sonobe, R. 1977. Ant fauna of Miyagi Prefecture, Japan. Japanese Journal of Ecology 27: 111 - 116.</tax:p>
+        <tax:p>
+Terayama, M. 1999. Family 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+. Pp. 133 - 317 in: Yamane, S., Ikudome, S. &amp; Terayama, M. (eds). Identification guide to the Aculeata of the Nansei Islands, Japan. 831 pp. Hokkaido University Press, Sapporo.
+</tax:p>
+        <tax:p>
+Yoshimura, M. &amp; Onoyama, K. 2003. A new record of a dacetine ant, 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36610" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Genus>Strumigenys</dc:Genus>
+                    <dc:Species>godeffroyi</dc:Species>
+                </tax:xmldata>Strumigenys godeffroyi Mayr</tax:name>
+, 1866 (Hymenoptera: 
+<tax:name>
+                <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:152" source="HNS"/>
+                <tax:xmldata>
+                    <dc:Family>Formicidae</dc:Family>
+                </tax:xmldata>Formicidae</tax:name>
+) from Japan. Edaphologia 71: 9 - 10.
+</tax:p>
+        <tax:figure>
+            <tax:p>
+Figures 1 - 2 Illustration of measurements for 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:2458" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                    </tax:xmldata>Strumigenys</tax:name>
+, (1) head of worker in full-face view, (2) mesosoma of queen in lateral view.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 3 - 9 Worker of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>kumadori</dc:Species>
+                    </tax:xmldata>Strumigenys kumadori</tax:name>sp. nov.
+, (3) head and body in lateral view, (4), head in full-face view, (5) mesosoma in lateral view, (6) apicoscrobal hair, (7) abdominal segments I to IV in lateral view, (8) mandible in oblique ventral view, (9) pronotum in dorsal view.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 10 - 16 Worker of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>lewisi</dc:Species>
+                    </tax:xmldata>Strumigenys lewisi</tax:name>
+, (10) head and body in lateral view, (11) head in full face view, (12) mesosoma in lateral view, (13) apicoscobal hair, (14) abdominal segments I to IV in lateral view, (15), pronotum in oblique dorsal view, (16) mandible in oblique ventral view.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 17 - 22 Queen of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>kumadori</dc:Species>
+                    </tax:xmldata>Strumigenys kumadori</tax:name>sp. nov.
+, (17) head and body in lateral view, (18), head in full-face view, (19) mesosoma in dorsal view, (20) ocellar area in frontal view, (21) mandible in oblique ventral view, (22) abdominal segments I to IV in lateral view.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 23 - 28 Queen of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>lewisi</dc:Species>
+                    </tax:xmldata>Strumigenys lewisi</tax:name>
+, (23) head and body in lateral view, (24) head in full-face view, (25) mesosoma in dorsal view, (26) ocellar area in frontal view, (27) mandible in oblique ventral view, (28) abdominal segments I to IV in lateral view.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 29 - 34 Male of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>kumadori</dc:Species>
+                    </tax:xmldata>Strumigenys kumadori</tax:name>sp. nov.
+, (29) head and body in lateral view, (30) head in full-face view, (31) mesosoma in lateral view, (32) head in lateral view, (33) mesosoma in dorsal view, (34) abdominal segments I to IV in lateral view.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 35 - 40 Male of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>lewisi</dc:Species>
+                    </tax:xmldata>Strumigenys lewisi</tax:name>
+, (35) head and body in lateral view, (36) head in full-face view, 37) mesosoma in lateral view, (38) head in lateral view, (39) mesosoma in dorsal view, (40) abdominal segments I to IV in lateral view.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 41 - 44 Wings of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>kumadori</dc:Species>
+                    </tax:xmldata>S. kumadori</tax:name>sp. nov.
+and 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>lewisi</dc:Species>
+                    </tax:xmldata>S. lewisi</tax:name>
+, (41) queen, (42) male of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>kumadori</dc:Species>
+                    </tax:xmldata>S. kumadori</tax:name>sp. nov.
+, (43) queen, (44) male of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>lewisi</dc:Species>
+                    </tax:xmldata>S. lewisi</tax:name>
+.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figures 45 - 52 Male genitalia of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>kumadori</dc:Species>
+                    </tax:xmldata>S. kumadori</tax:name>sp. nov.
+and 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>lewisi</dc:Species>
+                    </tax:xmldata>S. lewisi</tax:name>
+, genitalia of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>kumadori</dc:Species>
+                    </tax:xmldata>S. kumadori</tax:name>sp. nov.
+in (45) ventral, (46) lateral, (47) dorsal view, (48) subgenital plate of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>kumadori</dc:Species>
+                    </tax:xmldata>S. kumadori</tax:name>sp. nov.
+, genitalia of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>lewisi</dc:Species>
+                    </tax:xmldata>S. lewisi</tax:name>
+in (49) ventral, (50) lateral, (51) dorsal view, (52) subgenital plate of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>lewisi</dc:Species>
+                    </tax:xmldata>S. lewisi</tax:name>
+.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figure 53 Relationship between head width (HW) and mesoscutum height (MsH) among 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>kumadori</dc:Species>
+                    </tax:xmldata>Strumigenys kumadori</tax:name>sp. nov.
+, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>lewisi</dc:Species>
+                    </tax:xmldata>S. lewisi</tax:name>
+and S. sp. 9 in queens. MsH of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>kumadori</dc:Species>
+                    </tax:xmldata>S. kumadori</tax:name>
+is relatively higher than those of the latter two, but the index does not separate the species.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figure 54 Relationship between head width (HW) and mesoscutum width (MsW) among 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>kumadori</dc:Species>
+                    </tax:xmldata>Strumigenys kumadori</tax:name>sp. nov.
+, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>lewisi</dc:Species>
+                    </tax:xmldata>S. lewisi</tax:name>
+and S. sp. 9 in queens. MsW of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>kumadori</dc:Species>
+                    </tax:xmldata>S. kumadori</tax:name>
+is distinctly wider than those of the latter two. The index does not distinguish between 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>lewisi</dc:Species>
+                    </tax:xmldata>S. lewisi</tax:name>
+and S. sp. 9.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figure 55 Relationship between head width (HW) and diameter of lateral ocelli (DlO) among 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>kumadori</dc:Species>
+                    </tax:xmldata>Strumigenys kumadori</tax:name>sp. nov.
+, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>lewisi</dc:Species>
+                    </tax:xmldata>S. lewisi</tax:name>
+and S. sp. 9 in queens. The lateral ocelli of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>kumadori</dc:Species>
+                    </tax:xmldata>S. kumadori</tax:name>
+is distinctly larger than those of the latter two. The index is inseparable between 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>lewisi</dc:Species>
+                    </tax:xmldata>S. lewisi</tax:name>
+and S. sp. 9.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figure 56 Relationship between head width (HW) and eye length (EL) among 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>kumadori</dc:Species>
+                    </tax:xmldata>Strumigenys kumadori</tax:name>sp. nov.
+, 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>lewisi</dc:Species>
+                    </tax:xmldata>S. lewisi</tax:name>
+and S. sp. 9 in queens. The eye of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:237928" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>kumadori</dc:Species>
+                    </tax:xmldata>S. kumadori</tax:name>
+is distinctly larger than those of the latter two. The index is inseparable between 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>lewisi</dc:Species>
+                    </tax:xmldata>S. lewisi</tax:name>
+and S. sp. 9.
+</tax:p>
+        </tax:figure>
+        <tax:figure>
+            <tax:p>
+Figure 57 Latitudinal variation of two indices, diameter of lateral ocelli (DlOI) and Mesoscutum height (MsHI), in queen of 
+<tax:name>
+                    <tax:xid identifier="urn:lsid:biosci.ohio-state.edu:osuc_concepts:36635" source="HNS"/>
+                    <tax:xmldata>
+                        <dc:Genus>Strumigenys</dc:Genus>
+                        <dc:Species>lewisi</dc:Species>
+                    </tax:xmldata>Strumigenys lewisi</tax:name>
+. Both of the indices are standardized to 0 - 1, and are shown as DlOI (S) and MsHI (S). Both of the indices showed negative correlation with latitude, and that of DlOI is significant (r = - 0.614, n = 34, P &lt;0.0001).
+      </tax:p>
+        </tax:figure>
+    </tax:taxonxBody>
+</tax:taxonx>
