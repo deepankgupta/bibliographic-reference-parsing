@@ -15,3 +15,8 @@ C:\Repo\Parser\bin\Release\Parser.pdb
 C:\Repo\Parser\obj\Release\Parser.pdb
 C:\Repo\Parser\obj\Release\Parser.InputForm.resources
 C:\Repo\Parser\obj\Release\Parser.csproj.GenerateResource.Cache
+C:\Repo\Parser\bin\Release\Parser.exe.manifest
+C:\Repo\Parser\bin\Release\Parser.application
+C:\Repo\Parser\obj\Release\Parser.TrustInfo.xml
+C:\Repo\Parser\obj\Release\Parser.exe.manifest
+C:\Repo\Parser\obj\Release\Parser.application

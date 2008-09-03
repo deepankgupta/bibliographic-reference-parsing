@@ -1,4 +1,20 @@
-﻿#region Using
+﻿//    This file is part of bibliographic-reference-parsing. 
+//    Bibliographic-Reference-Parsing is free software; you can redistribute it
+//    and/or modify it under the terms of the GNU General Public License as 
+//    published by the Free Software Foundation; either version 3 of the License,
+//    or (at your option) any later version.
+
+//    Bibliographic-Reference-Parsing is distributed in the hope that it will be 
+//    useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
+//    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+//    GNU General Public License for more details.
+
+//    You should have received a copy of the GNU General Public License
+//    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+//    Author : Deepank Gupta  (deepankgupta AT gmail DOT com)
+//    Date   : 18/08/08
+
+#region Using
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -97,6 +113,7 @@ namespace Parser
         {
             ArrayList strList = new ArrayList();
             ArrayList intList = new ArrayList();
+            ArrayList int2List = new ArrayList();
             if (!File.Exists(Common.inputFilePath))
                 return;
             while (reader.Read())
@@ -116,18 +133,23 @@ namespace Parser
                             }
                         } while (reader.Name == String.Empty);
                     } while (reader.Name != "tax:p");
+                    int2List.Add(reader.LineNumber);
                     strList.Add(b.ToString());
                 }
             }
             reader.Close();
-            ArrayList offsetArray = new ArrayList();
-            foreach (int index in intList)
+            ArrayList startOffsetArray = new ArrayList();
+            ArrayList endOffsetArray = new ArrayList();
+            for( int i = 0; i<intList.Count; i++)
             {
-                long offset = FindIndexOfLine(index);
-                offsetArray.Add(offset);
+                long offset = FindIndexOfLine((int)intList[i]);
+                long endOffset = FindIndexOfLine((int)int2List[i]);
+                startOffsetArray.Add(offset);
+                endOffsetArray.Add(endOffset);
             }            
             Common.paragraphs = strList.ToArray(typeof(string)) as string[];
-            Common.offsetParagraphs = offsetArray.ToArray(typeof(long)) as long[];
+            Common.startOffsetParagraphs = startOffsetArray.ToArray(typeof(long)) as long[];
+            Common.endOffsetParagraphs = endOffsetArray.ToArray(typeof(long)) as long[];
         }
 
         private long FindIndexOfLine(int index)
@@ -373,7 +395,8 @@ namespace Parser
         {
             Init();
             ArrayList referenceList = new ArrayList();
-            ArrayList referenceOffsetList = new ArrayList();
+            ArrayList referenceStartOffsetList = new ArrayList();
+            ArrayList referenceEndOffsetList = new ArrayList();
             int i = 0;
             foreach (string paragraph in Common.paragraphs)
             {
@@ -381,14 +404,16 @@ namespace Parser
                 if (PredictPotentialReference(i))
                 {
                     referenceList.Add(CleanUpReference(paragraph));
-                    referenceOffsetList.Add(Common.offsetParagraphs[i]);
+                    referenceStartOffsetList.Add(Common.startOffsetParagraphs[i]);
+                    referenceEndOffsetList.Add(Common.endOffsetParagraphs[i]);
                     //Delete it from paragraph list
                     Common.paragraphs[i] = "";
                 }
                 i = i + 1;
             }
             references = referenceList.ToArray(typeof(string)) as string[];
-            Common.referenceOffsets = referenceOffsetList.ToArray(typeof(long)) as long[];
+            Common.referenceStartOffsets = referenceStartOffsetList.ToArray(typeof(long)) as long[];
+            Common.referenceEndOffsets = referenceEndOffsetList.ToArray(typeof(long)) as long[];
             StoreReferences();
             Exit();
         }
