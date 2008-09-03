@@ -1,4 +1,21 @@
-﻿using System;
+﻿//    This file is part of bibliographic-reference-parsing. 
+//    Bibliographic-Reference-Parsing is free software; you can redistribute it
+//    and/or modify it under the terms of the GNU General Public License as 
+//    published by the Free Software Foundation; either version 3 of the License,
+//    or (at your option) any later version.
+
+//    Bibliographic-Reference-Parsing is distributed in the hope that it will be 
+//    useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
+//    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+//    GNU General Public License for more details.
+
+//    You should have received a copy of the GNU General Public License
+//    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+//    
+//    Author : Deepank Gupta  (deepankgupta AT gmail DOT com)
+//    Date   : 18/08/08
+
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,11 +25,11 @@ using System.Text.RegularExpressions;
 using System.Diagnostics;
 using System.Windows.Forms;
 
-//SOME TODOS
-//3. In case of Levi and Levi in Extract Citation, find a better way... 
-
 namespace Parser
 {
+    /// <summary>
+    /// This is the main class containing all the 4 stages of the program. 
+    /// </summary>
     class Program
     {
         #region Variables
@@ -20,55 +37,64 @@ namespace Parser
         /// It is used to store the publications string array from the publication text file. 
         /// </summary>
         static string[] publicationData;
+        /// <summary>
+        /// This is used to store the references array extracted from reference.txt file. 
+        /// </summary>
         static Reference[] references;
+        /// <summary>
+        /// Pointer to file : reference.xml
+        /// </summary>
         static XmlCreator referenceXml;
+        /// <summary>
+        /// Pointer to file : statistics.xml
+        /// </summary>
         static XmlCreator statisticsXml;
+        /// <summary>
+        /// Pointer to file : citation.xml
+        /// </summary>
         static XmlCreator citationXml;
+        /// <summary>
+        /// Instance of the GUI Class. 
+        /// </summary>
+        static InputForm form;
+        /// <summary>
+        /// This stream is used to read the reference.txt file. 
+        /// </summary>
+        static StreamReader referenceFileStream;
+
         #endregion
 
+        #region Stage1
         /// <summary>
-        /// To add escape characters in a string. 
+        /// This is the initialisation and Reference Block identification stage. 
         /// </summary>
-        /// <param name="s">Original String </param>
-        /// <returns>Output string.</returns>
-        private static string AddEscapeChars(string s)
+        internal static void Stage1()
         {
-            string news = "";
-            news = s.Replace(".", "\\.");
-            news = news.Replace("[", "\\[");
-            news = news.Replace("]", "\\]");
-            news = news.Replace("{", "\\{");
-            news = news.Replace("}", "\\}");
-            news = news.Replace("(", "\\(");
-            news = news.Replace(")", "\\)");
-            news = s.Replace("]", "\\]");
-            /*if (news != s)
-                Common.sw.WriteLine("Escape characters : " + news);            */
-            return news;
+            referenceXml = new XmlCreator("reference.xml", "References");
+            statisticsXml = new XmlCreator("statistics.xml", "Statistics");
+            citationXml = new XmlCreator("citations.xml", "Citations");
+            ReferenceExtractor refExt = new ReferenceExtractor(Common.inputFilePath, Common.referenceFilePath);
+            refExt.Main();
         }
+        #endregion
 
+        #region Stage2
+        #region GetPublicationData
         /// <summary>
-        /// Find punctuations which might be used as seperators in references. 
+        /// Store the publications from the Publication file into the string array. 
         /// </summary>
-        /// <param name="p">Paragraph string</param>
-        /// <param name="index">Index at which to start</param>
-        /// <returns>Int array of indexes with seperators</returns>
-        private static int[] FindSeperatorsInReference(string p, int index)
+        static private void GetPublicationData()
         {
+            StreamReader pubFile = new StreamReader(@"..\data\publications.txt");
             ArrayList arr = new ArrayList();
-            for (int i = index; i < p.Length; i++)
+            while (pubFile.Peek() != -1)
             {
-                for (int j = 1; j < Common.seperators.Length; j++)
-                {
-                    if (p[i] == Common.seperators[j])
-                    {
-                        arr.Add(i);
-                    }
-                }
+                arr.Add(pubFile.ReadLine());
             }
-            return arr.ToArray(typeof(int)) as int[];
+            publicationData = (string[])arr.ToArray(typeof(string));
         }
-        
+        #endregion
+
         #region FindYearAndAuthor
         /// <summary>
         /// This function is used to find year and author from a string reference
@@ -105,7 +131,7 @@ namespace Parser
                 year = Convert.ToInt32(q);
                 //Valid set of years is between 1800 and 2008
                 if (year < 1800 || year > 2008)
-                {                    
+                {
                     r.ReferenceText = r.ReferenceText.Substring(gc[1].Index + gc[1].Length);
                     flag = true;
                     year = 0;
@@ -117,7 +143,7 @@ namespace Parser
                     r.yearEnd = gc[1].Index + gc[1].Length;
                     //Common.sw.WriteLine(r.Authors);
                     //Common.sw.WriteLine("\nYEAR : " + year.ToString());
-                    Statistics.UpdateYearAuthor();                    
+                    Statistics.UpdateYearAuthor();
                 }
             }
             r.year = year;
@@ -132,6 +158,29 @@ namespace Parser
         #endregion
 
         #region FindSeperators
+        /// <summary>
+        /// Find punctuations which might be used as seperators in references. 
+        /// </summary>
+        /// <param name="p">Paragraph string</param>
+        /// <param name="index">Index at which to start</param>
+        /// <returns>Int array of indexes with seperators</returns>
+        private static int[] FindSeperatorsInReference(string p, int index)
+        {
+            ArrayList arr = new ArrayList();
+            for (int i = index; i < p.Length; i++)
+            {
+                for (int j = 1; j < Common.seperators.Length; j++)
+                {
+                    if (p[i] == Common.seperators[j])
+                    {
+                        arr.Add(i);
+                    }
+                }
+            }
+            return arr.ToArray(typeof(int)) as int[];
+        }
+
+
         /// <summary>
         /// This function finds the seperator character before the publication. 
         /// </summary>
@@ -198,7 +247,7 @@ namespace Parser
         /// <param name="r">The reference object is passed by reference as parameter. </param>
         static bool FindPublication(ref Reference r)
         {
-            if (r== null || r.ReferenceText == String.Empty)
+            if (r == null || r.ReferenceText == String.Empty)
                 return false;
             //empty pattern2
             string pattern2 = "";
@@ -303,8 +352,11 @@ namespace Parser
                         i = tempStr.IndexOf('.');
                         offset++;
                     }
-                    if (i < 5)
+                    if (i < 5 || tempStr[i - 2] == ' ')
                     {
+                        if (i >= 5)
+                        {
+                        }
                         tempStr = tempStr.Substring(i + 1);
                         offset = offset + i + 1;
                         i = tempStr.IndexOf('.');
@@ -350,6 +402,13 @@ namespace Parser
                 return false;
             }
         }
+
+        /// <summary>
+        /// This function is called upon by FindPublication in case it is unable
+        /// to find publication using Domain Knowledge and prediction means have
+        /// be applied in order to aid the publication matching. 
+        /// </summary>
+        /// <param name="parsedReference">Reference to the reference object. </param>
         private static void PredictPublication(ref Reference parsedReference)
         {
             int[] arrSeperators = FindSeperatorsInReference(parsedReference.ReferenceText, parsedReference.yearEnd);
@@ -366,7 +425,7 @@ namespace Parser
             {
                 //SPECIAL CASE : This means that there is no publication and only title and we will 
                 //make title as the previously predicted publication. 
-                parsedReference.InterchangeTitlePublication();         
+                parsedReference.InterchangeTitlePublication();
                 return;
             }
             else
@@ -390,7 +449,7 @@ namespace Parser
                         difference2 = temp;
                         seperatorEnd = position;
                     }
-                }                
+                }
             }
             Common.sw.WriteLine("Predicted Publication Start Value : " + seperatorStart);
             Common.sw.WriteLine("Predicted Publication End Value : " + seperatorEnd);
@@ -412,7 +471,7 @@ namespace Parser
                     i = tempStr.IndexOf('.');
                     offset++;
                 }
-                if (i < 5)
+                if (i < 5 || tempStr[i - 2] == ' ')
                 {
                     tempStr = tempStr.Substring(i);
                     offset += i;
@@ -476,7 +535,7 @@ namespace Parser
         private static void FindPageNumbers(ref Reference r)
         {
             if (r.ReferenceText == String.Empty || r.yearEnd == -1)
-                return;            
+                return;
             string input = r.ReferenceText.Substring(r.yearEnd);
             string pattern = @"\p{Nd}+-\p{Nd}+";
             Regex re = new Regex(pattern);
@@ -500,24 +559,24 @@ namespace Parser
             }
         }
         #endregion
-                
+
         #region ReferenceParser
         /// <summary>
         /// This function is used to parse a reference into Author, Year, Title, Publication fields. 
         /// </summary>
         /// <param name="reference">Reference String</param>
         /// <returns>True or false based on the success/failure of the process. </returns>
-        static Reference ParseReference(string reference, long offset)
+        static Reference ParseReference(string reference, int index)
         {
             //String used to store the author name. 
-            Reference r = new Reference(reference, offset);
+            Reference r = new Reference(reference, Common.referenceStartOffsets[index], Common.referenceEndOffsets[index]);
             r.ReferenceText = reference;
             if (!FindYearAndAuthor(ref r))
             {
                 //TODO:Maybe it is not a reference. Do something with this informaiton in the Reference
                 //identification block code. 
                 return null;
-            }                        
+            }
             FindPageNumbers(ref r);
             FindPublication(ref r);
             FindTitle(ref r);
@@ -526,23 +585,50 @@ namespace Parser
                 r.Display(referenceXml);
             }
             return r;
-        }        
+        }
         #endregion
         
         /// <summary>
-        /// Store the publications from the Publication file into the string array. 
+        /// This function governs the stage 2 where the references are parsed 
+        /// and stored in the references array.
         /// </summary>
-        static private void GetPublicationData()
+        internal static void Stage2()
         {
-            StreamReader pubFile = new StreamReader(@"..\data\publications.txt");
-            ArrayList arr = new ArrayList();
-            while (pubFile.Peek() != -1)
-            {
-                arr.Add(pubFile.ReadLine());
-            }
-            publicationData = (string[])arr.ToArray(typeof(string));
-        }
+            ArrayList referenceList = new ArrayList();
+            referenceFileStream = new StreamReader(Common.referenceFilePath,
+                Encoding.Unicode);
+            //It specifies whether we need to read the new string or not. 
+            //Takes in the current value of the reference from the file. 
+            string reference = "";
+            Reference parsedReference;
 
+            GetPublicationData();
+            int ind = 0;
+            //Main loop for reading the references. 
+            while (referenceFileStream.Peek() != -1)
+            {
+                reference = referenceFileStream.ReadLine();
+                Statistics.UpdateReference();
+                parsedReference = ParseReference(reference, ind);
+                if (parsedReference == null)
+                {
+                    Statistics.wronglyPredictedReference++;
+                    continue;
+                }
+                Statistics.UpdateStatistics(parsedReference);
+                if (!parsedReference.IsPredictionNeeded())
+                {
+                    parsedReference.toBePredicted = true;
+                }
+                referenceList.Add(parsedReference);
+                ind++;
+            }
+            references = referenceList.ToArray(typeof(Reference)) as Reference[];            
+        }
+#endregion
+
+        #region Stage3
+        #region CitationExtractor
         /// <summary>
         /// This function is used to find and extract a citation from the paragraph. 
         /// </summary>
@@ -567,12 +653,12 @@ namespace Parser
             {
                 if (stopword.Equals(strs[strs.Length - 1], StringComparison.CurrentCultureIgnoreCase))
                 {
-                    return yearEndIndex;   
+                    return yearEndIndex;
                 }
             }
             int i;
             //Check for Author. 
-            for (i = strs.Length-1; i > -1; i--)
+            for (i = strs.Length - 1; i > -1; i--)
             {
                 string stringToCheck = strs[i];
                 //Check for Genetive, if present remove it and check. 
@@ -598,7 +684,7 @@ namespace Parser
                             if (ch == tempChar)
                                 flag = true;
                         }
-                        if(flag)
+                        if (flag)
                             break;
                     }
                 }
@@ -617,51 +703,20 @@ namespace Parser
             citation.Paragraph = paragraph.Substring(0, yearEndIndex);
             citation.Offset = offset + yearEndIndex;
             citation.Display(citationXml);
-            Common.sw.WriteLine("Citation : " + citation.Name + " " + citation.Year.ToString());
+            //Common.sw.WriteLine("Citation : " + citation.Name + " " + citation.Year.ToString());
             return yearEndIndex;
         }
+        #endregion
 
         /// <summary>
-        /// Starting point for the program after getting information from the form. 
+        /// This stage deals with the extraction of citations from the 
+        /// rest of the document matching it with the references obtained 
+        /// from the document. 
         /// </summary>
-        internal static void Start()
+        internal static void Stage3()
         {
-            referenceXml = new XmlCreator("reference.xml", "References");
-            statisticsXml = new XmlCreator("statistics.xml", "Statistics");
-            citationXml = new XmlCreator("citations.xml", "Citations");
-            ArrayList referenceList = new ArrayList();
-            ReferenceExtractor refExt = new ReferenceExtractor(Common.inputFilePath, Common.referenceFilePath);
-            refExt.Main();
-            StreamReader fs = new StreamReader(Common.referenceFilePath, Encoding.Unicode);
-            //It specifies whether we need to read the new string or not. 
-            //Takes in the current value of the reference from the file. 
-            string reference = "";
-            Reference parsedReference;
-
-            GetPublicationData();
-            int ind = 0;
-            //Main loop for reading the references. 
-            while (fs.Peek() != -1)
+            for (int i = 0; i < references.Length; i++)
             {
-                reference = fs.ReadLine();
-                Statistics.UpdateReference();
-                parsedReference = ParseReference(reference, Common.offsetParagraphs[ind]);
-                if (parsedReference == null)
-                {
-                    Statistics.wronglyPredictedReference++;
-                    continue;
-                }
-                Statistics.UpdateStatistics(parsedReference);
-                if(!parsedReference.IsPredictionNeeded())
-                {
-                    parsedReference.toBePredicted = true;                    
-                }
-                referenceList.Add(parsedReference);
-                ind++;
-            }
-            references = referenceList.ToArray(typeof(Reference)) as Reference[];
-            for(int i = 0; i<references.Length;i++)
-            {               
                 if (references[i].toBePredicted)
                 {
                     //Use Statistics to predict publication and then title. 
@@ -688,16 +743,25 @@ namespace Parser
                         else
                         {
                             references[i].Display(referenceXml);
-                        }                            
+                        }
                     }
                 }
             }
-            fs.Close();
+            referenceFileStream.Close();
             Statistics.DisplayStatistics(statisticsXml);
+        }
+        #endregion
+
+        #region Stage4
+        /// <summary>
+        /// Starting point for the program after getting information from the form. 
+        /// </summary>
+        internal static void Stage4()
+        {
             for(int i = 0; i < Common.paragraphs.Length; i++)
             {
                 string subParagraph = Common.paragraphs[i];
-                long baseOffset = Common.offsetParagraphs[i];
+                long baseOffset = Common.startOffsetParagraphs[i];
                 int yearEndIndex = 0;
                 int incrOffset = 0;
                 do
@@ -713,7 +777,9 @@ namespace Parser
             p.StartInfo = pInfo;
             p.Start();*/
         }
+        #endregion
 
+        #region EntryPoint
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
@@ -721,8 +787,10 @@ namespace Parser
         static void Main()
         {
             Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);            
-            Application.Run(new InputForm());
+            Application.SetCompatibleTextRenderingDefault(false);
+            form = new InputForm();
+            Application.Run(form);
         }
+        #endregion
     }
 }

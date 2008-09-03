@@ -25,7 +25,6 @@ Acta Zootaxonomica Sinica
 Actes de la Societe Linneenne de Bordeaux
 Actes de la Societe Scientifique du Chili
 Actes des Colloques Insectes Sociaux
-Advances in ant systematics (Hymenoptera: Formicidae): Homage to E.O. Wilson - 50 years of contributions.
 Advances in myrmecology.
 African Entomology
 Agra University Journal of Research
@@ -6003,6 +6002,7 @@ Raleigh.
 Brisbane.
 Rhodesia.
 Bulawayo.
+Psyche
 Perth.
 Washington, D.C.
 Atlanta, Ga. : Georgia Geologic Survey.

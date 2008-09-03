@@ -27,3 +27,8 @@ C:\Repo\Parser\bin\Debug\Parser.exe
 C:\Repo\Parser\bin\Debug\Parser.pdb
 C:\Repo\Parser\obj\Debug\Parser.InputForm.resources
 C:\Repo\Parser\obj\Debug\Parser.csproj.GenerateResource.Cache
+C:\Repo\Parser\bin\Debug\Parser.exe.manifest
+C:\Repo\Parser\bin\Debug\Parser.application
+C:\Repo\Parser\obj\Debug\Parser.TrustInfo.xml
+C:\Repo\Parser\obj\Debug\Parser.exe.manifest
+C:\Repo\Parser\obj\Debug\Parser.application
